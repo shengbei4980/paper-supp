@@ -1,78 +1,70 @@
-# Supplementary data and figure source archive
+# Supplementary materials
 
-This repository organizes the supplied supplementary materials for a comparative study of NSF and NSFC urban sustainability research, knowledge tasks, and alignment with national Sustainable Development Goal (SDG) challenges.
+Data, code, and figures for the comparison of NSF and NSFC urban sustainability research and its alignment with national Sustainable Development Goal (SDG) challenges.
 
-The archive contains **942 source files (742,620,609 bytes)**. All source files were copied without changing their contents. Repository paths and the new reader documentation are in English. Original data fields, bilingual labels, evidence quotations, code, and historical notes retain their source language. Original filenames are recoverable from the provenance manifest.
-
-## Repository structure
+## Folder structure
 
 ```text
 paper-supp/
 ├── README.md
-├── .gitattributes                  # Git LFS rules for three large files
-├── .gitignore
-├── code/
-│   ├── 00_build_package.py         # Maintainer-only archive packaging
-│   ├── 01_verify_package.py        # Step 1: verify archived file checksums
-│   ├── 02_restore_original_layout.py # Step 2: recover legacy relative paths
-│   ├── 03_audit_legacy_code.py     # Step 3: inspect portability issues
-│   ├── 04_build_navigation_tables.py # Optional: regenerate metadata indexes
-│   └── archive/                   # All 121 Python and 5 PowerShell source files
-├── figures/
-│   ├── main/                      # Main figures, by current manuscript panel
-│   └── supplementary/             # Supplementary figures and editable sources
-├── tables/                        # Summary and lookup tables; English indexes
-├── data/
-│   ├── raw/                       # Scope note; no uncoded raw corpus was supplied
-│   └── processed/                 # Coded records, evidence, plot data, and inputs
-└── supplementary_doc/
-    ├── DATA_GUIDE.md
-    ├── REPRODUCIBILITY.md
-    ├── UPLOAD_GUIDE.md
-    ├── FIGURE_INDEX.md
-    ├── provenance/                # Mapping, SHA-256 checksums, inventories, audits
-    └── archive/                   # Original notes, historical QA, and previews
+├── main_figures/
+│   ├── figure1/
+│   │   ├── figure1a/          # Code, data, outputs, and notes kept together
+│   │   ├── figure1b/
+│   │   └── figure1c/
+│   ├── figure2/
+│   ├── figure3/
+│   ├── figure4/
+│   └── figure5/
+├── supplementary_figures/
+│   ├── figure_s2/
+│   ├── figure_s3/
+│   ├── figure_s4/
+│   │   ├── figure_s4a/
+│   │   └── figure_s4b/
+│   ├── figure_s5/
+│   ├── figure_s6/
+│   ├── figure_s7/
+│   ├── figure_s8/
+│   └── figure_s9/
+└── coding_data/               # Raw retrieval tables and coding exports
 ```
 
-## Start here
+Each figure folder follows the author's original folder hierarchy. Its code, datasets, exported figures, notes, reviews, and historical versions remain together. A figure without subpanels remains a single folder. Existing flat layouts and intermediate subdirectories are retained. English directory names include `code`, `data`, `outputs`, `figures`, `notes`, `review`, and `checks`; no common internal layout is imposed on every figure. Empty source directories are retained locally but are not tracked by Git.
 
-1. Read [the data guide](supplementary_doc/DATA_GUIDE.md).
-2. Find a panel in [the figure index](supplementary_doc/FIGURE_INDEX.md).
-3. Run `python code/01_verify_package.py` to verify the original payloads.
-4. Before rerunning legacy code, read [reproducibility notes](supplementary_doc/REPRODUCIBILITY.md).
-5. To publish this directory, follow [the GitHub upload guide](supplementary_doc/UPLOAD_GUIDE.md).
+The containing folder gives the **current manuscript figure number**. Some archived filenames refer to an earlier figure number. For example, current Figure 1b uses original Figure 1e materials; current Figures 4b, 4c, and 4d use original Figures 4d, 4b, and 4c. Figure S1 was listed in the author's catalog, but its source files were not supplied.
 
-The numbered repository tools use only the Python standard library (Python 3.10 or newer). Research scripts have additional dependencies and are preserved as archival source; they are not a validated, single-command workflow.
+## Coding and raw retrieval data
 
-## Core datasets
+| File in `coding_data/` | Data level | Rows |
+|---|---|---:|
+| `nsf_awards_results.csv` | Original NSF award-retrieval table | 25,782 |
+| `nsfc_results_requests_no_images.csv` | Original NSFC project-retrieval table | 9,982 |
+| `NSF_coding_results.csv` | NSF project-level coding export | 6,207 |
+| `NSFC_coding_results.csv` | NSFC project-level coding export | 5,546 |
+| `NSF_coding_evidence.csv` | NSF field-level coding evidence export | 122,314 |
+| `NSFC_coding_evidence.csv` | NSFC field-level coding evidence export | 108,263 |
 
-| File | Rows | Columns | Meaning |
-|---|---:|---:|---|
-| [NSF coding results](data/processed/coding/nsf_coding_results.csv) | 6,207 | 79 | Project-level coding results |
-| [NSFC coding results](data/processed/coding/nsfc_coding_results.csv) | 5,546 | 79 | Project-level coding results |
-| [NSF coding evidence](data/processed/coding/nsf_coding_evidence.csv) | 122,314 | 44 | Field-level coding evidence records |
-| [NSFC coding evidence](data/processed/coding/nsfc_coding_evidence.csv) | 108,263 | 44 | Field-level coding evidence records |
+Raw retrieval records and the coded study sample represent different stages of processing and need not match one-to-one. Evidence exports contain multiple rows per project and must not be counted as independent projects. Original values, column names, bilingual labels, and evidence quotations are preserved. Read CSV files as UTF-8 with an optional byte-order mark. For definitions and units, consult the corresponding figure's data and source notes.
 
-These are processed research records, including the evidence exports; they are not represented as original grant-database downloads. The supplied folder did not include a separate, identifiable uncoded raw corpus. See `data/raw/README.md`.
+## Code and provenance
 
-## Manuscript figure numbering
+Scientific scripts remain within their original figure folders. Filename, local-module, and directory references affected by English renaming were updated where identifiable. Scientific estimates, data tables, and figure contents were not recomputed or changed during restructuring. Some legacy scripts still depend on original machine-specific paths, upstream modules, or software that were not supplied; the archive is not represented as a validated single-command workflow. Consult the relevant script and its original notes before rerunning it.
 
-Directories use the **current manuscript panel IDs** in the supplied mapping. Some archived basenames still contain earlier figure numbers; these are retained in translated form to avoid inventing a new scientific correspondence. In particular, current Figure 1b originates from Figure 1e, current Figure 1c from Figure 1d, and current Figures 4b/4c/4d from original Figures 4d/4b/4c. The containing panel directory and [panel index](tables/panel_index.csv) take precedence over historical basenames.
+The detailed filename mapping, restructuring tools, and upload-verification reports are maintained locally by the author, outside this repository. Earlier repository organization remains recoverable from Git history.
 
-**Figure S1 is missing from the supplied folder.** It is listed in the original catalog, but no corresponding files were present. An explanatory directory note is included, not a fabricated figure. File counts in the original catalog are historical; use the current manifest for actual counts.
+## Downloading large files
 
-## Provenance and integrity
+This repository uses Git Large File Storage for five files larger than 50 MiB. With Git LFS installed:
 
-- [File manifest](supplementary_doc/provenance/file_manifest.csv): one row per source file, original relative path, English repository path, panel ID, byte size, and SHA-256 checksum.
-- [CSV inventory](supplementary_doc/provenance/csv_inventory.csv): row counts and exact field names for all 287 supplied CSVs.
-- [Code index](supplementary_doc/provenance/code_index.csv): all 126 archived scripts, grouped by role.
-- [Packaging summary](supplementary_doc/provenance/packaging_summary.json): completeness and integrity results.
-- [Legacy code audit](supplementary_doc/provenance/legacy_code_audit_summary.json): scope of code portability checks.
+```bash
+git clone https://github.com/shengbei4980/paper-supp.git
+cd paper-supp
+git lfs pull
+```
 
-Scientific data and existing figures were not recomputed or recolored during packaging. This package reflects the specified supplementary-data folder, including its historical versions; it does not silently replace them with versions elsewhere in the author's workspace.
+Use an account with access to this private repository. A downloaded LFS pointer is not the actual CSV or TIFF file. The `.gitattributes` file also preserves original line endings.
 
-## Publication metadata and reuse
+## Access and citation
 
-Author names, final article title, citation, and DOI were not supplied for this package and have not been invented. No new software or data license is assigned by this packaging step. Existing source notices remain in place. Add author-approved metadata and applicable licenses before publishing a release; third-party reference images and map resources retain their original rights.
-
-Repository: [shengbei4980/paper-supp](https://github.com/shengbei4980/paper-supp). The repository was created as **private** at the author's request. The provenance validation report records the earlier local packaging checks; its upload-status field describes that packaging stage, not the subsequent GitHub publication.
+Repository: [shengbei4980/paper-supp](https://github.com/shengbei4980/paper-supp), maintained as **private** at the author's request. No new license is assigned by this restructuring step. Original notices and third-party rights remain applicable. Final article citation and author-approved licensing can be added when available.
