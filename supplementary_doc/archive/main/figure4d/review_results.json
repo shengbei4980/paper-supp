@@ -1,0 +1,33 @@
+{
+  "cells": 24,
+  "bootstrap_resamples_per_cell": 2000,
+  "country_checks": {
+    "NSF": {
+      "overall_A2": 21.32291488080357,
+      "top3_A2": 11.76495755708015,
+      "top3_share_pct": 55.17518417555479,
+      "sum_12_shares_pct": 100.00000000000001,
+      "stable_cells": 12
+    },
+    "NSFC": {
+      "overall_A2": 31.614990826816328,
+      "top3_A2": 22.32685241898233,
+      "top3_share_pct": 70.62109409199748,
+      "sum_12_shares_pct": 100.0,
+      "stable_cells": 11
+    }
+  },
+  "input_sha256": {
+    "formal": "8c6a4134b20b60b95135db0e03fb7ef62ee64dbf1262438d157527b70611fd76",
+    "summary": "58ad18bb04b8ecb08e3cb2a9650e4d6d9f96837e2c2d80c6346c74b36158a161",
+    "bootstrap": "054fec5410782830b608ced76d2c5fe21b4abbf03d95432b697ed2cd8105ded7"
+  },
+  "single_shared_frame_top_axis": true,
+  "svg_editable_text": true,
+  "exports_bytes": {
+    ".png": 341338,
+    ".svg": 71683,
+    ".pdf": 65159,
+    ".tiff": 1617524
+  }
+}

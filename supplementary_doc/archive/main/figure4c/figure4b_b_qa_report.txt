@@ -1,0 +1,18 @@
+Figure 4b scheme B QA report
+
+[PASS] 24 confirmed country-SDG estimates: rows=24
+[PASS] 48,000 confirmed country bootstrap rows: rows=48000
+[PASS] 24,000 independent-country contrast draws: rows=24000
+[PASS] 2,000 contrast draws per SDG: range=2000-2000
+[PASS] 12 complete contrast summaries: rows=12
+[PASS] contrast point estimates close to zero across SDGs: sum=2.220e-16
+[PASS] every contrast draw closes across SDGs: max=2.265e-14
+[PASS] nine contrast intervals exclude zero: n=9
+[PASS] all four export formats exist: png|svg|pdf|tiff
+
+Method boundary:
+- NSF and NSFC bootstrap streams were generated from independent SeedSequence children.
+- Each delta draw subtracts one independent NSF draw and one independent NSFC draw with the same replicate index.
+- Percentile intervals use the 2.5th and 97.5th percentiles of 2,000 delta draws.
+- Delta M compares CLR relative-position mismatch; it is not an absolute funding contrast.
+- No p-value, q0 stability gate, funding-weighted estimate or formal pattern class is shown.

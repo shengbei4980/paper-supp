@@ -1,0 +1,20 @@
+{
+  "status": "draft produced; technical and visual review complete; user visual review pending",
+  "observed_color_pixels": {
+    "NSF": 132292,
+    "NSFC": 232001
+  },
+  "total_cities": 429,
+  "pairs": 62,
+  "formats": [
+    "PNG",
+    "PDF",
+    "SVG"
+  ],
+  "index_pdf_pages": 6,
+  "figure1a_palette_match": true,
+  "script_relative_paths": true,
+  "source_documents_modified": false,
+  "visual_review": "Viewed main PNG and coverage index; sampled city index pages 2,5,6. No visible clipping or overlaps. Sparse overview IDs intentionally require full index.",
+  "scope_limit": "Binary occurrence; no claim of city cooperation or per-city significance."
+}

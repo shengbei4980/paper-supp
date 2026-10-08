@@ -1,0 +1,139 @@
+{
+  "original_request": "城市 × Target组合矩阵 请你使用modelviz skill 的全流程每一步对我进行问询完成此补充图的制作",
+  "candidate_count": 7,
+  "total_templates": 89,
+  "candidates": [
+    {
+      "template_id": "rel_petal_correlation_heatmap",
+      "template_name": "花瓣状相关性热图",
+      "category": "relationship_correlation",
+      "score": 0.28,
+      "matched_keywords": [
+        "环形热图",
+        "分组注释"
+      ],
+      "matched_synonyms": [],
+      "matched_chart_types": [],
+      "matched_use_cases": [],
+      "matched_styles": [],
+      "penalties": [],
+      "candidate_reason": "功能关键词匹配：环形热图, 分组注释",
+      "preview": "templates/09_REL_relationship_correlation/09_REL_016/assets/preview.png",
+      "code_path": "templates/09_REL_relationship_correlation/09_REL_016/花瓣状相关性热图.py",
+      "catalog_order": 60
+    },
+    {
+      "template_id": "clu_spearman_cluster_heatmap",
+      "template_name": "Spearman层次聚类相关性热图",
+      "category": "clustering_reduction",
+      "score": 0.26,
+      "matched_keywords": [
+        "层次聚类"
+      ],
+      "matched_synonyms": [],
+      "matched_chart_types": [
+        "clustered_heatmap"
+      ],
+      "matched_use_cases": [],
+      "matched_styles": [],
+      "penalties": [],
+      "candidate_reason": "图表类型匹配：clustered_heatmap；功能关键词匹配：层次聚类",
+      "preview": "templates/01_CLU_clustering_reduction/01_CLU_002/assets/preview.png",
+      "code_path": "templates/01_CLU_clustering_reduction/01_CLU_002/Spearman层次聚类相关性热图.py",
+      "catalog_order": 1
+    },
+    {
+      "template_id": "evl_multiomics_circular_heatmap",
+      "template_name": "多组学验证环形热图",
+      "category": "composite_evaluation",
+      "score": 0.26,
+      "matched_keywords": [
+        "环形热图"
+      ],
+      "matched_synonyms": [],
+      "matched_chart_types": [
+        "circular_heatmap"
+      ],
+      "matched_use_cases": [],
+      "matched_styles": [],
+      "penalties": [],
+      "candidate_reason": "图表类型匹配：circular_heatmap；功能关键词匹配：环形热图",
+      "preview": "templates/03_EVL_composite_evaluation/03_EVL_002/assets/preview.png",
+      "code_path": "templates/03_EVL_composite_evaluation/03_EVL_002/多组学验证环形热图.py",
+      "catalog_order": 21
+    },
+    {
+      "template_id": "cmp_shap_heatmap_bar_report",
+      "template_name": "SHAP组合分析图",
+      "category": "comparison_ranking",
+      "score": 0.14,
+      "matched_keywords": [
+        "环形热图"
+      ],
+      "matched_synonyms": [],
+      "matched_chart_types": [],
+      "matched_use_cases": [],
+      "matched_styles": [],
+      "penalties": [],
+      "candidate_reason": "功能关键词匹配：环形热图",
+      "preview": "templates/02_CMP_comparison_ranking/02_CMP_012/assets/preview.png",
+      "code_path": "templates/02_CMP_comparison_ranking/02_CMP_012/SHAP组合分析图.py",
+      "catalog_order": 15
+    },
+    {
+      "template_id": "rel_grouped_correlation_heatmap",
+      "template_name": "分组相关性热图",
+      "category": "relationship_correlation",
+      "score": 0.14,
+      "matched_keywords": [
+        "环形热图"
+      ],
+      "matched_synonyms": [],
+      "matched_chart_types": [],
+      "matched_use_cases": [],
+      "matched_styles": [],
+      "penalties": [],
+      "candidate_reason": "功能关键词匹配：环形热图",
+      "preview": "templates/09_REL_relationship_correlation/09_REL_009/assets/preview.png",
+      "code_path": "templates/09_REL_relationship_correlation/09_REL_009/分组相关性热图.py",
+      "catalog_order": 53
+    },
+    {
+      "template_id": "sen_shap_interaction_matrix_heatmap",
+      "template_name": "SHAP交互作用矩阵热图",
+      "category": "sensitivity_robustness",
+      "score": 0.14,
+      "matched_keywords": [
+        "环形热图"
+      ],
+      "matched_synonyms": [],
+      "matched_chart_types": [],
+      "matched_use_cases": [],
+      "matched_styles": [],
+      "penalties": [],
+      "candidate_reason": "功能关键词匹配：环形热图",
+      "preview": "templates/10_SEN_sensitivity_robustness/10_SEN_012/assets/preview.png",
+      "code_path": "templates/10_SEN_sensitivity_robustness/10_SEN_012/SHAP交互作用矩阵热图.py",
+      "catalog_order": 77
+    },
+    {
+      "template_id": "rel_circular_grouped_correlation_heatmap",
+      "template_name": "环状相关性热图-带有分组标注",
+      "category": "relationship_correlation",
+      "score": 0.12,
+      "matched_keywords": [],
+      "matched_synonyms": [],
+      "matched_chart_types": [
+        "circular_heatmap"
+      ],
+      "matched_use_cases": [],
+      "matched_styles": [],
+      "penalties": [],
+      "candidate_reason": "图表类型匹配：circular_heatmap",
+      "preview": "templates/09_REL_relationship_correlation/09_REL_008/assets/preview.png",
+      "code_path": "templates/09_REL_relationship_correlation/09_REL_008/环状相关性热图-带有分组标注.py",
+      "catalog_order": 52
+    }
+  ],
+  "warnings": []
+}

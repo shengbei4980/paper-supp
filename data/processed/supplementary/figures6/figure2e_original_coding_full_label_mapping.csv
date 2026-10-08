@@ -1,0 +1,16 @@
+﻿category,code,full_label
+intervention,L01,Engineering and infrastructure intervention
+intervention,L02,Digital technology intervention
+intervention,L03,Ecological restoration intervention
+intervention,L04,Spatial planning intervention
+intervention,L05,Public service and operational intervention
+intervention,L06,Behavioural and demand-management intervention
+intervention,L07,Legal and institutional intervention
+intervention,L08,"Fiscal, financial and market intervention"
+intervention,L09,"Participation, collaboration and capacity-building intervention"
+knowledge_task,K01,State measurement and problem diagnosis
+knowledge_task,K02,Mechanism analysis and causal identification
+knowledge_task,K03,Scenario simulation and risk prediction
+knowledge_task,K04,Intervention design and performance optimization
+knowledge_task,K05,Planning decision support and policy design
+knowledge_task,K06,Implementation monitoring and impact evaluation

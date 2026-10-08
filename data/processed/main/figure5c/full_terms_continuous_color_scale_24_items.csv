@@ -1,0 +1,25 @@
+﻿agency,task,full_task_name,concept_term,delta_pp,display_color,font_size_pt
+NSF,K01,State measurement and problem diagnosis,State measurement,-1.7783399880818869,#977f7e,7.694149645302712
+NSF,K01,State measurement and problem diagnosis,problem diagnosis,-1.7783399880818869,#977f7e,7.694149645302712
+NSF,K02,Mechanism analysis and causal identification,Mechanism analysis,4.381338054912925,#6280a2,8.124703399485478
+NSF,K02,Mechanism analysis and causal identification,causal identification,4.381338054912925,#6280a2,8.124703399485478
+NSF,K03,Scenario simulation and risk prediction,Scenario simulation,-2.402836716107672,#9c7b79,7.797445692331166
+NSF,K03,Scenario simulation and risk prediction,risk prediction,-2.402836716107672,#9c7b79,7.797445692331166
+NSF,K04,Intervention design and performance optimization,Intervention design,-5.412229862529422,#ad6662,8.295219983259166
+NSF,K04,Intervention design and performance optimization,performance optimization,-5.412229862529422,#ad6662,8.295219983259166
+NSF,K05,Planning decision support and policy design,Planning decision support,4.72738739936586,#5f80a4,8.181942337264669
+NSF,K05,Planning decision support and policy design,policy design,4.72738739936586,#5f80a4,8.181942337264669
+NSF,K06,Implementation monitoring and impact evaluation,Implementation monitoring,0.4846811124401544,#868a8e,7.48016958414289
+NSF,K06,Implementation monitoring and impact evaluation,impact evaluation,0.4846811124401544,#868a8e,7.48016958414289
+NSFC,K01,State measurement and problem diagnosis,State measurement,-4.996536856413894,#ae6a66,8.226461505620936
+NSFC,K01,State measurement and problem diagnosis,problem diagnosis,-4.996536856413894,#ae6a66,8.226461505620936
+NSFC,K02,Mechanism analysis and causal identification,Mechanism analysis,1.3737398283019342,#7e8892,7.6272260006193005
+NSFC,K02,Mechanism analysis and causal identification,causal identification,1.3737398283019342,#7e8892,7.6272260006193005
+NSFC,K03,Scenario simulation and risk prediction,Scenario simulation,-3.063655065518456,#a17774,7.906749584945291
+NSFC,K03,Scenario simulation and risk prediction,risk prediction,-3.063655065518456,#a17774,7.906749584945291
+NSFC,K04,Intervention design and performance optimization,Intervention design,0.5940094974087845,#868a8e,7.498253249738649
+NSFC,K04,Intervention design and performance optimization,performance optimization,0.5940094974087845,#868a8e,7.498253249738649
+NSFC,K05,Planning decision support and policy design,Planning decision support,6.045698223609229,#5278a2,8.4
+NSFC,K05,Planning decision support and policy design,policy design,6.045698223609229,#5278a2,8.4
+NSFC,K06,Implementation monitoring and impact evaluation,Implementation monitoring,0.0467443726123507,#8b8b8b,7.4077318402082675
+NSFC,K06,Implementation monitoring and impact evaluation,impact evaluation,0.0467443726123507,#8b8b8b,7.4077318402082675

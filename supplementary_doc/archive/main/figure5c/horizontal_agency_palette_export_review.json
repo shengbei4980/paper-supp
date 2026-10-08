@@ -1,0 +1,38 @@
+{
+  "all_108_svg_point_coordinates_match_data": true,
+  "all_16_complete_names_match_data": true,
+  "all_named_points_and_labels_share_agency_color": true,
+  "pdf_size_mm": [
+    182.9999999999947,
+    85.01000000001528
+  ],
+  "embedded_fonts": [
+    "/CFEKEO+ArialMT",
+    "/CFEKEO+Arial-BoldMT"
+  ],
+  "rasters": {
+    "png": {
+      "size_px": [
+        4322,
+        2008
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ]
+    },
+    "tiff": {
+      "size_px": [
+        4322,
+        2008
+      ],
+      "dpi": [
+        600.0,
+        600.0
+      ]
+    }
+  },
+  "version": "Figure5c_横排散点与主题词_NSF蓝_NSFC红_色带标签",
+  "colorbar_labels_verified": 2,
+  "all_point_and_theme_label_coordinates_and_colors_unchanged": true
+}

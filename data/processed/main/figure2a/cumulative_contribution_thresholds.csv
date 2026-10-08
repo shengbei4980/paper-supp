@@ -1,0 +1,7 @@
+﻿state,fraction,rank,cumulative_contribution,total,rank_method
+Observed,0.5,17,0.03636573194644885,0.07199832947009988,fixed observed-contribution order
+Observed,0.8,61,0.057746532292059616,0.07199832947009988,fixed observed-contribution order
+Observed,0.9,101,0.06485675810852624,0.07199832947009988,fixed observed-contribution order
+Target–year balanced,0.5,55,0.013471471640486954,0.026758182316947054,fixed observed-contribution order
+Target–year balanced,0.8,139,0.021726724947456293,0.026758182316947054,fixed observed-contribution order
+Target–year balanced,0.9,193,0.024089592508985378,0.026758182316947054,fixed observed-contribution order

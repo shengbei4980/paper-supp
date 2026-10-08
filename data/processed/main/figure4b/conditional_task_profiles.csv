@@ -1,0 +1,1021 @@
+﻿sdg,target,country,task,task_label,conditional_share,ci_low,ci_high,fractional_cell_n,raw_family_cell_n,low_support,observed
+S02,2.1,NSF,K01,State measurement and problem diagnosis,0.2807017538837559,0.16246798000167026,0.3980579624874463,10.666666731238365,18,False,True
+S02,2.1,NSF,K02,Mechanism analysis and causal identification,0.36622806861033513,0.25704858339969866,0.4881581843363707,13.916666716337204,28,False,True
+S02,2.1,NSF,K03,Scenario simulation and risk prediction,0.06798245665287928,0.02087438668783823,0.12549908636951412,2.583333373069763,7,False,True
+S02,2.1,NSF,K04,Intervention design and performance optimization,0.14035087753008166,0.07045197595287475,0.22310707687934167,5.333333387970924,14,False,True
+S02,2.1,NSF,K05,Planning decision support and policy design,0.14473684332294806,0.07063887890110984,0.23646126896964645,5.500000089406967,13,False,True
+S02,2.1,NSF,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,False,True
+S02,2.2,NSF,K01,State measurement and problem diagnosis,0.3333333267105952,0.0,1.0,0.5,1,True,True
+S02,2.2,NSF,K02,Mechanism analysis and causal identification,0.2222222244298016,0.0,0.9833333333333106,0.3333333432674408,1,True,True
+S02,2.2,NSF,K03,Scenario simulation and risk prediction,0.0,0.0,0.0,0.0,0,True,True
+S02,2.2,NSF,K04,Intervention design and performance optimization,0.2222222244298016,0.0,1.0,0.3333333432674408,1,True,True
+S02,2.2,NSF,K05,Planning decision support and policy design,0.2222222244298016,0.0,1.0,0.3333333432674408,1,True,True
+S02,2.2,NSF,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,True,True
+S02,2.3,NSF,K01,State measurement and problem diagnosis,0.11392404994527569,0.0,0.30772058683273257,0.75,2,True,True
+S02,2.3,NSF,K02,Mechanism analysis and causal identification,0.45569619978110276,0.17647058696689077,0.7129066460655493,3.0,7,True,True
+S02,2.3,NSF,K03,Scenario simulation and risk prediction,0.0759493666301838,0.0,0.2610144920944784,0.5,1,True,True
+S02,2.3,NSF,K04,Intervention design and performance optimization,0.3037974710476702,0.09754913799336935,0.574738769065512,2.0000000298023224,5,True,True
+S02,2.3,NSF,K05,Planning decision support and policy design,0.050632912595767535,0.0,0.17910448167498802,0.3333333432674408,1,True,True
+S02,2.3,NSF,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,True,True
+S02,2.4,NSF,K01,State measurement and problem diagnosis,0.19007621664383864,0.12530431799092234,0.25964785554397923,20.366666719317436,31,False,True
+S02,2.4,NSF,K02,Mechanism analysis and causal identification,0.2830922377499406,0.21420722696823152,0.35963153198366393,30.333333432674408,53,False,True
+S02,2.4,NSF,K03,Scenario simulation and risk prediction,0.14310157146734237,0.09620026422102332,0.19309801608660812,15.33333346247673,34,False,True
+S02,2.4,NSF,K04,Intervention design and performance optimization,0.263649090080066,0.19853353210050478,0.3281911148416413,28.250000149011612,53,False,True
+S02,2.4,NSF,K05,Planning decision support and policy design,0.11074817295476347,0.06998614337766704,0.15613263076371264,11.866666793823242,29,False,True
+S02,2.4,NSF,K06,Implementation monitoring and impact evaluation,0.009332711104048978,0.0,0.030181339492971603,1.0,1,False,True
+S02,2.5,NSF,K01,State measurement and problem diagnosis,0.0,0.0,0.0,0.0,0,True,True
+S02,2.5,NSF,K02,Mechanism analysis and causal identification,1.0,1.0,1.0,0.5,1,True,True
+S02,2.5,NSF,K03,Scenario simulation and risk prediction,0.0,0.0,0.0,0.0,0,True,True
+S02,2.5,NSF,K04,Intervention design and performance optimization,0.0,0.0,0.0,0.0,0,True,True
+S02,2.5,NSF,K05,Planning decision support and policy design,0.0,0.0,0.0,0.0,0,True,True
+S02,2.5,NSF,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,True,True
+S02,2.a,NSF,K01,State measurement and problem diagnosis,,,,0.0,0,True,False
+S02,2.a,NSF,K02,Mechanism analysis and causal identification,,,,0.0,0,True,False
+S02,2.a,NSF,K03,Scenario simulation and risk prediction,,,,0.0,0,True,False
+S02,2.a,NSF,K04,Intervention design and performance optimization,,,,0.0,0,True,False
+S02,2.a,NSF,K05,Planning decision support and policy design,,,,0.0,0,True,False
+S02,2.a,NSF,K06,Implementation monitoring and impact evaluation,,,,0.0,0,True,False
+S02,2.c,NSF,K01,State measurement and problem diagnosis,,,,0.0,0,True,False
+S02,2.c,NSF,K02,Mechanism analysis and causal identification,,,,0.0,0,True,False
+S02,2.c,NSF,K03,Scenario simulation and risk prediction,,,,0.0,0,True,False
+S02,2.c,NSF,K04,Intervention design and performance optimization,,,,0.0,0,True,False
+S02,2.c,NSF,K05,Planning decision support and policy design,,,,0.0,0,True,False
+S02,2.c,NSF,K06,Implementation monitoring and impact evaluation,,,,0.0,0,True,False
+S03,3.1,NSF,K01,State measurement and problem diagnosis,0.0,0.0,0.0,0.0,0,True,True
+S03,3.1,NSF,K02,Mechanism analysis and causal identification,1.0,1.0,1.0,0.3333333432674408,1,True,True
+S03,3.1,NSF,K03,Scenario simulation and risk prediction,0.0,0.0,0.0,0.0,0,True,True
+S03,3.1,NSF,K04,Intervention design and performance optimization,0.0,0.0,0.0,0.0,0,True,True
+S03,3.1,NSF,K05,Planning decision support and policy design,0.0,0.0,0.0,0.0,0,True,True
+S03,3.1,NSF,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,True,True
+S03,3.2,NSF,K01,State measurement and problem diagnosis,0.0,0.0,0.0,0.0,0,True,True
+S03,3.2,NSF,K02,Mechanism analysis and causal identification,1.0,1.0,1.0,0.3333333432674408,1,True,True
+S03,3.2,NSF,K03,Scenario simulation and risk prediction,0.0,0.0,0.0,0.0,0,True,True
+S03,3.2,NSF,K04,Intervention design and performance optimization,0.0,0.0,0.0,0.0,0,True,True
+S03,3.2,NSF,K05,Planning decision support and policy design,0.0,0.0,0.0,0.0,0,True,True
+S03,3.2,NSF,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,True,True
+S03,3.3,NSF,K01,State measurement and problem diagnosis,0.29545454513127645,0.11577935259921035,0.5000714285542036,4.333333343267441,7,False,True
+S03,3.3,NSF,K02,Mechanism analysis and causal identification,0.2045454538527353,0.03427602896117987,0.3959743827250582,3.0,4,False,True
+S03,3.3,NSF,K03,Scenario simulation and risk prediction,0.21590909153253826,0.07998863620480139,0.3846153849409448,3.1666666865348816,8,False,True
+S03,3.3,NSF,K04,Intervention design and performance optimization,0.2272727271803647,0.06893056909468263,0.41429723516669176,3.333333343267441,6,False,True
+S03,3.3,NSF,K05,Planning decision support and policy design,0.05681818230308531,0.0,0.15464059872660502,0.8333333432674408,2,False,True
+S03,3.3,NSF,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,False,True
+S03,3.4,NSF,K01,State measurement and problem diagnosis,0.06593406532945416,0.0,0.22222222027219374,0.5,1,True,True
+S03,3.4,NSF,K02,Mechanism analysis and causal identification,0.8461538449446226,0.634364712647356,1.0,6.416666716337204,13,True,True
+S03,3.4,NSF,K03,Scenario simulation and risk prediction,0.04395604486296162,0.0,0.15686274758672217,0.3333333432674408,1,True,True
+S03,3.4,NSF,K04,Intervention design and performance optimization,0.04395604486296162,0.0,0.16666666916571554,0.3333333432674408,1,True,True
+S03,3.4,NSF,K05,Planning decision support and policy design,0.0,0.0,0.0,0.0,0,True,True
+S03,3.4,NSF,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,True,True
+S03,3.5,NSF,K01,State measurement and problem diagnosis,,,,0.0,0,True,False
+S03,3.5,NSF,K02,Mechanism analysis and causal identification,,,,0.0,0,True,False
+S03,3.5,NSF,K03,Scenario simulation and risk prediction,,,,0.0,0,True,False
+S03,3.5,NSF,K04,Intervention design and performance optimization,,,,0.0,0,True,False
+S03,3.5,NSF,K05,Planning decision support and policy design,,,,0.0,0,True,False
+S03,3.5,NSF,K06,Implementation monitoring and impact evaluation,,,,0.0,0,True,False
+S03,3.6,NSF,K01,State measurement and problem diagnosis,0.13504823140772346,0.046382853889303584,0.24001604277691344,3.5,7,False,True
+S03,3.6,NSF,K02,Mechanism analysis and causal identification,0.03858520897363527,0.0,0.0970383140648851,1.0,2,False,True
+S03,3.6,NSF,K03,Scenario simulation and risk prediction,0.10932475914194288,0.022847512687508377,0.2214951536955526,2.833333343267441,5,False,True
+S03,3.6,NSF,K04,Intervention design and performance optimization,0.6848874592820261,0.5419209305357724,0.8162544166172965,17.75,31,False,True
+S03,3.6,NSF,K05,Planning decision support and policy design,0.03215434119467234,0.0,0.0872333181598187,0.8333333432674408,2,False,True
+S03,3.6,NSF,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,False,True
+S03,3.8,NSF,K01,State measurement and problem diagnosis,,,,0.0,0,True,False
+S03,3.8,NSF,K02,Mechanism analysis and causal identification,,,,0.0,0,True,False
+S03,3.8,NSF,K03,Scenario simulation and risk prediction,,,,0.0,0,True,False
+S03,3.8,NSF,K04,Intervention design and performance optimization,,,,0.0,0,True,False
+S03,3.8,NSF,K05,Planning decision support and policy design,,,,0.0,0,True,False
+S03,3.8,NSF,K06,Implementation monitoring and impact evaluation,,,,0.0,0,True,False
+S03,3.9,NSF,K01,State measurement and problem diagnosis,0.2857435478553096,0.2336859783517834,0.3420105890885113,46.500000178813934,85,False,True
+S03,3.9,NSF,K02,Mechanism analysis and causal identification,0.4075174104052721,0.34739358659802083,0.4690116681298645,66.31666681170464,118,False,True
+S03,3.9,NSF,K03,Scenario simulation and risk prediction,0.08961491204449719,0.056044923201199845,0.12730620965857534,14.583333402872086,27,False,True
+S03,3.9,NSF,K04,Intervention design and performance optimization,0.20124948814740393,0.15540246832763452,0.2490422464096937,32.75000014901161,61,False,True
+S03,3.9,NSF,K05,Planning decision support and policy design,0.009729619036624856,0.0015434966180161026,0.02076376029524877,1.5833333432674408,4,False,True
+S03,3.9,NSF,K06,Implementation monitoring and impact evaluation,0.006145022510892342,0.0,0.016196433870061627,1.0,2,False,True
+S03,3.d,NSF,K01,State measurement and problem diagnosis,0.2575757570831572,0.06856947158375656,0.4651322077970413,2.833333343267441,5,False,True
+S03,3.d,NSF,K02,Mechanism analysis and causal identification,0.45454545479175473,0.24712634354531046,0.677465003323299,5.000000029802322,10,False,True
+S03,3.d,NSF,K03,Scenario simulation and risk prediction,0.1893939392707893,0.0444270831191119,0.3594070167448542,2.083333343267441,5,False,True
+S03,3.d,NSF,K04,Intervention design and performance optimization,0.0681818178123679,0.0,0.18372080611106953,0.75,2,False,True
+S03,3.d,NSF,K05,Planning decision support and policy design,0.030303031041930856,0.0,0.105286448683854,0.3333333432674408,1,False,True
+S03,3.d,NSF,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,False,True
+S06,6.1,NSF,K01,State measurement and problem diagnosis,0.18126675183269872,0.12658118480613062,0.2376488601923199,21.41666680574417,42,False,True
+S06,6.1,NSF,K02,Mechanism analysis and causal identification,0.25983918732479966,0.19549377599618678,0.32383835659354365,30.7000000923872,56,False,True
+S06,6.1,NSF,K03,Scenario simulation and risk prediction,0.06347862863424705,0.029072950242438687,0.1038113443238623,7.5,12,False,True
+S06,6.1,NSF,K04,Intervention design and performance optimization,0.4425165746346866,0.3707198477991888,0.5186117731990625,52.283333480358124,89,False,True
+S06,6.1,NSF,K05,Planning decision support and policy design,0.05289885757356799,0.027092571226178575,0.08344167716025518,6.250000044703484,14,False,True
+S06,6.1,NSF,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,False,True
+S06,6.2,NSF,K01,State measurement and problem diagnosis,0.053475937286224115,0.0,0.2500000055879354,0.1666666716337204,1,True,True
+S06,6.2,NSF,K02,Mechanism analysis and causal identification,0.7860962556362248,0.3330357142515024,1.0,2.4500000029802322,5,True,True
+S06,6.2,NSF,K03,Scenario simulation and risk prediction,0.0,0.0,0.0,0.0,0,True,True
+S06,6.2,NSF,K04,Intervention design and performance optimization,0.08021390353877557,0.0,0.35297591353556934,0.25,1,True,True
+S06,6.2,NSF,K05,Planning decision support and policy design,0.08021390353877557,0.0,0.3448607419947143,0.25,1,True,True
+S06,6.2,NSF,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,True,True
+S06,6.3,NSF,K01,State measurement and problem diagnosis,0.16704204220052538,0.13390935452637984,0.1997529388029889,59.333333536982536,102,False,True
+S06,6.3,NSF,K02,Mechanism analysis and causal identification,0.32066441413823393,0.27912765057805505,0.3637425382765245,113.9000001847744,166,False,True
+S06,6.3,NSF,K03,Scenario simulation and risk prediction,0.04832957968329293,0.03299151311267213,0.06683439492274396,17.166666746139526,35,False,True
+S06,6.3,NSF,K04,Intervention design and performance optimization,0.41220908378751053,0.36780495407118124,0.4557281388036657,146.41666692495346,219,False,True
+S06,6.3,NSF,K05,Planning decision support and policy design,0.04424737264563957,0.030538770647416436,0.06015239818006375,15.716666802763939,41,False,True
+S06,6.3,NSF,K06,Implementation monitoring and impact evaluation,0.007507507544797701,0.0012527020230812952,0.015370494572827947,2.6666666865348816,5,False,True
+S06,6.4,NSF,K01,State measurement and problem diagnosis,0.15282391997565536,0.10010596294360449,0.21122143139237817,19.166666731238365,32,False,True
+S06,6.4,NSF,K02,Mechanism analysis and causal identification,0.24611295640931877,0.18534018906742253,0.3076054737528235,30.86666677892208,58,False,True
+S06,6.4,NSF,K03,Scenario simulation and risk prediction,0.14750830605898962,0.1008112259316096,0.20103834573214188,18.500000149011612,37,False,True
+S06,6.4,NSF,K04,Intervention design and performance optimization,0.3521594681677545,0.2853012383721042,0.4239173959360772,44.166666865348816,83,False,True
+S06,6.4,NSF,K05,Planning decision support and policy design,0.09873754201410248,0.06538800234350743,0.1352754998273644,12.383333459496498,34,False,True
+S06,6.4,NSF,K06,Implementation monitoring and impact evaluation,0.002657807374179229,0.0,0.008718884791881917,0.3333333432674408,1,False,True
+S06,6.5,NSF,K01,State measurement and problem diagnosis,0.15503875949420298,0.06970189097062372,0.25421117176781816,4.666666701436043,10,False,True
+S06,6.5,NSF,K02,Mechanism analysis and causal identification,0.22259136127593512,0.12066256666690237,0.33276754960840454,6.700000032782555,15,False,True
+S06,6.5,NSF,K03,Scenario simulation and risk prediction,0.11351052114843473,0.0537868717207833,0.18961622556660904,3.416666716337204,11,False,True
+S06,6.5,NSF,K04,Intervention design and performance optimization,0.08305647768164691,0.01626853964943381,0.16965110301497996,2.5,5,False,True
+S06,6.5,NSF,K05,Planning decision support and policy design,0.42580288039978026,0.29790295764774843,0.5600788321189145,12.816666811704636,32,False,True
+S06,6.5,NSF,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,False,True
+S06,6.6,NSF,K01,State measurement and problem diagnosis,0.21352752422650825,0.13441261860530407,0.2989623239693623,14.416666731238365,25,False,True
+S06,6.6,NSF,K02,Mechanism analysis and causal identification,0.5559121194605933,0.45493957738081964,0.6493282525707228,37.53333340585232,59,False,True
+S06,6.6,NSF,K03,Scenario simulation and risk prediction,0.049370526200132506,0.017248035047991928,0.09287539565538384,3.333333373069763,8,False,True
+S06,6.6,NSF,K04,Intervention design and performance optimization,0.1209577880426667,0.0628048786028192,0.18430451437685744,8.166666686534882,18,False,True
+S06,6.6,NSF,K05,Planning decision support and policy design,0.052826463228360813,0.02306149711709119,0.08859195696994906,3.5666667222976685,11,False,True
+S06,6.6,NSF,K06,Implementation monitoring and impact evaluation,0.007405578841738496,0.0,0.024445569648170663,0.5,1,False,True
+S06,6.a,NSF,K01,State measurement and problem diagnosis,0.4000000071525573,0.0,1.0,0.3333333432674408,1,True,True
+S06,6.a,NSF,K02,Mechanism analysis and causal identification,0.0,0.0,0.0,0.0,0,True,True
+S06,6.a,NSF,K03,Scenario simulation and risk prediction,0.0,0.0,0.0,0.0,0,True,True
+S06,6.a,NSF,K04,Intervention design and performance optimization,0.5999999928474428,0.0,1.0,0.5,1,True,True
+S06,6.a,NSF,K05,Planning decision support and policy design,0.0,0.0,0.0,0.0,0,True,True
+S06,6.a,NSF,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,True,True
+S06,6.b,NSF,K01,State measurement and problem diagnosis,0.1970443358377847,0.07388482722455532,0.3545077899457423,2.666666701436043,7,False,True
+S06,6.b,NSF,K02,Mechanism analysis and causal identification,0.44334975205653476,0.2599814819234726,0.633818770143515,6.000000029802322,13,False,True
+S06,6.b,NSF,K03,Scenario simulation and risk prediction,0.0,0.0,0.0,0.0,0,False,True
+S06,6.b,NSF,K04,Intervention design and performance optimization,0.22783251327803009,0.09030523382683393,0.37911466660674564,3.083333373069763,8,False,True
+S06,6.b,NSF,K05,Planning decision support and policy design,0.1317733988276505,0.03635544606910749,0.2521017365033011,1.783333346247673,6,False,True
+S06,6.b,NSF,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,False,True
+S07,7.1,NSF,K01,State measurement and problem diagnosis,0.09079353537483102,0.044834108017800994,0.14258232265542756,8.333333358168602,14,False,True
+S07,7.1,NSF,K02,Mechanism analysis and causal identification,0.08988559975320275,0.04285676015285081,0.14408789343301576,8.25,13,False,True
+S07,7.1,NSF,K03,Scenario simulation and risk prediction,0.10168875974969194,0.05581102408404744,0.1523526255643889,9.333333373069763,18,False,True
+S07,7.1,NSF,K04,Intervention design and performance optimization,0.6413655349853024,0.5637525883273218,0.716558530938895,58.866666942834854,115,False,True
+S07,7.1,NSF,K05,Planning decision support and policy design,0.07354276408384458,0.04003410686687053,0.11590200037655879,6.750000059604645,16,False,True
+S07,7.1,NSF,K06,Implementation monitoring and impact evaluation,0.002723806053127356,0.0,0.009420224417747343,0.25,1,False,True
+S07,7.2,NSF,K01,State measurement and problem diagnosis,0.056952841651094134,0.03542426495422842,0.08209226965062907,15.700000047683716,27,False,True
+S07,7.2,NSF,K02,Mechanism analysis and causal identification,0.12756952822369677,0.09121749343051722,0.16744806675800722,35.16666668653488,45,False,True
+S07,7.2,NSF,K03,Scenario simulation and risk prediction,0.03748488519343886,0.020218473034198218,0.057331300576889184,10.333333373069763,18,False,True
+S07,7.2,NSF,K04,Intervention design and performance optimization,0.7048972185775335,0.6552133898623554,0.7520369364147514,194.31666699051857,290,False,True
+S07,7.2,NSF,K05,Planning decision support and policy design,0.07218863397401194,0.04821586512892735,0.09736076390372242,19.900000140070915,40,False,True
+S07,7.2,NSF,K06,Implementation monitoring and impact evaluation,0.0009068923802248111,0.0,0.0030241634406041884,0.25,1,False,True
+S07,7.3,NSF,K01,State measurement and problem diagnosis,0.07390855948953777,0.03896327740391612,0.11290688671499255,10.75,16,False,True
+S07,7.3,NSF,K02,Mechanism analysis and causal identification,0.07333562505644968,0.035743611065566276,0.1130545345870955,10.666666686534882,15,False,True
+S07,7.3,NSF,K03,Scenario simulation and risk prediction,0.052137045909756,0.02281063041283642,0.08862616897093506,7.583333343267441,11,False,True
+S07,7.3,NSF,K04,Intervention design and performance optimization,0.7499713532219988,0.6839469553734614,0.8108289732416947,109.0833335518837,165,False,True
+S07,7.3,NSF,K05,Planning decision support and policy design,0.03517818294072658,0.013347763097871909,0.06076663247242755,5.116666719317436,11,False,True
+S07,7.3,NSF,K06,Implementation monitoring and impact evaluation,0.01546923338153116,0.0,0.035392217424335425,2.25,3,False,True
+S07,7.a,NSF,K01,State measurement and problem diagnosis,0.1728395065271424,0.02647297662743262,0.38330786559611857,2.333333343267441,4,False,True
+S07,7.a,NSF,K02,Mechanism analysis and causal identification,0.11111111086582451,0.0,0.2935304667023219,1.5,2,False,True
+S07,7.a,NSF,K03,Scenario simulation and risk prediction,0.0,0.0,0.0,0.0,0,False,True
+S07,7.a,NSF,K04,Intervention design and performance optimization,0.666666665194947,0.40799999922180175,0.875776396218625,9.0,12,False,True
+S07,7.a,NSF,K05,Planning decision support and policy design,0.049382717412086066,0.0,0.1415992001097141,0.6666666865348816,2,False,True
+S07,7.a,NSF,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,False,True
+S07,7.b,NSF,K01,State measurement and problem diagnosis,0.0,0.0,0.0,0.0,0,True,True
+S07,7.b,NSF,K02,Mechanism analysis and causal identification,1.0,1.0,1.0,1.0,1,True,True
+S07,7.b,NSF,K03,Scenario simulation and risk prediction,0.0,0.0,0.0,0.0,0,True,True
+S07,7.b,NSF,K04,Intervention design and performance optimization,0.0,0.0,0.0,0.0,0,True,True
+S07,7.b,NSF,K05,Planning decision support and policy design,0.0,0.0,0.0,0.0,0,True,True
+S07,7.b,NSF,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,True,True
+S09,9.1,NSF,K01,State measurement and problem diagnosis,0.20720552203423115,0.16816970851405474,0.2490938338864127,58.0333334505558,96,False,True
+S09,9.1,NSF,K02,Mechanism analysis and causal identification,0.15840927647260106,0.12391222972170315,0.19676138461383919,44.366666838526726,77,False,True
+S09,9.1,NSF,K03,Scenario simulation and risk prediction,0.1436258840647817,0.11194543156865615,0.1767879543589327,40.226190596818924,71,False,True
+S09,9.1,NSF,K04,Intervention design and performance optimization,0.3595450218510105,0.3120371556335649,0.4078125697126708,100.7000003606081,178,False,True
+S09,9.1,NSF,K05,Planning decision support and policy design,0.12942906707408125,0.09914495972415549,0.16354416545764858,36.25000016391277,66,False,True
+S09,9.1,NSF,K06,Implementation monitoring and impact evaluation,0.0017852285032943138,0.0,0.005712929422903247,0.5,1,False,True
+S09,9.2,NSF,K01,State measurement and problem diagnosis,0.0,0.0,0.0,0.0,0,True,True
+S09,9.2,NSF,K02,Mechanism analysis and causal identification,0.0,0.0,0.0,0.0,0,True,True
+S09,9.2,NSF,K03,Scenario simulation and risk prediction,0.0,0.0,0.0,0.0,0,True,True
+S09,9.2,NSF,K04,Intervention design and performance optimization,0.0,0.0,0.0,0.0,0,True,True
+S09,9.2,NSF,K05,Planning decision support and policy design,1.0,1.0,1.0,0.75,3,True,True
+S09,9.2,NSF,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,True,True
+S09,9.4,NSF,K01,State measurement and problem diagnosis,0.06368359322583314,0.031352565588450454,0.1018483104713161,6.333333373069763,14,False,True
+S09,9.4,NSF,K02,Mechanism analysis and causal identification,0.10390480944801725,0.05034167433495965,0.16158064460717225,10.33333334326744,14,False,True
+S09,9.4,NSF,K03,Scenario simulation and risk prediction,0.016758840417220748,0.0,0.04247281050886295,1.6666666865348816,3,False,True
+S09,9.4,NSF,K04,Intervention design and performance optimization,0.7189542486245531,0.6429254791451307,0.7944313454155875,71.50000032782555,126,False,True
+S09,9.4,NSF,K05,Planning decision support and policy design,0.09669850828437575,0.05061897042859653,0.14717645502825147,9.616666689515114,17,False,True
+S09,9.4,NSF,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,False,True
+S09,9.5,NSF,K01,State measurement and problem diagnosis,0.40501446380129996,0.1770696486466033,0.6174994949117498,7.0,8,False,True
+S09,9.5,NSF,K02,Mechanism analysis and causal identification,0.05785920911447142,0.0,0.15652719042047178,1.0,2,False,True
+S09,9.5,NSF,K03,Scenario simulation and risk prediction,0.0,0.0,0.0,0.0,0,False,True
+S09,9.5,NSF,K04,Intervention design and performance optimization,0.3230472514639117,0.12433097072125468,0.5218957073606785,5.583333343267441,8,False,True
+S09,9.5,NSF,K05,Planning decision support and policy design,0.21407907562031694,0.0875000012293458,0.3950814721363466,3.7000000327825546,9,False,True
+S09,9.5,NSF,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,False,True
+S09,9.b,NSF,K01,State measurement and problem diagnosis,,,,0.0,0,True,False
+S09,9.b,NSF,K02,Mechanism analysis and causal identification,,,,0.0,0,True,False
+S09,9.b,NSF,K03,Scenario simulation and risk prediction,,,,0.0,0,True,False
+S09,9.b,NSF,K04,Intervention design and performance optimization,,,,0.0,0,True,False
+S09,9.b,NSF,K05,Planning decision support and policy design,,,,0.0,0,True,False
+S09,9.b,NSF,K06,Implementation monitoring and impact evaluation,,,,0.0,0,True,False
+S09,9.c,NSF,K01,State measurement and problem diagnosis,0.18181817984778037,0.0,0.5217391250264217,0.5,1,True,True
+S09,9.c,NSF,K02,Mechanism analysis and causal identification,0.0,0.0,0.0,0.0,0,True,True
+S09,9.c,NSF,K03,Scenario simulation and risk prediction,0.0,0.0,0.0,0.0,0,True,True
+S09,9.c,NSF,K04,Intervention design and performance optimization,0.7272727302283295,0.34146341846359407,1.0,2.0000000298023224,5,True,True
+S09,9.c,NSF,K05,Planning decision support and policy design,0.09090908992389019,0.0,0.3333333333333333,0.25,1,True,True
+S09,9.c,NSF,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,True,True
+S10,10.1,NSF,K01,State measurement and problem diagnosis,,,,0.0,0,True,False
+S10,10.1,NSF,K02,Mechanism analysis and causal identification,,,,0.0,0,True,False
+S10,10.1,NSF,K03,Scenario simulation and risk prediction,,,,0.0,0,True,False
+S10,10.1,NSF,K04,Intervention design and performance optimization,,,,0.0,0,True,False
+S10,10.1,NSF,K05,Planning decision support and policy design,,,,0.0,0,True,False
+S10,10.1,NSF,K06,Implementation monitoring and impact evaluation,,,,0.0,0,True,False
+S10,10.2,NSF,K01,State measurement and problem diagnosis,0.20068414957106798,0.13147883405029584,0.27127381649620497,14.666666686534882,28,False,True
+S10,10.2,NSF,K02,Mechanism analysis and causal identification,0.47936145924494433,0.39644444623385666,0.5642621176179615,35.03333352506161,73,False,True
+S10,10.2,NSF,K03,Scenario simulation and risk prediction,0.017103763132150052,0.0032256929911538587,0.03578657843309689,1.2500000298023224,4,False,True
+S10,10.2,NSF,K04,Intervention design and performance optimization,0.14002280520318786,0.08630927616694065,0.19903084418691872,10.23333340883255,25,False,True
+S10,10.2,NSF,K05,Planning decision support and policy design,0.1172177887810824,0.07383784178106818,0.16466315738337625,8.566666781902313,25,False,True
+S10,10.2,NSF,K06,Implementation monitoring and impact evaluation,0.045610034067567355,0.016778788782344133,0.0813601337181852,3.333333343267441,8,False,True
+S10,10.3,NSF,K01,State measurement and problem diagnosis,0.08918617625603878,0.0,0.19632217446009476,1.3333333432674408,3,False,True
+S10,10.3,NSF,K02,Mechanism analysis and causal identification,0.7380156078708443,0.5905419692071648,0.878438831263097,11.033333405852318,27,False,True
+S10,10.3,NSF,K03,Scenario simulation and risk prediction,0.016722407923415623,0.0,0.05612985166987584,0.25,1,False,True
+S10,10.3,NSF,K04,Intervention design and performance optimization,0.10033444754049374,0.0,0.21562797587921412,1.5,3,False,True
+S10,10.3,NSF,K05,Planning decision support and policy design,0.05574136040920753,0.0,0.14117966881447636,0.8333333432674408,2,False,True
+S10,10.3,NSF,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,False,True
+S10,10.4,NSF,K01,State measurement and problem diagnosis,0.0,0.0,0.0,0.0,0,True,True
+S10,10.4,NSF,K02,Mechanism analysis and causal identification,0.0,0.0,0.0,0.0,0,True,True
+S10,10.4,NSF,K03,Scenario simulation and risk prediction,0.0,0.0,0.0,0.0,0,True,True
+S10,10.4,NSF,K04,Intervention design and performance optimization,0.3333333333333333,0.0,1.0,0.5,1,True,True
+S10,10.4,NSF,K05,Planning decision support and policy design,0.6666666666666666,0.0,1.0,1.0,1,True,True
+S10,10.4,NSF,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,True,True
+S10,10.7,NSF,K01,State measurement and problem diagnosis,0.09677419317624572,0.0,0.42857142163782713,0.5,1,True,True
+S10,10.7,NSF,K02,Mechanism analysis and causal identification,0.45161290341187715,0.0,0.8888888866813095,2.333333343267441,3,True,True
+S10,10.7,NSF,K03,Scenario simulation and risk prediction,0.45161290341187715,0.0,0.9151648352962078,2.333333343267441,3,True,True
+S10,10.7,NSF,K04,Intervention design and performance optimization,0.0,0.0,0.0,0.0,0,True,True
+S10,10.7,NSF,K05,Planning decision support and policy design,0.0,0.0,0.0,0.0,0,True,True
+S10,10.7,NSF,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,True,True
+S11,11.1,NSF,K01,State measurement and problem diagnosis,0.2029850743273155,0.09620879923834597,0.3184725172774235,5.666666686534882,11,False,True
+S11,11.1,NSF,K02,Mechanism analysis and causal identification,0.3701492543782442,0.22871001757020262,0.5177609963367099,10.333333402872086,20,False,True
+S11,11.1,NSF,K03,Scenario simulation and risk prediction,0.017910447671966315,0.0,0.06143870660500031,0.5,1,False,True
+S11,11.1,NSF,K04,Intervention design and performance optimization,0.17313432891906888,0.08138538722265494,0.2806038823992924,4.833333373069763,11,False,True
+S11,11.1,NSF,K05,Planning decision support and policy design,0.12835820867160722,0.03400596208552582,0.2406954995304936,3.583333343267441,6,False,True
+S11,11.1,NSF,K06,Implementation monitoring and impact evaluation,0.10746268603179789,0.01812688815125961,0.21487726530030918,3.0,4,False,True
+S11,11.2,NSF,K01,State measurement and problem diagnosis,0.13287059981073898,0.08814478079014361,0.18077836571194528,22.33333334326744,31,False,True
+S11,11.2,NSF,K02,Mechanism analysis and causal identification,0.1338621715688811,0.0869999756500203,0.1823787301684591,22.500000029802322,28,False,True
+S11,11.2,NSF,K03,Scenario simulation and risk prediction,0.050570153814123775,0.0263082200293121,0.0801410578097373,8.500000029802322,14,False,True
+S11,11.2,NSF,K04,Intervention design and performance optimization,0.5413981157605363,0.4715604339392675,0.6085720058755292,91.00000005960464,124,False,True
+S11,11.2,NSF,K05,Planning decision support and policy design,0.10064452174917649,0.06462803304192079,0.14112487567405535,16.916666716337204,29,False,True
+S11,11.2,NSF,K06,Implementation monitoring and impact evaluation,0.040654437296543354,0.01627713357684571,0.06939795829825823,6.833333343267441,10,False,True
+S11,11.3,NSF,K01,State measurement and problem diagnosis,0.1694551686644446,0.0965073523638991,0.2461214285689239,13.166666686534882,18,False,True
+S11,11.3,NSF,K02,Mechanism analysis and causal identification,0.2992277989142161,0.21884743087046565,0.383753083533497,23.25000011920929,41,False,True
+S11,11.3,NSF,K03,Scenario simulation and risk prediction,0.06864006872760701,0.02995726616936506,0.11345395597119627,5.333333373069763,11,False,True
+S11,11.3,NSF,K04,Intervention design and performance optimization,0.12012012027331226,0.06673370406507019,0.17801660244638068,9.333333402872086,20,False,True
+S11,11.3,NSF,K05,Planning decision support and policy design,0.3200343210369799,0.24235849203212617,0.40532143907562096,24.86666689813137,56,False,True
+S11,11.3,NSF,K06,Implementation monitoring and impact evaluation,0.022522522383440182,0.00298709779159621,0.049415766410069575,1.75,4,False,True
+S11,11.4,NSF,K01,State measurement and problem diagnosis,0.0847457633796556,0.0,0.2363867497101737,0.8333333432674408,2,True,True
+S11,11.4,NSF,K02,Mechanism analysis and causal identification,0.8305084732406888,0.6295865613507392,0.9687736734557407,8.166666686534882,12,True,True
+S11,11.4,NSF,K03,Scenario simulation and risk prediction,0.03389830595801117,0.0,0.12769389423692296,0.3333333432674408,1,True,True
+S11,11.4,NSF,K04,Intervention design and performance optimization,0.05084745742164443,0.0,0.18749999861611286,0.5,1,True,True
+S11,11.4,NSF,K05,Planning decision support and policy design,0.0,0.0,0.0,0.0,0,True,True
+S11,11.4,NSF,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,True,True
+S11,11.5,NSF,K01,State measurement and problem diagnosis,0.2515279637581505,0.222278910896192,0.28021936927163943,144.33333361148834,228,False,True
+S11,11.5,NSF,K02,Mechanism analysis and causal identification,0.325592202522181,0.2917169295489572,0.35765159587774736,186.8333337008953,281,False,True
+S11,11.5,NSF,K03,Scenario simulation and risk prediction,0.16348072873986208,0.13944523758199243,0.18896069961626136,93.80952402949333,152,False,True
+S11,11.5,NSF,K04,Intervention design and performance optimization,0.17612766448063846,0.1497346506057194,0.20584474797509925,101.06666700541973,169,False,True
+S11,11.5,NSF,K05,Planning decision support and policy design,0.07949561653549722,0.06228843296802839,0.09702461451397593,45.61666691303253,90,False,True
+S11,11.5,NSF,K06,Implementation monitoring and impact evaluation,0.003775823963670716,0.0005630752987086069,0.008290491304782802,2.1666666865348816,4,False,True
+S11,11.6,NSF,K01,State measurement and problem diagnosis,0.2952529992322378,0.23312881070789487,0.35875155722202323,47.166666746139526,67,False,True
+S11,11.6,NSF,K02,Mechanism analysis and causal identification,0.40479916465398313,0.33798066396126725,0.46801981747454013,64.6666667163372,86,False,True
+S11,11.6,NSF,K03,Scenario simulation and risk prediction,0.04329681814658865,0.021413296806280912,0.06973430793599232,6.916666716337204,14,False,True
+S11,11.6,NSF,K04,Intervention design and performance optimization,0.21074595775121618,0.16103975677291024,0.2649636783986405,33.66666683554649,64,False,True
+S11,11.6,NSF,K05,Planning decision support and policy design,0.034428795185300155,0.014791886412177931,0.059159267370908895,5.500000044703484,11,False,True
+S11,11.6,NSF,K06,Implementation monitoring and impact evaluation,0.011476265030674051,0.0,0.02766752315895886,1.8333333432674408,3,False,True
+S11,11.7,NSF,K01,State measurement and problem diagnosis,0.1518987332603676,0.0,0.4090909069157706,1.0,2,True,True
+S11,11.7,NSF,K02,Mechanism analysis and causal identification,0.4556962043080378,0.1567873338340153,0.7663743432517442,3.0000000298023224,6,True,True
+S11,11.7,NSF,K03,Scenario simulation and risk prediction,0.0,0.0,0.0,0.0,0,True,True
+S11,11.7,NSF,K04,Intervention design and performance optimization,0.1518987332603676,0.0,0.4391598890361883,1.0,1,True,True
+S11,11.7,NSF,K05,Planning decision support and policy design,0.24050632917122702,0.032224808412875706,0.5217391309882946,1.5833333432674408,4,True,True
+S11,11.7,NSF,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,True,True
+S11,11.a,NSF,K01,State measurement and problem diagnosis,0.2773613185485291,0.053094999725487355,0.4907985483145179,3.083333343267441,5,False,True
+S11,11.a,NSF,K02,Mechanism analysis and causal identification,0.3673163404906608,0.15072246521091634,0.5887301991768916,4.083333343267441,8,False,True
+S11,11.a,NSF,K03,Scenario simulation and risk prediction,0.02998500820766677,0.0,0.1107113595281467,0.3333333432674408,1,False,True
+S11,11.a,NSF,K04,Intervention design and performance optimization,0.05997001507489926,0.0,0.16774503022916776,0.6666666716337204,2,False,True
+S11,11.a,NSF,K05,Planning decision support and policy design,0.26536731767824406,0.11936649969631176,0.4608031700384713,2.9500000327825546,10,False,True
+S11,11.a,NSF,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,False,True
+S11,11.b,NSF,K01,State measurement and problem diagnosis,0.1571347675156285,0.09758757311223969,0.22086384751159333,9.250000059604645,22,False,True
+S11,11.b,NSF,K02,Mechanism analysis and causal identification,0.31143827763963505,0.22677414132441978,0.39721083379697636,18.333333432674408,38,False,True
+S11,11.b,NSF,K03,Scenario simulation and risk prediction,0.10050962626467708,0.05339424372697733,0.154421617828548,5.916666716337204,15,False,True
+S11,11.b,NSF,K04,Intervention design and performance optimization,0.07502831277768918,0.03743235684736839,0.11918136376307152,4.416666716337204,13,False,True
+S11,11.b,NSF,K05,Planning decision support and policy design,0.3389014734777116,0.25477232346203227,0.42824439957297267,19.95000024139881,49,False,True
+S11,11.b,NSF,K06,Implementation monitoring and impact evaluation,0.0169875423246586,0.0,0.044557496099372394,1.0,2,False,True
+S12,12.1,NSF,K01,State measurement and problem diagnosis,,,,0.0,0,True,False
+S12,12.1,NSF,K02,Mechanism analysis and causal identification,,,,0.0,0,True,False
+S12,12.1,NSF,K03,Scenario simulation and risk prediction,,,,0.0,0,True,False
+S12,12.1,NSF,K04,Intervention design and performance optimization,,,,0.0,0,True,False
+S12,12.1,NSF,K05,Planning decision support and policy design,,,,0.0,0,True,False
+S12,12.1,NSF,K06,Implementation monitoring and impact evaluation,,,,0.0,0,True,False
+S12,12.2,NSF,K01,State measurement and problem diagnosis,0.14772384721734866,0.08719584005400269,0.21775218457695605,8.166666746139526,19,False,True
+S12,12.2,NSF,K02,Mechanism analysis and causal identification,0.13867952905062328,0.07310321657168346,0.21125763838881234,7.666666686534882,15,False,True
+S12,12.2,NSF,K03,Scenario simulation and risk prediction,0.05728067525359439,0.014992336292688134,0.11449498649402418,3.1666666865348816,6,False,True
+S12,12.2,NSF,K04,Intervention design and performance optimization,0.5245703954490749,0.4301508994475453,0.625378148883137,29.00000023841858,66,False,True
+S12,12.2,NSF,K05,Planning decision support and policy design,0.13174555302935875,0.06378166435404053,0.2074048671411577,7.283333376049995,14,False,True
+S12,12.2,NSF,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,False,True
+S12,12.3,NSF,K01,State measurement and problem diagnosis,0.06250000139698385,0.0,0.24000000261783594,0.3333333432674408,1,True,True
+S12,12.3,NSF,K02,Mechanism analysis and causal identification,0.09374999930150807,0.0,0.3333333333333333,0.5,1,True,True
+S12,12.3,NSF,K03,Scenario simulation and risk prediction,0.06250000139698385,0.0,0.23088235612884236,0.3333333432674408,1,True,True
+S12,12.3,NSF,K04,Intervention design and performance optimization,0.34374999930150807,0.06666666640175714,0.7272727247881742,1.8333333432674408,4,True,True
+S12,12.3,NSF,K05,Planning decision support and policy design,0.43749999860301614,0.0,0.7499999977648258,2.333333343267441,3,True,True
+S12,12.3,NSF,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,True,True
+S12,12.4,NSF,K01,State measurement and problem diagnosis,0.18150289017436635,0.11312174483076846,0.25110583956576155,13.083333373069763,26,False,True
+S12,12.4,NSF,K02,Mechanism analysis and causal identification,0.30289017304332494,0.21742509276223954,0.39046565059818306,21.833333373069763,37,False,True
+S12,12.4,NSF,K03,Scenario simulation and risk prediction,0.039306358400143654,0.004772985687909562,0.08471461592313119,2.833333343267441,4,False,True
+S12,12.4,NSF,K04,Intervention design and performance optimization,0.4127167629947871,0.3266617604239782,0.4986460599708984,29.750000089406967,59,False,True
+S12,12.4,NSF,K05,Planning decision support and policy design,0.06358381538737799,0.02566282701925292,0.10985018194020799,4.583333373069763,10,False,True
+S12,12.4,NSF,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,False,True
+S12,12.5,NSF,K01,State measurement and problem diagnosis,0.0903027877661107,0.049148387328865555,0.1365009698515295,11.283333376049995,19,False,True
+S12,12.5,NSF,K02,Mechanism analysis and causal identification,0.08603441342486738,0.048094097277906304,0.1295974200328432,10.75,17,False,True
+S12,12.5,NSF,K03,Scenario simulation and risk prediction,0.006669334453525389,0.0,0.01763335518602673,0.8333333432674408,2,False,True
+S12,12.5,NSF,K04,Intervention design and performance optimization,0.7496331864225929,0.6827097953312445,0.8127299161853628,93.66666701436043,165,False,True
+S12,12.5,NSF,K05,Planning decision support and policy design,0.06736027793290363,0.038571844845751366,0.10141543952861383,8.416666761040688,21,False,True
+S12,12.5,NSF,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,False,True
+S12,12.6,NSF,K01,State measurement and problem diagnosis,0.0,0.0,0.0,0.0,0,True,True
+S12,12.6,NSF,K02,Mechanism analysis and causal identification,0.4285714267467966,0.0,1.0,1.0,1,True,True
+S12,12.6,NSF,K03,Scenario simulation and risk prediction,0.5714285732532034,0.0,1.0,1.3333333432674408,2,True,True
+S12,12.6,NSF,K04,Intervention design and performance optimization,0.0,0.0,0.0,0.0,0,True,True
+S12,12.6,NSF,K05,Planning decision support and policy design,0.0,0.0,0.0,0.0,0,True,True
+S12,12.6,NSF,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,True,True
+S12,12.7,NSF,K01,State measurement and problem diagnosis,0.0,0.0,0.0,0.0,0,True,True
+S12,12.7,NSF,K02,Mechanism analysis and causal identification,0.0,0.0,0.0,0.0,0,True,True
+S12,12.7,NSF,K03,Scenario simulation and risk prediction,0.0,0.0,0.0,0.0,0,True,True
+S12,12.7,NSF,K04,Intervention design and performance optimization,0.0,0.0,0.0,0.0,0,True,True
+S12,12.7,NSF,K05,Planning decision support and policy design,1.0,1.0,1.0,1.0,1,True,True
+S12,12.7,NSF,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,True,True
+S12,12.8,NSF,K01,State measurement and problem diagnosis,0.1333333357175191,0.0,0.5,0.3333333432674408,1,True,True
+S12,12.8,NSF,K02,Mechanism analysis and causal identification,0.19999999761581425,0.0,0.5999999928474428,0.5,1,True,True
+S12,12.8,NSF,K03,Scenario simulation and risk prediction,0.0,0.0,0.0,0.0,0,True,True
+S12,12.8,NSF,K04,Intervention design and performance optimization,0.5333333309491476,0.0,1.0,1.3333333432674408,3,True,True
+S12,12.8,NSF,K05,Planning decision support and policy design,0.0,0.0,0.0,0.0,0,True,True
+S12,12.8,NSF,K06,Implementation monitoring and impact evaluation,0.1333333357175191,0.0,0.5,0.3333333432674408,1,True,True
+S12,12.a,NSF,K01,State measurement and problem diagnosis,0.0,0.0,0.0,0.0,0,True,True
+S12,12.a,NSF,K02,Mechanism analysis and causal identification,0.0,0.0,0.0,0.0,0,True,True
+S12,12.a,NSF,K03,Scenario simulation and risk prediction,0.0,0.0,0.0,0.0,0,True,True
+S12,12.a,NSF,K04,Intervention design and performance optimization,1.0,1.0,1.0,0.3333333432674408,1,True,True
+S12,12.a,NSF,K05,Planning decision support and policy design,0.0,0.0,0.0,0.0,0,True,True
+S12,12.a,NSF,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,True,True
+S12,12.b,NSF,K01,State measurement and problem diagnosis,0.0,0.0,0.0,0.0,0,True,True
+S12,12.b,NSF,K02,Mechanism analysis and causal identification,0.0,0.0,0.0,0.0,0,True,True
+S12,12.b,NSF,K03,Scenario simulation and risk prediction,0.0,0.0,0.0,0.0,0,True,True
+S12,12.b,NSF,K04,Intervention design and performance optimization,0.0,0.0,0.0,0.0,0,True,True
+S12,12.b,NSF,K05,Planning decision support and policy design,1.0,1.0,1.0,0.5,1,True,True
+S12,12.b,NSF,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,True,True
+S13,13.1,NSF,K01,State measurement and problem diagnosis,0.24388743517261816,0.21955312513123137,0.27070383419907157,208.61666718125343,312,False,True
+S13,13.1,NSF,K02,Mechanism analysis and causal identification,0.4667510987107783,0.43702114294246014,0.4958453295728347,399.2500005066395,547,False,True
+S13,13.1,NSF,K03,Scenario simulation and risk prediction,0.1505734009284402,0.13165849517792658,0.17126571462630027,128.79761946573853,221,False,True
+S13,13.1,NSF,K04,Intervention design and performance optimization,0.07037799952366305,0.05852503483112516,0.08397862079946496,60.20000043511391,135,False,True
+S13,13.1,NSF,K05,Planning decision support and policy design,0.061785337051822556,0.05063380536061866,0.07288321972839475,52.850000604987144,127,False,True
+S13,13.1,NSF,K06,Implementation monitoring and impact evaluation,0.006624728612677702,0.0022197378175098518,0.012236064130683523,5.666666686534882,8,False,True
+S13,13.2,NSF,K01,State measurement and problem diagnosis,0.18198642781944957,0.11667158137938952,0.25240874573465466,19.66666668653488,27,False,True
+S13,13.2,NSF,K02,Mechanism analysis and causal identification,0.38402220801989273,0.3004202497362735,0.46152925161172187,41.500000059604645,58,False,True
+S13,13.2,NSF,K03,Scenario simulation and risk prediction,0.14728562621555763,0.09337509792889663,0.20697803947781207,15.916666716337204,28,False,True
+S13,13.2,NSF,K04,Intervention design and performance optimization,0.15885256017544733,0.10166181859558414,0.22311435369490576,17.166666716337204,28,False,True
+S13,13.2,NSF,K05,Planning decision support and policy design,0.11397285701778509,0.07286364537010599,0.1601842184350509,12.316666781902313,30,False,True
+S13,13.2,NSF,K06,Implementation monitoring and impact evaluation,0.013880320751867651,0.0,0.03840370050293187,1.5,2,False,True
+S13,13.3,NSF,K01,State measurement and problem diagnosis,0.31113138711020905,0.2270683164319023,0.3960831093334077,28.41666677594185,43,False,True
+S13,13.3,NSF,K02,Mechanism analysis and causal identification,0.4142335761421636,0.3271416174687324,0.5004612492691386,37.833333402872086,56,False,True
+S13,13.3,NSF,K03,Scenario simulation and risk prediction,0.1113138684916683,0.05887464723787084,0.17280756295557223,10.166666686534882,16,False,True
+S13,13.3,NSF,K04,Intervention design and performance optimization,0.07116788332124035,0.035782151296696506,0.1150000256815597,6.500000029802322,13,False,True
+S13,13.3,NSF,K05,Planning decision support and policy design,0.08941605866568263,0.046911820244751753,0.1362820193187385,8.166666716337204,16,False,True
+S13,13.3,NSF,K06,Implementation monitoring and impact evaluation,0.00273722626903606,0.0,0.008991684633930077,0.25,1,False,True
+S13,13.b,NSF,K01,State measurement and problem diagnosis,0.0,0.0,0.0,0.0,0,True,True
+S13,13.b,NSF,K02,Mechanism analysis and causal identification,0.0,0.0,0.0,0.0,0,True,True
+S13,13.b,NSF,K03,Scenario simulation and risk prediction,0.0,0.0,0.0,0.0,0,True,True
+S13,13.b,NSF,K04,Intervention design and performance optimization,0.0,0.0,0.0,0.0,0,True,True
+S13,13.b,NSF,K05,Planning decision support and policy design,1.0,1.0,1.0,1.0,1,True,True
+S13,13.b,NSF,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,True,True
+S15,15.1,NSF,K01,State measurement and problem diagnosis,0.18792888332535493,0.12730965962355997,0.245449778246843,20.083333402872086,35,False,True
+S15,15.1,NSF,K02,Mechanism analysis and causal identification,0.5809419834782911,0.5026489278122963,0.6596807096845431,62.083333522081375,98,False,True
+S15,15.1,NSF,K03,Scenario simulation and risk prediction,0.12944479092781427,0.07908206751127603,0.18686324084379638,13.833333373069763,20,False,True
+S15,15.1,NSF,K04,Intervention design and performance optimization,0.05458515273704694,0.02237221932011043,0.09340028633439418,5.833333343267441,11,False,True
+S15,15.1,NSF,K05,Planning decision support and policy design,0.03306300742301273,0.014762878581696266,0.05563027343638169,3.533333405852318,11,False,True
+S15,15.1,NSF,K06,Implementation monitoring and impact evaluation,0.014036182108480023,0.0,0.03730561758376365,1.5,2,False,True
+S15,15.2,NSF,K01,State measurement and problem diagnosis,0.1618895962740051,0.059818214249741895,0.27808435819693733,5.083333343267441,8,False,True
+S15,15.2,NSF,K02,Mechanism analysis and causal identification,0.5291932064611712,0.37391035565377845,0.6900053345293086,16.61666674911976,28,False,True
+S15,15.2,NSF,K03,Scenario simulation and risk prediction,0.03184713363100962,0.0,0.10439510734223795,1.0,1,False,True
+S15,15.2,NSF,K04,Intervention design and performance optimization,0.06634819538097622,0.00800394908667523,0.1498258005051342,2.083333343267441,4,False,True
+S15,15.2,NSF,K05,Planning decision support and policy design,0.21072186825283787,0.09321325029912303,0.3504071809573207,6.616666689515114,10,False,True
+S15,15.2,NSF,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,False,True
+S15,15.3,NSF,K01,State measurement and problem diagnosis,0.1941747576355069,0.0601969287354962,0.3714285708173197,3.333333343267441,6,False,True
+S15,15.3,NSF,K02,Mechanism analysis and causal identification,0.5970873779497247,0.386953252771325,0.7752954276223953,10.25,14,False,True
+S15,15.3,NSF,K03,Scenario simulation and risk prediction,0.11650485423409261,0.0,0.2580993897039333,2.0,3,False,True
+S15,15.3,NSF,K04,Intervention design and performance optimization,0.07766990340141428,0.012656898201687541,0.17369603927145744,1.3333333432674408,4,False,True
+S15,15.3,NSF,K05,Planning decision support and policy design,0.014563106779261576,0.0,0.05114366876012537,0.25,1,False,True
+S15,15.3,NSF,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,False,True
+S15,15.4,NSF,K01,State measurement and problem diagnosis,0.17857142993990255,0.0,0.4616666693053177,0.8333333432674408,2,True,True
+S15,15.4,NSF,K02,Mechanism analysis and causal identification,0.7142857133733983,0.35999999828338625,1.0,3.333333343267441,6,True,True
+S15,15.4,NSF,K03,Scenario simulation and risk prediction,0.10714285668669915,0.0,0.3749999972060323,0.5,1,True,True
+S15,15.4,NSF,K04,Intervention design and performance optimization,0.0,0.0,0.0,0.0,0,True,True
+S15,15.4,NSF,K05,Planning decision support and policy design,0.0,0.0,0.0,0.0,0,True,True
+S15,15.4,NSF,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,True,True
+S15,15.5,NSF,K01,State measurement and problem diagnosis,0.15302652464835007,0.10350832862506736,0.20487481003415117,22.500000059604645,33,False,True
+S15,15.5,NSF,K02,Mechanism analysis and causal identification,0.6234413958071446,0.5541066313692641,0.6918216285520282,91.66666677594185,126,False,True
+S15,15.5,NSF,K03,Scenario simulation and risk prediction,0.10825209711710312,0.06646016869881488,0.1536513220235432,15.916666716337204,26,False,True
+S15,15.5,NSF,K04,Intervention design and performance optimization,0.06631149404131048,0.03375412896926107,0.10304110498456974,9.750000029802322,17,False,True
+S15,15.5,NSF,K05,Planning decision support and policy design,0.03990024984487068,0.01964947015284913,0.06295358143661348,5.866666749119759,14,False,True
+S15,15.5,NSF,K06,Implementation monitoring and impact evaluation,0.009068238541221017,0.0,0.021226622616160987,1.3333333432674408,3,False,True
+S15,15.8,NSF,K01,State measurement and problem diagnosis,0.15730337135088351,0.02409638624299263,0.34249786063595306,2.333333343267441,4,False,True
+S15,15.8,NSF,K02,Mechanism analysis and causal identification,0.47191011204350525,0.21423160173160172,0.7241663508667361,7.0,8,False,True
+S15,15.8,NSF,K03,Scenario simulation and risk prediction,0.10112359543789398,0.0,0.2777777777777778,1.5,2,False,True
+S15,15.8,NSF,K04,Intervention design and performance optimization,0.2696629211677173,0.06741573029192932,0.5121951212066047,4.0,4,False,True
+S15,15.8,NSF,K05,Planning decision support and policy design,0.0,0.0,0.0,0.0,0,False,True
+S15,15.8,NSF,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,False,True
+S15,15.9,NSF,K01,State measurement and problem diagnosis,0.25535420064146747,0.056159044331014346,0.48387096687917364,2.583333343267441,5,False,True
+S15,15.9,NSF,K02,Mechanism analysis and causal identification,0.4448105413423772,0.19290033318426603,0.6753092796744445,4.5,7,False,True
+S15,15.9,NSF,K03,Scenario simulation and risk prediction,0.0988467869649727,0.0,0.25826821925074306,1.0,2,False,True
+S15,15.9,NSF,K04,Intervention design and performance optimization,0.06589785994055768,0.0,0.1835502493545339,0.6666666865348816,2,False,True
+S15,15.9,NSF,K05,Planning decision support and policy design,0.13509061111062495,0.019765319772769897,0.30422526130278715,1.3666666895151138,4,False,True
+S15,15.9,NSF,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,False,True
+S15,15.a,NSF,K01,State measurement and problem diagnosis,0.0,0.0,0.0,0.0,0,True,True
+S15,15.a,NSF,K02,Mechanism analysis and causal identification,0.0,0.0,0.0,0.0,0,True,True
+S15,15.a,NSF,K03,Scenario simulation and risk prediction,0.0,0.0,0.0,0.0,0,True,True
+S15,15.a,NSF,K04,Intervention design and performance optimization,0.0,0.0,0.0,0.0,0,True,True
+S15,15.a,NSF,K05,Planning decision support and policy design,1.0,1.0,1.0,0.6666666865348816,2,True,True
+S15,15.a,NSF,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,True,True
+S16,16.1,NSF,K01,State measurement and problem diagnosis,0.0,0.0,0.0,0.0,0,True,True
+S16,16.1,NSF,K02,Mechanism analysis and causal identification,0.7142857142857143,0.0,1.0,2.5,3,True,True
+S16,16.1,NSF,K03,Scenario simulation and risk prediction,0.0,0.0,0.0,0.0,0,True,True
+S16,16.1,NSF,K04,Intervention design and performance optimization,0.0,0.0,0.0,0.0,0,True,True
+S16,16.1,NSF,K05,Planning decision support and policy design,0.0,0.0,0.0,0.0,0,True,True
+S16,16.1,NSF,K06,Implementation monitoring and impact evaluation,0.2857142857142857,0.0,1.0,1.0,1,True,True
+S16,16.3,NSF,K01,State measurement and problem diagnosis,0.0,0.0,0.0,0.0,0,True,True
+S16,16.3,NSF,K02,Mechanism analysis and causal identification,1.0,1.0,1.0,1.0,2,True,True
+S16,16.3,NSF,K03,Scenario simulation and risk prediction,0.0,0.0,0.0,0.0,0,True,True
+S16,16.3,NSF,K04,Intervention design and performance optimization,0.0,0.0,0.0,0.0,0,True,True
+S16,16.3,NSF,K05,Planning decision support and policy design,0.0,0.0,0.0,0.0,0,True,True
+S16,16.3,NSF,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,True,True
+S16,16.6,NSF,K01,State measurement and problem diagnosis,0.07714561259438299,0.0,0.17778248585443115,1.3333333432674408,3,False,True
+S16,16.6,NSF,K02,Mechanism analysis and causal identification,0.7926711671225363,0.6353022693163295,0.9356257641988842,13.700000062584877,26,False,True
+S16,16.6,NSF,K03,Scenario simulation and risk prediction,0.02892960450735127,0.0,0.09708999938981065,0.5,1,False,True
+S16,16.6,NSF,K04,Intervention design and performance optimization,0.014464802253675635,0.0,0.04995533890595975,0.25,1,False,True
+S16,16.6,NSF,K05,Planning decision support and policy design,0.08678881352205381,0.0,0.22305021176194326,1.5,2,False,True
+S16,16.6,NSF,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,False,True
+S16,16.7,NSF,K01,State measurement and problem diagnosis,0.09807237034735121,0.03903232451955234,0.17336850309287485,4.833333343267441,8,False,True
+S16,16.7,NSF,K02,Mechanism analysis and causal identification,0.6939465670121114,0.5881128823318705,0.7863167668744152,34.200000151991844,68,False,True
+S16,16.7,NSF,K03,Scenario simulation and risk prediction,0.01183632073640684,0.0,0.03103643959050888,0.5833333432674408,2,False,True
+S16,16.7,NSF,K04,Intervention design and performance optimization,0.0541088942766764,0.010935253160380036,0.110029744183267,2.6666666865348816,5,False,True
+S16,16.7,NSF,K05,Planning decision support and policy design,0.13696313882681027,0.07291540240723296,0.21426390903890016,6.750000059604645,16,False,True
+S16,16.7,NSF,K06,Implementation monitoring and impact evaluation,0.005072708800643787,0.0,0.017183611740506546,0.25,1,False,True
+S16,16.9,NSF,K01,State measurement and problem diagnosis,0.0,0.0,0.0,0.0,0,True,True
+S16,16.9,NSF,K02,Mechanism analysis and causal identification,1.0,1.0,1.0,0.5,1,True,True
+S16,16.9,NSF,K03,Scenario simulation and risk prediction,0.0,0.0,0.0,0.0,0,True,True
+S16,16.9,NSF,K04,Intervention design and performance optimization,0.0,0.0,0.0,0.0,0,True,True
+S16,16.9,NSF,K05,Planning decision support and policy design,0.0,0.0,0.0,0.0,0,True,True
+S16,16.9,NSF,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,True,True
+S16,16.10,NSF,K01,State measurement and problem diagnosis,,,,0.0,0,True,False
+S16,16.10,NSF,K02,Mechanism analysis and causal identification,,,,0.0,0,True,False
+S16,16.10,NSF,K03,Scenario simulation and risk prediction,,,,0.0,0,True,False
+S16,16.10,NSF,K04,Intervention design and performance optimization,,,,0.0,0,True,False
+S16,16.10,NSF,K05,Planning decision support and policy design,,,,0.0,0,True,False
+S16,16.10,NSF,K06,Implementation monitoring and impact evaluation,,,,0.0,0,True,False
+S16,16.a,NSF,K01,State measurement and problem diagnosis,,,,0.0,0,True,False
+S16,16.a,NSF,K02,Mechanism analysis and causal identification,,,,0.0,0,True,False
+S16,16.a,NSF,K03,Scenario simulation and risk prediction,,,,0.0,0,True,False
+S16,16.a,NSF,K04,Intervention design and performance optimization,,,,0.0,0,True,False
+S16,16.a,NSF,K05,Planning decision support and policy design,,,,0.0,0,True,False
+S16,16.a,NSF,K06,Implementation monitoring and impact evaluation,,,,0.0,0,True,False
+S17,17.6,NSF,K01,State measurement and problem diagnosis,0.2198952887325622,0.09325223156410403,0.3837338197943351,3.5000000298023224,8,False,True
+S17,17.6,NSF,K02,Mechanism analysis and causal identification,0.13612565501884313,0.020196970155089405,0.29703639284393013,2.1666666865348816,4,False,True
+S17,17.6,NSF,K03,Scenario simulation and risk prediction,0.06282722481719,0.0,0.19674833208890677,1.0,1,False,True
+S17,17.6,NSF,K04,Intervention design and performance optimization,0.094240837225785,0.01477832507845899,0.2068965510501306,1.5,4,False,True
+S17,17.6,NSF,K05,Planning decision support and policy design,0.4554973817970247,0.24854572024927846,0.6470755339107463,7.250000029802322,12,False,True
+S17,17.6,NSF,K06,Implementation monitoring and impact evaluation,0.031413612408595,0.0,0.10231331114396922,0.5,1,False,True
+S17,17.9,NSF,K01,State measurement and problem diagnosis,0.2830188668900938,0.0,0.7411998765112977,1.0,1,True,True
+S17,17.9,NSF,K02,Mechanism analysis and causal identification,0.1415094334450469,0.0,0.5921052601394808,0.5,1,True,True
+S17,17.9,NSF,K03,Scenario simulation and risk prediction,0.2830188668900938,0.0,0.7407407399231187,1.0,1,True,True
+S17,17.9,NSF,K04,Intervention design and performance optimization,0.0,0.0,0.0,0.0,0,True,True
+S17,17.9,NSF,K05,Planning decision support and policy design,0.2924528327747654,0.0,1.0,1.033333346247673,3,True,True
+S17,17.9,NSF,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,True,True
+S17,17.14,NSF,K01,State measurement and problem diagnosis,0.0,0.0,0.0,0.0,0,True,True
+S17,17.14,NSF,K02,Mechanism analysis and causal identification,0.19736841772463684,0.0,0.5555555518762565,0.5,2,True,True
+S17,17.14,NSF,K03,Scenario simulation and risk prediction,0.0,0.0,0.0,0.0,0,True,True
+S17,17.14,NSF,K04,Intervention design and performance optimization,0.0,0.0,0.0,0.0,0,True,True
+S17,17.14,NSF,K05,Planning decision support and policy design,0.8026315822753631,0.4444444481237435,1.0,2.0333333760499954,6,True,True
+S17,17.14,NSF,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,True,True
+S17,17.16,NSF,K01,State measurement and problem diagnosis,0.2884615380316973,0.13329457410896536,0.45520217962829884,5.000000029802322,11,False,True
+S17,17.16,NSF,K02,Mechanism analysis and causal identification,0.057692307262466505,0.0,0.155854300750015,1.0,2,False,True
+S17,17.16,NSF,K03,Scenario simulation and risk prediction,0.028846153631233253,0.0,0.09574468001021742,0.5,1,False,True
+S17,17.16,NSF,K04,Intervention design and performance optimization,0.04326923044684988,0.0,0.11764705759225008,0.75,2,False,True
+S17,17.16,NSF,K05,Planning decision support and policy design,0.5528846169965198,0.37809068019683173,0.7200232564240162,9.583333432674408,20,False,True
+S17,17.16,NSF,K06,Implementation monitoring and impact evaluation,0.028846153631233253,0.0,0.09092062709197064,0.5,1,False,True
+S17,17.17,NSF,K01,State measurement and problem diagnosis,0.1644100577962774,0.06564237866257025,0.2802580432190953,4.250000029802322,9,False,True
+S17,17.17,NSF,K02,Mechanism analysis and causal identification,0.12250161160092086,0.026401857497991586,0.23319351428021232,3.1666666865348816,5,False,True
+S17,17.17,NSF,K03,Scenario simulation and risk prediction,0.032237266392804616,0.0,0.08688475406150095,0.8333333432674408,2,False,True
+S17,17.17,NSF,K04,Intervention design and performance optimization,0.07414571258816118,0.018525844485901,0.1443936481417616,1.9166666865348816,5,False,True
+S17,17.17,NSF,K05,Planning decision support and policy design,0.587362992016732,0.44767088394459387,0.7252134074543093,15.183333471417427,38,False,True
+S17,17.17,NSF,K06,Implementation monitoring and impact evaluation,0.019342359605103877,0.0,0.06536066409792293,0.5,1,False,True
+S17,17.18,NSF,K01,State measurement and problem diagnosis,0.2727272712494716,0.0,0.7058823504662431,1.0,2,True,True
+S17,17.18,NSF,K02,Mechanism analysis and causal identification,0.0,0.0,0.0,0.0,0,True,True
+S17,17.18,NSF,K03,Scenario simulation and risk prediction,0.0,0.0,0.0,0.0,0,True,True
+S17,17.18,NSF,K04,Intervention design and performance optimization,0.1363636356247358,0.0,0.5217391290826924,0.5,1,True,True
+S17,17.18,NSF,K05,Planning decision support and policy design,0.5909090931257925,0.09902174178894001,1.0,2.1666666865348816,4,True,True
+S17,17.18,NSF,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,True,True
+S17,17.19,NSF,K01,State measurement and problem diagnosis,1.0,1.0,1.0,0.5,1,True,True
+S17,17.19,NSF,K02,Mechanism analysis and causal identification,0.0,0.0,0.0,0.0,0,True,True
+S17,17.19,NSF,K03,Scenario simulation and risk prediction,0.0,0.0,0.0,0.0,0,True,True
+S17,17.19,NSF,K04,Intervention design and performance optimization,0.0,0.0,0.0,0.0,0,True,True
+S17,17.19,NSF,K05,Planning decision support and policy design,0.0,0.0,0.0,0.0,0,True,True
+S17,17.19,NSF,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,True,True
+S02,2.1,NSFC,K01,State measurement and problem diagnosis,0.4864864833516915,0.21424771874064588,0.7199999965667725,4.5,7,True,True
+S02,2.1,NSFC,K02,Mechanism analysis and causal identification,0.27027027175059015,0.08403067576473182,0.4946611666050526,2.5000000298023224,6,True,True
+S02,2.1,NSFC,K03,Scenario simulation and risk prediction,0.09009009058353006,0.0,0.2444654121053099,0.8333333432674408,2,True,True
+S02,2.1,NSFC,K04,Intervention design and performance optimization,0.0630630637306583,0.0,0.18073502287597842,0.5833333432674408,2,True,True
+S02,2.1,NSFC,K05,Planning decision support and policy design,0.09009009058353006,0.0,0.23657736504427507,0.8333333432674408,2,True,True
+S02,2.1,NSFC,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,True,True
+S02,2.2,NSFC,K01,State measurement and problem diagnosis,,,,0.0,0,True,False
+S02,2.2,NSFC,K02,Mechanism analysis and causal identification,,,,0.0,0,True,False
+S02,2.2,NSFC,K03,Scenario simulation and risk prediction,,,,0.0,0,True,False
+S02,2.2,NSFC,K04,Intervention design and performance optimization,,,,0.0,0,True,False
+S02,2.2,NSFC,K05,Planning decision support and policy design,,,,0.0,0,True,False
+S02,2.2,NSFC,K06,Implementation monitoring and impact evaluation,,,,0.0,0,True,False
+S02,2.3,NSFC,K01,State measurement and problem diagnosis,0.14457831283770897,0.0,0.4499999986588955,1.0,1,True,True
+S02,2.3,NSFC,K02,Mechanism analysis and causal identification,0.5060240949319814,0.09991803218219686,0.8438701906206861,3.5,4,True,True
+S02,2.3,NSFC,K03,Scenario simulation and risk prediction,0.0,0.0,0.0,0.0,0,True,True
+S02,2.3,NSFC,K04,Intervention design and performance optimization,0.07228915641885449,0.0,0.2727272712494716,0.5,1,True,True
+S02,2.3,NSFC,K05,Planning decision support and policy design,0.13253012297374622,0.0,0.4000000020563602,0.9166666865348816,3,True,True
+S02,2.3,NSFC,K06,Implementation monitoring and impact evaluation,0.14457831283770897,0.0,0.4556962018440099,1.0,1,True,True
+S02,2.4,NSFC,K01,State measurement and problem diagnosis,0.2668874005725556,0.21036892909534943,0.32509124398060096,50.666666746139526,71,False,True
+S02,2.4,NSFC,K02,Mechanism analysis and causal identification,0.40340381753226534,0.34484089077920693,0.4655842883517596,76.58333343267441,116,False,True
+S02,2.4,NSFC,K03,Scenario simulation and risk prediction,0.17119422065045975,0.12769852822247535,0.22053731071363014,32.50000002980232,50,False,True
+S02,2.4,NSFC,K04,Intervention design and performance optimization,0.11663782082511007,0.078909445449637,0.15809331247910208,22.14285719394684,37,False,True
+S02,2.4,NSFC,K05,Planning decision support and policy design,0.039242983181248074,0.021199149016116206,0.060881485219514454,7.450000062584877,17,False,True
+S02,2.4,NSFC,K06,Implementation monitoring and impact evaluation,0.002633757238361163,0.0,0.008388963011949559,0.5,1,False,True
+S02,2.5,NSFC,K01,State measurement and problem diagnosis,0.0,0.0,0.0,0.0,0,True,True
+S02,2.5,NSFC,K02,Mechanism analysis and causal identification,1.0,1.0,1.0,1.0,2,True,True
+S02,2.5,NSFC,K03,Scenario simulation and risk prediction,0.0,0.0,0.0,0.0,0,True,True
+S02,2.5,NSFC,K04,Intervention design and performance optimization,0.0,0.0,0.0,0.0,0,True,True
+S02,2.5,NSFC,K05,Planning decision support and policy design,0.0,0.0,0.0,0.0,0,True,True
+S02,2.5,NSFC,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,True,True
+S02,2.a,NSFC,K01,State measurement and problem diagnosis,0.0,0.0,0.0,0.0,0,True,True
+S02,2.a,NSFC,K02,Mechanism analysis and causal identification,1.0,1.0,1.0,1.0,1,True,True
+S02,2.a,NSFC,K03,Scenario simulation and risk prediction,0.0,0.0,0.0,0.0,0,True,True
+S02,2.a,NSFC,K04,Intervention design and performance optimization,0.0,0.0,0.0,0.0,0,True,True
+S02,2.a,NSFC,K05,Planning decision support and policy design,0.0,0.0,0.0,0.0,0,True,True
+S02,2.a,NSFC,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,True,True
+S02,2.c,NSFC,K01,State measurement and problem diagnosis,0.0,0.0,0.0,0.0,0,True,True
+S02,2.c,NSFC,K02,Mechanism analysis and causal identification,0.0,0.0,0.0,0.0,0,True,True
+S02,2.c,NSFC,K03,Scenario simulation and risk prediction,1.0,1.0,1.0,1.0,1,True,True
+S02,2.c,NSFC,K04,Intervention design and performance optimization,0.0,0.0,0.0,0.0,0,True,True
+S02,2.c,NSFC,K05,Planning decision support and policy design,0.0,0.0,0.0,0.0,0,True,True
+S02,2.c,NSFC,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,True,True
+S03,3.1,NSFC,K01,State measurement and problem diagnosis,,,,0.0,0,True,False
+S03,3.1,NSFC,K02,Mechanism analysis and causal identification,,,,0.0,0,True,False
+S03,3.1,NSFC,K03,Scenario simulation and risk prediction,,,,0.0,0,True,False
+S03,3.1,NSFC,K04,Intervention design and performance optimization,,,,0.0,0,True,False
+S03,3.1,NSFC,K05,Planning decision support and policy design,,,,0.0,0,True,False
+S03,3.1,NSFC,K06,Implementation monitoring and impact evaluation,,,,0.0,0,True,False
+S03,3.2,NSFC,K01,State measurement and problem diagnosis,,,,0.0,0,True,False
+S03,3.2,NSFC,K02,Mechanism analysis and causal identification,,,,0.0,0,True,False
+S03,3.2,NSFC,K03,Scenario simulation and risk prediction,,,,0.0,0,True,False
+S03,3.2,NSFC,K04,Intervention design and performance optimization,,,,0.0,0,True,False
+S03,3.2,NSFC,K05,Planning decision support and policy design,,,,0.0,0,True,False
+S03,3.2,NSFC,K06,Implementation monitoring and impact evaluation,,,,0.0,0,True,False
+S03,3.3,NSFC,K01,State measurement and problem diagnosis,0.07894736829722027,0.0,0.2903815882006127,0.5,1,True,True
+S03,3.3,NSFC,K02,Mechanism analysis and causal identification,0.31578947318888106,0.0,0.6666666666666666,2.0,2,True,True
+S03,3.3,NSFC,K03,Scenario simulation and risk prediction,0.36842105362223787,0.06666666666666667,0.7777777778145708,2.333333343267441,4,True,True
+S03,3.3,NSFC,K04,Intervention design and performance optimization,0.2368421048916608,0.0,0.625,1.5,2,True,True
+S03,3.3,NSFC,K05,Planning decision support and policy design,0.0,0.0,0.0,0.0,0,True,True
+S03,3.3,NSFC,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,True,True
+S03,3.4,NSFC,K01,State measurement and problem diagnosis,0.10796915140625345,0.029476855659703656,0.2049875766586712,3.5,6,False,True
+S03,3.4,NSFC,K02,Mechanism analysis and causal identification,0.6221079691587611,0.4942717854335449,0.746809114890486,20.166666716337204,38,False,True
+S03,3.4,NSFC,K03,Scenario simulation and risk prediction,0.041131105604070975,0.0,0.09260018205104963,1.3333333432674408,3,False,True
+S03,3.4,NSFC,K04,Intervention design and performance optimization,0.07712082243303818,0.0,0.17185883885395842,2.5,3,False,True
+S03,3.4,NSFC,K05,Planning decision support and policy design,0.1516709513978763,0.07107491065796608,0.24195613994317364,4.916666686534882,11,False,True
+S03,3.4,NSFC,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,False,True
+S03,3.5,NSFC,K01,State measurement and problem diagnosis,1.0,1.0,1.0,0.5,1,True,True
+S03,3.5,NSFC,K02,Mechanism analysis and causal identification,0.0,0.0,0.0,0.0,0,True,True
+S03,3.5,NSFC,K03,Scenario simulation and risk prediction,0.0,0.0,0.0,0.0,0,True,True
+S03,3.5,NSFC,K04,Intervention design and performance optimization,0.0,0.0,0.0,0.0,0,True,True
+S03,3.5,NSFC,K05,Planning decision support and policy design,0.0,0.0,0.0,0.0,0,True,True
+S03,3.5,NSFC,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,True,True
+S03,3.6,NSFC,K01,State measurement and problem diagnosis,0.09294320133879624,0.024936569216106107,0.1781273205111538,4.5,6,False,True
+S03,3.6,NSFC,K02,Mechanism analysis and causal identification,0.2065404474195472,0.10695134212593631,0.31690237024780776,10.0,13,False,True
+S03,3.6,NSFC,K03,Scenario simulation and risk prediction,0.19277108446342356,0.10020354901774249,0.3028653002759428,9.33333334326744,13,False,True
+S03,3.6,NSFC,K04,Intervention design and performance optimization,0.5077452667782331,0.37498304701425755,0.6296565237672183,24.58333334326744,32,False,True
+S03,3.6,NSFC,K05,Planning decision support and policy design,0.0,0.0,0.0,0.0,0,False,True
+S03,3.6,NSFC,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,False,True
+S03,3.8,NSFC,K01,State measurement and problem diagnosis,0.2857142857142857,0.0,0.9826923076922972,0.5,1,True,True
+S03,3.8,NSFC,K02,Mechanism analysis and causal identification,0.42857142857142855,0.0,1.0,0.75,2,True,True
+S03,3.8,NSFC,K03,Scenario simulation and risk prediction,0.0,0.0,0.0,0.0,0,True,True
+S03,3.8,NSFC,K04,Intervention design and performance optimization,0.2857142857142857,0.0,1.0,0.5,1,True,True
+S03,3.8,NSFC,K05,Planning decision support and policy design,0.0,0.0,0.0,0.0,0,True,True
+S03,3.8,NSFC,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,True,True
+S03,3.9,NSFC,K01,State measurement and problem diagnosis,0.2629769675831605,0.20545191263161658,0.3268855147171115,38.25000002980232,59,False,True
+S03,3.9,NSFC,K02,Mechanism analysis and causal identification,0.44746190003934677,0.38004498312962925,0.5137168876902061,65.08333352208138,111,False,True
+S03,3.9,NSFC,K03,Scenario simulation and risk prediction,0.17932852071643018,0.12794407714376574,0.2305024642580331,26.083333402872086,42,False,True
+S03,3.9,NSFC,K04,Intervention design and performance optimization,0.04698063476332653,0.022449334169603402,0.07521588424639962,6.833333343267441,13,False,True
+S03,3.9,NSFC,K05,Planning decision support and policy design,0.05179328537210669,0.02864891649462889,0.07894896324150921,7.533333376049995,18,False,True
+S03,3.9,NSFC,K06,Implementation monitoring and impact evaluation,0.01145869152562932,0.001939912509101172,0.02453124613554258,1.6666666865348816,4,False,True
+S03,3.d,NSFC,K01,State measurement and problem diagnosis,0.30882352914106886,0.09991935453883351,0.535754263812481,3.5,6,False,True
+S03,3.d,NSFC,K02,Mechanism analysis and causal identification,0.22058823510076347,0.044117647020152695,0.45454545454545453,2.5,4,False,True
+S03,3.d,NSFC,K03,Scenario simulation and risk prediction,0.3382352946977096,0.125,0.5775018535704618,3.833333343267441,7,False,True
+S03,3.d,NSFC,K04,Intervention design and performance optimization,0.08823529404030539,0.0,0.28847891549626875,1.0,1,False,True
+S03,3.d,NSFC,K05,Planning decision support and policy design,0.044117647020152695,0.0,0.15789473684210525,0.5,1,False,True
+S03,3.d,NSFC,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,False,True
+S06,6.1,NSFC,K01,State measurement and problem diagnosis,0.053571428457389075,0.0,0.14118479447556256,0.75,2,False,True
+S06,6.1,NSFC,K02,Mechanism analysis and causal identification,0.45238095212753127,0.23073770407031188,0.6796483865899224,6.333333343267441,9,False,True
+S06,6.1,NSFC,K03,Scenario simulation and risk prediction,0.14285714255303752,0.03260428898824245,0.3057422329540558,2.0,4,False,True
+S06,6.1,NSFC,K04,Intervention design and performance optimization,0.3273809523936234,0.11409672271060287,0.5416733866435345,4.583333343267441,7,False,True
+S06,6.1,NSFC,K05,Planning decision support and policy design,0.02380952446841869,0.0,0.08291235113830632,0.3333333432674408,1,False,True
+S06,6.1,NSFC,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,False,True
+S06,6.2,NSFC,K01,State measurement and problem diagnosis,0.0,0.0,0.0,0.0,0,True,True
+S06,6.2,NSFC,K02,Mechanism analysis and causal identification,0.6250000027939677,0.0,1.0,0.8333333432674408,2,True,True
+S06,6.2,NSFC,K03,Scenario simulation and risk prediction,0.0,0.0,0.0,0.0,0,True,True
+S06,6.2,NSFC,K04,Intervention design and performance optimization,0.3749999972060323,0.0,1.0,0.5,1,True,True
+S06,6.2,NSFC,K05,Planning decision support and policy design,0.0,0.0,0.0,0.0,0,True,True
+S06,6.2,NSFC,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,True,True
+S06,6.3,NSFC,K01,State measurement and problem diagnosis,0.1642674423432699,0.12810284965777632,0.20307651294235282,54.58333337306976,70,False,True
+S06,6.3,NSFC,K02,Mechanism analysis and causal identification,0.5191352759626037,0.4706250511527321,0.5676389238046953,172.50000017881393,221,False,True
+S06,6.3,NSFC,K03,Scenario simulation and risk prediction,0.04765009795355019,0.029705914908157983,0.0664801326043656,15.833333402872086,29,False,True
+S06,6.3,NSFC,K04,Intervention design and performance optimization,0.2455233986311989,0.20294081501094194,0.28689418964085994,81.58333341777325,104,False,True
+S06,6.3,NSFC,K05,Planning decision support and policy design,0.02267141514499408,0.012473916021267828,0.03451752379310145,7.533333405852318,19,False,True
+S06,6.3,NSFC,K06,Implementation monitoring and impact evaluation,0.0007523699643832851,0.0,0.0023981454975788713,0.25,1,False,True
+S06,6.4,NSFC,K01,State measurement and problem diagnosis,0.30719403228522024,0.2440382078326032,0.37627569981614095,52.166666746139526,67,False,True
+S06,6.4,NSFC,K02,Mechanism analysis and causal identification,0.34056335267882365,0.28104748594311774,0.40348699337880306,57.833333522081375,92,False,True
+S06,6.4,NSFC,K03,Scenario simulation and risk prediction,0.13445872999083577,0.09225033008799287,0.18084529677186192,22.833333402872086,40,False,True
+S06,6.4,NSFC,K04,Intervention design and performance optimization,0.12091471199216262,0.08127632988554849,0.16296649623950923,20.533333405852318,38,False,True
+S06,6.4,NSFC,K05,Planning decision support and policy design,0.09686917305295772,0.06293646848549254,0.13372295074080343,16.450000122189522,33,False,True
+S06,6.4,NSFC,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,False,True
+S06,6.5,NSFC,K01,State measurement and problem diagnosis,0.12577532704141878,0.05053254038313443,0.21105195095163617,6.083333343267441,9,False,True
+S06,6.5,NSFC,K02,Mechanism analysis and causal identification,0.2567195037470683,0.15831394574031696,0.3640305377281514,12.416666716337204,22,False,True
+S06,6.5,NSFC,K03,Scenario simulation and risk prediction,0.168849069313943,0.0873158319477963,0.25746960721924544,8.166666686534882,15,False,True
+S06,6.5,NSFC,K04,Intervention design and performance optimization,0.2074431426784945,0.11876646118335948,0.30844415176536444,10.033333376049995,19,False,True
+S06,6.5,NSFC,K05,Planning decision support and policy design,0.2412129572190754,0.15158694560081465,0.3360613017192799,11.666666746139526,25,False,True
+S06,6.5,NSFC,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,False,True
+S06,6.6,NSFC,K01,State measurement and problem diagnosis,0.2235166617473093,0.16112664991117231,0.287809663966236,27.500000029802322,41,False,True
+S06,6.6,NSFC,K02,Mechanism analysis and causal identification,0.6292332699124977,0.5585266725719557,0.7011788718678237,77.41666686534882,128,False,True
+S06,6.6,NSFC,K03,Scenario simulation and risk prediction,0.04158764593221752,0.019381170394456294,0.06893452822834924,5.116666719317436,12,False,True
+S06,6.6,NSFC,K04,Intervention design and performance optimization,0.06502302916482221,0.03477962298977099,0.09834563170981217,8.000000044703484,17,False,True
+S06,6.6,NSFC,K05,Planning decision support and policy design,0.034543484293014695,0.014933537482020382,0.05825671834243398,4.250000029802322,11,False,True
+S06,6.6,NSFC,K06,Implementation monitoring and impact evaluation,0.006095908950138536,0.0,0.016813787258830617,0.75,2,False,True
+S06,6.a,NSFC,K01,State measurement and problem diagnosis,,,,0.0,0,True,False
+S06,6.a,NSFC,K02,Mechanism analysis and causal identification,,,,0.0,0,True,False
+S06,6.a,NSFC,K03,Scenario simulation and risk prediction,,,,0.0,0,True,False
+S06,6.a,NSFC,K04,Intervention design and performance optimization,,,,0.0,0,True,False
+S06,6.a,NSFC,K05,Planning decision support and policy design,,,,0.0,0,True,False
+S06,6.a,NSFC,K06,Implementation monitoring and impact evaluation,,,,0.0,0,True,False
+S06,6.b,NSFC,K01,State measurement and problem diagnosis,0.0,0.0,0.0,0.0,0,True,True
+S06,6.b,NSFC,K02,Mechanism analysis and causal identification,1.0,1.0,1.0,0.5,1,True,True
+S06,6.b,NSFC,K03,Scenario simulation and risk prediction,0.0,0.0,0.0,0.0,0,True,True
+S06,6.b,NSFC,K04,Intervention design and performance optimization,0.0,0.0,0.0,0.0,0,True,True
+S06,6.b,NSFC,K05,Planning decision support and policy design,0.0,0.0,0.0,0.0,0,True,True
+S06,6.b,NSFC,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,True,True
+S07,7.1,NSFC,K01,State measurement and problem diagnosis,0.08424908435705064,0.02052431243720222,0.1570979273184145,3.833333343267441,6,False,True
+S07,7.1,NSFC,K02,Mechanism analysis and causal identification,0.04395604389846188,0.0,0.10527157882676573,2.0,3,False,True
+S07,7.1,NSFC,K03,Scenario simulation and risk prediction,0.11721611728089705,0.031485360629151464,0.22048826797797344,5.333333343267441,6,False,True
+S07,7.1,NSFC,K04,Intervention design and performance optimization,0.6703296701065398,0.5430861724523004,0.7928101725838623,30.500000029802322,45,False,True
+S07,7.1,NSFC,K05,Planning decision support and policy design,0.08424908435705064,0.02241551539357231,0.16037862009357412,3.833333343267441,6,False,True
+S07,7.1,NSFC,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,False,True
+S07,7.2,NSFC,K01,State measurement and problem diagnosis,0.09564254077169865,0.03997285290332959,0.1623702340184074,6.166666686534882,10,False,True
+S07,7.2,NSFC,K02,Mechanism analysis and causal identification,0.16155834568576727,0.09097475248058123,0.24865803382778692,10.416666686534882,17,False,True
+S07,7.2,NSFC,K03,Scenario simulation and risk prediction,0.05428360404688004,0.00865619456863035,0.10994098394149593,3.5,4,False,True
+S07,7.2,NSFC,K04,Intervention design and performance optimization,0.5062776954474775,0.3997521881597116,0.6055146937958018,32.64285717904568,51,False,True
+S07,7.2,NSFC,K05,Planning decision support and policy design,0.18223781404817657,0.11181316432197766,0.26259392537014287,11.750000029802322,21,False,True
+S07,7.2,NSFC,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,False,True
+S07,7.3,NSFC,K01,State measurement and problem diagnosis,0.08088044145200965,0.02871548361659188,0.14155039997202634,6.666666686534882,8,False,True
+S07,7.3,NSFC,K02,Mechanism analysis and causal identification,0.14255177799589336,0.07748252020504441,0.21066056667824992,11.750000029802322,19,False,True
+S07,7.3,NSFC,K03,Scenario simulation and risk prediction,0.05762731472437785,0.021833667328143604,0.1050737725334527,4.750000029802322,9,False,True
+S07,7.3,NSFC,K04,Intervention design and performance optimization,0.5864987427421542,0.4928629548821419,0.6764007964235644,48.34285718202591,72,False,True
+S07,7.3,NSFC,K05,Planning decision support and policy design,0.13244172308556496,0.07575545281656458,0.19973115884771753,10.916666716337204,19,False,True
+S07,7.3,NSFC,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,False,True
+S07,7.a,NSFC,K01,State measurement and problem diagnosis,0.0,0.0,0.0,0.0,0,True,True
+S07,7.a,NSFC,K02,Mechanism analysis and causal identification,0.3333333333333333,0.0,0.8022727272727274,1.5,2,True,True
+S07,7.a,NSFC,K03,Scenario simulation and risk prediction,0.2222222222222222,0.0,0.6666666666666666,1.0,1,True,True
+S07,7.a,NSFC,K04,Intervention design and performance optimization,0.4444444444444444,0.0,1.0,2.0,3,True,True
+S07,7.a,NSFC,K05,Planning decision support and policy design,0.0,0.0,0.0,0.0,0,True,True
+S07,7.a,NSFC,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,True,True
+S07,7.b,NSFC,K01,State measurement and problem diagnosis,,,,0.0,0,True,False
+S07,7.b,NSFC,K02,Mechanism analysis and causal identification,,,,0.0,0,True,False
+S07,7.b,NSFC,K03,Scenario simulation and risk prediction,,,,0.0,0,True,False
+S07,7.b,NSFC,K04,Intervention design and performance optimization,,,,0.0,0,True,False
+S07,7.b,NSFC,K05,Planning decision support and policy design,,,,0.0,0,True,False
+S07,7.b,NSFC,K06,Implementation monitoring and impact evaluation,,,,0.0,0,True,False
+S09,9.1,NSFC,K01,State measurement and problem diagnosis,0.14562383607404603,0.1042045968703345,0.1898552428839126,32.58333334326744,41,False,True
+S09,9.1,NSFC,K02,Mechanism analysis and causal identification,0.2264432029175071,0.1735036213226422,0.27967204383708516,50.66666668653488,62,False,True
+S09,9.1,NSFC,K03,Scenario simulation and risk prediction,0.16461824946921746,0.12009219598644785,0.2101427731248802,36.83333334326744,47,False,True
+S09,9.1,NSFC,K04,Intervention design and performance optimization,0.39404096843540937,0.33625758572591374,0.4537605456220649,88.16666674613953,123,False,True
+S09,9.1,NSFC,K05,Planning decision support and policy design,0.06927374310382002,0.042421844603838174,0.10238231678636395,15.500000029802322,22,False,True
+S09,9.1,NSFC,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,False,True
+S09,9.2,NSFC,K01,State measurement and problem diagnosis,0.100000002682209,0.0,0.4000000071525573,0.3333333432674408,1,True,True
+S09,9.2,NSFC,K02,Mechanism analysis and causal identification,0.7499999977648258,0.2142857133733983,1.0,2.5,4,True,True
+S09,9.2,NSFC,K03,Scenario simulation and risk prediction,0.0,0.0,0.0,0.0,0,True,True
+S09,9.2,NSFC,K04,Intervention design and performance optimization,0.0,0.0,0.0,0.0,0,True,True
+S09,9.2,NSFC,K05,Planning decision support and policy design,0.14999999955296517,0.0,0.5999999928474428,0.5,1,True,True
+S09,9.2,NSFC,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,True,True
+S09,9.4,NSFC,K01,State measurement and problem diagnosis,0.027595269321873096,0.004062752374541538,0.05844155834203306,1.75,4,False,True
+S09,9.4,NSFC,K02,Mechanism analysis and causal identification,0.34034165559636104,0.24319606698879695,0.4431539810364191,21.583333373069763,33,False,True
+S09,9.4,NSFC,K03,Scenario simulation and risk prediction,0.03153745065356925,0.007398045939420136,0.06621049172531872,2.0,4,False,True
+S09,9.4,NSFC,K04,Intervention design and performance optimization,0.4651773980800357,0.3629163307864567,0.5711348692705068,29.500000059604645,45,False,True
+S09,9.4,NSFC,K05,Planning decision support and policy design,0.12746386368476859,0.07029984057311689,0.1948072693883185,8.083333373069763,17,False,True
+S09,9.4,NSFC,K06,Implementation monitoring and impact evaluation,0.007884362663392312,0.0,0.026278332647083787,0.5,1,False,True
+S09,9.5,NSFC,K01,State measurement and problem diagnosis,0.18181818625158513,0.0,0.7272727331839316,0.3333333432674408,1,True,True
+S09,9.5,NSFC,K02,Mechanism analysis and causal identification,0.2727272712494716,0.0,1.0,0.5,1,True,True
+S09,9.5,NSFC,K03,Scenario simulation and risk prediction,0.0,0.0,0.0,0.0,0,True,True
+S09,9.5,NSFC,K04,Intervention design and performance optimization,0.2727272712494716,0.0,1.0,0.5,1,True,True
+S09,9.5,NSFC,K05,Planning decision support and policy design,0.2727272712494716,0.0,1.0,0.5,1,True,True
+S09,9.5,NSFC,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,True,True
+S09,9.b,NSFC,K01,State measurement and problem diagnosis,0.0,0.0,0.0,0.0,0,True,True
+S09,9.b,NSFC,K02,Mechanism analysis and causal identification,1.0,1.0,1.0,1.0,1,True,True
+S09,9.b,NSFC,K03,Scenario simulation and risk prediction,0.0,0.0,0.0,0.0,0,True,True
+S09,9.b,NSFC,K04,Intervention design and performance optimization,0.0,0.0,0.0,0.0,0,True,True
+S09,9.b,NSFC,K05,Planning decision support and policy design,0.0,0.0,0.0,0.0,0,True,True
+S09,9.b,NSFC,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,True,True
+S09,9.c,NSFC,K01,State measurement and problem diagnosis,,,,0.0,0,True,False
+S09,9.c,NSFC,K02,Mechanism analysis and causal identification,,,,0.0,0,True,False
+S09,9.c,NSFC,K03,Scenario simulation and risk prediction,,,,0.0,0,True,False
+S09,9.c,NSFC,K04,Intervention design and performance optimization,,,,0.0,0,True,False
+S09,9.c,NSFC,K05,Planning decision support and policy design,,,,0.0,0,True,False
+S09,9.c,NSFC,K06,Implementation monitoring and impact evaluation,,,,0.0,0,True,False
+S10,10.1,NSFC,K01,State measurement and problem diagnosis,0.0,0.0,0.0,0.0,0,True,True
+S10,10.1,NSFC,K02,Mechanism analysis and causal identification,1.0,1.0,1.0,0.3333333432674408,1,True,True
+S10,10.1,NSFC,K03,Scenario simulation and risk prediction,0.0,0.0,0.0,0.0,0,True,True
+S10,10.1,NSFC,K04,Intervention design and performance optimization,0.0,0.0,0.0,0.0,0,True,True
+S10,10.1,NSFC,K05,Planning decision support and policy design,0.0,0.0,0.0,0.0,0,True,True
+S10,10.1,NSFC,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,True,True
+S10,10.2,NSFC,K01,State measurement and problem diagnosis,0.1487123682407916,0.07398854602799557,0.23506075827695538,6.833333343267441,13,False,True
+S10,10.2,NSFC,K02,Mechanism analysis and causal identification,0.6673920923765261,0.5584910331598996,0.7749691328336763,30.666666746139526,57,False,True
+S10,10.2,NSFC,K03,Scenario simulation and risk prediction,0.029017047635627555,0.0,0.0779246107890053,1.3333333432674408,2,False,True
+S10,10.2,NSFC,K04,Intervention design and performance optimization,0.01088139278228764,0.0,0.038231483146118767,0.5,1,False,True
+S10,10.2,NSFC,K05,Planning decision support and policy design,0.12223431340019189,0.057309062859951306,0.19726101525658785,5.616666719317436,13,False,True
+S10,10.2,NSFC,K06,Implementation monitoring and impact evaluation,0.02176278556457528,0.0,0.07009448192357193,1.0,1,False,True
+S10,10.3,NSFC,K01,State measurement and problem diagnosis,0.03649635011884704,0.0,0.1250032579010719,0.5,1,False,True
+S10,10.3,NSFC,K02,Mechanism analysis and causal identification,0.7238442809827196,0.5512484859642645,0.8707500645287342,9.916666716337204,21,False,True
+S10,10.3,NSFC,K03,Scenario simulation and risk prediction,0.024330900804348687,0.0,0.08333333489329864,0.3333333432674408,1,False,True
+S10,10.3,NSFC,K04,Intervention design and performance optimization,0.0,0.0,0.0,0.0,0,False,True
+S10,10.3,NSFC,K05,Planning decision support and policy design,0.2153284680940847,0.08536239011226646,0.38062398680252596,2.9500000327825546,8,False,True
+S10,10.3,NSFC,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,False,True
+S10,10.4,NSFC,K01,State measurement and problem diagnosis,0.0,0.0,0.0,0.0,0,True,True
+S10,10.4,NSFC,K02,Mechanism analysis and causal identification,0.46357615697980425,0.09866808462465046,0.7720755325779947,2.333333343267441,4,True,True
+S10,10.4,NSFC,K03,Scenario simulation and risk prediction,0.06622516697454094,0.0,0.22102517270202354,0.3333333432674408,1,True,True
+S10,10.4,NSFC,K04,Intervention design and performance optimization,0.0,0.0,0.0,0.0,0,True,True
+S10,10.4,NSFC,K05,Planning decision support and policy design,0.4701986760456548,0.18433269214771716,0.83472209304771,2.366666689515114,6,True,True
+S10,10.4,NSFC,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,True,True
+S10,10.7,NSFC,K01,State measurement and problem diagnosis,0.0,0.0,0.0,0.0,0,True,True
+S10,10.7,NSFC,K02,Mechanism analysis and causal identification,0.8571428534935932,0.0,1.0,2.0,3,True,True
+S10,10.7,NSFC,K03,Scenario simulation and risk prediction,0.0,0.0,0.0,0.0,0,True,True
+S10,10.7,NSFC,K04,Intervention design and performance optimization,0.0,0.0,0.0,0.0,0,True,True
+S10,10.7,NSFC,K05,Planning decision support and policy design,0.1428571465064068,0.0,1.0,0.3333333432674408,1,True,True
+S10,10.7,NSFC,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,True,True
+S11,11.1,NSFC,K01,State measurement and problem diagnosis,0.07839721316677997,0.020399104568556065,0.15190065928159993,2.2500000298023224,6,False,True
+S11,11.1,NSFC,K02,Mechanism analysis and causal identification,0.5691056904659464,0.42015953394640104,0.7106934004927344,16.333333402872086,29,False,True
+S11,11.1,NSFC,K03,Scenario simulation and risk prediction,0.0,0.0,0.0,0.0,0,False,True
+S11,11.1,NSFC,K04,Intervention design and performance optimization,0.20325203179006235,0.08217661310036618,0.3419996655208135,5.833333343267441,9,False,True
+S11,11.1,NSFC,K05,Planning decision support and policy design,0.14924506457721126,0.06894624865786654,0.2451367361131337,4.283333376049995,11,False,True
+S11,11.1,NSFC,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,False,True
+S11,11.2,NSFC,K01,State measurement and problem diagnosis,0.15204286667233266,0.11182703988950099,0.19733051295403672,37.83333334326744,47,False,True
+S11,11.2,NSFC,K02,Mechanism analysis and causal identification,0.1838580040431009,0.14252017323555954,0.22803857053111676,45.75000002980232,63,False,True
+S11,11.2,NSFC,K03,Scenario simulation and risk prediction,0.1453449430720611,0.10556747700095291,0.18872056589966477,36.16666668653488,42,False,True
+S11,11.2,NSFC,K04,Intervention design and performance optimization,0.4149363696298032,0.35627590181847996,0.4721886286723046,103.25000002980232,125,False,True
+S11,11.2,NSFC,K05,Planning decision support and policy design,0.10381781658270212,0.07182309662892233,0.13744536095128745,25.833333373069763,39,False,True
+S11,11.2,NSFC,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,False,True
+S11,11.3,NSFC,K01,State measurement and problem diagnosis,0.18935978343295395,0.1593635678097877,0.21867751494751986,108.00000005960464,135,False,True
+S11,11.3,NSFC,K02,Mechanism analysis and causal identification,0.375797348266067,0.34043174692038763,0.4122446177969921,214.33333361148834,302,False,True
+S11,11.3,NSFC,K03,Scenario simulation and risk prediction,0.08079935211315235,0.06074509121104543,0.1021208768437918,46.083333402872086,61,False,True
+S11,11.3,NSFC,K04,Intervention design and performance optimization,0.08777093146624936,0.06751522236173324,0.10941090832825537,50.05952389538288,76,False,True
+S11,11.3,NSFC,K05,Planning decision support and policy design,0.26276592206734684,0.2309308546441561,0.2954601831017625,149.86666695773602,230,False,True
+S11,11.3,NSFC,K06,Implementation monitoring and impact evaluation,0.0035066626542305046,0.0,0.00880704912303094,2.0,2,False,True
+S11,11.4,NSFC,K01,State measurement and problem diagnosis,0.19710144924381354,0.1042006092221971,0.29782104666733933,11.33333334326744,13,False,True
+S11,11.4,NSFC,K02,Mechanism analysis and causal identification,0.4014492751189426,0.28669448262342284,0.5221991314883391,23.08333334326744,29,False,True
+S11,11.4,NSFC,K03,Scenario simulation and risk prediction,0.026086956494697326,0.0,0.07080520472455287,1.5,2,False,True
+S11,11.4,NSFC,K04,Intervention design and performance optimization,0.08840579718257469,0.027530542707398572,0.16319029052595635,5.083333343267441,8,False,True
+S11,11.4,NSFC,K05,Planning decision support and policy design,0.28695652195997184,0.1872437028002592,0.3985405394761217,16.500000029802322,26,False,True
+S11,11.4,NSFC,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,False,True
+S11,11.5,NSFC,K01,State measurement and problem diagnosis,0.16683767686909223,0.13380486482770695,0.201217096007683,67.75000002980232,89,False,True
+S11,11.5,NSFC,K02,Mechanism analysis and causal identification,0.24030371437431675,0.2036860480729392,0.27739102260143167,97.58333346247673,142,False,True
+S11,11.5,NSFC,K03,Scenario simulation and risk prediction,0.3191052737472788,0.2795043558907902,0.360378604987807,129.58333340287209,176,False,True
+S11,11.5,NSFC,K04,Intervention design and performance optimization,0.1984403858794541,0.16465085104704252,0.23487734248482908,80.58333346247673,118,False,True
+S11,11.5,NSFC,K05,Planning decision support and policy design,0.07223476321111821,0.05224615816290274,0.09344417273246212,29.33333346247673,50,False,True
+S11,11.5,NSFC,K06,Implementation monitoring and impact evaluation,0.0030781859187398995,0.0,0.008825522648025977,1.25,2,False,True
+S11,11.6,NSFC,K01,State measurement and problem diagnosis,0.2825926550650371,0.24083923491317194,0.3248135085989197,111.25000005960464,139,False,True
+S11,11.6,NSFC,K02,Mechanism analysis and causal identification,0.4777615152668133,0.43338448195802715,0.5242731060844532,188.0833335518837,252,False,True
+S11,11.6,NSFC,K03,Scenario simulation and risk prediction,0.05440173219568669,0.03613812750089325,0.07411195511901254,21.416666716337204,35,False,True
+S11,11.6,NSFC,K04,Intervention design and performance optimization,0.11094445531595591,0.08492692564721631,0.1394939012207918,43.676190584897995,69,False,True
+S11,11.6,NSFC,K05,Planning decision support and policy design,0.0662558062358378,0.0458227825915834,0.08799250954889595,26.083333432674408,43,False,True
+S11,11.6,NSFC,K06,Implementation monitoring and impact evaluation,0.008043835920669175,0.0020469898820366134,0.015836007994720482,3.1666666865348816,6,False,True
+S11,11.7,NSFC,K01,State measurement and problem diagnosis,0.23754789263455828,0.14679596709677042,0.33204584811223303,15.500000029802322,22,False,True
+S11,11.7,NSFC,K02,Mechanism analysis and causal identification,0.39463601488117966,0.29740786853274404,0.5000184092239637,25.750000029802322,40,False,True
+S11,11.7,NSFC,K03,Scenario simulation and risk prediction,0.017879949178092897,0.0,0.04315967090242081,1.1666666865348816,3,False,True
+S11,11.7,NSFC,K04,Intervention design and performance optimization,0.11877394608890886,0.05295438849941446,0.1914064762244143,7.75,11,False,True
+S11,11.7,NSFC,K05,Planning decision support and policy design,0.23116219721726028,0.1499302086395288,0.31960517374679986,15.083333402872086,28,False,True
+S11,11.7,NSFC,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,False,True
+S11,11.a,NSFC,K01,State measurement and problem diagnosis,0.12931995536335347,0.06224169599636383,0.19979495228856756,9.666666686534882,14,False,True
+S11,11.a,NSFC,K02,Mechanism analysis and causal identification,0.568561872745688,0.4771276058226216,0.6608982232607256,42.50000008940697,68,False,True
+S11,11.a,NSFC,K03,Scenario simulation and risk prediction,0.03010033437615573,0.00662178878393484,0.06056549034209437,2.25,5,False,True
+S11,11.a,NSFC,K04,Intervention design and performance optimization,0.01783723531876782,0.0,0.042204852367556986,1.3333333432674408,3,False,True
+S11,11.a,NSFC,K05,Planning decision support and policy design,0.25418060219603494,0.1774086500320994,0.32945272652245766,19.000000059604645,35,False,True
+S11,11.a,NSFC,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,False,True
+S11,11.b,NSFC,K01,State measurement and problem diagnosis,0.16666666634962068,0.10469004763970072,0.23127822618785326,15.666666686534882,27,False,True
+S11,11.b,NSFC,K02,Mechanism analysis and causal identification,0.3368794324015067,0.25987931198204073,0.4152339435648712,31.666666746139526,57,False,True
+S11,11.b,NSFC,K03,Scenario simulation and risk prediction,0.08599290763446338,0.04449291566947561,0.13425207845528336,8.08333334326744,15,False,True
+S11,11.b,NSFC,K04,Intervention design and performance optimization,0.13475177315083028,0.08630084075250433,0.18970869962743286,12.666666716337204,25,False,True
+S11,11.b,NSFC,K05,Planning decision support and policy design,0.2730496460039259,0.20218804501210613,0.34697439785179945,25.66666680574417,50,False,True
+S11,11.b,NSFC,K06,Implementation monitoring and impact evaluation,0.0026595744596530323,0.0,0.008931715269126063,0.25,1,False,True
+S12,12.1,NSFC,K01,State measurement and problem diagnosis,0.0,0.0,0.0,0.0,0,True,True
+S12,12.1,NSFC,K02,Mechanism analysis and causal identification,1.0,1.0,1.0,1.0,2,True,True
+S12,12.1,NSFC,K03,Scenario simulation and risk prediction,0.0,0.0,0.0,0.0,0,True,True
+S12,12.1,NSFC,K04,Intervention design and performance optimization,0.0,0.0,0.0,0.0,0,True,True
+S12,12.1,NSFC,K05,Planning decision support and policy design,0.0,0.0,0.0,0.0,0,True,True
+S12,12.1,NSFC,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,True,True
+S12,12.2,NSFC,K01,State measurement and problem diagnosis,0.31207000875966445,0.2015064187452681,0.4271039474478301,13.500000029802322,21,False,True
+S12,12.2,NSFC,K02,Mechanism analysis and causal identification,0.18878309176133523,0.10581538255482495,0.27966949093425664,8.166666686534882,16,False,True
+S12,12.2,NSFC,K03,Scenario simulation and risk prediction,0.13484506613431316,0.05997067944559681,0.22452754086022103,5.833333373069763,11,False,True
+S12,12.2,NSFC,K04,Intervention design and performance optimization,0.18823270411731177,0.0999895782502404,0.2828774652057116,8.142857179045677,17,False,True
+S12,12.2,NSFC,K05,Planning decision support and policy design,0.1760691292273754,0.10259644886654076,0.2573637236921384,7.616666719317436,18,False,True
+S12,12.2,NSFC,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,False,True
+S12,12.3,NSFC,K01,State measurement and problem diagnosis,0.2142857133733983,0.0,1.0,0.5,1,True,True
+S12,12.3,NSFC,K02,Mechanism analysis and causal identification,0.4285714267467966,0.0,1.0,1.0,1,True,True
+S12,12.3,NSFC,K03,Scenario simulation and risk prediction,0.1428571465064068,0.0,1.0,0.3333333432674408,1,True,True
+S12,12.3,NSFC,K04,Intervention design and performance optimization,0.2142857133733983,0.0,0.8551948015063361,0.5,1,True,True
+S12,12.3,NSFC,K05,Planning decision support and policy design,0.0,0.0,0.0,0.0,0,True,True
+S12,12.3,NSFC,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,True,True
+S12,12.4,NSFC,K01,State measurement and problem diagnosis,0.18402426689571466,0.11894552196389069,0.2582772271790824,15.166666716337204,27,False,True
+S12,12.4,NSFC,K02,Mechanism analysis and causal identification,0.5267947416482671,0.43517410006361695,0.6196490545369322,43.41666677594185,69,False,True
+S12,12.4,NSFC,K03,Scenario simulation and risk prediction,0.08695652203784804,0.04169979661576289,0.1377847302907781,7.166666716337204,14,False,True
+S12,12.4,NSFC,K04,Intervention design and performance optimization,0.1294236604131647,0.07539727208646577,0.1900875716747739,10.666666716337204,19,False,True
+S12,12.4,NSFC,K05,Planning decision support and policy design,0.060667340897772155,0.025073420157877162,0.10251102854978804,5.000000029802322,10,False,True
+S12,12.4,NSFC,K06,Implementation monitoring and impact evaluation,0.012133468107233326,0.0,0.030930233693499367,1.0,2,False,True
+S12,12.5,NSFC,K01,State measurement and problem diagnosis,0.047076406055277756,0.01718770998914828,0.08696308890658036,3.0000000298023224,7,False,True
+S12,12.5,NSFC,K02,Mechanism analysis and causal identification,0.3909957022755827,0.2959634415321559,0.4928403913148476,24.91666668653488,40,False,True
+S12,12.5,NSFC,K03,Scenario simulation and risk prediction,0.07584532026926817,0.025067896856032515,0.1330232298747894,4.833333343267441,8,False,True
+S12,12.5,NSFC,K04,Intervention design and performance optimization,0.34485335416936225,0.25464847671437246,0.4324333617927567,21.976190611720085,45,False,True
+S12,12.5,NSFC,K05,Planning decision support and policy design,0.12553708203463723,0.06616378124662811,0.1885386949820649,8.000000029802322,15,False,True
+S12,12.5,NSFC,K06,Implementation monitoring and impact evaluation,0.015692135195871895,0.0,0.042941741352930565,1.0,2,False,True
+S12,12.6,NSFC,K01,State measurement and problem diagnosis,0.0,0.0,0.0,0.0,0,False,True
+S12,12.6,NSFC,K02,Mechanism analysis and causal identification,0.4874999996367842,0.23518099466546943,0.722922724878145,6.5,8,False,True
+S12,12.6,NSFC,K03,Scenario simulation and risk prediction,0.0,0.0,0.0,0.0,0,False,True
+S12,12.6,NSFC,K04,Intervention design and performance optimization,0.3625000004749745,0.14814814814814814,0.604395604913843,4.833333343267441,8,False,True
+S12,12.6,NSFC,K05,Planning decision support and policy design,0.14999999988824128,0.0,0.3488662788340404,2.0,3,False,True
+S12,12.6,NSFC,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,False,True
+S12,12.7,NSFC,K01,State measurement and problem diagnosis,,,,0.0,0,True,False
+S12,12.7,NSFC,K02,Mechanism analysis and causal identification,,,,0.0,0,True,False
+S12,12.7,NSFC,K03,Scenario simulation and risk prediction,,,,0.0,0,True,False
+S12,12.7,NSFC,K04,Intervention design and performance optimization,,,,0.0,0,True,False
+S12,12.7,NSFC,K05,Planning decision support and policy design,,,,0.0,0,True,False
+S12,12.7,NSFC,K06,Implementation monitoring and impact evaluation,,,,0.0,0,True,False
+S12,12.8,NSFC,K01,State measurement and problem diagnosis,0.04918032777274177,0.0,0.180045454323927,0.5,1,False,True
+S12,12.8,NSFC,K02,Mechanism analysis and causal identification,0.7213114749773379,0.4284954400360901,0.9459815066403038,7.333333343267441,10,False,True
+S12,12.8,NSFC,K03,Scenario simulation and risk prediction,0.0,0.0,0.0,0.0,0,False,True
+S12,12.8,NSFC,K04,Intervention design and performance optimization,0.09836065554548354,0.0,0.3103448269483451,1.0,1,False,True
+S12,12.8,NSFC,K05,Planning decision support and policy design,0.1311475417044367,0.0,0.3333333333333333,1.3333333432674408,3,False,True
+S12,12.8,NSFC,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,False,True
+S12,12.a,NSFC,K01,State measurement and problem diagnosis,,,,0.0,0,True,False
+S12,12.a,NSFC,K02,Mechanism analysis and causal identification,,,,0.0,0,True,False
+S12,12.a,NSFC,K03,Scenario simulation and risk prediction,,,,0.0,0,True,False
+S12,12.a,NSFC,K04,Intervention design and performance optimization,,,,0.0,0,True,False
+S12,12.a,NSFC,K05,Planning decision support and policy design,,,,0.0,0,True,False
+S12,12.a,NSFC,K06,Implementation monitoring and impact evaluation,,,,0.0,0,True,False
+S12,12.b,NSFC,K01,State measurement and problem diagnosis,0.375,0.0,0.8571428571428571,1.5,2,True,True
+S12,12.b,NSFC,K02,Mechanism analysis and causal identification,0.25,0.0,0.75,1.0,2,True,True
+S12,12.b,NSFC,K03,Scenario simulation and risk prediction,0.125,0.0,0.5,0.5,1,True,True
+S12,12.b,NSFC,K04,Intervention design and performance optimization,0.0,0.0,0.0,0.0,0,True,True
+S12,12.b,NSFC,K05,Planning decision support and policy design,0.25,0.0,0.6666666666666666,1.0,1,True,True
+S12,12.b,NSFC,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,True,True
+S13,13.1,NSFC,K01,State measurement and problem diagnosis,0.2217673787318551,0.18652779037603065,0.2582955050852777,98.41666674613953,127,False,True
+S13,13.1,NSFC,K02,Mechanism analysis and causal identification,0.49329627805539794,0.4509269240117297,0.5307726627917833,218.91666701436043,333,False,True
+S13,13.1,NSFC,K03,Scenario simulation and risk prediction,0.20625680703860858,0.17620989028256148,0.2374336507315751,91.53333352506161,163,False,True
+S13,13.1,NSFC,K04,Intervention design and performance optimization,0.05483156206755085,0.03823966150648744,0.07233505472043798,24.333333432674408,44,False,True
+S13,13.1,NSFC,K05,Planning decision support and policy design,0.02384797410658756,0.014732639434078635,0.033906349888789905,10.58333346247673,25,False,True
+S13,13.1,NSFC,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,False,True
+S13,13.2,NSFC,K01,State measurement and problem diagnosis,0.1683764494369343,0.125323211345439,0.21417810182156619,37.750000059604645,52,False,True
+S13,13.2,NSFC,K02,Mechanism analysis and causal identification,0.42633065651202773,0.3703262270428052,0.47933318528719304,95.58333343267441,143,False,True
+S13,13.2,NSFC,K03,Scenario simulation and risk prediction,0.11410942639394676,0.0832233617650101,0.15150565711653555,25.58333346247673,49,False,True
+S13,13.2,NSFC,K04,Intervention design and performance optimization,0.07746060069235047,0.051769763888006665,0.10626369254256102,17.366666719317436,32,False,True
+S13,13.2,NSFC,K05,Planning decision support and policy design,0.20405887641597223,0.16241099973954556,0.24641727046386588,45.75000020861626,86,False,True
+S13,13.2,NSFC,K06,Implementation monitoring and impact evaluation,0.009663990548768523,0.001416230034763293,0.022015134418509268,2.1666666865348816,4,False,True
+S13,13.3,NSFC,K01,State measurement and problem diagnosis,0.24324324304731856,0.08426082339031651,0.420623651808344,6.0,7,False,True
+S13,13.3,NSFC,K02,Mechanism analysis and causal identification,0.6756756759369086,0.4873292806732735,0.8529463188917459,16.66666668653488,20,False,True
+S13,13.3,NSFC,K03,Scenario simulation and risk prediction,0.04054054050788643,0.0,0.1372026577113876,1.0,1,False,True
+S13,13.3,NSFC,K04,Intervention design and performance optimization,0.04054054050788643,0.0,0.13240232648319517,1.0,1,False,True
+S13,13.3,NSFC,K05,Planning decision support and policy design,0.0,0.0,0.0,0.0,0,False,True
+S13,13.3,NSFC,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,False,True
+S13,13.b,NSFC,K01,State measurement and problem diagnosis,,,,0.0,0,True,False
+S13,13.b,NSFC,K02,Mechanism analysis and causal identification,,,,0.0,0,True,False
+S13,13.b,NSFC,K03,Scenario simulation and risk prediction,,,,0.0,0,True,False
+S13,13.b,NSFC,K04,Intervention design and performance optimization,,,,0.0,0,True,False
+S13,13.b,NSFC,K05,Planning decision support and policy design,,,,0.0,0,True,False
+S13,13.b,NSFC,K06,Implementation monitoring and impact evaluation,,,,0.0,0,True,False
+S15,15.1,NSFC,K01,State measurement and problem diagnosis,0.2544775444789848,0.21511998283861714,0.2959775243669929,94.25000008940697,122,False,True
+S15,15.1,NSFC,K02,Mechanism analysis and causal identification,0.5742057417825608,0.5284655199930354,0.6193572019998058,212.66666701436043,313,False,True
+S15,15.1,NSFC,K03,Scenario simulation and risk prediction,0.08604086052984061,0.06308613999703182,0.11083094829933189,31.86666677892208,55,False,True
+S15,15.1,NSFC,K04,Intervention design and performance optimization,0.030600306166373215,0.018354947082543305,0.04396794350124889,11.333333417773247,24,False,True
+S15,15.1,NSFC,K05,Planning decision support and policy design,0.04792547955583254,0.033249920888516506,0.06446080544099998,17.750000149011612,41,False,True
+S15,15.1,NSFC,K06,Implementation monitoring and impact evaluation,0.006750067486408052,0.0,0.015018195773315859,2.5,3,False,True
+S15,15.2,NSFC,K01,State measurement and problem diagnosis,0.28499369455166496,0.18116768727310545,0.3820085358313952,18.83333334326744,23,False,True
+S15,15.2,NSFC,K02,Mechanism analysis and causal identification,0.5220680955047594,0.4174543310569316,0.6343543265641944,34.50000002980232,51,False,True
+S15,15.2,NSFC,K03,Scenario simulation and risk prediction,0.09583858809910298,0.04206253322982171,0.15806753889721908,6.333333373069763,11,False,True
+S15,15.2,NSFC,K04,Intervention design and performance optimization,0.0731399748196969,0.02263797167857536,0.1338386275011964,4.833333343267441,7,False,True
+S15,15.2,NSFC,K05,Planning decision support and policy design,0.023959647024775745,0.004137363411699423,0.05146316084997984,1.5833333432674408,4,False,True
+S15,15.2,NSFC,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,False,True
+S15,15.3,NSFC,K01,State measurement and problem diagnosis,0.2417998316360034,0.18143630570474842,0.3087689471881638,38.33333337306976,51,False,True
+S15,15.3,NSFC,K02,Mechanism analysis and causal identification,0.5903069806672785,0.5188567913886825,0.659267578628801,93.58333349227905,123,False,True
+S15,15.3,NSFC,K03,Scenario simulation and risk prediction,0.06959629937585429,0.0388903765481595,0.10586075775440672,11.033333346247673,18,False,True
+S15,15.3,NSFC,K04,Intervention design and performance optimization,0.06097560987301676,0.03141607807902557,0.09406632720042275,9.666666701436043,17,False,True
+S15,15.3,NSFC,K05,Planning decision support and policy design,0.03732127844784705,0.017252089314397916,0.060181036936036054,5.916666686534882,12,False,True
+S15,15.3,NSFC,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,False,True
+S15,15.4,NSFC,K01,State measurement and problem diagnosis,0.13984674328386315,0.07312491221165288,0.21553588455929082,12.166666686534882,16,False,True
+S15,15.4,NSFC,K02,Mechanism analysis and causal identification,0.7490421452244086,0.6653156339725035,0.8284711999648993,65.16666674613953,88,False,True
+S15,15.4,NSFC,K03,Scenario simulation and risk prediction,0.0804597703196883,0.03393197488752143,0.13267674862456177,7.000000029802322,11,False,True
+S15,15.4,NSFC,K04,Intervention design and performance optimization,0.0,0.0,0.0,0.0,0,False,True
+S15,15.4,NSFC,K05,Planning decision support and policy design,0.019157088318163828,0.0036963480984003767,0.041452244448883104,1.6666666865348816,4,False,True
+S15,15.4,NSFC,K06,Implementation monitoring and impact evaluation,0.011494252853876124,0.0,0.038797301712742135,1.0,1,False,True
+S15,15.5,NSFC,K01,State measurement and problem diagnosis,0.14248579951863788,0.0978806054765259,0.1876795862805813,24.666666716337204,38,False,True
+S15,15.5,NSFC,K02,Mechanism analysis and causal identification,0.6792144019855568,0.6213139917140339,0.7374452221497686,117.58333349227905,168,False,True
+S15,15.5,NSFC,K03,Scenario simulation and risk prediction,0.107538269048614,0.0706276621181924,0.1469666225978062,18.616666719317436,30,False,True
+S15,15.5,NSFC,K04,Intervention design and performance optimization,0.04043515949966111,0.019360037977593936,0.06530899889976262,7.000000044703484,14,False,True
+S15,15.5,NSFC,K05,Planning decision support and policy design,0.030326369947530202,0.014956217829112346,0.0478483230543037,5.250000089406967,14,False,True
+S15,15.5,NSFC,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,False,True
+S15,15.8,NSFC,K01,State measurement and problem diagnosis,0.152866241922146,0.034468147247740215,0.2920353976254764,4.0,5,False,True
+S15,15.8,NSFC,K02,Mechanism analysis and causal identification,0.6751592359154397,0.495792742148349,0.8421463819689421,17.66666668653488,21,False,True
+S15,15.8,NSFC,K03,Scenario simulation and risk prediction,0.17197452216241427,0.04223166582177664,0.31875226425431785,4.5,5,False,True
+S15,15.8,NSFC,K04,Intervention design and performance optimization,0.0,0.0,0.0,0.0,0,False,True
+S15,15.8,NSFC,K05,Planning decision support and policy design,0.0,0.0,0.0,0.0,0,False,True
+S15,15.8,NSFC,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,False,True
+S15,15.9,NSFC,K01,State measurement and problem diagnosis,0.12729498151530994,0.06570846674791414,0.19636741714253172,8.666666716337204,15,False,True
+S15,15.9,NSFC,K02,Mechanism analysis and causal identification,0.31211750359147017,0.23140275393588963,0.39497088248176127,21.250000178813934,46,False,True
+S15,15.9,NSFC,K03,Scenario simulation and risk prediction,0.13219094202294004,0.06758058715275818,0.20254464455656332,9.000000029802322,16,False,True
+S15,15.9,NSFC,K04,Intervention design and performance optimization,0.1175030600623167,0.06287386951585922,0.17853063231072674,8.000000059604645,16,False,True
+S15,15.9,NSFC,K05,Planning decision support and policy design,0.3108935128079631,0.23448488836714051,0.4004728046339737,21.16666680574417,47,False,True
+S15,15.9,NSFC,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,False,True
+S15,15.a,NSFC,K01,State measurement and problem diagnosis,0.0,0.0,0.0,0.0,0,True,True
+S15,15.a,NSFC,K02,Mechanism analysis and causal identification,0.0,0.0,0.0,0.0,0,True,True
+S15,15.a,NSFC,K03,Scenario simulation and risk prediction,0.0,0.0,0.0,0.0,0,True,True
+S15,15.a,NSFC,K04,Intervention design and performance optimization,0.0,0.0,0.0,0.0,0,True,True
+S15,15.a,NSFC,K05,Planning decision support and policy design,1.0,1.0,1.0,1.5,2,True,True
+S15,15.a,NSFC,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,True,True
+S16,16.1,NSFC,K01,State measurement and problem diagnosis,0.0,0.0,0.0,0.0,0,True,True
+S16,16.1,NSFC,K02,Mechanism analysis and causal identification,0.5714285787270993,0.0,1.0,0.3333333432674408,1,True,True
+S16,16.1,NSFC,K03,Scenario simulation and risk prediction,0.0,0.0,0.0,0.0,0,True,True
+S16,16.1,NSFC,K04,Intervention design and performance optimization,0.0,0.0,0.0,0.0,0,True,True
+S16,16.1,NSFC,K05,Planning decision support and policy design,0.42857142127290077,0.0,1.0,0.25,1,True,True
+S16,16.1,NSFC,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,True,True
+S16,16.3,NSFC,K01,State measurement and problem diagnosis,,,,0.0,0,True,False
+S16,16.3,NSFC,K02,Mechanism analysis and causal identification,,,,0.0,0,True,False
+S16,16.3,NSFC,K03,Scenario simulation and risk prediction,,,,0.0,0,True,False
+S16,16.3,NSFC,K04,Intervention design and performance optimization,,,,0.0,0,True,False
+S16,16.3,NSFC,K05,Planning decision support and policy design,,,,0.0,0,True,False
+S16,16.3,NSFC,K06,Implementation monitoring and impact evaluation,,,,0.0,0,True,False
+S16,16.6,NSFC,K01,State measurement and problem diagnosis,0.0,0.0,0.0,0.0,0,False,True
+S16,16.6,NSFC,K02,Mechanism analysis and causal identification,0.7092511009676294,0.5322452638038077,0.8762035217948385,13.416666716337204,22,False,True
+S16,16.6,NSFC,K03,Scenario simulation and risk prediction,0.0,0.0,0.0,0.0,0,False,True
+S16,16.6,NSFC,K04,Intervention design and performance optimization,0.017621145825570287,0.0,0.05970895678369335,0.3333333432674408,1,False,True
+S16,16.6,NSFC,K05,Planning decision support and policy design,0.2731277532068003,0.10406621742983871,0.44928686481925284,5.166666686534882,9,False,True
+S16,16.6,NSFC,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,False,True
+S16,16.7,NSFC,K01,State measurement and problem diagnosis,0.0,0.0,0.0,0.0,0,False,True
+S16,16.7,NSFC,K02,Mechanism analysis and causal identification,0.5223880609363404,0.27142857446658364,0.7516778525422969,5.833333373069763,10,False,True
+S16,16.7,NSFC,K03,Scenario simulation and risk prediction,0.0,0.0,0.0,0.0,0,False,True
+S16,16.7,NSFC,K04,Intervention design and performance optimization,0.04477611920381607,0.0,0.15655606341568165,0.5,1,False,True
+S16,16.7,NSFC,K05,Planning decision support and policy design,0.43283581985984354,0.19230132567682237,0.6874999974388629,4.833333343267441,9,False,True
+S16,16.7,NSFC,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,False,True
+S16,16.9,NSFC,K01,State measurement and problem diagnosis,,,,0.0,0,True,False
+S16,16.9,NSFC,K02,Mechanism analysis and causal identification,,,,0.0,0,True,False
+S16,16.9,NSFC,K03,Scenario simulation and risk prediction,,,,0.0,0,True,False
+S16,16.9,NSFC,K04,Intervention design and performance optimization,,,,0.0,0,True,False
+S16,16.9,NSFC,K05,Planning decision support and policy design,,,,0.0,0,True,False
+S16,16.9,NSFC,K06,Implementation monitoring and impact evaluation,,,,0.0,0,True,False
+S16,16.10,NSFC,K01,State measurement and problem diagnosis,0.0,0.0,0.0,0.0,0,True,True
+S16,16.10,NSFC,K02,Mechanism analysis and causal identification,1.0,1.0,1.0,0.3333333432674408,1,True,True
+S16,16.10,NSFC,K03,Scenario simulation and risk prediction,0.0,0.0,0.0,0.0,0,True,True
+S16,16.10,NSFC,K04,Intervention design and performance optimization,0.0,0.0,0.0,0.0,0,True,True
+S16,16.10,NSFC,K05,Planning decision support and policy design,0.0,0.0,0.0,0.0,0,True,True
+S16,16.10,NSFC,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,True,True
+S16,16.a,NSFC,K01,State measurement and problem diagnosis,0.0,0.0,0.0,0.0,0,True,True
+S16,16.a,NSFC,K02,Mechanism analysis and causal identification,0.0,0.0,0.0,0.0,0,True,True
+S16,16.a,NSFC,K03,Scenario simulation and risk prediction,0.0,0.0,0.0,0.0,0,True,True
+S16,16.a,NSFC,K04,Intervention design and performance optimization,0.0,0.0,0.0,0.0,0,True,True
+S16,16.a,NSFC,K05,Planning decision support and policy design,1.0,1.0,1.0,0.5,1,True,True
+S16,16.a,NSFC,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,True,True
+S17,17.6,NSFC,K01,State measurement and problem diagnosis,,,,0.0,0,True,False
+S17,17.6,NSFC,K02,Mechanism analysis and causal identification,,,,0.0,0,True,False
+S17,17.6,NSFC,K03,Scenario simulation and risk prediction,,,,0.0,0,True,False
+S17,17.6,NSFC,K04,Intervention design and performance optimization,,,,0.0,0,True,False
+S17,17.6,NSFC,K05,Planning decision support and policy design,,,,0.0,0,True,False
+S17,17.6,NSFC,K06,Implementation monitoring and impact evaluation,,,,0.0,0,True,False
+S17,17.9,NSFC,K01,State measurement and problem diagnosis,,,,0.0,0,True,False
+S17,17.9,NSFC,K02,Mechanism analysis and causal identification,,,,0.0,0,True,False
+S17,17.9,NSFC,K03,Scenario simulation and risk prediction,,,,0.0,0,True,False
+S17,17.9,NSFC,K04,Intervention design and performance optimization,,,,0.0,0,True,False
+S17,17.9,NSFC,K05,Planning decision support and policy design,,,,0.0,0,True,False
+S17,17.9,NSFC,K06,Implementation monitoring and impact evaluation,,,,0.0,0,True,False
+S17,17.14,NSFC,K01,State measurement and problem diagnosis,0.0,0.0,0.0,0.0,0,True,True
+S17,17.14,NSFC,K02,Mechanism analysis and causal identification,0.4067796569074649,0.0,0.7241379250811056,2.0,3,True,True
+S17,17.14,NSFC,K03,Scenario simulation and risk prediction,0.1355932230101478,0.0,0.37500000419095153,0.6666666865348816,2,True,True
+S17,17.14,NSFC,K04,Intervention design and performance optimization,0.0,0.0,0.0,0.0,0,True,True
+S17,17.14,NSFC,K05,Planning decision support and policy design,0.45762712008238726,0.1626682996708176,0.8461538451751308,2.2500000298023224,6,True,True
+S17,17.14,NSFC,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,True,True
+S17,17.16,NSFC,K01,State measurement and problem diagnosis,0.0,0.0,0.0,0.0,0,True,True
+S17,17.16,NSFC,K02,Mechanism analysis and causal identification,0.0,0.0,0.0,0.0,0,True,True
+S17,17.16,NSFC,K03,Scenario simulation and risk prediction,0.0,0.0,0.0,0.0,0,True,True
+S17,17.16,NSFC,K04,Intervention design and performance optimization,1.0,1.0,1.0,0.75,2,True,True
+S17,17.16,NSFC,K05,Planning decision support and policy design,0.0,0.0,0.0,0.0,0,True,True
+S17,17.16,NSFC,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,True,True
+S17,17.17,NSFC,K01,State measurement and problem diagnosis,0.0,0.0,0.0,0.0,0,True,True
+S17,17.17,NSFC,K02,Mechanism analysis and causal identification,0.4,0.0,1.0,1.0,1,True,True
+S17,17.17,NSFC,K03,Scenario simulation and risk prediction,0.0,0.0,0.0,0.0,0,True,True
+S17,17.17,NSFC,K04,Intervention design and performance optimization,0.0,0.0,0.0,0.0,0,True,True
+S17,17.17,NSFC,K05,Planning decision support and policy design,0.6,0.0,1.0,1.5,3,True,True
+S17,17.17,NSFC,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,True,True
+S17,17.18,NSFC,K01,State measurement and problem diagnosis,1.0,1.0,1.0,1.0,1,True,True
+S17,17.18,NSFC,K02,Mechanism analysis and causal identification,0.0,0.0,0.0,0.0,0,True,True
+S17,17.18,NSFC,K03,Scenario simulation and risk prediction,0.0,0.0,0.0,0.0,0,True,True
+S17,17.18,NSFC,K04,Intervention design and performance optimization,0.0,0.0,0.0,0.0,0,True,True
+S17,17.18,NSFC,K05,Planning decision support and policy design,0.0,0.0,0.0,0.0,0,True,True
+S17,17.18,NSFC,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,True,True
+S17,17.19,NSFC,K01,State measurement and problem diagnosis,0.0,0.0,0.0,0.0,0,True,True
+S17,17.19,NSFC,K02,Mechanism analysis and causal identification,0.0,0.0,0.0,0.0,0,True,True
+S17,17.19,NSFC,K03,Scenario simulation and risk prediction,1.0,1.0,1.0,0.3333333432674408,1,True,True
+S17,17.19,NSFC,K04,Intervention design and performance optimization,0.0,0.0,0.0,0.0,0,True,True
+S17,17.19,NSFC,K05,Planning decision support and policy design,0.0,0.0,0.0,0.0,0,True,True
+S17,17.19,NSFC,K06,Implementation monitoring and impact evaluation,0.0,0.0,0.0,0.0,0,True,True

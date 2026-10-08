@@ -1,0 +1,7 @@
+﻿state,fraction,rank,rank_method
+Observed,0.5,17,each state independently ranked; not plotted
+Observed,0.8,61,each state independently ranked; not plotted
+Observed,0.9,101,each state independently ranked; not plotted
+Target–year balanced,0.5,27,each state independently ranked; not plotted
+Target–year balanced,0.8,72,each state independently ranked; not plotted
+Target–year balanced,0.9,112,each state independently ranked; not plotted

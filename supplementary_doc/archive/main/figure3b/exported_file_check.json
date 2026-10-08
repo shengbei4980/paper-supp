@@ -1,0 +1,49 @@
+{
+  "png": {
+    "pixels": [
+      4322,
+      2976
+    ],
+    "dpi": [
+      599.9988,
+      599.9988
+    ],
+    "bytes": 1047160
+  },
+  "tiff": {
+    "pixels": [
+      4322,
+      2976
+    ],
+    "dpi": [
+      600.0,
+      600.0
+    ],
+    "bytes": 1564260
+  },
+  "svg": {
+    "editable_text_elements": 67,
+    "all_palette_values_present": true,
+    "all_four_point_groups_present": true
+  },
+  "pdf": {
+    "valid_header": true,
+    "embedded_truetype": true,
+    "media_box": " 0 0 518.7401574768 357.1653543336 "
+  },
+  "regression": {
+    "independent_lstsq_check": "PASS",
+    "all_locations_included": true,
+    "ci_bounds_ordered": true
+  },
+  "source_preflight": {
+    "ready": true,
+    "strict": false,
+    "counts": {
+      "PASS": 14,
+      "WARN": 0,
+      "FAIL": 0
+    }
+  },
+  "status": "PASS"
+}

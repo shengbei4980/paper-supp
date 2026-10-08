@@ -1,0 +1,21 @@
+{
+  "bootstrap_draws": 2000,
+  "seed": 20261001,
+  "challenge_held_fixed": true,
+  "countries": {
+    "NSF": {
+      "records": 6207,
+      "families": 5000,
+      "observed_themes": 19,
+      "bootstrap_valid": 2000,
+      "source_sha256": "a0b978a338af55d279b7486e84f426c48444f11632f2687e51350a43441b7a20"
+    },
+    "NSFC": {
+      "records": 5546,
+      "families": 5546,
+      "observed_themes": 19,
+      "bootstrap_valid": 2000,
+      "source_sha256": "c36e7bf4496f8b956acda3a19bae39e4b1cab55d0ef88e29ef284af38b9373f7"
+    }
+  }
+}

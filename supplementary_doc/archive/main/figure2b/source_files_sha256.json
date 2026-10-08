@@ -1,0 +1,22 @@
+[
+  {
+    "source": "E:\\可持续发展目标基金\\定稿撰写\\成图\\成图精简休整版本\\figure2\\figure2b\\连接差异四象限与环节椭圆\\数据\\Figure2b_全量连接位移.csv",
+    "copy": "数据/Figure2b_全量连接位移.csv",
+    "sha256": "8decf0b4f3f80719496163b450cbe16d7c1ea03e5e176e0796e961edc71fdb0b"
+  },
+  {
+    "source": "E:\\可持续发展目标基金\\定稿撰写\\成图\\成图精简休整版本\\figure2\\figure2b\\连接差异四象限与环节椭圆\\数据\\Figure2b_阶段共同性与分化.csv",
+    "copy": "数据/Figure2b_阶段共同性与分化.csv",
+    "sha256": "e75a516cac6e7f9dde84f87c476c916e0b42c8272a41c5c0ab248fb0a64cdbe7"
+  },
+  {
+    "source": "E:\\可持续发展目标基金\\定稿撰写\\成图\\成图精简休整版本\\figure2\\figure2b\\连接差异四象限与环节椭圆\\数据\\Figure2b_Bootstrap完整分布.csv",
+    "copy": "数据/Figure2b_Bootstrap完整分布.csv",
+    "sha256": "438fd831b6ee4c21ec2d72794c21d4426103c85da676c8472957c394c30766c0"
+  },
+  {
+    "source": "E:\\可持续发展目标基金\\定稿撰写\\成图\\成图精简休整版本\\figure2\\figure2b\\连接差异四象限与环节椭圆\\数据\\原2a_需求转译全量流.csv",
+    "copy": "数据/原2a_需求转译全量流.csv",
+    "sha256": "8ff9751939cd343e244846403d9c13b57edc1cf0c92e91d7379b8a6b6480f974"
+  }
+]

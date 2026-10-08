@@ -1,0 +1,42 @@
+﻿level,code,label
+Urban-need topic,N05,Water environmental quality and water security
+Urban-need topic,N06,Ecological integrity and biodiversity protection
+Urban-need topic,N02,"Disaster prevention, emergency response and recovery"
+Urban-need topic,N12,"Decarbonization of buildings, transport and industry"
+Urban-need topic,N08,Transport accessibility and travel safety
+Urban-need topic,N01,Climate adaptation and extreme-risk reduction
+Urban-need topic,N03,Critical infrastructure resilience
+Urban-need topic,N10,Urban food access and supply security
+Urban-need topic,N11,Clean-energy access and energy security
+Urban-need topic,N04,Air quality improvement
+Urban-need topic,N16,Social inclusion and distributive equity
+Urban-need topic,N17,Planning and policy implementation capacity
+Urban-need topic,N07,Housing security and community renewal
+Urban-need topic,N19,Urban-rural linkages and cross-regional coordination
+Urban-need topic,N15,Public health and physical and mental well-being
+Urban-need topic,N13,Waste reduction and resource circularity
+Urban-need topic,N14,Reduction of environmental exposure and health risks
+Urban-need topic,N09,Accessibility of urban services
+Urban-need topic,N18,Public participation and multi-actor coordination
+Primary knowledge task,K01,State measurement and problem diagnosis
+Primary knowledge task,K03,Scenario simulation and risk prediction
+Primary knowledge task,K06,Implementation monitoring and impact evaluation
+Primary knowledge task,K02,Mechanism analysis and causal identification
+Primary knowledge task,K04,Intervention design and performance optimization
+Primary knowledge task,K05,Planning decision support and policy design
+Intervention,L01,Engineering and infrastructure intervention
+Intervention,L02,Digital technology intervention
+Intervention,L04,Spatial planning intervention
+Intervention,L03,Ecological restoration intervention
+Intervention,L07,Legal and institutional intervention
+Intervention,L05,Public service and operational intervention
+Intervention,L09,"Participation, collaboration and capacity-building intervention"
+Intervention,L06,Behavioural and demand-management intervention
+Intervention,L08,"Fiscal, financial and market intervention"
+Action stage,A01,Foundational knowledge stage
+Action stage,A03,Controlled validation stage
+Action stage,A07,Post-implementation evaluation stage
+Action stage,A04,Real-world validation stage
+Action stage,A02,Method development stage
+Action stage,A05,Decision and operation integration stage
+Action stage,A06,Diffusion and scaling stage

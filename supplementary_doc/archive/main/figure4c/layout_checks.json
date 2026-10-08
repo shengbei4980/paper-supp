@@ -1,0 +1,29 @@
+{
+  "layout": "12 shared SDG rows: signed gray delta bars behind country points",
+  "country_points": 24,
+  "country_intervals": 24,
+  "signed_delta_bars": 12,
+  "delta_intervals": 12,
+  "sdg_labels": 12,
+  "axes_count": 1,
+  "single_shared_frame": true,
+  "labels_inside_frame": true,
+  "xlim": [
+    -4.5,
+    4.5
+  ],
+  "palette": {
+    "NSF": "#3775BA",
+    "NSFC": "#B64342"
+  },
+  "background": "#DDE2E7",
+  "figure_inches": [
+    7.2,
+    6.6
+  ],
+  "source_data_sha256": {
+    "Figure4b_B_country_estimates.csv": "2eb3b4ef9d6a0e1d518979e9f98d3e404cd17db7d733f6d4fc5c4c7247b745d8",
+    "Figure4b_B_delta_bootstrap_draws.csv": "24620d950d13d5d9bf580569985aacd2d0c2535ed8fbc29b8977bca00472f011",
+    "Figure4b_B_delta_summary.csv": "64c85a6198244a188e93f6eb5c8c82b2b8d4f1ea59589659c5f035e731227bbf"
+  }
+}

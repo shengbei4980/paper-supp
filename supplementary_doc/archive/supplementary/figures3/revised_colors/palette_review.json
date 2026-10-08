@@ -1,0 +1,39 @@
+{
+  "source_project": "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure1\\figure1c\\figure1c网络\\gephi_import\\sdg-制作.gephi",
+  "output_project": "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure1\\figure1c\\figure1c网络\\gephi_import\\颜色休整后\\sdg-制作_颜色休整后.gephi",
+  "nodes": 121,
+  "edges": 803,
+  "edge_groups": {
+    "NSF-specific": 12,
+    "NSFC-specific": 9,
+    "Other stable: NSF": 8,
+    "Other stable: NSFC": 11,
+    "Shared: NSF stronger": 14,
+    "Shared: NSFC stronger": 8,
+    "background": 741
+  },
+  "colors": {
+    "background": [
+      "#CBD2D8",
+      0.16
+    ],
+    "NSF dark": [
+      "#003366",
+      0.88
+    ],
+    "NSFC dark": [
+      "#8B0000",
+      0.88
+    ],
+    "NSF mid": [
+      "#7F99B2",
+      0.62
+    ],
+    "NSFC mid": [
+      "#C57F7F",
+      0.62
+    ]
+  },
+  "shared_rule": "Dark hue follows the larger of strength_nsf and strength_nsfc; original class retained.",
+  "other_stable_rule": "Mid hue follows the sole True stable flag."
+}

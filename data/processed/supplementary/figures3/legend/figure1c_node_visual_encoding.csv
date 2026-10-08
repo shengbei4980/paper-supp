@@ -1,0 +1,13 @@
+﻿sdg_number,sdg_label_en,node_count,current_export_fill,current_export_border,source_csv_color_hex,current_matches_source,shares_neutral_grey_in_current_export
+2,Zero hunger,8,#D3B3B0,#695958,#B89B58,False,False
+3,Good health and well-being,13,#73C000,#396000,#6F9870,False,False
+6,Clean water and sanitation,8,#C0C0C0,#606060,#5B9AAC,False,True
+7,Affordable and clean energy,5,#C0C0C0,#606060,#C5AA58,False,True
+9,"Industry, innovation and infrastructure",8,#C0C0C0,#606060,#C47B61,False,True
+10,Reduced inequalities,10,#FF5584,#7F2A42,#AD6F88,False,False
+11,Sustainable cities and communities,10,#00BD94,#005E4A,#C38F55,False,False
+12,Responsible consumption and production,11,#FF8805,#7F4402,#9C8258,False,False
+13,Climate action,5,#C0C0C0,#606060,#5F8068,False,True
+15,Life on land,12,#00C4FF,#00627F,#7FA064,False,False
+16,"Peace, justice and strong institutions",12,#4C463E,#26231F,#4E7C96,False,False
+17,Partnerships for the goals,19,#DF89FF,#6F447F,#526C83,False,False

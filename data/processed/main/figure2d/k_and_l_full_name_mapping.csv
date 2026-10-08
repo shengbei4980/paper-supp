@@ -1,0 +1,16 @@
+﻿code,name_en,name_zh,source_field
+K01,State measurement and problem diagnosis,状态测量与问题诊断,primary_knowledge_task
+K02,Mechanism analysis and causal identification,机制解析与因果识别,primary_knowledge_task
+K03,Scenario simulation and risk prediction,情景模拟与风险预测,primary_knowledge_task
+K04,Intervention design and performance optimization,干预方案设计与效能优化,primary_knowledge_task
+K05,Planning decision support and policy design,规划决策支持与政策设计,primary_knowledge_task
+K06,Implementation monitoring and impact evaluation,实施监测与效果评估,primary_knowledge_task
+L01,Engineering and infrastructure intervention,工程设施干预,intervention_type_multi
+L02,Digital technology intervention,数字技术干预,intervention_type_multi
+L03,Ecological restoration intervention,生态修复干预,intervention_type_multi
+L04,Spatial planning intervention,空间规划干预,intervention_type_multi
+L05,Public service and operational intervention,公共服务与运营干预,intervention_type_multi
+L06,Behavioural and demand-management intervention,行为与需求管理干预,intervention_type_multi
+L07,Legal and institutional intervention,法规与制度干预,intervention_type_multi
+L08,"Fiscal, financial and market intervention",财税金融与市场干预,intervention_type_multi
+L09,"Participation, collaboration and capacity-building intervention",参与协作与能力建设干预,intervention_type_multi

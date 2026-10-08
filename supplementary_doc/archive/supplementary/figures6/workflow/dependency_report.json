@@ -1,0 +1,40 @@
+{
+  "success": true,
+  "python_executable": "D:\\xuexi\\canshuhua\\anaconda\\Anaconda\\envs\\py311\\python.exe",
+  "required_dependencies": [
+    "Pillow",
+    "matplotlib",
+    "numpy",
+    "pandas"
+  ],
+  "installed_dependencies": [
+    {
+      "import_name": "PIL",
+      "package_name": "Pillow",
+      "installed_version": "10.4.0",
+      "available": true
+    },
+    {
+      "import_name": "matplotlib",
+      "package_name": "matplotlib",
+      "installed_version": "3.10.8",
+      "available": true
+    },
+    {
+      "import_name": "numpy",
+      "package_name": "numpy",
+      "installed_version": "1.26.4",
+      "available": true
+    },
+    {
+      "import_name": "pandas",
+      "package_name": "pandas",
+      "installed_version": "2.3.3",
+      "available": true
+    }
+  ],
+  "missing_dependencies": [],
+  "unresolved_dependencies": [],
+  "version_conflicts": [],
+  "warnings": []
+}

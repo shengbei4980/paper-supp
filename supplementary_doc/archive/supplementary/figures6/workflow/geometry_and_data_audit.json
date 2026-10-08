@@ -1,0 +1,36 @@
+{
+  "passed": true,
+  "source_csv_count": 10,
+  "original_full_label_count": 15,
+  "all_original_full_labels_in_legend": true,
+  "only_codes_on_plot": true,
+  "minimum_intervention_label_gap_px_at_100dpi": 30.804303278688508,
+  "all_csv_sha256_identical": true,
+  "source_csv_sha256": {
+    "Figure2e_K-A_Bootstrap完整分布.csv": "5aa45a54dea7df557e4f20848bb51db45fceb302915577c58ca06a6724680ed8",
+    "Figure2e_K-A中美到达率差异.csv": "232897da86d838de3310417e03850102d2d55a36566ceabd6e6b747a60d90dae",
+    "Figure2e_K-A行动阶段到达曲线.csv": "5c361907386d9e5041e7a56e53f2a5c189a52187c3c9145dea48d0eef3e2d6c4",
+    "Figure2e_K-L_Bootstrap完整分布.csv": "2336beb8ae4f8306f03446d79a9f6c7b7f1a07039530a0687cca169e4e7ef760",
+    "Figure2e_K-L干预条件残差.csv": "40aac018ec5b8e36f5221219b2c59334194231f22561f2995cb4389a079832f4",
+    "Figure2e_分析参数.csv": "4255dec3e0a89114de2aa777538406e232dd9968fc8c2aa04e48b34d781ee343",
+    "Figure2e_数据与流程审计.csv": "6c973a7e0d1fd989cc543c16526fd42c26f937a7b98e4289d4e6638d596ddf06",
+    "Figure2e_熵平衡诊断.csv": "ad9aa57becb284996f78c5e6c09416f00390d0a5e45bae29f502ffe519233d62",
+    "Figure2e_独立复核结果.csv": "b94a06403993d2cf5cc4ccf2faa4f48bbe44f39ecaa2b11f79043ec3904868a4",
+    "Figure2e_项目熵平衡权重.csv": "67fd37ee38481fbb1807b73afcadf5d1433e18279a7a668f16a46ac6bc313523"
+  },
+  "plot_input_rows": {
+    "residual": 54,
+    "reach": 84
+  },
+  "frame_count": 7,
+  "reach_panel_size_variation": {
+    "width": 0.0,
+    "height": 5.551115123125783e-17
+  },
+  "matrix_vertical_alignment_error": {
+    "bottom": 0.0,
+    "top": 0.0
+  },
+  "all_frames_four_sided": true,
+  "figure1a_palette_exact": true
+}

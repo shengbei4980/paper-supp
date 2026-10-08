@@ -1,0 +1,14 @@
+{
+  "success": true,
+  "return_code": 0,
+  "stdout": "Rendered Figure S6: 36 estimates; 17 intervals cross zero\n",
+  "stderr": "",
+  "generated_files": [
+    "E:\\可持续发展目标基金\\定稿撰写\\成图\\补充s图\\s6\\出图\\图S6_六类城市需求领域的知识任务差异_重构.pdf",
+    "E:\\可持续发展目标基金\\定稿撰写\\成图\\补充s图\\s6\\出图\\图S6_六类城市需求领域的知识任务差异_重构.png",
+    "E:\\可持续发展目标基金\\定稿撰写\\成图\\补充s图\\s6\\出图\\图S6_六类城市需求领域的知识任务差异_重构.svg",
+    "E:\\可持续发展目标基金\\定稿撰写\\成图\\补充s图\\s6\\出图\\图S6_六类城市需求领域的知识任务差异_重构.tiff"
+  ],
+  "execution_time": 2.2387,
+  "error_type": ""
+}

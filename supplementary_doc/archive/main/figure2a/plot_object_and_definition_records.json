@@ -1,0 +1,78 @@
+{
+  "layout": "single frame; shared fixed ranks; left individual contributions, right cumulative contributions",
+  "size_mm": [
+    180,
+    110
+  ],
+  "links": 311,
+  "stage_counts": {
+    "Need → pressure": 150,
+    "Pressure → system": 90,
+    "System → knowledge": 71
+  },
+  "points_per_state": 311,
+  "paired_segments": 311,
+  "curve_vertices_per_state": 312,
+  "totals": {
+    "observed": 0.07199832947009982,
+    "balanced": 0.026758182316947057
+  },
+  "contraction_percent": 62.83499559797501,
+  "rank_method": "fixed observed-contribution order; stage/source/target tie-break",
+  "colours": {
+    "observed": "#BC5353",
+    "balanced": "#347CAB"
+  },
+  "colour_meaning": "observed versus balanced, not NSF versus NSFC",
+  "uncertainty": "pointwise percentile 95% bands from original joint project bootstrap replay, 2000 per state; fixed observed ranks and fitted weights; not simultaneous",
+  "thresholds": [
+    {
+      "state": "Observed",
+      "fraction": 0.5,
+      "rank": 17,
+      "cumulative_contribution": 0.03636573194644885,
+      "total": 0.07199832947009988,
+      "rank_method": "fixed observed-contribution order"
+    },
+    {
+      "state": "Observed",
+      "fraction": 0.8,
+      "rank": 61,
+      "cumulative_contribution": 0.057746532292059616,
+      "total": 0.07199832947009988,
+      "rank_method": "fixed observed-contribution order"
+    },
+    {
+      "state": "Observed",
+      "fraction": 0.9,
+      "rank": 101,
+      "cumulative_contribution": 0.06485675810852624,
+      "total": 0.07199832947009988,
+      "rank_method": "fixed observed-contribution order"
+    },
+    {
+      "state": "Target–year balanced",
+      "fraction": 0.5,
+      "rank": 55,
+      "cumulative_contribution": 0.013471471640486954,
+      "total": 0.026758182316947054,
+      "rank_method": "fixed observed-contribution order"
+    },
+    {
+      "state": "Target–year balanced",
+      "fraction": 0.8,
+      "rank": 139,
+      "cumulative_contribution": 0.021726724947456293,
+      "total": 0.026758182316947054,
+      "rank_method": "fixed observed-contribution order"
+    },
+    {
+      "state": "Target–year balanced",
+      "fraction": 0.9,
+      "rank": 193,
+      "cumulative_contribution": 0.024089592508985378,
+      "total": 0.026758182316947054,
+      "rank_method": "fixed observed-contribution order"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "source_paths": 753,
+  "aggregated_edges": 397,
+  "panels": 6,
+  "formats": [
+    ".pdf",
+    ".png",
+    ".svg"
+  ],
+  "files": 21,
+  "panel_mass_errors": [],
+  "stage_share_errors": [],
+  "artifact_check_pass": true,
+  "image_check_pass": true,
+  "warning_check_pass": true,
+  "panel_key_values_match_data": true,
+  "global_legend_removed": true,
+  "six_local_keys_present": true,
+  "passed": true
+}

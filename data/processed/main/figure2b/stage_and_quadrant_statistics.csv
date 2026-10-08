@@ -1,0 +1,4 @@
+﻿stage,stage_index,links,smaller,larger,flips,observed_contribution,balanced_contribution,retained_percent,nsf_covered,nsfc_covered,both_covered,quadrant_I,quadrant_II,quadrant_III,quadrant_IV,quadrant_axis
+Need → pressure,0,150,102,48,33,0.0282985570590386,0.0085080607191792,30.065351747190128,145,140,135,64,19,53,14,0
+Pressure → system,1,90,67,23,20,0.0289385177517519,0.0102344417317747,35.3661573808671,89,88,87,36,11,34,9,0
+System → knowledge,2,71,48,23,17,0.0147612546593093,0.008015679865993,54.30215825819293,70,69,68,29,9,25,8,0

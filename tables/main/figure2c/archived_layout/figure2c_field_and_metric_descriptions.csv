@@ -1,0 +1,9 @@
+﻿field,definition,unit
+delta_pp,NSF minus NSFC conditional knowledge-task probability,percentage points
+ci_low_pp,Lower percentile bound of the bootstrap 95% interval for delta_pp,percentage points
+ci_high_pp,Upper percentile bound of the bootstrap 95% interval for delta_pp,percentage points
+p_value_clipped,"Two-sided bootstrap P value constrained to the valid [0,1] range",probability
+q_value_bh_recomputed,Benjamini-Hochberg adjusted P value across all 324 cells,probability
+quality_gate_recomputed,q < 0.05 and bootstrap 95% CI excludes zero,boolean
+combined_fractional_project_support,NSF plus NSFC fractional path count,fractional projects
+stable_path_count,Number of quality-gated paths with the stated direction,paths

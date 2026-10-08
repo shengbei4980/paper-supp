@@ -1,0 +1,55 @@
+Figure 1b semantic-composition QA report
+===========================================
+NSF projects: 6207
+NSFC projects: 5546
+Years: 2015-2025
+Target bootstrap resamples: 2000
+Main semantic display: pooled top five codes per dimension plus Other.
+Main and remaining-category bars use the exact Figure 1a blue/red country ramps and grey Other.
+A six-row combined remainder figure and six dimension-specific figures are exported.
+Within-dimension multi-label weighting: each project contributes total weight 1.
+Record-support and annual project-volume panels removed.
+Years with 0<n<30 use open/dotted trend marks and have no confidence interval.
+Composition check: every non-empty agency-year-dimension sums to 100%.
+
+Top-five mapping:
+- Urban needs: top5=N06,N05,N01,N02,N03; remaining=14
+- Problem pressures: top5=P01,P02,P03,P04,P05; remaining=3
+- Urban systems: top5=O08,O04,O02,O03,O12; remaining=7
+- Knowledge tasks: top5=K02,K01,K04,K03,K05; remaining=1
+- Intervention modes: top5=L02,L01,L04,L03,L07; remaining=4
+- Action stages: top5=A01,A02,A03,A04,A05; remaining=2
+
+Outputs:
+- figure1b_preview.png: 333204 bytes; sha256=f32577e0b765169e3c1497c0c1fb15f8ebf4412bfb420b37f2ed6e75a119e8ae
+- figure1b.svg: 309766 bytes; sha256=4ad0f2dfc3a3cf90c8209bacac000260a7a24effa680e34bd8e050ba276b9b22
+- figure1b.pdf: 73780 bytes; sha256=cb2e7a0d19755d10cf3f8baab0b407ce745e54b68ff72ddb4aeb8e8e0c4c27b1
+- figure1b.tiff: 2488688 bytes; sha256=786ef434a77971519b396952a3806b3bd5da45e7c4a425b65b2aca113be54905
+- figure1b_remaining_urban_needs_preview.png: 87580 bytes; sha256=76f2c8173a05e0269a8435577b83943ab2eb2609f9d8bc7442ae24634e12d88f
+- figure1b_remaining_urban_needs.svg: 102641 bytes; sha256=a9320782da24bfc083fefdf4706f41e70d266cca5beb01c1096324f03a8f614c
+- figure1b_remaining_urban_needs.pdf: 48519 bytes; sha256=d13146954cec6f54b10f18c861344687cdb164d47d0602f3b41053e3d6d145bc
+- figure1b_remaining_urban_needs.tiff: 811158 bytes; sha256=6e2d007052331108e8e223c9d0082cd701a246a10fdf7858e1af0ee484824db2
+- figure1b_remaining_problem_pressures_preview.png: 69509 bytes; sha256=8f34165b496ef8c0d19b6502deb1d5732cdc00ae611ab5a5622722cf188d2974
+- figure1b_remaining_problem_pressures.svg: 37831 bytes; sha256=4b7ccfa33b5cbdd43ab9e6edaffc99c47032904dfe08923230ba1885550d01fe
+- figure1b_remaining_problem_pressures.pdf: 44454 bytes; sha256=2e280c446fc6cca557dcc1a8af61fc2af51fdaae862912e3dff1e4cee4d8af98
+- figure1b_remaining_problem_pressures.tiff: 524344 bytes; sha256=069d0995f47b2da4be10334deb52cc565cde28b778cb7428de3c924b75e1ae51
+- figure1b_remaining_urban_systems_preview.png: 78919 bytes; sha256=67fb88379049b2238c2160320b943e12b2188cec3e925109fd4e1bf2b491d152
+- figure1b_remaining_urban_systems.svg: 63287 bytes; sha256=bc2e251f6a071b908cdce493e370fcc1c5b23c0253a08080dc4698051a6e748f
+- figure1b_remaining_urban_systems.pdf: 46513 bytes; sha256=087b523f9ac0f7a9a0c4209ad62d03799610ab5ebf028b7c02c103a785b250dc
+- figure1b_remaining_urban_systems.tiff: 546778 bytes; sha256=9c65ddff035a3b8daf1510db9bd401c4f641273bf9adb4640eba033145f7493e
+- figure1b_remaining_knowledge_tasks_preview.png: 57872 bytes; sha256=349accad19a78be654cfba6b490f762fc9a03b911c71e6ba25c36478ea70417c
+- figure1b_remaining_knowledge_tasks.svg: 26766 bytes; sha256=22fba7a932c8022874a3bbf126545983a1db725dfa0f0b47630f60941e949634
+- figure1b_remaining_knowledge_tasks.pdf: 44891 bytes; sha256=d001387e5f5cf1ffb6d9814b28a5e76ea499441fe65839f6b1b50835caa7a330
+- figure1b_remaining_knowledge_tasks.tiff: 333980 bytes; sha256=c6a5d3a7da12bcdd9cef42a7e5d55060754ab0b0bd1869e9bb1f4852057fe306
+- figure1b_remaining_intervention_modes_preview.png: 75234 bytes; sha256=1ca65988aba4239c5db5565aaf5dd2cc81f04605ec2f76d5ea3995807ec21b6c
+- figure1b_remaining_intervention_modes.svg: 44380 bytes; sha256=cce768ace51ffb74f64a63b83f55dbf1471c7272f3f41fb4dc9eb788c5cbdc32
+- figure1b_remaining_intervention_modes.pdf: 45233 bytes; sha256=1a266cdd21c909b4181a0034b8beefd70fd7763b6522c6bc308414f4fa79728f
+- figure1b_remaining_intervention_modes.tiff: 539428 bytes; sha256=84b6ac500e0aa359491b7a93b125c8904281736fb363dae35197dd21e6156c4d
+- figure1b_remaining_action_stages_preview.png: 59163 bytes; sha256=a545ff4b63c0bd03abe833e61f5aafa03abb9646c5768b7ed9506a56bb040e6d
+- figure1b_remaining_action_stages.svg: 32591 bytes; sha256=5f43d29a0cd5c55a043af33bb31da2244eef85f2a916787797163f10ded24ed9
+- figure1b_remaining_action_stages.pdf: 44423 bytes; sha256=8e0079f037d0feef204cd0f7410051def18d76ae30a1840191c7220228ced971
+- figure1b_remaining_action_stages.tiff: 390226 bytes; sha256=e2c4af9b88b969847c921d20abe43b55f5d609d591394d6b9b98393273cae81f
+- figure1b_remaining_combined_preview.png: 225107 bytes; sha256=995258f11def975ad77448234ba0b4bbb66f3f789834af036ddb2ab17ab8321c
+- figure1b_remaining_combined.svg: 265137 bytes; sha256=a418c64ddbd98c8ddd8790caca09904c61bde130e8cfeb0d2e29045f178fbf24
+- figure1b_remaining_combined.pdf: 65040 bytes; sha256=e413d403a57feb49a63ea47eade925390069ab4338c85044f03b1b0f0bb25443
+- figure1b_remaining_combined.tiff: 1528396 bytes; sha256=32f83e741ceda2309ac31ef30dff36d96d4929683bfea19d2aedf4da103a36e3

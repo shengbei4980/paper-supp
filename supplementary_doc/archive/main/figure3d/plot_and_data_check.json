@@ -1,0 +1,54 @@
+{
+  "status": "PASS",
+  "panels": [
+    {
+      "agency": "NSF",
+      "profiles": 352,
+      "cells": 2112,
+      "highlighted": 9,
+      "zero_task_supply": 1055,
+      "y_axis": "asinh",
+      "linear_width_pp": 0.5,
+      "ylim": [
+        -5.6,
+        32
+      ]
+    },
+    {
+      "agency": "NSFC",
+      "profiles": 126,
+      "cells": 756,
+      "highlighted": 7,
+      "zero_task_supply": 370,
+      "y_axis": "asinh",
+      "linear_width_pp": 0.5,
+      "ylim": [
+        -5.6,
+        32
+      ]
+    }
+  ],
+  "endpoint_labels": [
+    {
+      "label_count": 9,
+      "within_frame": true,
+      "overlap": false
+    },
+    {
+      "label_count": 7,
+      "within_frame": true,
+      "overlap": false
+    }
+  ],
+  "locations": 478,
+  "cells": 2868,
+  "zero_task_cells": 1425,
+  "rows_dropped": 0,
+  "confidence_intervals": "none; descriptive profiles",
+  "versions": {
+    "python": "3.11.5",
+    "numpy": "1.26.4",
+    "pandas": "2.3.3",
+    "matplotlib": "3.10.8"
+  }
+}

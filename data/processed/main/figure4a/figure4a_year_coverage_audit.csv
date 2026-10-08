@@ -1,0 +1,23 @@
+﻿agency,country,funding_year,analysis_window,award_records_observed,project_families_observed,family_weighted_support,coverage_status,missing_year_treatment
+NSF,United States,2015,2015–2025,51,42,40.333333333333336,observed,used_as_observed
+NSF,United States,2016,2015–2025,859,688,672.1833333333334,observed,used_as_observed
+NSF,United States,2017,2015–2025,909,753,730.9976190476191,observed,used_as_observed
+NSF,United States,2018,2015–2025,822,681,649.047619047619,observed,used_as_observed
+NSF,United States,2019,2015–2025,844,660,633.2261904761905,observed,used_as_observed
+NSF,United States,2020,2015–2025,755,616,578.8912698412698,observed,used_as_observed
+NSF,United States,2021,2015–2025,794,693,663.3666666666667,observed,used_as_observed
+NSF,United States,2022,2015–2025,485,439,420.33333333333337,observed,used_as_observed
+NSF,United States,2023,2015–2025,410,384,357.31111111111113,observed,used_as_observed
+NSF,United States,2024,2015–2025,275,267,253.22619047619048,observed,used_as_observed
+NSF,United States,2025,2015–2025,3,3,1.0833333333333333,observed,used_as_observed
+NSFC,China,2015,2015–2025,440,440,440.0,observed,used_as_observed
+NSFC,China,2016,2015–2025,826,826,826.0,observed,used_as_observed
+NSFC,China,2017,2015–2025,878,878,878.0,observed,used_as_observed
+NSFC,China,2018,2015–2025,933,933,933.0,observed,used_as_observed
+NSFC,China,2019,2015–2025,905,905,905.0,observed,used_as_observed
+NSFC,China,2020,2015–2025,1045,1045,1045.0,observed,used_as_observed
+NSFC,China,2021,2015–2025,505,505,505.0,observed,used_as_observed
+NSFC,China,2022,2015–2025,12,12,12.0,observed,used_as_observed
+NSFC,China,2023,2015–2025,2,2,2.0,observed,used_as_observed
+NSFC,China,2024,2015–2025,0,0,0.0,not_observed,missing_not_zero_no_imputation
+NSFC,China,2025,2015–2025,0,0,0.0,not_observed,missing_not_zero_no_imputation

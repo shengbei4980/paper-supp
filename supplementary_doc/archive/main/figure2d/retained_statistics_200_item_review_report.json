@@ -1,0 +1,1016 @@
+{
+  "checks": 200,
+  "passed": 200,
+  "failed": 0,
+  "records": 11753,
+  "memberships": 16225,
+  "parent_groups": 6,
+  "subtypes": 16,
+  "comparison_cells": 144,
+  "finite_cells": 135,
+  "NA_cells": 9,
+  "hatched_low_support_cells": 9,
+  "marked_cells": 55,
+  "checks_detail": [
+    {
+      "check": "source SHA256: NSF_编码结果.csv",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "source SHA256: NSFC_编码结果.csv",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "source SHA256: Figure2c_路径事件追溯.csv",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "all source records",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "unique agency/record IDs",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "positive finite balancing weights",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "raw NSF primary_knowledge_task",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "raw NSF primary_knowledge_subtype_multi",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "raw NSF intervention_type_multi",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "raw NSFC primary_knowledge_task",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "raw NSFC primary_knowledge_subtype_multi",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "raw NSFC intervention_type_multi",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "one event weight per project",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "snapshot weights equal Figure2c weights",
+      "pass": true,
+      "detail": "4.440892098500626e-16"
+    },
+    {
+      "check": "no repeated labels within project",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "all subtype parents agree",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "all sixteen subtype groups",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "centre contains every membership",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "centre record/subtype IDs match raw memberships",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "centre membership weights",
+      "pass": true,
+      "detail": "4.440892098500626e-16"
+    },
+    {
+      "check": "centre membership coordinates finite",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "NSF K01.1 raw support",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "NSF K01.1 weighted support",
+      "pass": true,
+      "detail": "1.1368683772161603e-13"
+    },
+    {
+      "check": "NSF K01.1 ESS",
+      "pass": true,
+      "detail": "5.684341886080801e-13"
+    },
+    {
+      "check": "NSF K01.2 raw support",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "NSF K01.2 weighted support",
+      "pass": true,
+      "detail": "5.684341886080802e-14"
+    },
+    {
+      "check": "NSF K01.2 ESS",
+      "pass": true,
+      "detail": "5.115907697472721e-13"
+    },
+    {
+      "check": "NSF K02.1 raw support",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "NSF K02.1 weighted support",
+      "pass": true,
+      "detail": "1.3642420526593924e-12"
+    },
+    {
+      "check": "NSF K02.1 ESS",
+      "pass": true,
+      "detail": "3.296918293926865e-12"
+    },
+    {
+      "check": "NSF K02.2 raw support",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "NSF K02.2 weighted support",
+      "pass": true,
+      "detail": "2.842170943040401e-14"
+    },
+    {
+      "check": "NSF K02.2 ESS",
+      "pass": true,
+      "detail": "2.8421709430404007e-13"
+    },
+    {
+      "check": "NSF K03.1 raw support",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "NSF K03.1 weighted support",
+      "pass": true,
+      "detail": "0.0"
+    },
+    {
+      "check": "NSF K03.1 ESS",
+      "pass": true,
+      "detail": "1.4210854715202004e-13"
+    },
+    {
+      "check": "NSF K03.2 raw support",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "NSF K03.2 weighted support",
+      "pass": true,
+      "detail": "2.842170943040401e-14"
+    },
+    {
+      "check": "NSF K03.2 ESS",
+      "pass": true,
+      "detail": "1.9895196601282805e-13"
+    },
+    {
+      "check": "NSF K03.3 raw support",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "NSF K03.3 weighted support",
+      "pass": true,
+      "detail": "2.842170943040401e-14"
+    },
+    {
+      "check": "NSF K03.3 ESS",
+      "pass": true,
+      "detail": "2.842170943040401e-14"
+    },
+    {
+      "check": "NSF K04.1 raw support",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "NSF K04.1 weighted support",
+      "pass": true,
+      "detail": "2.2737367544323206e-13"
+    },
+    {
+      "check": "NSF K04.1 ESS",
+      "pass": true,
+      "detail": "7.958078640513122e-13"
+    },
+    {
+      "check": "NSF K04.2 raw support",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "NSF K04.2 weighted support",
+      "pass": true,
+      "detail": "2.1316282072803006e-14"
+    },
+    {
+      "check": "NSF K04.2 ESS",
+      "pass": true,
+      "detail": "1.2789769243681803e-13"
+    },
+    {
+      "check": "NSF K04.3 raw support",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "NSF K04.3 weighted support",
+      "pass": true,
+      "detail": "1.1368683772161603e-13"
+    },
+    {
+      "check": "NSF K04.3 ESS",
+      "pass": true,
+      "detail": "2.1600499167107046e-12"
+    },
+    {
+      "check": "NSF K05.1 raw support",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "NSF K05.1 weighted support",
+      "pass": true,
+      "detail": "5.684341886080802e-14"
+    },
+    {
+      "check": "NSF K05.1 ESS",
+      "pass": true,
+      "detail": "8.526512829121202e-14"
+    },
+    {
+      "check": "NSF K05.2 raw support",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "NSF K05.2 weighted support",
+      "pass": true,
+      "detail": "7.105427357601002e-15"
+    },
+    {
+      "check": "NSF K05.2 ESS",
+      "pass": true,
+      "detail": "7.105427357601002e-15"
+    },
+    {
+      "check": "NSF K05.3 raw support",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "NSF K05.3 weighted support",
+      "pass": true,
+      "detail": "8.526512829121202e-14"
+    },
+    {
+      "check": "NSF K05.3 ESS",
+      "pass": true,
+      "detail": "1.4210854715202004e-13"
+    },
+    {
+      "check": "NSF K06.1 raw support",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "NSF K06.1 weighted support",
+      "pass": true,
+      "detail": "4.440892098500626e-16"
+    },
+    {
+      "check": "NSF K06.1 ESS",
+      "pass": true,
+      "detail": "1.7763568394002505e-15"
+    },
+    {
+      "check": "NSF K06.2 raw support",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "NSF K06.2 weighted support",
+      "pass": true,
+      "detail": "0.0"
+    },
+    {
+      "check": "NSF K06.2 ESS",
+      "pass": true,
+      "detail": "2.1316282072803006e-14"
+    },
+    {
+      "check": "NSF K06.3 raw support",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "NSF K06.3 weighted support",
+      "pass": true,
+      "detail": "0.0"
+    },
+    {
+      "check": "NSF K06.3 ESS",
+      "pass": true,
+      "detail": "4.440892098500626e-16"
+    },
+    {
+      "check": "NSFC K01.1 raw support",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "NSFC K01.1 weighted support",
+      "pass": true,
+      "detail": "0.0"
+    },
+    {
+      "check": "NSFC K01.1 ESS",
+      "pass": true,
+      "detail": "2.0463630789890885e-12"
+    },
+    {
+      "check": "NSFC K01.2 raw support",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "NSFC K01.2 weighted support",
+      "pass": true,
+      "detail": "5.684341886080802e-14"
+    },
+    {
+      "check": "NSFC K01.2 ESS",
+      "pass": true,
+      "detail": "2.8421709430404007e-13"
+    },
+    {
+      "check": "NSFC K02.1 raw support",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "NSFC K02.1 weighted support",
+      "pass": true,
+      "detail": "9.094947017729282e-13"
+    },
+    {
+      "check": "NSFC K02.1 ESS",
+      "pass": true,
+      "detail": "2.2737367544323206e-13"
+    },
+    {
+      "check": "NSFC K02.2 raw support",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "NSFC K02.2 weighted support",
+      "pass": true,
+      "detail": "0.0"
+    },
+    {
+      "check": "NSFC K02.2 ESS",
+      "pass": true,
+      "detail": "5.684341886080802e-14"
+    },
+    {
+      "check": "NSFC K03.1 raw support",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "NSFC K03.1 weighted support",
+      "pass": true,
+      "detail": "2.842170943040401e-14"
+    },
+    {
+      "check": "NSFC K03.1 ESS",
+      "pass": true,
+      "detail": "8.526512829121202e-14"
+    },
+    {
+      "check": "NSFC K03.2 raw support",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "NSFC K03.2 weighted support",
+      "pass": true,
+      "detail": "8.526512829121202e-14"
+    },
+    {
+      "check": "NSFC K03.2 ESS",
+      "pass": true,
+      "detail": "2.842170943040401e-14"
+    },
+    {
+      "check": "NSFC K03.3 raw support",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "NSFC K03.3 weighted support",
+      "pass": true,
+      "detail": "0.0"
+    },
+    {
+      "check": "NSFC K03.3 ESS",
+      "pass": true,
+      "detail": "2.842170943040401e-14"
+    },
+    {
+      "check": "NSFC K04.1 raw support",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "NSFC K04.1 weighted support",
+      "pass": true,
+      "detail": "1.1368683772161603e-13"
+    },
+    {
+      "check": "NSFC K04.1 ESS",
+      "pass": true,
+      "detail": "3.410605131648481e-13"
+    },
+    {
+      "check": "NSFC K04.2 raw support",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "NSFC K04.2 weighted support",
+      "pass": true,
+      "detail": "0.0"
+    },
+    {
+      "check": "NSFC K04.2 ESS",
+      "pass": true,
+      "detail": "1.4210854715202004e-14"
+    },
+    {
+      "check": "NSFC K04.3 raw support",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "NSFC K04.3 weighted support",
+      "pass": true,
+      "detail": "1.7053025658242404e-13"
+    },
+    {
+      "check": "NSFC K04.3 ESS",
+      "pass": true,
+      "detail": "5.684341886080801e-13"
+    },
+    {
+      "check": "NSFC K05.1 raw support",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "NSFC K05.1 weighted support",
+      "pass": true,
+      "detail": "1.1368683772161603e-13"
+    },
+    {
+      "check": "NSFC K05.1 ESS",
+      "pass": true,
+      "detail": "8.526512829121202e-14"
+    },
+    {
+      "check": "NSFC K05.2 raw support",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "NSFC K05.2 weighted support",
+      "pass": true,
+      "detail": "5.684341886080802e-14"
+    },
+    {
+      "check": "NSFC K05.2 ESS",
+      "pass": true,
+      "detail": "1.2789769243681803e-13"
+    },
+    {
+      "check": "NSFC K05.3 raw support",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "NSFC K05.3 weighted support",
+      "pass": true,
+      "detail": "2.842170943040401e-14"
+    },
+    {
+      "check": "NSFC K05.3 ESS",
+      "pass": true,
+      "detail": "4.263256414560601e-14"
+    },
+    {
+      "check": "NSFC K06.1 raw support",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "NSFC K06.1 weighted support",
+      "pass": true,
+      "detail": "5.551115123125783e-17"
+    },
+    {
+      "check": "NSFC K06.1 ESS",
+      "pass": true,
+      "detail": "0.0"
+    },
+    {
+      "check": "NSFC K06.2 raw support",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "NSFC K06.2 weighted support",
+      "pass": true,
+      "detail": "3.552713678800501e-15"
+    },
+    {
+      "check": "NSFC K06.2 ESS",
+      "pass": true,
+      "detail": "8.881784197001252e-15"
+    },
+    {
+      "check": "parent-normalized shares total 100",
+      "pass": true,
+      "detail": "4.263256414560601e-14"
+    },
+    {
+      "check": "all project weights conserved after two fractional allocations",
+      "pass": true,
+      "detail": "4.440892098500626e-16"
+    },
+    {
+      "check": "independent NSF conditional shares",
+      "pass": true,
+      "detail": "3.552713678800501e-14"
+    },
+    {
+      "check": "independent NSFC conditional shares",
+      "pass": true,
+      "detail": "3.552713678800501e-14"
+    },
+    {
+      "check": "independent difference values",
+      "pass": true,
+      "detail": "4.618527782440651e-14"
+    },
+    {
+      "check": "all 144 cells unique",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "135 finite, 9 structurally missing cells",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "absent NSFC subtype preserved as NA",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "low support limited to K06.1 and K06.3",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "bootstrap dimensions",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "valid bootstrap counts",
+      "pass": true,
+      "detail": "0.0"
+    },
+    {
+      "check": "95% bootstrap interval lower",
+      "pass": true,
+      "detail": "3.552713678800501e-15"
+    },
+    {
+      "check": "95% bootstrap interval upper",
+      "pass": true,
+      "detail": "3.552713678800501e-15"
+    },
+    {
+      "check": "bootstrap sign-tail p",
+      "pass": true,
+      "detail": "1.1102230246251565e-16"
+    },
+    {
+      "check": "BH q independently checked with scipy",
+      "pass": true,
+      "detail": "2.7929047963226594e-16"
+    },
+    {
+      "check": "full eligible testing family size",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "all 55 markers satisfy three gates",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "no marker on NA or low support",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "NSF co-occurrence K01.1/K01.2",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "NSFC co-occurrence K01.1/K01.2",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "weighted Jaccard K01.1/K01.2",
+      "pass": true,
+      "detail": "5.551115123125783e-17"
+    },
+    {
+      "check": "equal-country edge mean K01.1/K01.2",
+      "pass": true,
+      "detail": "0.0"
+    },
+    {
+      "check": "NSF co-occurrence K02.1/K02.2",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "NSFC co-occurrence K02.1/K02.2",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "weighted Jaccard K02.1/K02.2",
+      "pass": true,
+      "detail": "8.326672684688674e-17"
+    },
+    {
+      "check": "equal-country edge mean K02.1/K02.2",
+      "pass": true,
+      "detail": "2.7755575615628914e-17"
+    },
+    {
+      "check": "NSF co-occurrence K03.1/K03.2",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "NSFC co-occurrence K03.1/K03.2",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "weighted Jaccard K03.1/K03.2",
+      "pass": true,
+      "detail": "5.551115123125783e-17"
+    },
+    {
+      "check": "equal-country edge mean K03.1/K03.2",
+      "pass": true,
+      "detail": "5.551115123125783e-17"
+    },
+    {
+      "check": "NSF co-occurrence K03.1/K03.3",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "NSFC co-occurrence K03.1/K03.3",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "weighted Jaccard K03.1/K03.3",
+      "pass": true,
+      "detail": "2.7755575615628914e-17"
+    },
+    {
+      "check": "equal-country edge mean K03.1/K03.3",
+      "pass": true,
+      "detail": "8.326672684688674e-17"
+    },
+    {
+      "check": "NSF co-occurrence K03.2/K03.3",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "NSFC co-occurrence K03.2/K03.3",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "weighted Jaccard K03.2/K03.3",
+      "pass": true,
+      "detail": "2.7755575615628914e-17"
+    },
+    {
+      "check": "equal-country edge mean K03.2/K03.3",
+      "pass": true,
+      "detail": "5.551115123125783e-17"
+    },
+    {
+      "check": "NSF co-occurrence K04.1/K04.2",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "NSFC co-occurrence K04.1/K04.2",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "weighted Jaccard K04.1/K04.2",
+      "pass": true,
+      "detail": "6.938893903907228e-17"
+    },
+    {
+      "check": "equal-country edge mean K04.1/K04.2",
+      "pass": true,
+      "detail": "1.3877787807814457e-17"
+    },
+    {
+      "check": "NSF co-occurrence K04.1/K04.3",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "NSFC co-occurrence K04.1/K04.3",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "weighted Jaccard K04.1/K04.3",
+      "pass": true,
+      "detail": "0.0"
+    },
+    {
+      "check": "equal-country edge mean K04.1/K04.3",
+      "pass": true,
+      "detail": "0.0"
+    },
+    {
+      "check": "NSF co-occurrence K04.2/K04.3",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "NSFC co-occurrence K04.2/K04.3",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "weighted Jaccard K04.2/K04.3",
+      "pass": true,
+      "detail": "6.938893903907228e-17"
+    },
+    {
+      "check": "equal-country edge mean K04.2/K04.3",
+      "pass": true,
+      "detail": "8.326672684688674e-17"
+    },
+    {
+      "check": "NSF co-occurrence K05.1/K05.2",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "NSFC co-occurrence K05.1/K05.2",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "weighted Jaccard K05.1/K05.2",
+      "pass": true,
+      "detail": "5.551115123125783e-17"
+    },
+    {
+      "check": "equal-country edge mean K05.1/K05.2",
+      "pass": true,
+      "detail": "5.551115123125783e-17"
+    },
+    {
+      "check": "NSF co-occurrence K05.1/K05.3",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "NSFC co-occurrence K05.1/K05.3",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "weighted Jaccard K05.1/K05.3",
+      "pass": true,
+      "detail": "2.7755575615628914e-17"
+    },
+    {
+      "check": "equal-country edge mean K05.1/K05.3",
+      "pass": true,
+      "detail": "2.7755575615628914e-17"
+    },
+    {
+      "check": "NSF co-occurrence K05.2/K05.3",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "NSFC co-occurrence K05.2/K05.3",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "weighted Jaccard K05.2/K05.3",
+      "pass": true,
+      "detail": "8.326672684688674e-17"
+    },
+    {
+      "check": "equal-country edge mean K05.2/K05.3",
+      "pass": true,
+      "detail": "8.326672684688674e-17"
+    },
+    {
+      "check": "NSF co-occurrence K06.1/K06.2",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "NSFC co-occurrence K06.1/K06.2",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "weighted Jaccard K06.1/K06.2",
+      "pass": true,
+      "detail": "5.898059818321144e-17"
+    },
+    {
+      "check": "equal-country edge mean K06.1/K06.2",
+      "pass": true,
+      "detail": "4.85722573273506e-17"
+    },
+    {
+      "check": "NSF co-occurrence K06.1/K06.3",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "NSFC co-occurrence K06.1/K06.3",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "weighted Jaccard K06.1/K06.3",
+      "pass": true,
+      "detail": "4.163336342344337e-17"
+    },
+    {
+      "check": "equal-country edge mean K06.1/K06.3",
+      "pass": true,
+      "detail": "7.28583859910259e-17"
+    },
+    {
+      "check": "NSF co-occurrence K06.2/K06.3",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "NSFC co-occurrence K06.2/K06.3",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "weighted Jaccard K06.2/K06.3",
+      "pass": true,
+      "detail": "4.5102810375396984e-17"
+    },
+    {
+      "check": "equal-country edge mean K06.2/K06.3",
+      "pass": true,
+      "detail": "7.112366251504909e-17"
+    },
+    {
+      "check": "only the 14 supported within-parent edges",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "render trace covers every comparison",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "plotted values equal statistics table",
+      "pass": true,
+      "detail": "3.552713678800501e-15"
+    },
+    {
+      "check": "plotted markers equal statistics table",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "plotted NA/hatched/value states",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "color scale contains all finite values",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "SVG contains every child label",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "SVG has 9 template QuadMesh rings",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "nonempty export png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "nonempty export pdf",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "nonempty export svg",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "PNG at 600 dpi and expected dimensions",
+      "pass": true,
+      "detail": "((4322, 5149), (599.9988, 599.9988))"
+    }
+  ]
+}

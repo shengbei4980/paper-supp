@@ -1,0 +1,625 @@
+﻿state,rank,lower_95,upper_95,resamples,interval
+Observed,0,0.0,0.0,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,1,0.005355742972509641,0.007199502884954135,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,2,0.007935293298890471,0.010561885316436032,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,3,0.010436041863911838,0.013515372487246618,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,4,0.01298321180726121,0.01638541604792077,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,5,0.015411233855781912,0.019138691946014426,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,6,0.01776330447057244,0.021734447114861798,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,7,0.019953272104939586,0.02444355168177369,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,8,0.022105125880247295,0.026842560002957244,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,9,0.024179000314036952,0.02937472826589309,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,10,0.025578878093525007,0.03103609522235545,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,11,0.026817327532151117,0.03259132933296944,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,12,0.028153080975473792,0.03400030131664079,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,13,0.029229690020944915,0.03535480144856069,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,14,0.030394000754820863,0.03660231566732309,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,15,0.031272557879554845,0.03782475224445851,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,16,0.03222491808268775,0.03893815296430606,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,17,0.03318185306809897,0.03991552024653773,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,18,0.03409857856770648,0.04098270449531604,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,19,0.035003075475210164,0.0420315556336263,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,20,0.03584710905888053,0.043002774620278045,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,21,0.03667631842329697,0.04383793629609793,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,22,0.03752770479220747,0.04477785810082745,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,23,0.03836154084784915,0.04566204515198017,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,24,0.0391554359621328,0.04643500385837905,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,25,0.03982533994398958,0.04722209169597538,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,26,0.040445372766205204,0.04795248254019599,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,27,0.04107715393561115,0.048549180987218304,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,28,0.041647221530725635,0.04916301643454844,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,29,0.04221126440058045,0.04980487724319007,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,30,0.04286105140750608,0.05042623934306652,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,31,0.04344395915088275,0.05112963554241568,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,32,0.04403159349113641,0.05164208738260512,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,33,0.04444918437275819,0.052279593340943065,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,34,0.0449497713835486,0.05283525817289811,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,35,0.04542022528691868,0.053337843829278926,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,36,0.045839922072579704,0.05388649002930105,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,37,0.04631104451825452,0.0543944025472327,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,38,0.04676975563027537,0.054840992439212595,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,39,0.04718446969906954,0.05525498867224292,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,40,0.047626023244570506,0.055660878746329294,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,41,0.048031917323259274,0.056252830463203105,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,42,0.04842895105237957,0.05673488377348393,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,43,0.04876889600025338,0.05719592238937836,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,44,0.049167507639802176,0.05763158973486625,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,45,0.049556025245065076,0.05798665198743833,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,46,0.049935064200998976,0.058416590160405485,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,47,0.05034767476309388,0.058803582273215665,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,48,0.05082390558388292,0.05917341460244271,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,49,0.0511592639715419,0.05960450588166062,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,50,0.051414281108155276,0.05995686253703757,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,51,0.05178282237047806,0.06030725804054502,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,52,0.05215426279390003,0.06062004353689748,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,53,0.05235881378786497,0.060950899541969354,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,54,0.0526422184190503,0.06125203261224325,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,55,0.052897742706430044,0.06150014406509258,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,56,0.05315208234236665,0.06175987019974726,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,57,0.05338452263949993,0.062036647500240454,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,58,0.05368660982072068,0.0623137179324895,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,59,0.05390520677973219,0.06266508122865155,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,60,0.0540887029927439,0.06293095794750009,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,61,0.054336884273875036,0.06318441463873556,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,62,0.054570464633584885,0.06343694308952227,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,63,0.05478484297285345,0.06360116834424213,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,64,0.055028842085039,0.06383784334583673,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,65,0.05518626736788767,0.06407895620068675,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,66,0.05541233383764465,0.06432564051760194,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,67,0.055609559806565595,0.06456633487116749,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,68,0.05589802507407632,0.06483970306954703,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,69,0.056120151685207544,0.06507898478490438,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,70,0.0563037223822144,0.06530181309006508,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,71,0.056524713178945946,0.06548065510493743,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,72,0.05666343770753171,0.06563135859607049,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,73,0.05690160861798951,0.06592742352724189,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,74,0.05705987403997803,0.06609952079253835,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,75,0.05727708555143827,0.06629495559082786,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,76,0.057435919825939014,0.06641494169522315,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,77,0.057647059585861894,0.06663276593494004,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,78,0.057855781501169955,0.06685351061958673,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,79,0.057962891223028216,0.06705224896007858,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,80,0.058122522599353424,0.06725659014187432,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,81,0.058268188159775636,0.0673855550848314,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,82,0.05845689770517134,0.0676257480463922,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,83,0.058652573660415125,0.06779386348228712,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,84,0.058829815481018094,0.06797001923499008,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,85,0.05894565239276513,0.06818952592334325,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,86,0.05909512048280811,0.06833022138290826,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,87,0.059276490474976226,0.06855960558732489,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,88,0.059466402605711496,0.06871758961311833,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,89,0.0595841553904135,0.06888485084505236,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,90,0.05980387529992879,0.06909965199345489,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,91,0.059934339727699154,0.06929174618777453,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,92,0.060134915656362566,0.0694804549802623,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,93,0.06033851299357051,0.06966902200904151,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,94,0.060509209487735395,0.06980129206515377,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,95,0.06060398629928508,0.06997384321109368,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,96,0.0607569506320866,0.07006510635429801,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,97,0.060878150390788185,0.07026489813486159,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,98,0.06104216627514636,0.07044620441410726,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,99,0.061187445826241756,0.07061091946572781,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,100,0.061315748844211274,0.07073159302149318,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,101,0.061513064111745,0.07089316744077294,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,102,0.06169735259670325,0.0710392909728603,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,103,0.06179929192856009,0.07118616267316938,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,104,0.061937073975141164,0.07131512887979177,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,105,0.062052958887832466,0.07146613094726778,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,106,0.062228799446674775,0.07159794223868311,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,107,0.062356656072267015,0.0717466588964318,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,108,0.062489692920029684,0.07186042782309314,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,109,0.06256483782990437,0.07200410208087651,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,110,0.0627107330481101,0.07215545539590174,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,111,0.06282484902634636,0.07233004905193473,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,112,0.06293051968875048,0.07252014011598348,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,113,0.06308254742542951,0.07266080324509537,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,114,0.06321358454207299,0.07276001188378291,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,115,0.06330885630467138,0.07286756628599257,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,116,0.06344997430112555,0.07303097093037597,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,117,0.06362250035967616,0.07318948059023651,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,118,0.06374261696709452,0.0733069696276017,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,119,0.06384746842256175,0.0734445995919723,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,120,0.06393379015657077,0.07353003009402033,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,121,0.06404002949344277,0.07367673071779401,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,122,0.06415929099802954,0.07380235660594824,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,123,0.06422853283797667,0.07390783810602529,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,124,0.06431112099644325,0.07405593618049933,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,125,0.06440284298914827,0.07412064317936698,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,126,0.06453173203623787,0.07420198491780669,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,127,0.06460195473751103,0.07427300199449482,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,128,0.0647487294753164,0.07439340235488415,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,129,0.06490121490050423,0.07445553507620384,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,130,0.06495027951316024,0.07456325803093762,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,131,0.06504620940248246,0.07468714312660117,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,132,0.0651062639134364,0.07475722200310947,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,133,0.06517722707184515,0.07485246619308017,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,134,0.06528431063308611,0.07492794203794113,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,135,0.0653507013244762,0.07505738144622566,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,136,0.06544555656344478,0.07513146571496337,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,137,0.06547778614701423,0.07519202923379374,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,138,0.06556240647476762,0.0753183674706393,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,139,0.06568207189040036,0.07541254156164134,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,140,0.06580487724115192,0.07549784897123846,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,141,0.06588819552990845,0.07560177315041576,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,142,0.06599155961004938,0.07568975309609689,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,143,0.06603854536770984,0.07578720488842312,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,144,0.06611925698451311,0.07585026121944163,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,145,0.06625021923340754,0.07589922738203711,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,146,0.06629465881099603,0.07598420154973501,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,147,0.06636703712348285,0.07607801483578258,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,148,0.06642741851605224,0.0761389986623166,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,149,0.06647070692260167,0.07621481949370962,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,150,0.06651851182193384,0.07625974920934345,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,151,0.06653495296640947,0.0763249279382323,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,152,0.06662433282507084,0.07636934480766944,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,153,0.06667134838722329,0.07644666078239787,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,154,0.06670389519579276,0.07650738064797424,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,155,0.06674456809463088,0.07656244878662115,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,156,0.0668539992439812,0.07660234305354004,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,157,0.06690348903547925,0.07669103807289462,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,158,0.067016065641986,0.07674647017683317,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,159,0.06709004723615794,0.07683250278798859,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,160,0.0671215447299953,0.07688296771687424,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,161,0.06719383900962084,0.07695002797168318,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,162,0.06730064270763605,0.07699612092193385,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,163,0.06737377553991675,0.07706795576754373,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,164,0.06740275325437724,0.07710620140040535,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,165,0.06744300165075662,0.07714057156686761,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,166,0.0674989979376756,0.07716270175259228,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,167,0.06751925353245349,0.07725485026164397,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,168,0.06761569187256875,0.07731674873960583,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,169,0.0676539983061172,0.07737659530156918,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,170,0.06768799545074841,0.07741530900506814,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,171,0.06773788372239414,0.07743861484830822,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,172,0.06781479976934802,0.07753069067169868,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,173,0.06783915151156424,0.07755809343004301,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,174,0.06789311735772395,0.07760372349677579,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,175,0.06793808753908215,0.0776471290798754,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,176,0.06797037441283206,0.07770051904434858,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,177,0.06800087913817503,0.0777299067514142,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,178,0.06804410949225076,0.0777684721103163,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,179,0.06809865330311297,0.07780451747307061,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,180,0.06812224722092651,0.07785991466925718,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,181,0.06818098529700782,0.07789912253181792,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,182,0.0682036823721254,0.0779544353305223,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,183,0.0682361006811755,0.07800618271157769,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,184,0.0683102490368853,0.0780203472804596,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,185,0.06831629377105575,0.07807470033655589,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,186,0.06837366346407803,0.07813404153026132,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,187,0.06838243798985479,0.0781990045780702,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,188,0.06840298250566483,0.07826978923905731,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,189,0.06844324150003166,0.07830539562699947,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,190,0.06846393215582398,0.0783671491142135,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,191,0.0685203785184056,0.07839492598796707,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,192,0.06852636815241248,0.07841682310827676,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,193,0.06860771988972349,0.07845268989279927,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,194,0.06863562101516768,0.07849710054092986,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,195,0.06866355423849681,0.07850616931610481,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,196,0.06870074055896638,0.07854429090546572,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,197,0.06874997255290938,0.07859580796152074,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,198,0.06878334279366073,0.0786159068251178,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,199,0.06882891307056135,0.07864308099773709,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,200,0.06888032988538133,0.07866945976263928,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,201,0.06891179944616453,0.07868671050975873,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,202,0.06895100990627928,0.07871532166197227,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,203,0.06897481093255695,0.07875289239872835,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,204,0.06899470979293303,0.07875869719694054,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,205,0.06904807240023517,0.07880581399168816,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,206,0.06905322674433413,0.07883901703268069,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,207,0.06905942230233361,0.07886455395600135,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,208,0.06907803427753795,0.07888644108562029,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,209,0.06915407962412705,0.07891706849173069,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,210,0.06915992929762145,0.07898197429712026,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,211,0.0691701979691117,0.07900618557823363,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,212,0.06918779210095932,0.07901877749822565,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,213,0.06921970058695746,0.07906849652798015,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,214,0.06923825189636759,0.07911544861296581,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,215,0.06926198802502073,0.07913595456179136,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,216,0.06927745413419784,0.07917050471958906,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,217,0.06929120285137295,0.07917267344134757,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,218,0.06931352820292565,0.07925488872270076,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,219,0.06932622258615884,0.07928906054771297,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,220,0.06932911718851792,0.07932026056983156,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,221,0.06938827284591804,0.07934342506143442,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,222,0.06939603390819041,0.07937273228662513,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,223,0.06942105725496533,0.0793853768601617,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,224,0.06943074429762228,0.07942156447847916,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,225,0.06945683271257444,0.07942734175671731,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,226,0.06946494243692473,0.07943330992950147,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,227,0.06948965594173862,0.07947528991671364,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,228,0.06952552845622162,0.07948838896148257,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,229,0.06959433656211518,0.07951282661245206,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,230,0.06962834581922114,0.07952205893306313,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,231,0.069640711227244,0.07954694701281291,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,232,0.06964481093720264,0.07958897220770535,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,233,0.06965384737231736,0.07962366031676041,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,234,0.06969917117489632,0.07962778883437928,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,235,0.06972306322498277,0.07966064592505473,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,236,0.06973213881392089,0.0796781193356279,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,237,0.06977223221419498,0.07971939198141136,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,238,0.06981185181944725,0.07974045722881482,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,239,0.06982889056273173,0.0797799249672224,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,240,0.06984095435509771,0.07979796265456153,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,241,0.06986470034037745,0.07980342869755061,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,242,0.06986803060026951,0.0798061433644658,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,243,0.06987129343163066,0.07980624055488696,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,244,0.06988225392873577,0.07981725555152597,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,245,0.06988373501433381,0.07988841113491704,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,246,0.06990647742334082,0.07988905586700003,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,247,0.06990760381727007,0.07991929724884644,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,248,0.06993553603426636,0.07996958219388695,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,249,0.06993923190404858,0.07999231670951024,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,250,0.0699804717883278,0.08000146769643043,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,251,0.07000003001834891,0.08001842932014222,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,252,0.07000623401008368,0.08001858441993559,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,253,0.07001215121118273,0.08003750547602927,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,254,0.0700181889975981,0.08005940268092844,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,255,0.07004479457346593,0.0800847497005305,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,256,0.07004961229546249,0.08008920428737656,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,257,0.0700575899890931,0.08011340662512596,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,258,0.07007964876818754,0.08013311172457913,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,259,0.07009248435048329,0.08014383309097745,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,260,0.07013331458564853,0.08017791556913242,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,261,0.0701791805334913,0.08020292973971599,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,262,0.07017986382871601,0.08021395474304771,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,263,0.07018004604553055,0.08021767713808858,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,264,0.07018023216528259,0.08022248398939857,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,265,0.07018114550415167,0.08024088800760382,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,266,0.07019162458707007,0.08024720055270607,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,267,0.07020819034986024,0.08026780875456163,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,268,0.07020922578384416,0.08027381766125524,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,269,0.07024693057461608,0.08029068494697646,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,270,0.07028118174214339,0.08031078022259974,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,271,0.07028307591244938,0.08033508267867162,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,272,0.07028818015415102,0.08033531739128408,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,273,0.07030738351418513,0.0803583771933553,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,274,0.07031743866444212,0.08036545550713561,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,275,0.07034386776247033,0.08036825167271403,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,276,0.07034460966287667,0.08040492180650116,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,277,0.07035727316839366,0.08040675789070434,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,278,0.07037294506304498,0.08041504672216289,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,279,0.07037485574382152,0.08042001568859435,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,280,0.07038583835158357,0.08042544375019782,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,281,0.07039624925285053,0.08046263560702929,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,282,0.0704053233085752,0.08050179272918134,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,283,0.07040994368996259,0.08050321358839876,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,284,0.0704321282032245,0.08051023807816925,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,285,0.07044050532591993,0.08052830335260107,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,286,0.0704455547877191,0.08053556123048751,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,287,0.07046726430508873,0.08056335375367933,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,288,0.07048888658385472,0.08056374736483547,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,289,0.07049127152770641,0.0805641986307329,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,290,0.07050408693195348,0.08059934734510886,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,291,0.0705043694998021,0.08060313447018234,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,292,0.07056145969814154,0.08060405744820555,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,293,0.07056272107240825,0.08062210458869307,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,294,0.07056486729835947,0.08063612807136132,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,295,0.07060918296184658,0.08066691157876466,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,296,0.07061462153963326,0.08070252161637233,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,297,0.07061937931525179,0.08071473914118114,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,298,0.07063447552821209,0.08072188121381153,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,299,0.07063662918985518,0.08075876378678598,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,300,0.07063978985702585,0.0807591461123028,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,301,0.0706401500211876,0.0807980505911903,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,302,0.07064746857358538,0.08080748783877494,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,303,0.07065384682478615,0.08080791071551512,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,304,0.0706600748632463,0.08082874095895062,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,305,0.0706989259995454,0.0808480757758963,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,306,0.07071588744662738,0.08084937665011142,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,307,0.07072080306098957,0.08086577106130204,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,308,0.070721990332969,0.08090168226902796,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,309,0.07076252304524663,0.08090539660249334,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,310,0.07079247133135472,0.08090828741864702,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Observed,311,0.07082322446760324,0.08091559545576785,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,0,0.0,0.0,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,1,0.0010139454534725683,0.0021002806793944165,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,2,0.0010220532392263076,0.002198574717749416,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,3,0.002000515872994892,0.0034940569675030483,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,4,0.0024921092743966514,0.004098613261448168,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,5,0.0025346532083783692,0.004192258445958896,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,6,0.0026429537698054516,0.004329810196441239,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,7,0.0028432357314474477,0.004677893678872634,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,8,0.003423045807013923,0.005430787350743062,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,9,0.0037579733047892845,0.006078431794534338,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,10,0.003837275325639818,0.006180066073814701,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,11,0.0038861947784727016,0.006234364883535957,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,12,0.004333329363612531,0.006813813802625904,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,13,0.004583755642272459,0.007089725951709792,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,14,0.004758145364449342,0.007376412787104522,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,15,0.004786259248108648,0.007385463510528141,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,16,0.004790442733992499,0.007409718277232302,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,17,0.004931253084893951,0.007542443361075505,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,18,0.005236790651622216,0.007937189254124724,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,19,0.00578479615327041,0.008626895205954083,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,20,0.005840686092880989,0.00871510939249474,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,21,0.006371615530420574,0.009349314442041628,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,22,0.006688436460316394,0.009703888161262287,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,23,0.006994674822757372,0.010068349948715702,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,24,0.00711528716736862,0.010189150067014648,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,25,0.007265279016015347,0.010467002671316632,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,26,0.00728927650078931,0.010480146907013198,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,27,0.007327803344898802,0.010522136751259228,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,28,0.007490410087910647,0.010773229041904047,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,29,0.008198494171210165,0.011575136545790373,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,30,0.008537725913323793,0.011955367156464244,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,31,0.008550680267168645,0.011972024262256445,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,32,0.008860854772973142,0.012351410807528166,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,33,0.00899308181970774,0.012480446207802452,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,34,0.009393294117738248,0.012941880147358708,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,35,0.009558508824046493,0.013156988861447567,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,36,0.009646049734760485,0.01324222182044166,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,37,0.009654692720830348,0.01324868536136276,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,38,0.009732153859847428,0.01333516155686316,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,39,0.010019376006924728,0.013635156311157675,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,40,0.010308688145033917,0.01394872960979107,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,41,0.010327363780596345,0.013959258980567615,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,42,0.01033946793633889,0.014049177069736137,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,43,0.0103500288629256,0.014057094130559028,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,44,0.010377005063343237,0.01405973221009861,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,45,0.010509688556070108,0.014216349498920575,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,46,0.010750548158066569,0.014491127030219935,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,47,0.010764890056183135,0.014507013124147369,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,48,0.011220222202726516,0.015031843848907614,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,49,0.011279149224203842,0.015101663176820662,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,50,0.011485227665074394,0.015329520508876308,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,51,0.011719209263897683,0.01556194702375162,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,52,0.01173500642766555,0.01562956420408309,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,53,0.011801657240241998,0.015689589904637168,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,54,0.011916035680557008,0.01585061743611755,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,55,0.012216796387945933,0.01623032087949108,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,56,0.012488060300870086,0.01649514011190838,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,57,0.012547687266346644,0.016557254655166404,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,58,0.012918268786089523,0.016902076571776566,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,59,0.01306413153920153,0.01709789693833043,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,60,0.013068854923793926,0.017098433322454233,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,61,0.0131521157562908,0.017136489111553556,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,62,0.013386518233567119,0.01735379600484044,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,63,0.0136302719077947,0.017697267678116326,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,64,0.013680364078994365,0.017778376482048615,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,65,0.013687773094001711,0.017790992640441313,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,66,0.013931321330306078,0.01805501199109074,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,67,0.014237692304104904,0.018453880586390206,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,68,0.014409216092062997,0.01863882888204568,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,69,0.014524689737053419,0.018735619922077198,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,70,0.014630285574054668,0.01884058036731814,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,71,0.014783933544100531,0.018947465209511904,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,72,0.014992413220458571,0.019201782038734422,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,73,0.014998776164674573,0.019241151252586287,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,74,0.01506244784957906,0.019300163326326912,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,75,0.015210800801936967,0.019440302815371527,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,76,0.01532033168873119,0.019586226478867326,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,77,0.015351705836126791,0.019695223711796002,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,78,0.015400398722928683,0.019741502384646305,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,79,0.015415997769265492,0.019756932052969068,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,80,0.015448424881303465,0.019792203674806146,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,81,0.015486826294472657,0.019860434046780555,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,82,0.015494702616646167,0.01986503066263148,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,83,0.015571212316085142,0.01998746871693644,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,84,0.01577461709014799,0.02021241987317447,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,85,0.01583614682274495,0.02023102911262245,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,86,0.015837289085238772,0.02024504310287502,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,87,0.01586092517038875,0.020253995122386965,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,88,0.01595770290125789,0.0203807201005877,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,89,0.01603108664895116,0.020434266514204203,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,90,0.01620312399696757,0.020670542534497544,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,91,0.016207500109934846,0.020700805303348137,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,92,0.01629042302858521,0.020743199868418164,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,93,0.01639229518746649,0.02086363652207855,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,94,0.01649715828929331,0.020929418626869395,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,95,0.016599678162801147,0.021039497620989903,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,96,0.016817921584058593,0.0212173046809981,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,97,0.0169149673327329,0.021312025934299518,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,98,0.016932345580055734,0.02134776006684205,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,99,0.016996498588840746,0.02149049109515188,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,100,0.01700575549169714,0.021492164477121736,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,101,0.017139171884161284,0.021621650661256313,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,102,0.017144203654435725,0.021663330112698928,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,103,0.017336858076958325,0.021765376895041467,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,104,0.01778458761661016,0.022254645240293466,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,105,0.017831054706974683,0.022287669696414183,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,106,0.017940502972337426,0.022394461135748573,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,107,0.017968678904835278,0.02245193725343458,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,108,0.01805272752602725,0.02251959470176371,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,109,0.018146302648288634,0.022593981075984797,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,110,0.018150595044867084,0.022601739208159867,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,111,0.01815659542609659,0.022609138892572135,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,112,0.018613178132280542,0.0231728136008288,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,113,0.01880552552713985,0.02335937175617202,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,114,0.018829842700788947,0.023424488920099452,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,115,0.018830445894979574,0.023426443892913092,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,116,0.0189323563085867,0.023508078247996545,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,117,0.019125461371084836,0.023737492688452006,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,118,0.019127248859300998,0.023754863640502694,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,119,0.019224242018576036,0.023851883543952228,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,120,0.01922904269524544,0.023852396516985435,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,121,0.01925737250802278,0.023904562187133164,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,122,0.019323778526544703,0.023960597478542015,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,123,0.019379445874682065,0.02400963344789653,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,124,0.019428730105084956,0.024042410976910282,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,125,0.019479982677763547,0.024082458784991313,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,126,0.019561468264497214,0.024197590599695788,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,127,0.01958079572001793,0.024217724310814495,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,128,0.019621608067365338,0.024228206556599356,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,129,0.01987220670491052,0.02455506158403,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,130,0.01994718288526417,0.024621087147560974,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,131,0.019974219743439645,0.024635384203582383,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,132,0.01999326247543132,0.02465090558889748,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,133,0.020031607274606348,0.02468662071618193,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,134,0.02009958646030447,0.02475030806435661,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,135,0.020147777591535056,0.02482459570280093,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,136,0.02019001701767227,0.024928527520946906,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,137,0.020236096931982618,0.024949799248160195,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,138,0.0204734641671637,0.02519590426597988,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,139,0.02106587029011582,0.025902647429814275,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,140,0.021070327880616004,0.025939126080889236,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,141,0.021111902182174545,0.025962569961085275,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,142,0.021281754419176485,0.02614846690831267,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,143,0.02129814271594421,0.0261573702474653,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,144,0.02138033775416667,0.026200337785344283,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,145,0.021389714806205863,0.026214592822042825,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,146,0.02139564730086971,0.02626165766601828,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,147,0.021461827450772172,0.026357577282971605,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,148,0.0214838815933079,0.026388971779786035,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,149,0.021684369978920506,0.026621183682663998,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,150,0.021709096753136953,0.026636420714228035,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,151,0.021729489526799706,0.02665945898290571,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,152,0.021738384163476097,0.02667273653011828,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,153,0.021776929608520314,0.02673847937386853,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,154,0.02183155987880049,0.026780400568856968,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,155,0.021885962121512302,0.026862284432008016,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,156,0.021990462219176343,0.02695543043352307,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,157,0.022051030394197067,0.027006305002620103,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,158,0.02208472024862062,0.02711811523085669,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,159,0.02219479493843397,0.02726769413739341,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,160,0.02226483404636097,0.02732311003765193,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,161,0.022272300936423826,0.027341552675126213,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,162,0.022331104830748398,0.02736318648815378,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,163,0.022341414125918353,0.02739555482607351,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,164,0.022370324386501862,0.02743819660628064,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,165,0.022399522797477426,0.027487208140985396,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,166,0.02240489670822001,0.027504064291363393,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,167,0.022410978267980792,0.027512236212009235,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,168,0.02241337181886871,0.0275308870383104,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,169,0.022470540913217464,0.02758718003779907,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,170,0.02253486503216859,0.027656148112646783,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,171,0.02256753486351464,0.02766911429354335,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,172,0.022593287696189044,0.027701117629357896,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,173,0.022646409299454474,0.02774433750648263,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,174,0.02265263434013146,0.027779602560207773,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,175,0.02266437962908184,0.027780733501587898,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,176,0.02267596729821125,0.027793932072097044,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,177,0.02267673098713259,0.027820350496942564,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,178,0.022695001130902608,0.027825649037325137,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,179,0.02280331213447311,0.027888130205370315,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,180,0.022837598614082855,0.027931257403479952,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,181,0.022839216436570206,0.027947863424808875,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,182,0.022901561905307427,0.028016340424524513,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,183,0.02293925880042658,0.028064310740367533,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,184,0.022957021786877245,0.028097622043839098,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,185,0.022982706264371208,0.028118331272790047,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,186,0.022990570551741734,0.02813693173695872,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,187,0.023034581194438655,0.028215618273047503,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,188,0.023113810908473194,0.028223369813424333,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,189,0.023132814668870225,0.028274049212142962,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,190,0.023447664852576062,0.02868984937209588,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,191,0.023472266521997097,0.028731122882877314,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,192,0.023482226091776654,0.028733488793342567,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,193,0.02384197719499504,0.029086983100255086,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,194,0.02402374907224757,0.02933680659200105,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,195,0.02405333494649708,0.02937317670442952,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,196,0.024119839053248007,0.02940446604185116,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,197,0.02414237088292965,0.029415341793606768,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,198,0.024241826141446425,0.029564388766836088,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,199,0.02426902778197668,0.029572786756637912,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,200,0.024296660547792504,0.02961247340829061,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,201,0.024367135991704675,0.029631068459000542,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,202,0.02439748328178062,0.029644836474770602,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,203,0.02441758507329149,0.029652755297997196,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,204,0.024428703026961623,0.029665591256773795,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,205,0.024456438357136952,0.02972242065330603,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,206,0.024476327725298015,0.02975570747119593,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,207,0.024502025298415702,0.02978055745548734,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,208,0.02450999381733472,0.02979894505916471,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,209,0.024514817835327312,0.029799560347309566,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,210,0.0245482748997494,0.029822924221092874,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,211,0.024595968493810284,0.029869323881623364,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,212,0.02459655485253208,0.029901597227537713,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,213,0.024610807212189372,0.029916475351788513,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,214,0.024702708225266483,0.030003382523508097,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,215,0.02471842405005416,0.030019654839527253,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,216,0.024756445040030862,0.030067412146215212,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,217,0.024763069232850606,0.030078169598683306,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,218,0.024789629035034986,0.03011494670670563,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,219,0.02482587299529795,0.03011839691439614,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,220,0.024842138740509535,0.03012627176438889,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,221,0.0249141876784653,0.030199338393971323,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,222,0.024950908281190683,0.030236454760784712,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,223,0.024975818297821223,0.03025172808649816,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,224,0.025023769283935085,0.030274867708957844,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,225,0.0250283895386949,0.03030636749965908,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,226,0.0250360491032072,0.03031548245593891,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,227,0.025059629912624608,0.03033248984887724,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,228,0.025129121501629163,0.03040827233124955,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,229,0.02517669085333022,0.03047561801279243,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,230,0.025191770656243603,0.03048738538203862,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,231,0.02522176705811452,0.03053337916320012,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,232,0.025222519784628063,0.03053434023778356,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,233,0.025230216253341854,0.03059099621180173,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,234,0.02524136821099781,0.03061486865786238,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,235,0.02526707649984231,0.030648008152943686,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,236,0.025270488950120136,0.030663829726341584,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,237,0.02531911445490301,0.03070583475149879,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,238,0.025335154746321534,0.030713277474358987,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,239,0.025340228410604966,0.030727006725842682,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,240,0.025363064959169176,0.03073291484121415,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,241,0.025369560969578767,0.03075047613407293,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,242,0.02545364988917433,0.0308456904686732,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,243,0.025455065548292445,0.030857241899387787,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,244,0.025463137238311024,0.030877934605548298,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,245,0.025492149671001534,0.030903502579285855,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,246,0.025536107180327467,0.030921053588815573,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,247,0.025585719070051725,0.03098034435069456,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,248,0.025618542154974736,0.031041784604718785,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,249,0.025639548212817324,0.031062788999349885,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,250,0.025651392127727886,0.03108348239164022,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,251,0.02567371028809451,0.0310977983477572,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,252,0.02567975918003592,0.0310977983477572,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,253,0.02568872701405754,0.031103947300331482,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,254,0.025700285301641222,0.031110781454616786,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,255,0.025728231599506414,0.031123083771312926,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,256,0.025732033741581995,0.031143744466015113,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,257,0.02577183870654947,0.03115380399509906,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,258,0.025792598681775795,0.031164671532130196,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,259,0.02580678101224817,0.031194499360310927,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,260,0.025834188899084804,0.03125224649175744,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,261,0.02586704875895301,0.031290070319875074,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,262,0.025867237328280075,0.03129676429160524,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,263,0.025870959723320944,0.03129695041135728,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,264,0.025874682118361813,0.031297869879365905,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,265,0.025947309146756484,0.03137344481394522,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,266,0.025979160585088243,0.0313995469776901,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,267,0.026022863475690182,0.03143172468692409,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,268,0.026035131694454133,0.0314556456598063,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,269,0.026056285470855128,0.0314936356815121,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,270,0.026058571466851845,0.03149746917892102,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,271,0.026081359319291012,0.03151189971034962,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,272,0.026138377430764196,0.031560891424938876,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,273,0.026556992668243424,0.03203208273139451,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,274,0.026582680130922298,0.032040265835995625,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,275,0.026613731301114725,0.03213400884109287,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,276,0.02665281166619131,0.03216625050370956,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,277,0.02669072618067391,0.03220296769794306,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,278,0.026729072539761985,0.03222750191779396,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,279,0.02672984464197786,0.03225155361762856,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,280,0.026729863817962076,0.03225514463239376,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,281,0.02678894730348587,0.03229761899267869,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,282,0.026801517968412698,0.032329201249576694,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,283,0.026816802072441196,0.03233025206121349,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,284,0.02681909689366363,0.032333100405821415,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,285,0.026836591928346244,0.0323704065483327,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,286,0.026839982275948474,0.03238140656895753,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,287,0.02690311770637578,0.03241693726393498,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,288,0.026915774247218017,0.03241940959914262,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,289,0.0269263038356687,0.03247396044153597,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,290,0.026977278084293947,0.03247489621510752,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,291,0.026983143739693453,0.03253592235619966,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,292,0.026990602042633993,0.032536287022413436,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,293,0.026995629332400715,0.0325534161140518,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,294,0.02707687582853503,0.032582112785334835,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,295,0.027102525827451193,0.032625717305109304,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,296,0.027132218727737332,0.032644241295066524,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,297,0.02714892193996794,0.03266891018053548,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,298,0.02716354712893525,0.03268237859036148,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,299,0.02725661855315382,0.03280899292067334,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,300,0.027264755517876948,0.03284575157170191,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,301,0.0272873819106482,0.03284664043457332,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,302,0.027304002781126286,0.032880189820568284,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,303,0.02731722652732522,0.03290601161112579,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,304,0.02732995767650335,0.03293951906675625,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,305,0.02734952099715246,0.03295177164278254,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,306,0.027589870543471985,0.03320784809319061,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,307,0.027650835076517475,0.03325484246736656,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,308,0.02765185255455725,0.033255471578286636,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,309,0.027689569261279603,0.03328694262025757,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,310,0.027693634225554868,0.033313089761624615,2000,pointwise percentile; fixed observed order and fixed fitted balance weights
+Target–year balanced,311,0.027697710828258504,0.033315453160277966,2000,pointwise percentile; fixed observed order and fixed fitted balance weights

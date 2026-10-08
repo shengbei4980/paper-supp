@@ -1,0 +1,62 @@
+{
+  "size_mm": [
+    182.9999999999947,
+    190.0000000000161
+  ],
+  "pdf_text_extractable": true,
+  "no_task_codes_in_pdf": true,
+  "pdf_fonts": [
+    {
+      "font": "/CFEKEO+ArialMT",
+      "type": "/Type0"
+    },
+    {
+      "font": "/CFEKEO+Arial-BoldMT",
+      "type": "/Type0"
+    }
+  ],
+  "rasters": [
+    {
+      "file": "Figure5c_完整术语_连续色带_对齐修订版.png",
+      "pixels": [
+        4322,
+        4488
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ]
+    },
+    {
+      "file": "Figure5c_完整术语_连续色带_对齐修订版.tiff",
+      "pixels": [
+        4322,
+        4488
+      ],
+      "dpi": [
+        600.0,
+        600.0
+      ]
+    },
+    {
+      "file": "Figure5c_完整术语_连续色带_对齐修订版_预览.png",
+      "pixels": [
+        2161,
+        2244
+      ],
+      "dpi": [
+        299.9994,
+        299.9994
+      ]
+    }
+  ],
+  "static_summary": {
+    "ready": true,
+    "strict": false,
+    "counts": {
+      "PASS": 13,
+      "WARN": 1,
+      "FAIL": 0
+    }
+  }
+}

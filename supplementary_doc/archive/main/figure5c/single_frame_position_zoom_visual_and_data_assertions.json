@@ -1,0 +1,54 @@
+{
+  "size_mm": [
+    183,
+    211
+  ],
+  "archetype": "quantitative grid with theme annotations",
+  "source_sha256": {
+    "实际研究主题估计_108项.csv": "c3b04c84b14991df7c7e9dad503391c5ccdb38a0b36fa0c5bc1627daeeb15c7d",
+    "研究主题_SDG贡献_1296项.csv": "0ce951cb6e0feb4efdc87fdb50442e5686f3888a002a2afca6abeabe2564483c"
+  },
+  "unchanged_estimates": true,
+  "unchanged_point_coordinates": true,
+  "all_scatter_points": 108,
+  "complete_theme_labels": 16,
+  "outlined_points": 16,
+  "selection": "four largest absolute point-estimate shifts per direction per agency; no significance filtering",
+  "sdg_contributions_sum_to_theme_shifts": true,
+  "shared_color_and_font_mapping": true,
+  "font_size_min_pt": 6.5845953174435765,
+  "font_size_max_pt": 8.5,
+  "no_upper_scatter": true,
+  "no_leaders": true,
+  "no_neighborhood_circles": true,
+  "text_anchors_equal_original_points": true,
+  "isotropic_coordinate_enlargement": true,
+  "upper_frame_count": 2,
+  "names_per_agency_frame": 8,
+  "lower_roi_count": 2,
+  "lower_roi_matches_upper_limits": true,
+  "zoom_regions": [
+    {
+      "agency": "NSF",
+      "theme_count": 8,
+      "x_min": 0.0,
+      "x_max": 10.0,
+      "y_min": 0.0,
+      "y_max": 11.113305681743366,
+      "magnification": 1.6
+    },
+    {
+      "agency": "NSFC",
+      "theme_count": 8,
+      "x_min": 0.07052129663020423,
+      "x_max": 13.403854629963538,
+      "y_min": 0.0,
+      "y_max": 14.817740908991158,
+      "magnification": 1.2
+    }
+  ],
+  "no_numeric_word_labels": true,
+  "no_task_codes": true,
+  "no_overlap": true,
+  "no_clipping": true
+}

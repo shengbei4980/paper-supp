@@ -1,0 +1,24 @@
+﻿scope,check,passed,detail
+NSF,Weight merge complete,True,matched=6207/6207
+NSF,Unique record_id,True,duplicates=0
+NSF,One primary K per project,True,violations=0
+NSF,One action stage per project,True,violations=0
+NSF,At least one intervention per project,True,violations=0
+NSF,Balance weights sum to row count,True,weight_sum=6207.0000000000; rows=6207
+NSF,K-L conditional shares conserve 100%,True,max_abs_error=2.331e-15
+NSF,Raw K-A counts recover source rows,True,count_sum=6207; source_rows=6207
+NSF,Independent action reach matches main table,True,max_abs_error_pp=1.421e-14
+NSF,Independent exact-stage counts match main table,True,max_abs_count_error=0
+NSFC,Weight merge complete,True,matched=5546/5546
+NSFC,Unique record_id,True,duplicates=0
+NSFC,One primary K per project,True,violations=0
+NSFC,One action stage per project,True,violations=0
+NSFC,At least one intervention per project,True,violations=0
+NSFC,Balance weights sum to row count,True,weight_sum=5546.0000000000; rows=5546
+NSFC,K-L conditional shares conserve 100%,True,max_abs_error=2.554e-15
+NSFC,Raw K-A counts recover source rows,True,count_sum=5546; source_rows=5546
+NSFC,Independent action reach matches main table,True,max_abs_error_pp=2.842e-14
+NSFC,Independent exact-stage counts match main table,True,max_abs_count_error=0
+Figure2e,Independent K-L residuals match main table,True,max_abs_error_pp=1.243e-14
+Figure2e,No missing K-L cells,True,rows=54; duplicate_pairs=0
+Figure2e,No missing agency-K-A positions,True,rows=84; duplicates=0

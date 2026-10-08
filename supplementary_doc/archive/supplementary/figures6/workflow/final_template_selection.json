@@ -1,0 +1,31 @@
+{
+  "dataset_summary": "54 K×L residual cells and 84 agency×K×A action-stage reach rows; CSV inputs are complete grids.",
+  "observed_data_features": [
+    "Residual sign maps to which agency has the higher conditional share; magnitude maps to bubble area.",
+    "The six action-stage series include balanced reach, bootstrap intervals and raw exact-stage counts.",
+    "The upstream coded-project files provide 15 complete primary knowledge-task and intervention labels."
+  ],
+  "relevant_columns": [
+    "knowledge_code",
+    "intervention_code",
+    "difference_nsf_minus_nsfc_pp",
+    "difference_ci_low_pp",
+    "difference_ci_high_pp",
+    "ci_excludes_zero",
+    "absolute_difference_rank"
+  ],
+  "candidate_comparisons": [],
+  "selected_template_id": "rel_grouped_correlation_bubble_matrix",
+  "selected_template_name": "分组相关性气泡矩阵",
+  "alternative_template_ids": [
+    "mpn_scatter_matrix_timeseries_regression"
+  ],
+  "selection_reason": "The selected catalog bubble-matrix template directly supports the left panel's gridded sign/area encoding and full frame. Its correlation/p-value calculations are not reused: the user's already-computed residual estimates and bootstrap intervals are plotted instead. The right small multiples retain the original Figure 2e line-chart semantics.",
+  "data_support_reason": "All fields used by the selected bubble matrix are observed in the residual CSV; the reach CSV supplies the right panels.",
+  "data_warnings": [
+    "K06 has low raw project counts; keep its interval and explicit low-n label."
+  ],
+  "confidence": 0.92,
+  "needs_clarification": false,
+  "clarification_question": ""
+}

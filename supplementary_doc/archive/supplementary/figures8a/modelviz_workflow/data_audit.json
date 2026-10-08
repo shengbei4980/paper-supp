@@ -1,0 +1,99 @@
+{
+  "source_folder": "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure5\\重新输出figure\\figure5b\\数据",
+  "path_rows": 753,
+  "selected_agency_sdg_rows": 12,
+  "panels": [
+    {
+      "agency": "NSF",
+      "mismatch_class": "Near alignment",
+      "paths": 114,
+      "sdgs": 2,
+      "targets": 7,
+      "knowledge_tasks": 6,
+      "action_stages": 7,
+      "fractional_support_total": 750.166667,
+      "action_group_share_percent": {
+        "A01–A02": 55.83,
+        "A03–A04": 43.69,
+        "A05–A07": 0.47
+      }
+    },
+    {
+      "agency": "NSF",
+      "mismatch_class": "Relative higher research supply",
+      "paths": 172,
+      "sdgs": 2,
+      "targets": 8,
+      "knowledge_tasks": 6,
+      "action_stages": 7,
+      "fractional_support_total": 1495.019048,
+      "action_group_share_percent": {
+        "A01–A02": 66.36,
+        "A03–A04": 32.25,
+        "A05–A07": 1.39
+      }
+    },
+    {
+      "agency": "NSF",
+      "mismatch_class": "Relative lower research supply",
+      "paths": 90,
+      "sdgs": 2,
+      "targets": 7,
+      "knowledge_tasks": 6,
+      "action_stages": 7,
+      "fractional_support_total": 168.8,
+      "action_group_share_percent": {
+        "A01–A02": 81.87,
+        "A03–A04": 13.4,
+        "A05–A07": 4.73
+      }
+    },
+    {
+      "agency": "NSFC",
+      "mismatch_class": "Near alignment",
+      "paths": 124,
+      "sdgs": 2,
+      "targets": 7,
+      "knowledge_tasks": 6,
+      "action_stages": 7,
+      "fractional_support_total": 541.416667,
+      "action_group_share_percent": {
+        "A01–A02": 57.06,
+        "A03–A04": 35.15,
+        "A05–A07": 7.79
+      }
+    },
+    {
+      "agency": "NSFC",
+      "mismatch_class": "Relative higher research supply",
+      "paths": 215,
+      "sdgs": 2,
+      "targets": 8,
+      "knowledge_tasks": 6,
+      "action_stages": 7,
+      "fractional_support_total": 2637.083333,
+      "action_group_share_percent": {
+        "A01–A02": 68.75,
+        "A03–A04": 24.81,
+        "A05–A07": 6.44
+      }
+    },
+    {
+      "agency": "NSFC",
+      "mismatch_class": "Relative lower research supply",
+      "paths": 38,
+      "sdgs": 2,
+      "targets": 7,
+      "knowledge_tasks": 5,
+      "action_stages": 7,
+      "fractional_support_total": 41.583333,
+      "action_group_share_percent": {
+        "A01–A02": 65.33,
+        "A03–A04": 17.64,
+        "A05–A07": 17.03
+      }
+    }
+  ],
+  "all_paths_positive_and_unique": true,
+  "selected_sdgs_match_paths": true
+}

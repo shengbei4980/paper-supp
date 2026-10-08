@@ -1,0 +1,76 @@
+{
+  "template_id": "rel_circular_grouped_correlation_heatmap",
+  "template_name": "环状相关性热图-带有分组标注",
+  "plot_goal": "全部62组Target组合在429个机构城市的出现；内环描述性聚类树",
+  "selected_columns": [
+    "agency",
+    "city_id",
+    "institution_city",
+    "pair_id",
+    "pair_project_count"
+  ],
+  "column_mappings": [
+    {
+      "data_column": "agency",
+      "template_role": "左右国家面板",
+      "reason": ""
+    },
+    {
+      "data_column": "city_id",
+      "template_role": "扇区与树叶",
+      "reason": ""
+    },
+    {
+      "data_column": "pair_id",
+      "template_role": "同心环",
+      "reason": ""
+    },
+    {
+      "data_column": "pair_project_count",
+      "template_role": "大于0转为出现",
+      "reason": ""
+    }
+  ],
+  "required_preprocessing": [
+    "按事件表复核城市组合项目记录数",
+    "二值Jaccard平均连接，分别聚类",
+    "两国共用62层顺序",
+    "输出全部编号索引和覆盖数"
+  ],
+  "required_dependencies": [
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "scipy"
+  ],
+  "layout_elements_to_preserve": [
+    "极坐标环形矩阵",
+    "径向标签缺口",
+    "分组标注"
+  ],
+  "style_elements_to_preserve": [
+    "白底",
+    "清晰分类标签",
+    "二维矩阵"
+  ],
+  "elements_allowed_to_change": [
+    "两国左右双圆",
+    "用户要求的灰色内环树",
+    "蓝红二值配色",
+    "去除相关系数与显著性标记"
+  ],
+  "title_plan": "Stable Target combinations across research cities",
+  "axis_plan": "每城一扇区，每组合一层，共用Jaccard径向尺度",
+  "legend_plan": "国家出现色块、白色未观测、灰色树",
+  "annotation_plan": "稀疏图面编号加完整索引；每组城市覆盖数附索引",
+  "output_formats": [
+    "png",
+    "pdf",
+    "svg"
+  ],
+  "warnings": [
+    "初稿待用户审阅；索引是读取精确名称的组成部分"
+  ],
+  "can_proceed": true,
+  "clarification_question": ""
+}

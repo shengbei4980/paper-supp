@@ -1,0 +1,10 @@
+﻿source,role,path,bytes,last_modified
+NSF coded projects,Primary project-level source,E:\可持续发展目标基金\框架内容初稿\数据\llm编码完数据\full_v3_5_2_combined_deepseek\NSF_编码结果.csv,17534101.0,2026-08-02T04:06:01.168329239
+NSFC coded projects,Primary project-level source,E:\可持续发展目标基金\框架内容初稿\数据\llm编码完数据\full_v3_5_2_combined_deepseek\NSFC_编码结果.csv,15147876.0,2026-08-02T04:05:57.181814194
+NSF SDSN challenge,Primary external challenge source,E:\可持续发展目标基金\辅助数据\预处理\D-SDSN\NSF.csv,1604371.0,2026-08-02T12:39:52.349312544
+NSFC SDSN challenge,Primary external challenge source,E:\可持续发展目标基金\辅助数据\预处理\D-SDSN\NSFC.csv,1587347.0,2026-08-02T12:39:52.416418314
+Figure 4b formal cross-check,Numeric validation only,E:\可持续发展目标基金\定稿撰写\成图\figure4\figure4b\配对CLR偏离诊断与稳定性分类\方案B_配对森林—跨国差值轨道版\数据\Figure4b_B_country_estimates.csv,8432.0,2026-08-27T08:44:03.613765001
+Figure 4c formal cross-check,Numeric validation only,E:\可持续发展目标基金\定稿撰写\成图\figure4\figure4c\正式版_双国方向化Aitchison贡献剖面\数据\figure4c_count_only_diagnostic_contributions.csv,7449.0,2026-08-27T08:48:12.905586004
+Figure 3d formal cross-check,Numeric validation only,E:\可持续发展目标基金\定稿撰写\成图\figure3\figure3d\方案A_累积城市排名轨迹与Gini叠加\数据\Figure3d_城市SDG供给.csv,506904.0,2026-08-26T12:02:34.700350523
+NSF in-memory audit,Population audit,,,records=6207; families=5000
+NSFC in-memory audit,Population audit,,,records=5546; families=5546

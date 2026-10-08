@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "dependency_inspection": {
+    "success": true,
+    "template_code_path": "C:\\Users\\19392\\.codex\\skills\\modelviz-skill\\templates\\04_DIS_distribution_uncertainty\\04_DIS_005\\带显著性标记与误差棒的环形柱状图.py",
+    "required_dependencies": [
+      {
+        "import_name": "matplotlib",
+        "package_name": "matplotlib",
+        "source": [
+          "ast"
+        ]
+      },
+      {
+        "import_name": "numpy",
+        "package_name": "numpy",
+        "source": [
+          "ast"
+        ]
+      },
+      {
+        "import_name": "PIL",
+        "package_name": "Pillow",
+        "source": [
+          "ast"
+        ]
+      }
+    ],
+    "unresolved_dependencies": [],
+    "stdlib_dependencies": [
+      "os",
+      "pathlib",
+      "shutil",
+      "logging"
+    ],
+    "internal_modules": [],
+    "warnings": []
+  }
+}

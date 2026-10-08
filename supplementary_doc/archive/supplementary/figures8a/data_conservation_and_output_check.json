@@ -1,0 +1,70 @@
+{
+  "source_path": "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure5\\重新输出figure\\figure5b\\modelviz重构\\数据\\Figure5b_稳定入口完整路径.csv",
+  "source_paths": 753,
+  "positive_unique_source_paths": true,
+  "aggregated_edges": 397,
+  "expected_transition_edge_totals": 2,
+  "panels": [
+    {
+      "agency": "NSF",
+      "mismatch_class": "Relative lower research supply",
+      "path_rows": 90,
+      "sectors": 20,
+      "edges": 68,
+      "support_each_transition": 168.8
+    },
+    {
+      "agency": "NSFC",
+      "mismatch_class": "Relative lower research supply",
+      "path_rows": 38,
+      "sectors": 19,
+      "edges": 31,
+      "support_each_transition": 41.583333333333336
+    },
+    {
+      "agency": "NSF",
+      "mismatch_class": "Near alignment",
+      "path_rows": 114,
+      "sectors": 20,
+      "edges": 65,
+      "support_each_transition": 750.1666666666666
+    },
+    {
+      "agency": "NSFC",
+      "mismatch_class": "Near alignment",
+      "path_rows": 124,
+      "sectors": 20,
+      "edges": 71,
+      "support_each_transition": 541.4166666666667
+    },
+    {
+      "agency": "NSF",
+      "mismatch_class": "Relative higher research supply",
+      "path_rows": 172,
+      "sectors": 21,
+      "edges": 78,
+      "support_each_transition": 1495.0190476190476
+    },
+    {
+      "agency": "NSFC",
+      "mismatch_class": "Relative higher research supply",
+      "path_rows": 215,
+      "sectors": 21,
+      "edges": 84,
+      "support_each_transition": 2637.083333333333
+    }
+  ],
+  "palette": {
+    "NSF": {
+      "dark": "#003366",
+      "mid": "#7F99B2",
+      "light": "#E4EDF5"
+    },
+    "NSFC": {
+      "dark": "#8B0000",
+      "mid": "#C57F7F",
+      "light": "#F6E4E4"
+    }
+  },
+  "interpretation": "Selected SDGs define each panel but are outside the chord ring. Chords summarize Target–K and K–A relationships; full four-layer paths remain in source CSV. Task sector lengths include incoming and outgoing support. Separate panels have different angular scales."
+}

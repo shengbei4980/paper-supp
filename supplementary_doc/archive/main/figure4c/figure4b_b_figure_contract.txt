@@ -1,0 +1,17 @@
+Figure 4b scheme B figure contract
+
+Core conclusion:
+Country-specific CLR mismatch profiles differ across SDGs, and the integrated delta track identifies where NSF and NSFC relative-position mismatches differ with project-family bootstrap uncertainty.
+
+Evidence hierarchy:
+1. Foreground country points: country-specific M estimates and project-family bootstrap 95% intervals.
+2. Signed background bars: delta M = M_NSF - M_NSFC and its independent-bootstrap 95% interval.
+
+Archetype: quantitative profile chart: one SDG per row, signed difference bars behind paired country points.
+Backend: Python/matplotlib only.
+Output: 182.88 mm wide; editable SVG/PDF; 600-dpi TIFF and PNG; 300-dpi preview.
+One x axis: signed gray bars = delta M; blue/red points = country-specific M; all 36 intervals retained.
+Reference adaptation: visual structure only; no A-squared or contribution-share quantities are added.
+
+Reviewer boundary:
+The delta track compares relative mismatch positions rather than absolute award amounts. It does not replace the unresolved funding-weighted sensitivity and formal stability classification.

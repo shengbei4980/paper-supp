@@ -1,0 +1,40 @@
+{
+  "pages": 1,
+  "size_mm": [
+    182.9999999999947,
+    179.99999999998556
+  ],
+  "editable_pdf_fonts": [
+    {
+      "name": "/CFEKEO+ArialMT",
+      "type": "/Type0"
+    },
+    {
+      "name": "/CFEKEO+Arial-BoldMT",
+      "type": "/Type0"
+    }
+  ],
+  "raster": {
+    "png": {
+      "pixels": [
+        4322,
+        4251
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ]
+    },
+    "tiff": {
+      "pixels": [
+        4322,
+        4251
+      ],
+      "dpi": [
+        600.0,
+        600.0
+      ]
+    }
+  },
+  "no_K_codes": true
+}

@@ -1,0 +1,30 @@
+{
+  "resamples_per_state": 2000,
+  "seed": 20260824,
+  "project_counts": {
+    "NSF": 6207,
+    "NSFC": 5546
+  },
+  "original_draw_comparison_rows": 16000,
+  "max_original_bootstrap_error": 1.249000902703301e-16,
+  "interval": "pointwise percentile 2.5%-97.5%; conditional on observed ordering and fitted weights; not simultaneous",
+  "resampling": "joint project resample shared across three stages within each state; original fitted weights used as sampling probabilities for balanced state; weights not refitted per draw",
+  "source_files": [
+    {
+      "path": "E:\\可持续发展目标基金\\框架内容初稿\\数据\\llm编码完数据\\full_v3_5_2_combined_deepseek\\NSF_编码结果.csv",
+      "sha256": "a0b978a338af55d279b7486e84f426c48444f11632f2687e51350a43441b7a20"
+    },
+    {
+      "path": "E:\\可持续发展目标基金\\框架内容初稿\\数据\\llm编码完数据\\full_v3_5_2_combined_deepseek\\NSFC_编码结果.csv",
+      "sha256": "c36e7bf4496f8b956acda3a19bae39e4b1cab55d0ef88e29ef284af38b9373f7"
+    },
+    {
+      "path": "E:\\可持续发展目标基金\\定稿撰写\\成图\\成图精简休整版本\\figure2\\figure2a\\全量连接位移与累计差异组合图\\代码\\原始算法存档\\figure_common.py",
+      "sha256": "58dc54abbf4feae202676ee14faa8d07600d9b6b594f91d7f567831cb47bbdfc"
+    },
+    {
+      "path": "E:\\可持续发展目标基金\\定稿撰写\\成图\\成图精简休整版本\\figure2\\figure2a\\全量连接位移与累计差异组合图\\代码\\原始算法存档\\build_figure2_data.py",
+      "sha256": "01f44e3a7a942a549ae6f738f520c8e35ed666757638e91cb8fd137376a14425"
+    }
+  ]
+}

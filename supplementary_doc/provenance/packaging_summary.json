@@ -1,0 +1,46 @@
+{
+  "source_file_count": 942,
+  "mapped_file_count": 942,
+  "source_bytes": 742620609,
+  "all_copied_files_byte_identical": true,
+  "ascii_repository_paths": true,
+  "source_extension_counts": {
+    ".csv": 287,
+    ".py": 121,
+    ".pdf": 40,
+    ".svg": 40,
+    ".tiff": 25,
+    ".png": 79,
+    ".md": 59,
+    ".xlsx": 2,
+    ".json": 237,
+    ".npz": 3,
+    ".sha256": 3,
+    ".txt": 24,
+    ".ps1": 5,
+    ".gpkg": 3,
+    ".yaml": 3,
+    ".gz": 6,
+    ".gexf": 2,
+    ".gephi": 2,
+    ".log": 1
+  },
+  "large_files_for_lfs": [
+    {
+      "path": "data/processed/coding/nsf_coding_evidence.csv",
+      "bytes": 111729068
+    },
+    {
+      "path": "data/processed/coding/nsfc_coding_evidence.csv",
+      "bytes": 93732914
+    },
+    {
+      "path": "figures/supplementary/figures8b/figure5d_discrete_mirrored_ridgelines_reconstructed.tiff",
+      "bytes": 70859006
+    }
+  ],
+  "missing_catalog_figures": [
+    "Figure S1: listed in the source catalog, but no source directory or files were supplied."
+  ],
+  "scope": "All supplied files are archived; no statistical recalculation, full translation of research content, or end-to-end pipeline execution was performed."
+}

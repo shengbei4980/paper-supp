@@ -1,0 +1,29 @@
+{
+  "observation_count": 24,
+  "goal_count": 12,
+  "axis_range_pct": [
+    0,
+    100
+  ],
+  "reference_line_pct": 50.0,
+  "all_stem_endpoints_verified": true,
+  "value_label_collisions": [],
+  "value_labels_cover_points": [],
+  "size_mm": [
+    182.88,
+    102.87
+  ],
+  "minimum_font_pt": 6.6,
+  "no_exclusions": true,
+  "no_inferential_intervals": true,
+  "adaptation": "shared goal rows; correlations replaced by untransformed shares; central reference 50%; no significance marks",
+  "template_retained": [
+    "row loop",
+    "hlines",
+    "translucent outer endpoints",
+    "solid inner endpoints",
+    "central line",
+    "boxed axes",
+    "dashed grid"
+  ]
+}

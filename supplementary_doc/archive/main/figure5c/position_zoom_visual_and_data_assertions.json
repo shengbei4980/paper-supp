@@ -1,0 +1,68 @@
+{
+  "size_mm": [
+    183,
+    211
+  ],
+  "archetype": "quantitative grid with theme annotations",
+  "source_sha256": {
+    "实际研究主题估计_108项.csv": "c3b04c84b14991df7c7e9dad503391c5ccdb38a0b36fa0c5bc1627daeeb15c7d",
+    "研究主题_SDG贡献_1296项.csv": "0ce951cb6e0feb4efdc87fdb50442e5686f3888a002a2afca6abeabe2564483c"
+  },
+  "unchanged_estimates": true,
+  "unchanged_point_coordinates": true,
+  "all_scatter_points": 108,
+  "complete_theme_labels": 16,
+  "outlined_points": 16,
+  "selection": "four largest absolute point-estimate shifts per direction per agency; no significance filtering",
+  "sdg_contributions_sum_to_theme_shifts": true,
+  "shared_color_and_font_mapping": true,
+  "font_size_min_pt": 7.7761357856992195,
+  "font_size_max_pt": 9.5,
+  "no_upper_scatter": true,
+  "no_leaders": true,
+  "no_neighborhood_circles": true,
+  "text_anchors_equal_original_points": true,
+  "isotropic_coordinate_enlargement": true,
+  "zoom_regions": [
+    {
+      "agency": "NSF",
+      "direction": "Observed > benchmark",
+      "x_min": 0.5090714285714286,
+      "x_max": 10.509071428571428,
+      "y_min": -0.0801185231258148,
+      "y_max": 5.476534317745871,
+      "magnification": 1.6
+    },
+    {
+      "agency": "NSF",
+      "direction": "Observed < benchmark",
+      "x_min": -3.21048166392994,
+      "x_max": 7.82400109469075,
+      "y_min": 3.762401983264072,
+      "y_max": 9.893880980087998,
+      "magnification": 1.45
+    },
+    {
+      "agency": "NSFC",
+      "direction": "Observed > benchmark",
+      "x_min": 0.3910116705080613,
+      "x_max": 14.304055148768931,
+      "y_min": 1.5736140296841197,
+      "y_max": 9.304609286549075,
+      "magnification": 1.15
+    },
+    {
+      "agency": "NSFC",
+      "direction": "Observed < benchmark",
+      "x_min": -4.352450500575275,
+      "x_max": 5.647549499424725,
+      "y_min": 1.709862317292334,
+      "y_max": 7.266515158164017,
+      "magnification": 1.6
+    }
+  ],
+  "no_numeric_word_labels": true,
+  "no_task_codes": true,
+  "no_overlap": true,
+  "no_clipping": true
+}

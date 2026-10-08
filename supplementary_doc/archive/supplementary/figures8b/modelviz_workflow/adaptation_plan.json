@@ -1,0 +1,38 @@
+{
+  "figure": "Figure 5d / Supplementary Fig. S11b",
+  "confirmed_steps": {
+    "information_scope": "All 189 class × intervention × stage positions and evidence markers",
+    "template": "dis_ridgeline_distribution",
+    "layout": "Three vertically stacked mismatch-class panels",
+    "labels": "Each panel repeats L01–L09 codes and complete intervention labels; A01–A07 codes are at the top and full stage names in the lower glossary"
+  },
+  "source": "Figure5d_完整行动阶段份额与差值.csv and Figure5d_干预方式支持度.csv",
+  "data_mapping": {
+    "panel": "mismatch_class",
+    "ridge_row": "intervention",
+    "ordered_stage": "action_stage",
+    "blue_height": "nsf_probability",
+    "red_height": "nsfc_probability",
+    "blue_interval": ["nsf_ci_low", "nsf_ci_high"],
+    "red_interval": ["nsfc_ci_low", "nsfc_ci_high"],
+    "support": "min_ess",
+    "limited_evidence": "low_support",
+    "reliable_difference": "stable_cell"
+  },
+  "template_adaptation": "Keep stacked ridge organization; replace continuous KDE with empirical discrete step profiles; mirror NSF above and NSFC below each baseline; keep one vertical scale for all panels.",
+  "color_mapping": {
+    "NSF_dark": "#003366",
+    "NSF_mid": "#7F99B2",
+    "NSF_light": "#E4EDF5",
+    "NSFC_dark": "#8B0000",
+    "NSFC_mid": "#C57F7F",
+    "NSFC_light": "#F6E4E4",
+    "confidence_alpha": 0.62,
+    "low_support_outline_alpha": 0.62
+  },
+  "special_cases": [
+    "NSFC in the lower-supply/L03 group has no observations; retain seven rows and label them not observed, never zero.",
+    "In six low-support groups, show the estimated outlines only, consistent with the Supplementary Fig. S11b caption.",
+    "Use supplied bootstrap intervals and reliable-difference flags without recomputation."
+  ]
+}

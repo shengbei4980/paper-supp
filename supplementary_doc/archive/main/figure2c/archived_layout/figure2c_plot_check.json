@@ -1,0 +1,25 @@
+{
+  "size_mm": [
+    183,
+    193
+  ],
+  "axes_count": 1,
+  "paths": 54,
+  "source_cells": 324,
+  "rendered_cells": 972,
+  "markers": 34,
+  "group_frames": 36,
+  "frame_linewidth_pt": 0.35,
+  "clipped_text": [],
+  "overlapping_key_text": [],
+  "python": "3.11.5 | packaged by conda-forge | (main, Aug 27 2023, 03:23:48) [MSC v.1936 64 bit (AMD64)]",
+  "matplotlib": "3.10.8",
+  "share_scale": [
+    0,
+    100
+  ],
+  "difference_scale": [
+    -60,
+    60
+  ]
+}

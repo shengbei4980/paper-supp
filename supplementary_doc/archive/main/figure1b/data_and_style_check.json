@@ -1,0 +1,48 @@
+{
+  "outer_bars": 34,
+  "center_targets": 30,
+  "bootstrap_rows": 12000,
+  "radial_scale": [
+    0,
+    45.0
+  ],
+  "max_ci": 40.65918797688999,
+  "s13_signed_pct": 18.23397935006897,
+  "nsf_fill": "#003366",
+  "nsfc_fill": "#8B0000",
+  "alpha": 1,
+  "circular_lines": "#000000",
+  "inner_metric_display": "three sectors with equal-length clockwise coverage arcs; metric CIs in data table",
+  "inner_metric_points": 6,
+  "radar_relative_difference": "#003366",
+  "radar_jsd_contribution": "#8B0000",
+  "radar_line_styles": [
+    "solid",
+    "dashed"
+  ],
+  "highlight_fills": [
+    "#E4EDF5",
+    "#F6E4E4"
+  ],
+  "palette_basis": "Exact Figure1a dark endpoints: NSF #003366 and NSFC #8B0000; alpha 1",
+  "radar_radius": 0.535,
+  "radar_y_shift": 0,
+  "jsd_scale": [
+    0,
+    0.16
+  ],
+  "overlap_scale": [
+    0,
+    1
+  ],
+  "arc_span_degrees": 50,
+  "source_sha256": {
+    "图1e中心替换_121项Target完整分解.csv": "3dcf7607825fdfcabd26daed13f84cacca75776123e818d3ca2f73d3ba82d900",
+    "图1e中心替换_19项具体需求.csv": "cf3c25a4d06675feabb3b00892b7013b335181d3a0329430c60cbefa423da180",
+    "图1e中心替换_Bootstrap distributions.csv": "1b46487ea99086276222aea73938d1b5d9437cb89d1dfafc356c5bc00cb089b4",
+    "图1e中心替换_Top30Target.csv": "4edd94e30f1d1bf639e23870b627c0fcfe526c9838736e6ff72446503533d8e7",
+    "图1e中心替换_Top5径向棒棒糖.csv": "1e7377eaaf52e7d14927464bbc75160506837ab5ec9e5e0ae469226ad299fb02",
+    "图1e中心替换_跨层级指标.csv": "213da542b907130b49d36a08043d5bef7de473129faa8e47a2c346bed9e42ea2",
+    "图1e中心替换_输入与统计审计.csv": "e8f384695d4186f599d6d081f91773e2e3d4cbeb95c78133d28750fbb185a2c3"
+  }
+}

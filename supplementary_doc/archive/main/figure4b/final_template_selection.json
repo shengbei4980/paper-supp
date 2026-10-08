@@ -1,0 +1,155 @@
+{
+  "dataset_summary": "85 observed Targets, 12 SDGs, 595 paired cells: one Target-share metric and six conditional task shares.",
+  "observed_data_features": [
+    "Two country values per cell",
+    "22 absent country–Target profiles",
+    "Fractions in [0,1]",
+    "Share and task rows have different denominators"
+  ],
+  "relevant_columns": [
+    "sdg",
+    "target",
+    "metric",
+    "value_nsf",
+    "low_support_nsf",
+    "observed_nsf",
+    "value_nsfc",
+    "low_support_nsfc",
+    "observed_nsfc"
+  ],
+  "candidate_comparisons": [
+    {
+      "template_id": "rel_diagonal_split_triangular_heatmap",
+      "suitable": true,
+      "advantages": [
+        "同一单元并列两个国家的实际份额；比重复两套85行矩阵节省空间"
+      ],
+      "limitations": [
+        "原模板三角外轮廓改为矩形；颜色端点改为Figure1a；无相关性或显著性含义"
+      ],
+      "data_compatibility": "595个成对单元，分别含NSF和NSFC实际份额",
+      "requirement_compatibility": "满足全量和紧凑正文尺寸"
+    },
+    {
+      "template_id": "rel_fdr_correlation_heatmap",
+      "suitable": false,
+      "advantages": [
+        "提供类别比较的可视化参照"
+      ],
+      "limitations": [
+        "不适合在183×110 mm中逐项保留85个Target和两国六任务组合"
+      ],
+      "data_compatibility": "部分比较功能可用，需更大改动",
+      "requirement_compatibility": "空间利用或逐项可比性较差"
+    },
+    {
+      "template_id": "rel_bar_association_matrix",
+      "suitable": false,
+      "advantages": [
+        "提供类别比较的可视化参照"
+      ],
+      "limitations": [
+        "不适合在183×110 mm中逐项保留85个Target和两国六任务组合"
+      ],
+      "data_compatibility": "部分比较功能可用，需更大改动",
+      "requirement_compatibility": "空间利用或逐项可比性较差"
+    },
+    {
+      "template_id": "rel_pairplot_seamless_heatmap",
+      "suitable": false,
+      "advantages": [
+        "提供类别比较的可视化参照"
+      ],
+      "limitations": [
+        "不适合在183×110 mm中逐项保留85个Target和两国六任务组合"
+      ],
+      "data_compatibility": "部分比较功能可用，需更大改动",
+      "requirement_compatibility": "空间利用或逐项可比性较差"
+    },
+    {
+      "template_id": "cmp_gradient_single_factor_bar",
+      "suitable": false,
+      "advantages": [
+        "提供类别比较的可视化参照"
+      ],
+      "limitations": [
+        "不适合在183×110 mm中逐项保留85个Target和两国六任务组合"
+      ],
+      "data_compatibility": "部分比较功能可用，需更大改动",
+      "requirement_compatibility": "空间利用或逐项可比性较差"
+    },
+    {
+      "template_id": "cmp_stack_pie_box_report",
+      "suitable": false,
+      "advantages": [
+        "提供类别比较的可视化参照"
+      ],
+      "limitations": [
+        "不适合在183×110 mm中逐项保留85个Target和两国六任务组合"
+      ],
+      "data_compatibility": "部分比较功能可用，需更大改动",
+      "requirement_compatibility": "空间利用或逐项可比性较差"
+    },
+    {
+      "template_id": "cmp_circular_barplot",
+      "suitable": false,
+      "advantages": [
+        "提供类别比较的可视化参照"
+      ],
+      "limitations": [
+        "不适合在183×110 mm中逐项保留85个Target和两国六任务组合"
+      ],
+      "data_compatibility": "部分比较功能可用，需更大改动",
+      "requirement_compatibility": "空间利用或逐项可比性较差"
+    },
+    {
+      "template_id": "cmp_ternary_scatter",
+      "suitable": false,
+      "advantages": [
+        "提供类别比较的可视化参照"
+      ],
+      "limitations": [
+        "不适合在183×110 mm中逐项保留85个Target和两国六任务组合"
+      ],
+      "data_compatibility": "部分比较功能可用，需更大改动",
+      "requirement_compatibility": "空间利用或逐项可比性较差"
+    },
+    {
+      "template_id": "cmp_correlation_stacked_bar",
+      "suitable": false,
+      "advantages": [
+        "提供类别比较的可视化参照"
+      ],
+      "limitations": [
+        "不适合在183×110 mm中逐项保留85个Target和两国六任务组合"
+      ],
+      "data_compatibility": "部分比较功能可用，需更大改动",
+      "requirement_compatibility": "空间利用或逐项可比性较差"
+    },
+    {
+      "template_id": "cmp_flowing_percentage_stack",
+      "suitable": false,
+      "advantages": [
+        "提供类别比较的可视化参照"
+      ],
+      "limitations": [
+        "不适合在183×110 mm中逐项保留85个Target和两国六任务组合"
+      ],
+      "data_compatibility": "部分比较功能可用，需更大改动",
+      "requirement_compatibility": "空间利用或逐项可比性较差"
+    }
+  ],
+  "selected_template_id": "rel_diagonal_split_triangular_heatmap",
+  "selected_template_name": "图双变量对角线分割组合三角热图",
+  "alternative_template_ids": [
+    "rel_bar_association_matrix"
+  ],
+  "selection_reason": "Dual triangles compare two countries in each compact cell; all targets fit two horizontal bands.",
+  "data_support_reason": "Paired numerical values and explicit missing/support flags exist for every cell.",
+  "data_warnings": [
+    "No inference from color differences alone. Confidence intervals remain in companion data."
+  ],
+  "confidence": 0.93,
+  "needs_clarification": false,
+  "clarification_question": ""
+}

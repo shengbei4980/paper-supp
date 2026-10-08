@@ -1,0 +1,11 @@
+﻿parameter,value
+Project corpus,"NSF 6,207; NSFC 5,546"
+Year range,2015-2025
+Comparative standardization,Pooled Target-year entropy balance
+Intervention multi-label rule,Equal fractional weight within each project
+Action-stage reach,"P(A >= stage | primary knowledge task, agency)"
+Count bubbles,Unweighted number of projects coded exactly at each stage
+Bootstrap,2000 project-level multinomial resamples
+Interval,95% percentile interval
+Multiple testing,Benjamini-Hochberg correction within each contrast family
+Random seed,20260824

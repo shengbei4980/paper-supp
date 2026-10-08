@@ -1,0 +1,3 @@
+﻿agency,file,sha256,rows,unique_record_ids,year_min,year_max,target_parent_goal_mismatches,topic_parent_domain_mismatches,project_rows,joint_weight_min,joint_weight_max,joint_share_sum_pct,domain_share_sum_pct,bootstrap_resamples
+NSF,E:\可持续发展目标基金\框架内容初稿\数据\llm编码完数据\full_v3_5_2_combined_deepseek\NSF_编码结果.csv,a0b978a338af55d279b7486e84f426c48444f11632f2687e51350a43441b7a20,6207,6207,2015,2025,0,0,6207,0.9999999999999999,1.0,99.99999999999996,99.99999999999996,2000
+NSFC,E:\可持续发展目标基金\框架内容初稿\数据\llm编码完数据\full_v3_5_2_combined_deepseek\NSFC_编码结果.csv,c36e7bf4496f8b956acda3a19bae39e4b1cab55d0ef88e29ef284af38b9373f7,5546,5546,2015,2023,0,0,5546,0.9999999999999999,1.0,100.0,100.00000000000001,2000

@@ -1,0 +1,7 @@
+﻿task,label,source_color,display_color,marker
+K01,Measure & diagnose,#78A6C3,#547488,o
+K02,Explain mechanisms,#536E89,#475e74,s
+K03,Predict risks,#BCC7CE,#6b7175,^
+K04,Design & optimize,#D48B8B,#a16a6a,D
+K05,Support decisions,#986A74,#815a63,v
+K06,Monitor & evaluate,#D7CEC5,#706b66,P

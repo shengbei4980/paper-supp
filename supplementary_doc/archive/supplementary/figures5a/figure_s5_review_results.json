@@ -1,0 +1,55 @@
+{
+  "source_rows": 601,
+  "combined_flows": 311,
+  "classes": {
+    "NSF-dominant / NSF": 123,
+    "NSFC-dominant / NSFC": 98,
+    "Balanced": 90
+  },
+  "flow_count_by_stage": {
+    "Need → pressure": 150,
+    "Pressure → system": 90,
+    "System → knowledge": 71
+  },
+  "fractional_n_by_stage": {
+    "Need → pressure": 11753.0,
+    "Pressure → system": 11753.0,
+    "System → knowledge": 11753.0
+  },
+  "maximum_difference_vs_original_audit": {
+    "nsf_fractional_n": 2.842170943040401e-14,
+    "nsfc_fractional_n": 0.0,
+    "combined_fractional_n": 2.842170943040401e-14,
+    "nsf_stage_share": 0.0,
+    "nsfc_stage_share": 0.0,
+    "profile_share_nsf": 1.1102230246251565e-16
+  },
+  "palette": {
+    "NSF": [
+      "#E4EDF5",
+      "#7F99B2",
+      "#003366"
+    ],
+    "NSFC": [
+      "#F6E4E4",
+      "#C57F7F",
+      "#8B0000"
+    ],
+    "Balanced": "#D9DEE3",
+    "coloured_alpha": 0.78,
+    "balanced_alpha": 0.64
+  },
+  "intensity": {
+    "NSF": "clip((profile_share_nsf - 0.60) / 0.40, 0, 1)",
+    "NSFC": "clip((0.40 - profile_share_nsf) / 0.40, 0, 1)",
+    "Balanced": "fixed neutral, 0.40 <= profile_share_nsf <= 0.60"
+  },
+  "width": "combined_fractional_n, same source/target stacking and scale as original Figure 2a",
+  "source_flow_sha256": "8ff9751939cd343e244846403d9c13b57edc1cf0c92e91d7379b8a6b6480f974",
+  "output_files": {
+    ".svg": "c72e832c704b5522f02e1b89fc7fd91dd604b6b3dc3f331f91aa08622626404a",
+    ".pdf": "863c7a0eca0751287df4197e0166b215c1fffcc0094cdcf1860d358bdd8d7555",
+    ".png": "7215739ea6132f3b58edfa3f8166955b6d1dfd13e3cf78b4317645e0a9f84561",
+    ".tiff": "b7cba058f457497478b6ce125afd7a3788fcfb6bd6209e700ff465f2b40ef9ae"
+  }
+}

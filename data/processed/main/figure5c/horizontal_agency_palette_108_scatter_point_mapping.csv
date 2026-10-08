@@ -1,0 +1,109 @@
+﻿agency,theme,full_theme_name,observed_pct,standardized_pct,delta_pp,selected,color
+NSF,N01.1,Urban heat-risk adaptation,0.8316904761904763,0.5239488587127755,-0.3077416174777007,False,#242424
+NSF,N01.2,"Adaptation to flood, storm and coastal climate risks",5.365666666666664,3.143606312306254,-2.22206035436041,False,#242424
+NSF,N01.3,Adaptation to drought and compound climate risks,1.1523333333333334,0.9668890899145152,-0.1854442434188181,False,#242424
+NSF,N01.4,Climate-adaptation capacity and resilience planning,6.224357142857141,4.309997967979038,-1.9143591748781024,False,#242424
+NSF,N02.1,Disaster prevention and risk reduction,7.48488095238095,2.249104447774954,-5.2357765046059965,True,#214c7c
+NSF,N02.2,Emergency preparedness and response,3.6112142857142855,1.2717189374149294,-2.3394953482993563,True,#2d639e
+NSF,N02.3,Post-disaster recovery and reconstruction,1.3203333333333334,0.7582288506954061,-0.5621044826379272,False,#242424
+NSF,N03.1,Infrastructure reliability and disturbance resistance,4.726880952380952,1.663970400664426,-3.062910551716526,True,#2a5d96
+NSF,N03.2,Infrastructure interdependence and cascading-risk control,1.0763571428571428,0.5172576222636126,-0.5590995205935302,False,#242424
+NSF,N03.3,Infrastructure service continuity and rapid recovery,0.824333333333333,0.254854593246212,-0.569478740087121,False,#242424
+NSF,N04.1,Outdoor air-pollution control,2.860857142857143,1.109603154526517,-1.7512539883306262,False,#242424
+NSF,N04.2,Indoor air-quality improvement,0.1761904761904761,0.1008746336033838,-0.0753158425870923,False,#242424
+NSF,N04.3,Reduction of air-pollution exposure,0.3585238095238094,0.3245167053920201,-0.0340071041317892,False,#242424
+NSF,N05.1,Water pollution control and water quality improvement,8.958,5.206166825637722,-3.7518331743622784,True,#28578d
+NSF,N05.2,Water availability and supply security,5.731,3.6240330196853554,-2.1069669803146445,False,#242424
+NSF,N06.1,Ecosystem integrity and functional restoration,6.984333333333334,9.807708089857076,2.8233747565237404,True,#2b5f99
+NSF,N06.2,Habitat protection and ecological connectivity,0.2406666666666666,0.301882905830924,0.0612162391642573,False,#242424
+NSF,N06.3,Species and biodiversity protection,3.035666666666666,5.658056334136563,2.622389667469897,False,#242424
+NSF,N06.4,Enhancement of urban ecosystem services,0.6846666666666665,0.9813029434718074,0.2966362768051407,False,#242424
+NSF,N07.1,Housing affordability and housing security,0.5396666666666666,0.4859507141487245,-0.0537159525179421,False,#242424
+NSF,N07.2,Community renewal and residential-environment improvement,0.1533333333333333,0.0943646770984338,-0.0589686562348994,False,#242424
+NSF,N08.1,Transport-service accessibility and travel equity,2.555,1.305330696166051,-1.2496693038339488,False,#242424
+NSF,N08.2,Road-traffic safety and injury reduction,1.3266666666666662,0.5496074138590401,-0.7770592528076262,False,#242424
+NSF,N08.3,"Improvement of walking, cycling and active travel",0.0783333333333333,0.0209123335445136,-0.0574209997888196,False,#242424
+NSF,N09.1,Accessibility of municipal basic services,0.1213333333333333,0.1438245656805348,0.0224912323472015,False,#242424
+NSF,N09.2,Accessibility of public service facilities,0.0166666666666666,0.0612813817697857,0.0446147151031191,False,#242424
+NSF,N10.1,Food affordability and equitable access,0.4363333333333332,1.090231592074484,0.6538982587411509,False,#242424
+NSF,N10.2,Urban food-supply resilience,2.0310000000000006,4.179147473303671,2.148147473303671,False,#242424
+NSF,N10.3,Nutrition security and healthy diets,0.1683333333333332,0.3829408208004953,0.214607487467162,False,#242424
+NSF,N11.1,Clean-energy access and energy affordability,1.0473333333333332,1.0499220257025907,0.0025886923692574,False,#242424
+NSF,N11.2,Energy-supply reliability and resilience,2.73,2.2490395160305217,-0.4809604839694784,False,#242424
+NSF,N11.3,Renewable-energy substitution and energy-system transition,4.715666666666666,4.239343195052343,-0.4763234716143219,False,#242424
+NSF,N12.1,Decarbonization of building operations and the built environment,2.003,1.4058297918312834,-0.5971702081687161,False,#242424
+NSF,N12.2,Decarbonization of transport systems and travel,1.1323333333333332,0.5410118831842681,-0.591321450149065,False,#242424
+NSF,N12.3,Decarbonization of industrial production and energy use,2.269,1.5297063993545288,-0.7392936006454708,False,#242424
+NSF,N13.1,Source reduction and prevention of consumption waste,0.4683333333333331,0.9646208763734618,0.4962875430401288,False,#242424
+NSF,N13.2,"Safe waste collection, transport and disposal",0.3506666666666665,0.4766451943551907,0.1259785276885241,False,#242424
+NSF,N13.3,"Recycling, reuse and resource circularity",3.4713333333333325,6.536186970635654,3.064853637302322,True,#2a5d96
+NSF,N14.1,Reduction of harmful environmental exposure,2.872666666666667,2.7580301072076208,-0.114636559459046,False,#242424
+NSF,N14.2,Reduction of cumulative and compound exposure risks,0.1115238095238095,0.1523202141367963,0.0407964046129868,False,#242424
+NSF,N14.3,Reduction of environmental health risks for susceptible populations,0.2145238095238094,0.278845472472756,0.0643216629489465,False,#242424
+NSF,N15.1,Disease prevention and public-health protection,0.5686666666666667,0.4671480462838504,-0.1015186203828162,False,#242424
+NSF,N15.2,Access to medical and health services,0.0049999999999999,0.0007866947922296,-0.0042133052077703,False,#242424
+NSF,N15.3,Promotion of mental health and social well-being,0.2723333333333332,0.5148517970540851,0.2425184637207519,False,#242424
+NSF,N16.1,Reduction of socioeconomic and spatial inequalities,1.0878333333333334,3.45592152634446,2.368088193011126,False,#242424
+NSF,N16.2,Inclusion and opportunity protection for vulnerable groups,1.3033571428571429,4.831467921496647,3.528110778639504,True,#285990
+NSF,N16.3,"Equitable distribution of resources, risks and benefits",0.903190476190476,2.680752043727093,1.7775615675366174,False,#242424
+NSF,N17.1,Planning and governance capacity enhancement,2.146523809523809,4.4964065374986095,2.3498827279748005,False,#242424
+NSF,N17.2,Policy implementation and regulatory capacity enhancement,0.5419999999999998,1.1604968676983711,0.6184968676983714,False,#242424
+NSF,N18.1,Public participation and joint decision-making,1.0228571428571425,3.093667028573586,2.070809885716444,False,#242424
+NSF,N18.2,Cross-sectoral and cross-organizational coordination,0.9878571428571428,4.193266434418681,3.205409291561538,True,#2a5c94
+NSF,N18.3,Community and organizational action-capacity building,0.3101904761904761,0.8731181599933077,0.5629276838028315,False,#242424
+NSF,N19.1,Urban-rural functional linkages and factor flows,0.3351904761904761,0.8672543419689994,0.5320638657785233,False,#242424
+NSF,N19.2,Cross-regional coordination and collaborative governance,0.0539999999999999,0.0960475922537649,0.0420475922537649,False,#242424
+NSFC,N01.1,Urban heat-risk adaptation,2.0450174299795654,0.6584526537900867,-1.3865647761894786,False,#242424
+NSFC,N01.2,"Adaptation to flood, storm and coastal climate risks",1.0635292703449934,0.3324183894682821,-0.7311108808767114,False,#242424
+NSFC,N01.3,Adaptation to drought and compound climate risks,1.4505950234403175,0.7456753413955978,-0.7049196820447198,False,#242424
+NSFC,N01.4,Climate-adaptation capacity and resilience planning,3.2942661377569427,1.273376192951567,-2.020889944805376,False,#242424
+NSFC,N02.1,Disaster prevention and risk reduction,7.06455102776776,2.604975074799399,-4.459575952968361,True,#893132
+NSFC,N02.2,Emergency preparedness and response,1.7934847938454137,0.7896418953860151,-1.0038428984593986,False,#242424
+NSFC,N02.3,Post-disaster recovery and reconstruction,0.3068277437191971,0.0989987342198069,-0.2078290094993901,False,#242424
+NSFC,N03.1,Infrastructure reliability and disturbance resistance,3.04694073806948,3.50069740988196,0.4537566718124796,False,#242424
+NSFC,N03.2,Infrastructure interdependence and cascading-risk control,0.512982329606924,0.6161739845040396,0.1031916548971155,False,#242424
+NSFC,N03.3,Infrastructure service continuity and rapid recovery,0.5631686500781344,0.6116034635712219,0.0484348134930873,False,#242424
+NSFC,N04.1,Outdoor air-pollution control,5.364827503305687,2.999395574125981,-2.3654319291797057,True,#9e3a39
+NSFC,N04.2,Indoor air-quality improvement,0.1652842889770405,0.1484144870884615,-0.0168698018885789,False,#242424
+NSFC,N04.3,Reduction of air-pollution exposure,0.1833153023199904,0.1992556498328463,0.0159403475128558,False,#242424
+NSFC,N05.1,Water pollution control and water quality improvement,7.190167087390309,5.014297523941141,-2.175869563449168,True,#a03a3a
+NSFC,N05.2,Water availability and supply security,5.465500661137158,3.3465078981952923,-2.118992762941865,False,#242424
+NSFC,N06.1,Ecosystem integrity and functional restoration,13.309291982209407,9.098337077526018,-4.210954904683388,True,#8b3233
+NSFC,N06.2,Habitat protection and ecological connectivity,0.4826301238129583,0.3053206769494477,-0.1773094468635105,False,#242424
+NSFC,N06.3,Species and biodiversity protection,4.444043755259046,3.2181049203176357,-1.225938834941411,False,#242424
+NSFC,N06.4,Enhancement of urban ecosystem services,3.322514725327565,2.2404557302212025,-1.0820589951063628,False,#242424
+NSFC,N07.1,Housing affordability and housing security,0.2763467449727818,0.44088708749042,0.1645403425176382,False,#242424
+NSFC,N07.2,Community renewal and residential-environment improvement,1.8396356018065356,1.0832359417714206,-0.7563996600351147,False,#242424
+NSFC,N08.1,Transport-service accessibility and travel equity,3.4601514605120807,1.959973200772295,-1.500178259739786,False,#242424
+NSFC,N08.2,Road-traffic safety and injury reduction,1.526625796369756,1.395896075410075,-0.1307297209596811,False,#242424
+NSFC,N08.3,"Improvement of walking, cycling and active travel",0.3621228513042434,0.105440006224634,-0.2566828450796093,False,#242424
+NSFC,N09.1,Accessibility of municipal basic services,0.0450775333573746,0.1177898419403612,0.0727123085829865,False,#242424
+NSFC,N09.2,Accessibility of public service facilities,0.7000755585321041,0.7035950382500477,0.0035194797179435,False,#242424
+NSFC,N10.1,Food affordability and equitable access,0.0045077533357374,0.0032157031937275,-0.0012920501420099,False,#242424
+NSFC,N10.2,Urban food-supply resilience,2.41765837240053,2.593865505538014,0.1762071331374844,False,#242424
+NSFC,N10.3,Nutrition security and healthy diets,0.0405697800216372,0.0573694448500027,0.0167996648283655,False,#242424
+NSFC,N11.1,Clean-energy access and energy affordability,0.0345594422406539,0.0692384550562771,0.0346790128156231,False,#242424
+NSFC,N11.2,Energy-supply reliability and resilience,1.5476619786031978,3.5649546343645,2.017292655761302,False,#242424
+NSFC,N11.3,Renewable-energy substitution and energy-system transition,1.097487678807549,2.683450197995186,1.5859625191876372,False,#242424
+NSFC,N12.1,Decarbonization of building operations and the built environment,1.547661978603198,2.376339216744328,0.8286772381411299,False,#242424
+NSFC,N12.2,Decarbonization of transport systems and travel,1.1681091477341028,0.9711940896737268,-0.196915058060376,False,#242424
+NSFC,N12.3,Decarbonization of industrial production and energy use,2.530953239572065,3.812536621964081,1.281583382392016,False,#242424
+NSFC,N13.1,Source reduction and prevention of consumption waste,0.1577713667508114,0.2245005326531299,0.0667291659023185,False,#242424
+NSFC,N13.2,"Safe waste collection, transport and disposal",0.5514484914052171,1.0633287423285445,0.5118802509233273,False,#242424
+NSFC,N13.3,"Recycling, reuse and resource circularity",1.8827383098930168,2.7283203102006324,0.8455820003076157,False,#242424
+NSFC,N14.1,Reduction of harmful environmental exposure,2.573927154706096,2.914384947180541,0.3404577924744457,False,#242424
+NSFC,N14.2,Reduction of cumulative and compound exposure risks,0.348599591297031,0.4354341017230035,0.0868345104259725,False,#242424
+NSFC,N14.3,Reduction of environmental health risks for susceptible populations,0.2298954201226109,0.277208888353378,0.047313468230767,False,#242424
+NSFC,N15.1,Disease prevention and public-health protection,0.6857795408101935,0.6964015820621043,0.0106220412519107,False,#242424
+NSFC,N15.2,Access to medical and health services,0.0360620266858997,0.0679553399658489,0.0318933132799491,False,#242424
+NSFC,N15.3,Promotion of mental health and social well-being,0.6196658252193774,0.6888464051151427,0.0691805798957653,False,#242424
+NSFC,N16.1,Reduction of socioeconomic and spatial inequalities,0.9612247351158282,4.257690027321251,3.296465292205423,True,#953636
+NSFC,N16.2,Inclusion and opportunity protection for vulnerable groups,0.6447804509470576,3.139698533148616,2.494918082201558,True,#9d3939
+NSFC,N16.3,"Equitable distribution of resources, risks and benefits",0.4396562086789278,1.1307722952011827,0.691116086522255,False,#242424
+NSFC,N17.1,Planning and governance capacity enhancement,7.259157178919176,7.099950282024819,-0.1592068968943566,False,#242424
+NSFC,N17.2,Policy implementation and regulatory capacity enhancement,1.083535108958838,7.102009082950603,6.018473973991765,True,#792b2c
+NSFC,N18.1,Public participation and joint decision-making,0.1709941098689746,1.690667772369308,1.5196736625003333,False,#242424
+NSFC,N18.2,Cross-sectoral and cross-organizational coordination,0.2115638898906118,2.532392693359408,2.320828803468796,True,#9f3a3a
+NSFC,N18.3,Community and organizational action-capacity building,0.0240413511239331,0.0523075445244744,0.0282661934005413,False,#242424
+NSFC,N19.1,Urban-rural functional linkages and factor flows,1.080959249909845,0.8616565427459816,-0.2193027071638634,False,#242424
+NSFC,N19.2,Cross-regional coordination and collaborative governance,1.3700564971751417,3.295390637366887,1.9253341401917456,False,#242424

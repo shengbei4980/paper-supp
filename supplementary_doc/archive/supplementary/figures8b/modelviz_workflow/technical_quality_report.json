@@ -1,0 +1,46 @@
+{
+  "execution": {
+    "success": true,
+    "return_code": 0,
+    "stdout": "{\"outputs\": [\"E:\\\\可持续发展目标基金\\\\定稿撰写\\\\成图\\\\figure5\\\\重新输出figure\\\\figure5d\\\\重构输出\\\\图\\\\Figure5d_离散镜像山脊_重构.svg\", \"E:\\\\可持续发展目标基金\\\\定稿撰写\\\\成图\\\\figure5\\\\重新输出figure\\\\figure5d\\\\重构输出\\\\图\\\\Figure5d_离散镜像山脊_重构.pdf\", \"E:\\\\可持续发展目标基金\\\\定稿撰写\\\\成图\\\\figure5\\\\重新输出figure\\\\figure5d\\\\重构输出\\\\图\\\\Figure5d_离散镜像山脊_重构.png\", \"E:\\\\可持续发展目标基金\\\\定稿撰写\\\\成图\\\\figure5\\\\重新输出figure\\\\figure5d\\\\重构输出\\\\图\\\\Figure5d_离散镜像山脊_重构.tiff\"], \"cell_rows\": 189}\n",
+    "stderr": "",
+    "generated_files": [
+      "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure5\\重新输出figure\\figure5d\\重构输出\\图\\Figure5d_离散镜像山脊_重构.pdf",
+      "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure5\\重新输出figure\\figure5d\\重构输出\\图\\Figure5d_离散镜像山脊_重构.png",
+      "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure5\\重新输出figure\\figure5d\\重构输出\\图\\Figure5d_离散镜像山脊_重构.svg",
+      "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure5\\重新输出figure\\figure5d\\重构输出\\图\\Figure5d_离散镜像山脊_重构.tiff"
+    ],
+    "execution_time": 2.631,
+    "error_type": ""
+  },
+  "artifact_validation": {
+    "success": true,
+    "valid_files": [
+      "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure5\\重新输出figure\\figure5d\\重构输出\\图\\Figure5d_离散镜像山脊_重构.pdf",
+      "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure5\\重新输出figure\\figure5d\\重构输出\\图\\Figure5d_离散镜像山脊_重构.png",
+      "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure5\\重新输出figure\\figure5d\\重构输出\\图\\Figure5d_离散镜像山脊_重构.svg"
+    ],
+    "generated_formats": [
+      "pdf",
+      "png",
+      "svg"
+    ],
+    "issues": []
+  },
+  "image_inspection": {
+    "success": true,
+    "image_readable": true,
+    "image_width": 3645,
+    "image_height": 4860,
+    "file_size": 1131399,
+    "pixel_variance": 2002.8183,
+    "possible_blank_image": false,
+    "issues": []
+  },
+  "warning_collection": {
+    "success": true,
+    "warnings": [],
+    "issues": []
+  },
+  "tiff_size": 70859006
+}

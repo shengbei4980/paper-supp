@@ -1,0 +1,34 @@
+{
+  "source_hash_matches": {
+    "Figure4b_B_country_estimates.csv": true,
+    "Figure4b_B_delta_bootstrap_draws.csv": true,
+    "Figure4b_B_delta_summary.csv": true,
+    "来源路径.txt": true
+  },
+  "raster": {
+    "png": {
+      "pixels": [
+        4320,
+        3960
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ]
+    },
+    "tiff": {
+      "pixels": [
+        4320,
+        3960
+      ],
+      "dpi": [
+        600.0,
+        600.0
+      ]
+    }
+  },
+  "editable_svg_text_count": 45,
+  "pdf_truetype_embedded": true,
+  "layout": "12 shared SDG rows: signed gray delta bars behind country points",
+  "visual_review": "Passed: one signed x axis, one frame, 12 SDG rows, gray difference bars and paired country estimates with all intervals"
+}

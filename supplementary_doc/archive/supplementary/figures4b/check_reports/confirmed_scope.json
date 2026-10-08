@@ -1,0 +1,23 @@
+{
+  "pairs": 62,
+  "nsf_cities": 334,
+  "nsfc_cities": 95,
+  "unit": "institution city and project record",
+  "all_pairs_in_both_countries": true,
+  "approval": "User confirmed steps 1 and 2",
+  "interpretation_provider": "current assistant via RunnableLambda",
+  "chart": "circular presence matrix",
+  "inner_tree": "city profile similarity hierarchical clustering",
+  "step3": "confirmed by user",
+  "clustering_metric": "binary Jaccard",
+  "linkage": "average",
+  "leaf_order": "optimal leaf ordering; ties have no scientific meaning",
+  "step4": "confirmed by user execute",
+  "step5": "confirmed dual circles and complete indexed labels",
+  "palette": {
+    "NSF": "#003366",
+    "NSFC": "#8B0000"
+  },
+  "output_directory": "E:\\可持续发展目标基金\\定稿撰写\\成图\\补充s图\\完善s3",
+  "delivery_status": "draft awaiting user visual confirmation"
+}

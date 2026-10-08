@@ -1,0 +1,44 @@
+{
+  "template_id": "dis_ridgeline_distribution",
+  "template_name": "山脊分布图",
+  "metadata": {
+    "id": "dis_ridgeline_distribution",
+    "name": "山脊分布图",
+    "category": "distribution_uncertainty",
+    "description": "用山脊图展示多个组别连续变量分布的峰形和位置差异。",
+    "keywords": [
+      "山脊图",
+      "核密度分布",
+      "多组分布",
+      "均值线"
+    ],
+    "synonyms": [
+      "岭线图",
+      "ridgeline",
+      "分布山脉图"
+    ],
+    "use_cases": [
+      "比较不同气候或类别下的连续变量分布",
+      "展示分布峰形、均值或中位数差异",
+      "需要层叠密度曲线"
+    ],
+    "negative_keywords": [
+      "分类占比",
+      "相关矩阵",
+      "三元图"
+    ],
+    "chart_type": "ridgeline_plot",
+    "preview": "templates/04_DIS_distribution_uncertainty/04_DIS_002/assets/preview.png",
+    "code_path": "templates/04_DIS_distribution_uncertainty/04_DIS_002/山脊分布图.py",
+    "dependencies": [
+      "pillow",
+      "matplotlib",
+      "numpy",
+      "pandas",
+      "scipy",
+      "seaborn"
+    ]
+  },
+  "template_code_path": "templates\\04_DIS_distribution_uncertainty\\04_DIS_002\\山脊分布图.py",
+  "preview": "templates/04_DIS_distribution_uncertainty/04_DIS_002/assets/preview.png"
+}

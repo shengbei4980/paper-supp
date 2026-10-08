@@ -1,0 +1,47 @@
+﻿scope,check,passed,detail
+NSF,Expected row count,True,rows=6207
+NSF,Unique record_id,True,record_id duplicates
+NSF,Year range,True,"years=[2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025]"
+NSF,sdg_codes non-empty and valid,True,empty=0; invalid=[]
+NSF,domain_codes non-empty and valid,True,empty=0; invalid=[]
+NSF,need_codes non-empty and valid,True,empty=0; invalid=[]
+NSF,pressure_codes non-empty and valid,True,empty=0; invalid=[]
+NSF,system_codes non-empty and valid,True,empty=0; invalid=[]
+NSF,knowledge_codes non-empty and valid,True,empty=0; invalid=[]
+NSF,primary_knowledge_codes non-empty and valid,True,empty=0; invalid=[]
+NSF,intervention_codes non-empty and valid,True,empty=0; invalid=[]
+NSF,primary_intervention_codes non-empty and valid,True,empty=0; invalid=[]
+NSF,action_codes non-empty and valid,True,empty=0; invalid=[]
+NSF,Target parent SDG consistency,True,mismatches=0
+NSF,Need topic parent domain consistency,True,mismatches=0
+NSFC,Expected row count,True,rows=5546
+NSFC,Unique record_id,True,record_id duplicates
+NSFC,Year range,True,"years=[2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023]"
+NSFC,sdg_codes non-empty and valid,True,empty=0; invalid=[]
+NSFC,domain_codes non-empty and valid,True,empty=0; invalid=[]
+NSFC,need_codes non-empty and valid,True,empty=0; invalid=[]
+NSFC,pressure_codes non-empty and valid,True,empty=0; invalid=[]
+NSFC,system_codes non-empty and valid,True,empty=0; invalid=[]
+NSFC,knowledge_codes non-empty and valid,True,empty=0; invalid=[]
+NSFC,primary_knowledge_codes non-empty and valid,True,empty=0; invalid=[]
+NSFC,intervention_codes non-empty and valid,True,empty=0; invalid=[]
+NSFC,primary_intervention_codes non-empty and valid,True,empty=0; invalid=[]
+NSFC,action_codes non-empty and valid,True,empty=0; invalid=[]
+NSFC,Target parent SDG consistency,True,mismatches=0
+NSFC,Need topic parent domain consistency,True,mismatches=0
+Figure2e,Full K-L grid,True,rows=54; expected=54
+Figure2e,Full agency-K-A grid,True,rows=84; expected=84
+NSF,K01 reach monotonic and complete,True,A01=100.000000; raw_sum=1200; raw_K_n=1200
+NSF,K02 reach monotonic and complete,True,A01=100.000000; raw_sum=2115; raw_K_n=2115
+NSF,K03 reach monotonic and complete,True,A01=100.000000; raw_sum=682; raw_K_n=682
+NSF,K04 reach monotonic and complete,True,A01=100.000000; raw_sum=1644; raw_K_n=1644
+NSF,K05 reach monotonic and complete,True,A01=100.000000; raw_sum=519; raw_K_n=519
+NSF,K06 reach monotonic and complete,True,A01=100.000000; raw_sum=47; raw_K_n=47
+NSFC,K01 reach monotonic and complete,True,A01=100.000000; raw_sum=1065; raw_K_n=1065
+NSFC,K02 reach monotonic and complete,True,A01=100.000000; raw_sum=2355; raw_K_n=2355
+NSFC,K03 reach monotonic and complete,True,A01=100.000000; raw_sum=659; raw_K_n=659
+NSFC,K04 reach monotonic and complete,True,A01=100.000000; raw_sum=860; raw_K_n=860
+NSFC,K05 reach monotonic and complete,True,A01=100.000000; raw_sum=587; raw_K_n=587
+NSFC,K06 reach monotonic and complete,True,A01=100.000000; raw_sum=20; raw_K_n=20
+NSF,Target-year entropy balance converged,True,ESS=3508.77; max_weight=25.0087; max_abs_error=1.698e-05
+NSFC,Target-year entropy balance converged,True,ESS=3348.29; max_weight=17.8365; max_abs_error=6.374e-04

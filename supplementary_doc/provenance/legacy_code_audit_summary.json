@@ -1,0 +1,13 @@
+{
+  "python_files": 121,
+  "syntax_passes": 121,
+  "files_with_absolute_path_literals": 53,
+  "files_with_unresolved_import_candidates": 18,
+  "candidate_modules": [
+    "figure1bc_common",
+    "figure1de_common",
+    "schemas",
+    "src"
+  ],
+  "scope": "Static inventory only; imports hidden in strings, dynamic loading, external tools, and runtime behavior are not fully checked."
+}

@@ -1,0 +1,49 @@
+{
+  "status": "passed",
+  "figure1a_palette": {
+    "NSF_DARK": "#003366",
+    "NSF_MID": "#7F99B2",
+    "NSF_LIGHT": "#E4EDF5",
+    "NSFC_DARK": "#8B0000",
+    "NSFC_MID": "#C57F7F",
+    "NSFC_LIGHT": "#F6E4E4"
+  },
+  "opacity": {
+    "confidence": 0.62,
+    "limited_outline": 0.62
+  },
+  "source_csv_identical_sha256": {
+    "Figure5d_完整行动阶段份额与差值.csv": "c2d56c4c1908e265dc5ff69f6cf9531638730275ac0ef00778789d91e8833689",
+    "Figure5d_干预方式支持度.csv": "a1a8fa6bf44bc0b22a2d256c14a4c10e4320adafb9b25c22b6c9363e0b351ef1",
+    "Figure5d_项目族索引.csv": "7116e14c66a3b1d5e75c7d034ffc934af722706bf29b3704645ec2a33ea1a94c",
+    "Figure5d_项目族熵平衡审计.csv": "f6228c235e064a497e1266b97151d80a19dce1ca3d705b2b78b2d28aec224da5",
+    "Figure5d_项目族熵平衡汇总.csv": "be8add3d2f2d177afb41dbd0e9342c3fdc66561cd5b3c8e4737f4575861aee92"
+  },
+  "cell_rows": 189,
+  "limited_evidence_cells": 42,
+  "reliable_difference_cells": 49,
+  "nsfc_unobserved_lower_L03_cells": 7,
+  "export_files": [
+    {
+      "name": "Figure5d_离散镜像山脊_重构.png",
+      "bytes": 1131399
+    },
+    {
+      "name": "Figure5d_离散镜像山脊_重构.pdf",
+      "bytes": 83398
+    },
+    {
+      "name": "Figure5d_离散镜像山脊_重构.svg",
+      "bytes": 192280
+    },
+    {
+      "name": "Figure5d_离散镜像山脊_重构.tiff",
+      "bytes": 70859006
+    }
+  ],
+  "png_pixels": [
+    3645,
+    4860
+  ],
+  "svg_editable_text": true
+}

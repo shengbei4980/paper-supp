@@ -1,0 +1,21 @@
+{
+  "size_mm": [
+    183,
+    194
+  ],
+  "words": 38,
+  "points": 38,
+  "one_to_one": true,
+  "numerical_word_labels": false,
+  "task_codes": false,
+  "cloud_overlap": false,
+  "canvas_clipping": false,
+  "color_limits_pp": [
+    -10,
+    0,
+    10
+  ],
+  "font_min_pt": 7.075107704028236,
+  "font_max_pt": 12.5,
+  "all_original_theme_names_retained": true
+}

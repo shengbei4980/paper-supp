@@ -1,0 +1,168 @@
+{
+  "original_request": "D01-D06的标签名称采用与原始数据对应的标签名称一致 以及K01-K06的标签去除，同时颜色样式严格沿用figure1a的颜色样式，请对其进行休整",
+  "candidate_count": 8,
+  "total_templates": 89,
+  "candidates": [
+    {
+      "template_id": "rel_grouped_regression_marginal_scatter",
+      "template_name": "带有边缘分布的多组回归拟合散点图",
+      "category": "relationship_correlation",
+      "score": 0.336,
+      "matched_keywords": [
+        "比较",
+        "差异",
+        "置信区间",
+        "分组"
+      ],
+      "matched_synonyms": [],
+      "matched_chart_types": [],
+      "matched_use_cases": [],
+      "matched_styles": [],
+      "penalties": [],
+      "candidate_reason": "功能关键词匹配：比较, 差异, 置信区间, 分组",
+      "preview": "templates/09_REL_relationship_correlation/09_REL_017/assets/preview.png",
+      "code_path": "templates/09_REL_relationship_correlation/09_REL_017/带有边缘分布的多组回归拟合散点图.py",
+      "catalog_order": 61
+    },
+    {
+      "template_id": "cmp_correlation_stacked_bar",
+      "template_name": "相关性分析堆叠条形图",
+      "category": "comparison_ranking",
+      "score": 0.312,
+      "matched_keywords": [
+        "比较",
+        "差异",
+        "分组"
+      ],
+      "matched_synonyms": [],
+      "matched_chart_types": [],
+      "matched_use_cases": [],
+      "matched_styles": [],
+      "penalties": [],
+      "candidate_reason": "功能关键词匹配：比较, 差异, 分组",
+      "preview": "templates/02_CMP_comparison_ranking/02_CMP_003/assets/preview.png",
+      "code_path": "templates/02_CMP_comparison_ranking/02_CMP_003/相关性分析堆叠条形图.py",
+      "catalog_order": 6
+    },
+    {
+      "template_id": "cmp_shap_heatmap_bar_report",
+      "template_name": "SHAP组合分析图",
+      "category": "comparison_ranking",
+      "score": 0.312,
+      "matched_keywords": [
+        "比较",
+        "差异",
+        "分组"
+      ],
+      "matched_synonyms": [],
+      "matched_chart_types": [],
+      "matched_use_cases": [],
+      "matched_styles": [],
+      "penalties": [],
+      "candidate_reason": "功能关键词匹配：比较, 差异, 分组",
+      "preview": "templates/02_CMP_comparison_ranking/02_CMP_012/assets/preview.png",
+      "code_path": "templates/02_CMP_comparison_ranking/02_CMP_012/SHAP组合分析图.py",
+      "catalog_order": 15
+    },
+    {
+      "template_id": "clu_pcoa_permanova",
+      "template_name": "PCoA分析图",
+      "category": "clustering_reduction",
+      "score": 0.252,
+      "matched_keywords": [
+        "比较",
+        "差异",
+        "分组"
+      ],
+      "matched_synonyms": [],
+      "matched_chart_types": [],
+      "matched_use_cases": [],
+      "matched_styles": [],
+      "penalties": [],
+      "candidate_reason": "功能关键词匹配：比较, 差异, 分组",
+      "preview": "templates/01_CLU_clustering_reduction/01_CLU_003/assets/preview.png",
+      "code_path": "templates/01_CLU_clustering_reduction/01_CLU_003/PCoA分析图.py",
+      "catalog_order": 2
+    },
+    {
+      "template_id": "dis_combined_boxplot_grid",
+      "template_name": "组合箱线图",
+      "category": "distribution_uncertainty",
+      "score": 0.252,
+      "matched_keywords": [
+        "比较",
+        "差异",
+        "分组"
+      ],
+      "matched_synonyms": [],
+      "matched_chart_types": [],
+      "matched_use_cases": [],
+      "matched_styles": [],
+      "penalties": [],
+      "candidate_reason": "功能关键词匹配：比较, 差异, 分组",
+      "preview": "templates/04_DIS_distribution_uncertainty/04_DIS_001/assets/preview.png",
+      "code_path": "templates/04_DIS_distribution_uncertainty/04_DIS_001/组合箱线图.py",
+      "catalog_order": 22
+    },
+    {
+      "template_id": "dis_radial_bar_error_significance",
+      "template_name": "带显著性标记与误差棒的环形柱状图",
+      "category": "distribution_uncertainty",
+      "score": 0.252,
+      "matched_keywords": [
+        "比较",
+        "差异",
+        "误差棒"
+      ],
+      "matched_synonyms": [],
+      "matched_chart_types": [],
+      "matched_use_cases": [],
+      "matched_styles": [],
+      "penalties": [],
+      "candidate_reason": "功能关键词匹配：比较, 差异, 误差棒",
+      "preview": "templates/04_DIS_distribution_uncertainty/04_DIS_005/assets/preview.png",
+      "code_path": "templates/04_DIS_distribution_uncertainty/04_DIS_005/带显著性标记与误差棒的环形柱状图.py",
+      "catalog_order": 26
+    },
+    {
+      "template_id": "dis_tukey_hsd_violin_grid",
+      "template_name": "Tukey HSD检验小提琴图",
+      "category": "distribution_uncertainty",
+      "score": 0.252,
+      "matched_keywords": [
+        "比较",
+        "差异",
+        "分组"
+      ],
+      "matched_synonyms": [],
+      "matched_chart_types": [],
+      "matched_use_cases": [],
+      "matched_styles": [],
+      "penalties": [],
+      "candidate_reason": "功能关键词匹配：比较, 差异, 分组",
+      "preview": "templates/04_DIS_distribution_uncertainty/04_DIS_006/assets/preview.png",
+      "code_path": "templates/04_DIS_distribution_uncertainty/04_DIS_006/Tukey HSD检验小提琴图.py",
+      "catalog_order": 27
+    },
+    {
+      "template_id": "cmp_flowing_percentage_stack",
+      "template_name": "流动趋势百分比堆叠图",
+      "category": "comparison_ranking",
+      "score": 0.228,
+      "matched_keywords": [
+        "比较",
+        "差异"
+      ],
+      "matched_synonyms": [],
+      "matched_chart_types": [],
+      "matched_use_cases": [],
+      "matched_styles": [],
+      "penalties": [],
+      "candidate_reason": "功能关键词匹配：比较, 差异",
+      "preview": "templates/02_CMP_comparison_ranking/02_CMP_004/assets/preview.png",
+      "code_path": "templates/02_CMP_comparison_ranking/02_CMP_004/流动趋势百分比堆叠图.py",
+      "catalog_order": 7
+    }
+  ],
+  "warnings": []
+}

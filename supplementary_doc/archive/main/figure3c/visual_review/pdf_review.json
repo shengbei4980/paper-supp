@@ -1,0 +1,14 @@
+{
+  "page_count": 1,
+  "page_size_points": [
+    0.0,
+    0.0,
+    518.4000244140625,
+    291.6000061035156
+  ],
+  "text_spans_outside_page": [],
+  "text_span_overlaps": [],
+  "all_12_goal_labels_present": true,
+  "all_24_numeric_labels_present": true,
+  "selectable_text_characters": 648
+}

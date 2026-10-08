@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "page_mm": [
+    88.99999927944606,
+    88.00000110202365
+  ],
+  "text_spans": 21,
+  "missing_numeric_labels": [],
+  "text_outside_page": [],
+  "overlapping_text": [],
+  "min_font_pt": 6.800000190734863
+}

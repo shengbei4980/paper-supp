@@ -1,0 +1,12 @@
+﻿Figure5d 镜像离散行动边界脊线图数据来源与口径
+
+1. 项目编码数据：NSF_编码结果.csv与NSFC_编码结果.csv；观察窗为2015—2025。
+2. 偏离分类：正式Figure4b的项目数CLR点估计M_count，阈值为−0.5与+0.5。
+3. 熵平衡：在项目族层级平衡共同正式Target构成、2015—2017/2018—2020时段和线性年份。
+4. 条件构成：p(最高明确行动阶段 | 干预方式, 偏离类别, 国家)。
+5. 不确定性：项目族bootstrap 2,000次；完整189个国家差单元实施BH-FDR。
+6. 跨国证据量：每个偏离类别×干预方式报告NSF与NSFC中较低的有效项目数；任一国家低于10时保留估计并标记为证据有限。
+7. 行动阶段表示项目文本明确承诺的最高阶段，不表示真实实施或实际影响。
+
+NSF: 6,207 records; 5,000 project families; entropy-balance ESS=2924.9; max weight=18.51.
+NSFC: 5,546 records; 5,546 project families; entropy-balance ESS=3201.4; max weight=17.11.

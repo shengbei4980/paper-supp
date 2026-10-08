@@ -1,0 +1,12 @@
+{
+  "installed": [],
+  "reason": "All adapted-code imports are available; template-only estimator imports are unused.",
+  "template_imports": [
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "scipy",
+    "statsmodels",
+    "PIL"
+  ]
+}

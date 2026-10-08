@@ -1,0 +1,16 @@
+Figure 1c Gephi import package QA
+======================================
+Nodes: 121
+Union edges: 803
+Shared nonzero edges: 301
+NSF-only edges: 345
+NSFC-only edges: 157
+Visual style: Nature-aligned muted palette, stability-led edge hierarchy
+Not-retained background edges: 741
+Shared stable edges: 22
+NSF-specific stable edges: 12
+NSFC-specific stable edges: 9
+Other stable edges: 19
+Node source SHA-256: 107137844f153af040ee1d99ac68d983415addb6285793ec6f6eb57c5da6552b
+Edge source SHA-256: eae9072923e98619ebadf4226b28130ff26d7423d4146676ba2169d20430c936
+GEXF SHA-256: d2ab0d7d9a53389f886a721218e6966ba548c92abb49a6f4b4451c84c36f869c

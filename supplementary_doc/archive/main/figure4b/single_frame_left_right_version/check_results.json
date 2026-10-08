@@ -1,0 +1,29 @@
+{
+  "canvas_mm": [
+    183,
+    110
+  ],
+  "targets": 85,
+  "left_targets": 40,
+  "right_targets": 45,
+  "country_metric_slots": 1190,
+  "missing_slots": 154,
+  "source_sha256": "19b8bf7aa02bfa8dd6f7befe5943511a3366d4c281c220b2975f90116add8731",
+  "palette": {
+    "nsf": "#3775BA",
+    "nsfc": "#B64342"
+  },
+  "row_height_mm": {
+    "left": 2.15,
+    "right": 1.9111111111111112
+  },
+  "cell_width_mm": 9.85,
+  "metric_column_gap_mm": 0,
+  "target_font_pt": 5.5,
+  "target_labels_overlap": false,
+  "color_only_frames": 2,
+  "target_labels_outside_frames": true,
+  "encoding": "equal-area upper-left NSF / lower-right NSFC triangles; linear 0-100% shade",
+  "stats_recomputed": false,
+  "all_values_from_validated_source": true
+}

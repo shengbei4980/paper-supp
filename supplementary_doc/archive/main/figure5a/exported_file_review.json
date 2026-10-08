@@ -1,0 +1,27 @@
+{
+  "version": "Figure5a_单画框整合版_沿用Figure4色带_20pp",
+  "effect_cells": 342,
+  "numeric_labels": 59,
+  "hidden_numeric_labels": 283,
+  "palette_matches_reference_exactly": true,
+  "palette": {
+    "nsf": "#3775BA",
+    "nsfc": "#B64342",
+    "zero": "#FFFFFF"
+  },
+  "zero_center": "#FFFFFF",
+  "difference_scale_pp": [
+    -90,
+    90
+  ],
+  "full_range_covered": true,
+  "all_342_colors_independently_verified_against_reference_hues": true,
+  "all_cell_positions_and_numeric_labels_unchanged": true,
+  "all_original_effect_estimates_retained_exactly": true,
+  "minimum_number_contrast_ratio": 4.779498496957958,
+  "pdf_size_mm": [
+    182.9999999999947,
+    116.00000000000165
+  ],
+  "text_overlap_or_clipping": false
+}

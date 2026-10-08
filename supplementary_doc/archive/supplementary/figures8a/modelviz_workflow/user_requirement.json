@@ -1,0 +1,23 @@
+{
+  "original_request": "使用 modelviz 全流程重构 figure5b（对应补充材料图 S11a 的 a 图），保留现有 Figure5b 的 b 面板标识、标题和稳定性门表述。用户指定采用多个关系和弦图：分别展示 NSF/NSFC 在三类相对位置下的SDG—正式 Target、Target—知识任务、知识任务—行动阶段邻层加权连接，并保留底部行动阶段分组占比。完整四层路径在数据表中保留；每步询问后推进。",
+  "goal": "将753条四层路径汇总为双国×三类相对位置的六个和弦图，并保留终端行动阶段占比",
+  "functional_keywords": [
+    "和弦图",
+    "连接强度",
+    "流向关系",
+    "多组比较"
+  ],
+  "chart_types": [
+    "chord_diagram"
+  ],
+  "style_keywords": [
+    "科研风",
+    "简洁",
+    "Figure1a蓝红配色"
+  ],
+  "use_case": "论文主图与补充材料对应图",
+  "negative_requirements": [],
+  "explicit_template": true,
+  "is_ambiguous": false,
+  "clarification_question": ""
+}

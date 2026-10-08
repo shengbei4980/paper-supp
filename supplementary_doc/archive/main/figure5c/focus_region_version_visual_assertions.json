@@ -1,0 +1,18 @@
+{
+  "size_mm": [
+    183,
+    193
+  ],
+  "all_points": 108,
+  "focus_full_names": 16,
+  "estimates_unchanged": true,
+  "point_coordinates_unchanged": true,
+  "roi_matches_zoom": true,
+  "selection": "8 largest absolute share shifts within each agency; display only",
+  "no_numeric_word_labels": true,
+  "no_task_codes": true,
+  "label_overlap": false,
+  "canvas_clipping": false,
+  "label_font_min_pt": 7.5845953174435765,
+  "label_font_max_pt": 9.5
+}

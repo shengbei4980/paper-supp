@@ -1,0 +1,602 @@
+﻿agency,stage,source,source_label,target,target_label,fractional_project_n,stage_share
+NSF,Need → pressure,N01,Climate adaptation and extreme-risk reduction,P01,Extreme climate and natural-hazard shocks,844.3166666666664,0.13602652918747646
+NSF,Need → pressure,N01,Climate adaptation and extreme-risk reduction,P02,Pollutant emissions and cumulative environmental exposure,21.499999999999996,0.0034638311583695823
+NSF,Need → pressure,N01,Climate adaptation and extreme-risk reduction,P03,Resource and environmental carrying-capacity pressure,11.333333333333334,0.0018258954943343537
+NSF,Need → pressure,N01,Climate adaptation and extreme-risk reduction,P04,Population and spatial-development pressure,8.833333333333332,0.0014231244294076579
+NSF,Need → pressure,N01,Climate adaptation and extreme-risk reduction,P05,Infrastructure ageing and system-function failure,3.1666666666666665,0.0005101766822404811
+NSF,Need → pressure,N01,Climate adaptation and extreme-risk reduction,P06,Barriers to urban service access,2.6666666666666665,0.000429622469255142
+NSF,Need → pressure,N01,Climate adaptation and extreme-risk reduction,P07,High-carbon technological and industrial path dependence,7.166666666666666,0.001154610386123194
+NSF,Need → pressure,N01,Climate adaptation and extreme-risk reduction,P08,Institutional coordination and policy implementation pressure,6.499999999999998,0.0010472047688094084
+NSF,Need → pressure,N02,"Disaster prevention, emergency response and recovery",P01,Extreme climate and natural-hazard shocks,762.3166666666663,0.12281563825788082
+NSF,Need → pressure,N02,"Disaster prevention, emergency response and recovery",P02,Pollutant emissions and cumulative environmental exposure,3.6666666666666665,0.0005907308952258203
+NSF,Need → pressure,N02,"Disaster prevention, emergency response and recovery",P04,Population and spatial-development pressure,6.833333333333333,0.0011009075774663015
+NSF,Need → pressure,N02,"Disaster prevention, emergency response and recovery",P05,Infrastructure ageing and system-function failure,12.5,0.0020138553246334782
+NSF,Need → pressure,N02,"Disaster prevention, emergency response and recovery",P06,Barriers to urban service access,7.249999999999999,0.0011680360882874172
+NSF,Need → pressure,N02,"Disaster prevention, emergency response and recovery",P08,Institutional coordination and policy implementation pressure,14.583333333333336,0.0023494978787390584
+NSF,Need → pressure,N03,Critical infrastructure resilience,P01,Extreme climate and natural-hazard shocks,225.65000000000003,0.036354116320283555
+NSF,Need → pressure,N03,Critical infrastructure resilience,P02,Pollutant emissions and cumulative environmental exposure,2.5,0.00040277106492669565
+NSF,Need → pressure,N03,Critical infrastructure resilience,P03,Resource and environmental carrying-capacity pressure,7.166666666666666,0.001154610386123194
+NSF,Need → pressure,N03,Critical infrastructure resilience,P04,Population and spatial-development pressure,12.0,0.0019333011116481392
+NSF,Need → pressure,N03,Critical infrastructure resilience,P05,Infrastructure ageing and system-function failure,181.36666666666667,0.02921969819021535
+NSF,Need → pressure,N03,Critical infrastructure resilience,P06,Barriers to urban service access,2.833333333333333,0.0004564738735835884
+NSF,Need → pressure,N03,Critical infrastructure resilience,P07,High-carbon technological and industrial path dependence,4.333333333333333,0.0006981365125396057
+NSF,Need → pressure,N03,Critical infrastructure resilience,P08,Institutional coordination and policy implementation pressure,15.083333333333334,0.0024300520917243974
+NSF,Need → pressure,N04,Air quality improvement,P01,Extreme climate and natural-hazard shocks,7.916666666666667,0.0012754417056012029
+NSF,Need → pressure,N04,Air quality improvement,P02,Pollutant emissions and cumulative environmental exposure,185.33333333333334,0.029858761613232372
+NSF,Need → pressure,N04,Air quality improvement,P03,Resource and environmental carrying-capacity pressure,1.0,0.00016110842597067828
+NSF,Need → pressure,N04,Air quality improvement,P04,Population and spatial-development pressure,5.5,0.0008860963428387304
+NSF,Need → pressure,N04,Air quality improvement,P05,Infrastructure ageing and system-function failure,1.0,0.00016110842597067828
+NSF,Need → pressure,N04,Air quality improvement,P06,Barriers to urban service access,0.75,0.0001208313194780087
+NSF,Need → pressure,N04,Air quality improvement,P07,High-carbon technological and industrial path dependence,2.583333333333333,0.0004161967670909188
+NSF,Need → pressure,N04,Air quality improvement,P08,Institutional coordination and policy implementation pressure,2.083333333333333,0.00033564255410557965
+NSF,Need → pressure,N05,Water environmental quality and water security,P01,Extreme climate and natural-hazard shocks,119.53333333333332,0.01925782718436174
+NSF,Need → pressure,N05,Water environmental quality and water security,P02,Pollutant emissions and cumulative environmental exposure,479.8333333333331,0.07730519306159708
+NSF,Need → pressure,N05,Water environmental quality and water security,P03,Resource and environmental carrying-capacity pressure,217.5833333333334,0.03505450835078676
+NSF,Need → pressure,N05,Water environmental quality and water security,P04,Population and spatial-development pressure,6.75,0.0010874818753020784
+NSF,Need → pressure,N05,Water environmental quality and water security,P05,Infrastructure ageing and system-function failure,52.66666666666667,0.008485043767789056
+NSF,Need → pressure,N05,Water environmental quality and water security,P06,Barriers to urban service access,10.666666666666666,0.001718489877020568
+NSF,Need → pressure,N05,Water environmental quality and water security,P07,High-carbon technological and industrial path dependence,4.25,0.0006847108103753826
+NSF,Need → pressure,N05,Water environmental quality and water security,P08,Institutional coordination and policy implementation pressure,13.583333333333334,0.00218838945276838
+NSF,Need → pressure,N06,Ecological integrity and biodiversity protection,P01,Extreme climate and natural-hazard shocks,433.25000000000006,0.06980022555179637
+NSF,Need → pressure,N06,Ecological integrity and biodiversity protection,P02,Pollutant emissions and cumulative environmental exposure,71.33333333333333,0.01149240105257505
+NSF,Need → pressure,N06,Ecological integrity and biodiversity protection,P03,Resource and environmental carrying-capacity pressure,133.0,0.02142742065410021
+NSF,Need → pressure,N06,Ecological integrity and biodiversity protection,P04,Population and spatial-development pressure,41.333333333333336,0.006659148273454702
+NSF,Need → pressure,N06,Ecological integrity and biodiversity protection,P05,Infrastructure ageing and system-function failure,11.333333333333332,0.0018258954943343535
+NSF,Need → pressure,N06,Ecological integrity and biodiversity protection,P06,Barriers to urban service access,5.0,0.0008055421298533913
+NSF,Need → pressure,N06,Ecological integrity and biodiversity protection,P07,High-carbon technological and industrial path dependence,2.0,0.00032221685194135655
+NSF,Need → pressure,N06,Ecological integrity and biodiversity protection,P08,Institutional coordination and policy implementation pressure,28.416666666666664,0.004578164438000107
+NSF,Need → pressure,N07,Housing security and community renewal,P01,Extreme climate and natural-hazard shocks,8.416666666666668,0.0013559959185865424
+NSF,Need → pressure,N07,Housing security and community renewal,P03,Resource and environmental carrying-capacity pressure,1.0,0.00016110842597067828
+NSF,Need → pressure,N07,Housing security and community renewal,P04,Population and spatial-development pressure,7.5,0.001208313194780087
+NSF,Need → pressure,N07,Housing security and community renewal,P05,Infrastructure ageing and system-function failure,3.833333333333333,0.0006175822995542667
+NSF,Need → pressure,N07,Housing security and community renewal,P06,Barriers to urban service access,12.500000000000002,0.0020138553246334787
+NSF,Need → pressure,N07,Housing security and community renewal,P07,High-carbon technological and industrial path dependence,1.25,0.00020138553246334782
+NSF,Need → pressure,N07,Housing security and community renewal,P08,Institutional coordination and policy implementation pressure,4.916666666666666,0.0007921164276891681
+NSF,Need → pressure,N08,Transport accessibility and travel safety,P01,Extreme climate and natural-hazard shocks,13.533333333333333,0.0021803340314698457
+NSF,Need → pressure,N08,Transport accessibility and travel safety,P02,Pollutant emissions and cumulative environmental exposure,2.333333333333333,0.00037591966059824923
+NSF,Need → pressure,N08,Transport accessibility and travel safety,P03,Resource and environmental carrying-capacity pressure,0.6666666666666666,0.0001074056173137855
+NSF,Need → pressure,N08,Transport accessibility and travel safety,P04,Population and spatial-development pressure,17.5,0.0028193974544868695
+NSF,Need → pressure,N08,Transport accessibility and travel safety,P05,Infrastructure ageing and system-function failure,104.36666666666666,0.016814349390473122
+NSF,Need → pressure,N08,Transport accessibility and travel safety,P06,Barriers to urban service access,78.91666666666667,0.01271413994951936
+NSF,Need → pressure,N08,Transport accessibility and travel safety,P07,High-carbon technological and industrial path dependence,4.0,0.0006444337038827131
+NSF,Need → pressure,N08,Transport accessibility and travel safety,P08,Institutional coordination and policy implementation pressure,16.25,0.0026180119220235217
+NSF,Need → pressure,N09,Accessibility of urban services,P03,Resource and environmental carrying-capacity pressure,0.5,8.055421298533914e-05
+NSF,Need → pressure,N09,Accessibility of urban services,P04,Population and spatial-development pressure,1.0,0.00016110842597067828
+NSF,Need → pressure,N09,Accessibility of urban services,P05,Infrastructure ageing and system-function failure,0.2,3.222168519413566e-05
+NSF,Need → pressure,N09,Accessibility of urban services,P06,Barriers to urban service access,4.5,0.0007249879168680521
+NSF,Need → pressure,N09,Accessibility of urban services,P08,Institutional coordination and policy implementation pressure,1.0833333333333333,0.00017453412813490143
+NSF,Need → pressure,N10,Urban food access and supply security,P01,Extreme climate and natural-hazard shocks,44.983333333333334,0.007247194028247678
+NSF,Need → pressure,N10,Urban food access and supply security,P02,Pollutant emissions and cumulative environmental exposure,16.416666666666668,0.0026448633263519684
+NSF,Need → pressure,N10,Urban food access and supply security,P03,Resource and environmental carrying-capacity pressure,50.74999999999999,0.008176252618011921
+NSF,Need → pressure,N10,Urban food access and supply security,P04,Population and spatial-development pressure,7.25,0.0011680360882874174
+NSF,Need → pressure,N10,Urban food access and supply security,P05,Infrastructure ageing and system-function failure,4.25,0.0006847108103753826
+NSF,Need → pressure,N10,Urban food access and supply security,P06,Barriers to urban service access,17.999999999999996,0.002899951667472208
+NSF,Need → pressure,N10,Urban food access and supply security,P07,High-carbon technological and industrial path dependence,3.0,0.0004833252779120348
+NSF,Need → pressure,N10,Urban food access and supply security,P08,Institutional coordination and policy implementation pressure,11.0,0.001772192685677461
+NSF,Need → pressure,N11,Clean-energy access and energy security,P01,Extreme climate and natural-hazard shocks,30.816666666666666,0.004964824660329735
+NSF,Need → pressure,N11,Clean-energy access and energy security,P02,Pollutant emissions and cumulative environmental exposure,18.916666666666664,0.0030476343912786636
+NSF,Need → pressure,N11,Clean-energy access and energy security,P03,Resource and environmental carrying-capacity pressure,63.25,0.0101901079426454
+NSF,Need → pressure,N11,Clean-energy access and energy security,P04,Population and spatial-development pressure,1.4166666666666665,0.0002282369367917942
+NSF,Need → pressure,N11,Clean-energy access and energy security,P05,Infrastructure ageing and system-function failure,108.28333333333333,0.01744535739219161
+NSF,Need → pressure,N11,Clean-energy access and energy security,P06,Barriers to urban service access,31.833333333333332,0.005128618226733258
+NSF,Need → pressure,N11,Clean-energy access and energy security,P07,High-carbon technological and industrial path dependence,209.58333333333334,0.03376564094302132
+NSF,Need → pressure,N11,Clean-energy access and energy security,P08,Institutional coordination and policy implementation pressure,28.25,0.004551313033671661
+NSF,Need → pressure,N12,"Decarbonization of buildings, transport and industry",P01,Extreme climate and natural-hazard shocks,8.0,0.0012888674077654262
+NSF,Need → pressure,N12,"Decarbonization of buildings, transport and industry",P02,Pollutant emissions and cumulative environmental exposure,26.833333333333332,0.0043230760968798665
+NSF,Need → pressure,N12,"Decarbonization of buildings, transport and industry",P03,Resource and environmental carrying-capacity pressure,27.333333333333336,0.004403630309865206
+NSF,Need → pressure,N12,"Decarbonization of buildings, transport and industry",P04,Population and spatial-development pressure,3.0,0.0004833252779120348
+NSF,Need → pressure,N12,"Decarbonization of buildings, transport and industry",P05,Infrastructure ageing and system-function failure,25.833333333333332,0.004161967670909188
+NSF,Need → pressure,N12,"Decarbonization of buildings, transport and industry",P06,Barriers to urban service access,6.416666666666667,0.0010337790666451855
+NSF,Need → pressure,N12,"Decarbonization of buildings, transport and industry",P07,High-carbon technological and industrial path dependence,200.83333333333334,0.03235594221577789
+NSF,Need → pressure,N12,"Decarbonization of buildings, transport and industry",P08,Institutional coordination and policy implementation pressure,8.833333333333332,0.0014231244294076579
+NSF,Need → pressure,N13,Waste reduction and resource circularity,P01,Extreme climate and natural-hazard shocks,3.1166666666666667,0.0005021212609419473
+NSF,Need → pressure,N13,Waste reduction and resource circularity,P02,Pollutant emissions and cumulative environmental exposure,136.5,0.02199130014499758
+NSF,Need → pressure,N13,Waste reduction and resource circularity,P03,Resource and environmental carrying-capacity pressure,51.83333333333333,0.008350786746146822
+NSF,Need → pressure,N13,Waste reduction and resource circularity,P04,Population and spatial-development pressure,2.0,0.00032221685194135655
+NSF,Need → pressure,N13,Waste reduction and resource circularity,P05,Infrastructure ageing and system-function failure,8.833333333333332,0.0014231244294076579
+NSF,Need → pressure,N13,Waste reduction and resource circularity,P06,Barriers to urban service access,1.3333333333333333,0.000214811234627571
+NSF,Need → pressure,N13,Waste reduction and resource circularity,P07,High-carbon technological and industrial path dependence,23.333333333333332,0.0037591966059824927
+NSF,Need → pressure,N13,Waste reduction and resource circularity,P08,Institutional coordination and policy implementation pressure,8.833333333333332,0.0014231244294076579
+NSF,Need → pressure,N14,Reduction of environmental exposure and health risks,P01,Extreme climate and natural-hazard shocks,29.166666666666668,0.004698995757478116
+NSF,Need → pressure,N14,Reduction of environmental exposure and health risks,P02,Pollutant emissions and cumulative environmental exposure,151.83333333333334,0.024461629343214653
+NSF,Need → pressure,N14,Reduction of environmental exposure and health risks,P03,Resource and environmental carrying-capacity pressure,1.5,0.0002416626389560174
+NSF,Need → pressure,N14,Reduction of environmental exposure and health risks,P04,Population and spatial-development pressure,0.3333333333333333,5.370280865689275e-05
+NSF,Need → pressure,N14,Reduction of environmental exposure and health risks,P05,Infrastructure ageing and system-function failure,8.0,0.0012888674077654262
+NSF,Need → pressure,N14,Reduction of environmental exposure and health risks,P06,Barriers to urban service access,2.333333333333333,0.00037591966059824923
+NSF,Need → pressure,N14,Reduction of environmental exposure and health risks,P08,Institutional coordination and policy implementation pressure,2.25,0.0003624939584340261
+NSF,Need → pressure,N15,Public health and physical and mental well-being,P01,Extreme climate and natural-hazard shocks,11.833333333333334,0.001906449707319693
+NSF,Need → pressure,N15,Public health and physical and mental well-being,P02,Pollutant emissions and cumulative environmental exposure,13.416666666666668,0.0021615380484399337
+NSF,Need → pressure,N15,Public health and physical and mental well-being,P03,Resource and environmental carrying-capacity pressure,3.1666666666666665,0.0005101766822404811
+NSF,Need → pressure,N15,Public health and physical and mental well-being,P04,Population and spatial-development pressure,4.5,0.0007249879168680521
+NSF,Need → pressure,N15,Public health and physical and mental well-being,P05,Infrastructure ageing and system-function failure,6.083333333333334,0.000980076257988293
+NSF,Need → pressure,N15,Public health and physical and mental well-being,P06,Barriers to urban service access,5.916666666666666,0.0009532248536598463
+NSF,Need → pressure,N15,Public health and physical and mental well-being,P07,High-carbon technological and industrial path dependence,2.0,0.00032221685194135655
+NSF,Need → pressure,N15,Public health and physical and mental well-being,P08,Institutional coordination and policy implementation pressure,4.5,0.0007249879168680521
+NSF,Need → pressure,N16,Social inclusion and distributive equity,P01,Extreme climate and natural-hazard shocks,36.11666666666665,0.0058186993179743275
+NSF,Need → pressure,N16,Social inclusion and distributive equity,P02,Pollutant emissions and cumulative environmental exposure,20.333333333333332,0.003275871328070458
+NSF,Need → pressure,N16,Social inclusion and distributive equity,P03,Resource and environmental carrying-capacity pressure,10.916666666666666,0.0017587669835132376
+NSF,Need → pressure,N16,Social inclusion and distributive equity,P04,Population and spatial-development pressure,28.0,0.004511035927178992
+NSF,Need → pressure,N16,Social inclusion and distributive equity,P05,Infrastructure ageing and system-function failure,2.75,0.0004430481714193652
+NSF,Need → pressure,N16,Social inclusion and distributive equity,P06,Barriers to urban service access,31.66666666666666,0.005101766822404811
+NSF,Need → pressure,N16,Social inclusion and distributive equity,P07,High-carbon technological and industrial path dependence,10.249999999999998,0.001651361366199452
+NSF,Need → pressure,N16,Social inclusion and distributive equity,P08,Institutional coordination and policy implementation pressure,38.75,0.0062429515063637826
+NSF,Need → pressure,N17,Planning and policy implementation capacity,P01,Extreme climate and natural-hazard shocks,21.283333333333335,0.003428924332742603
+NSF,Need → pressure,N17,Planning and policy implementation capacity,P02,Pollutant emissions and cumulative environmental exposure,3.6666666666666665,0.0005907308952258203
+NSF,Need → pressure,N17,Planning and policy implementation capacity,P03,Resource and environmental carrying-capacity pressure,9.750000000000002,0.0015708071532141133
+NSF,Need → pressure,N17,Planning and policy implementation capacity,P04,Population and spatial-development pressure,20.25,0.003262445625906235
+NSF,Need → pressure,N17,Planning and policy implementation capacity,P05,Infrastructure ageing and system-function failure,2.8333333333333335,0.00045647387358358843
+NSF,Need → pressure,N17,Planning and policy implementation capacity,P06,Barriers to urban service access,2.6666666666666665,0.000429622469255142
+NSF,Need → pressure,N17,Planning and policy implementation capacity,P07,High-carbon technological and industrial path dependence,2.833333333333333,0.0004564738735835884
+NSF,Need → pressure,N17,Planning and policy implementation capacity,P08,Institutional coordination and policy implementation pressure,96.33333333333334,0.015520111701842008
+NSF,Need → pressure,N18,Public participation and multi-actor coordination,P01,Extreme climate and natural-hazard shocks,26.416666666666668,0.004255947586058751
+NSF,Need → pressure,N18,Public participation and multi-actor coordination,P02,Pollutant emissions and cumulative environmental exposure,12.25,0.001973578218140809
+NSF,Need → pressure,N18,Public participation and multi-actor coordination,P03,Resource and environmental carrying-capacity pressure,6.0,0.0009666505558240696
+NSF,Need → pressure,N18,Public participation and multi-actor coordination,P04,Population and spatial-development pressure,1.5,0.0002416626389560174
+NSF,Need → pressure,N18,Public participation and multi-actor coordination,P05,Infrastructure ageing and system-function failure,1.5,0.0002416626389560174
+NSF,Need → pressure,N18,Public participation and multi-actor coordination,P06,Barriers to urban service access,1.7499999999999998,0.0002819397454486869
+NSF,Need → pressure,N18,Public participation and multi-actor coordination,P07,High-carbon technological and industrial path dependence,4.25,0.0006847108103753826
+NSF,Need → pressure,N18,Public participation and multi-actor coordination,P08,Institutional coordination and policy implementation pressure,68.91666666666669,0.011103055689812581
+NSF,Need → pressure,N19,Urban-rural linkages and cross-regional coordination,P01,Extreme climate and natural-hazard shocks,3.3333333333333335,0.0005370280865689275
+NSF,Need → pressure,N19,Urban-rural linkages and cross-regional coordination,P02,Pollutant emissions and cumulative environmental exposure,0.3333333333333333,5.370280865689275e-05
+NSF,Need → pressure,N19,Urban-rural linkages and cross-regional coordination,P03,Resource and environmental carrying-capacity pressure,2.25,0.0003624939584340261
+NSF,Need → pressure,N19,Urban-rural linkages and cross-regional coordination,P04,Population and spatial-development pressure,8.5,0.0013694216207507652
+NSF,Need → pressure,N19,Urban-rural linkages and cross-regional coordination,P05,Infrastructure ageing and system-function failure,0.2,3.222168519413566e-05
+NSF,Need → pressure,N19,Urban-rural linkages and cross-regional coordination,P06,Barriers to urban service access,1.0,0.00016110842597067828
+NSF,Need → pressure,N19,Urban-rural linkages and cross-regional coordination,P07,High-carbon technological and industrial path dependence,0.3333333333333333,5.370280865689275e-05
+NSF,Need → pressure,N19,Urban-rural linkages and cross-regional coordination,P08,Institutional coordination and policy implementation pressure,7.833333333333333,0.0012620160034369798
+NSF,Pressure → system,P01,Extreme climate and natural-hazard shocks,O01,Population and community systems,325.0,0.052360238440470434
+NSF,Pressure → system,P01,Extreme climate and natural-hazard shocks,O02,Housing and built-environment systems,364.0,0.05864346705332689
+NSF,Pressure → system,P01,Extreme climate and natural-hazard shocks,O03,Transport and urban mobility systems,81.0,0.01304978250362494
+NSF,Pressure → system,P01,Extreme climate and natural-hazard shocks,O04,"Water supply, drainage and stormwater systems",331.0,0.05332688899629451
+NSF,Pressure → system,P01,Extreme climate and natural-hazard shocks,O05,Energy supply and power systems,103.0,0.016594167874979863
+NSF,Pressure → system,P01,Extreme climate and natural-hazard shocks,O06,Waste and resource-circulation systems,6.0,0.0009666505558240696
+NSF,Pressure → system,P01,Extreme climate and natural-hazard shocks,O07,"Information, communication and digital infrastructure",46.0,0.007410987594651201
+NSF,Pressure → system,P01,Extreme climate and natural-hazard shocks,O08,Green-blue spaces and ecosystems,1067.0,0.17190269051071372
+NSF,Pressure → system,P01,Extreme climate and natural-hazard shocks,O09,Public health and healthcare service systems,15.0,0.002416626389560174
+NSF,Pressure → system,P01,Extreme climate and natural-hazard shocks,O10,Food supply and urban-rural supply chains,65.0,0.010472047688094087
+NSF,Pressure → system,P01,Extreme climate and natural-hazard shocks,O11,Industrial production and employment systems,11.0,0.001772192685677461
+NSF,Pressure → system,P01,Extreme climate and natural-hazard shocks,O12,"Planning, governance and public administration systems",216.0,0.03479942000966651
+NSF,Pressure → system,P02,Pollutant emissions and cumulative environmental exposure,O01,Population and community systems,24.0,0.0038666022232962784
+NSF,Pressure → system,P02,Pollutant emissions and cumulative environmental exposure,O02,Housing and built-environment systems,45.0,0.007249879168680522
+NSF,Pressure → system,P02,Pollutant emissions and cumulative environmental exposure,O03,Transport and urban mobility systems,25.0,0.0040277106492669565
+NSF,Pressure → system,P02,Pollutant emissions and cumulative environmental exposure,O04,"Water supply, drainage and stormwater systems",374.0,0.06025455131303367
+NSF,Pressure → system,P02,Pollutant emissions and cumulative environmental exposure,O05,Energy supply and power systems,46.0,0.007410987594651201
+NSF,Pressure → system,P02,Pollutant emissions and cumulative environmental exposure,O06,Waste and resource-circulation systems,108.0,0.017399710004833254
+NSF,Pressure → system,P02,Pollutant emissions and cumulative environmental exposure,O07,"Information, communication and digital infrastructure",31.0,0.004994361205091026
+NSF,Pressure → system,P02,Pollutant emissions and cumulative environmental exposure,O08,Green-blue spaces and ecosystems,347.0,0.05590462381182536
+NSF,Pressure → system,P02,Pollutant emissions and cumulative environmental exposure,O09,Public health and healthcare service systems,30.0,0.004833252779120348
+NSF,Pressure → system,P02,Pollutant emissions and cumulative environmental exposure,O10,Food supply and urban-rural supply chains,44.0,0.007088770742709844
+NSF,Pressure → system,P02,Pollutant emissions and cumulative environmental exposure,O11,Industrial production and employment systems,57.0,0.00918318028032866
+NSF,Pressure → system,P02,Pollutant emissions and cumulative environmental exposure,O12,"Planning, governance and public administration systems",36.0,0.005799903334944417
+NSF,Pressure → system,P03,Resource and environmental carrying-capacity pressure,O01,Population and community systems,15.0,0.002416626389560174
+NSF,Pressure → system,P03,Resource and environmental carrying-capacity pressure,O02,Housing and built-environment systems,10.0,0.0016110842597067826
+NSF,Pressure → system,P03,Resource and environmental carrying-capacity pressure,O03,Transport and urban mobility systems,4.0,0.0006444337038827131
+NSF,Pressure → system,P03,Resource and environmental carrying-capacity pressure,O04,"Water supply, drainage and stormwater systems",182.0,0.029321733526663445
+NSF,Pressure → system,P03,Resource and environmental carrying-capacity pressure,O05,Energy supply and power systems,69.0,0.011116481391976801
+NSF,Pressure → system,P03,Resource and environmental carrying-capacity pressure,O06,Waste and resource-circulation systems,39.0,0.006283228612856452
+NSF,Pressure → system,P03,Resource and environmental carrying-capacity pressure,O07,"Information, communication and digital infrastructure",8.0,0.0012888674077654262
+NSF,Pressure → system,P03,Resource and environmental carrying-capacity pressure,O08,Green-blue spaces and ecosystems,161.0,0.0259384565812792
+NSF,Pressure → system,P03,Resource and environmental carrying-capacity pressure,O10,Food supply and urban-rural supply chains,72.0,0.011599806669888834
+NSF,Pressure → system,P03,Resource and environmental carrying-capacity pressure,O11,Industrial production and employment systems,21.0,0.0033832769453842437
+NSF,Pressure → system,P03,Resource and environmental carrying-capacity pressure,O12,"Planning, governance and public administration systems",18.0,0.0028999516674722086
+NSF,Pressure → system,P04,Population and spatial-development pressure,O01,Population and community systems,32.0,0.005155469631061705
+NSF,Pressure → system,P04,Population and spatial-development pressure,O02,Housing and built-environment systems,28.0,0.004511035927178992
+NSF,Pressure → system,P04,Population and spatial-development pressure,O03,Transport and urban mobility systems,24.0,0.0038666022232962784
+NSF,Pressure → system,P04,Population and spatial-development pressure,O04,"Water supply, drainage and stormwater systems",9.0,0.0014499758337361043
+NSF,Pressure → system,P04,Population and spatial-development pressure,O05,Energy supply and power systems,3.0,0.0004833252779120348
+NSF,Pressure → system,P04,Population and spatial-development pressure,O06,Waste and resource-circulation systems,1.0,0.00016110842597067828
+NSF,Pressure → system,P04,Population and spatial-development pressure,O07,"Information, communication and digital infrastructure",6.0,0.0009666505558240696
+NSF,Pressure → system,P04,Population and spatial-development pressure,O08,Green-blue spaces and ecosystems,55.0,0.008860963428387304
+NSF,Pressure → system,P04,Population and spatial-development pressure,O10,Food supply and urban-rural supply chains,8.0,0.0012888674077654262
+NSF,Pressure → system,P04,Population and spatial-development pressure,O11,Industrial production and employment systems,3.0,0.0004833252779120348
+NSF,Pressure → system,P04,Population and spatial-development pressure,O12,"Planning, governance and public administration systems",15.0,0.002416626389560174
+NSF,Pressure → system,P05,Infrastructure ageing and system-function failure,O02,Housing and built-environment systems,33.0,0.005316578057032383
+NSF,Pressure → system,P05,Infrastructure ageing and system-function failure,O03,Transport and urban mobility systems,172.0,0.027710649266956662
+NSF,Pressure → system,P05,Infrastructure ageing and system-function failure,O04,"Water supply, drainage and stormwater systems",92.0,0.014821975189302401
+NSF,Pressure → system,P05,Infrastructure ageing and system-function failure,O05,Energy supply and power systems,176.0,0.028355082970839374
+NSF,Pressure → system,P05,Infrastructure ageing and system-function failure,O06,Waste and resource-circulation systems,7.0,0.001127758981794748
+NSF,Pressure → system,P05,Infrastructure ageing and system-function failure,O07,"Information, communication and digital infrastructure",26.0,0.004188819075237635
+NSF,Pressure → system,P05,Infrastructure ageing and system-function failure,O08,Green-blue spaces and ecosystems,13.0,0.0020944095376188173
+NSF,Pressure → system,P05,Infrastructure ageing and system-function failure,O10,Food supply and urban-rural supply chains,7.0,0.001127758981794748
+NSF,Pressure → system,P05,Infrastructure ageing and system-function failure,O11,Industrial production and employment systems,5.0,0.0008055421298533913
+NSF,Pressure → system,P05,Infrastructure ageing and system-function failure,O12,"Planning, governance and public administration systems",8.0,0.0012888674077654262
+NSF,Pressure → system,P06,Barriers to urban service access,O01,Population and community systems,11.0,0.001772192685677461
+NSF,Pressure → system,P06,Barriers to urban service access,O02,Housing and built-environment systems,20.0,0.003222168519413565
+NSF,Pressure → system,P06,Barriers to urban service access,O03,Transport and urban mobility systems,98.0,0.01578862574512647
+NSF,Pressure → system,P06,Barriers to urban service access,O04,"Water supply, drainage and stormwater systems",17.0,0.0027388432415015305
+NSF,Pressure → system,P06,Barriers to urban service access,O05,Energy supply and power systems,30.0,0.004833252779120348
+NSF,Pressure → system,P06,Barriers to urban service access,O06,Waste and resource-circulation systems,1.0,0.00016110842597067828
+NSF,Pressure → system,P06,Barriers to urban service access,O07,"Information, communication and digital infrastructure",14.0,0.002255517963589496
+NSF,Pressure → system,P06,Barriers to urban service access,O08,Green-blue spaces and ecosystems,7.0,0.001127758981794748
+NSF,Pressure → system,P06,Barriers to urban service access,O09,Public health and healthcare service systems,1.0,0.00016110842597067828
+NSF,Pressure → system,P06,Barriers to urban service access,O10,Food supply and urban-rural supply chains,19.0,0.003061060093442887
+NSF,Pressure → system,P06,Barriers to urban service access,O12,"Planning, governance and public administration systems",10.0,0.0016110842597067826
+NSF,Pressure → system,P07,High-carbon technological and industrial path dependence,O01,Population and community systems,11.0,0.001772192685677461
+NSF,Pressure → system,P07,High-carbon technological and industrial path dependence,O02,Housing and built-environment systems,80.0,0.01288867407765426
+NSF,Pressure → system,P07,High-carbon technological and industrial path dependence,O03,Transport and urban mobility systems,31.0,0.004994361205091026
+NSF,Pressure → system,P07,High-carbon technological and industrial path dependence,O04,"Water supply, drainage and stormwater systems",4.0,0.0006444337038827131
+NSF,Pressure → system,P07,High-carbon technological and industrial path dependence,O05,Energy supply and power systems,248.0,0.03995488964072821
+NSF,Pressure → system,P07,High-carbon technological and industrial path dependence,O06,Waste and resource-circulation systems,8.0,0.0012888674077654262
+NSF,Pressure → system,P07,High-carbon technological and industrial path dependence,O07,"Information, communication and digital infrastructure",9.0,0.0014499758337361043
+NSF,Pressure → system,P07,High-carbon technological and industrial path dependence,O08,Green-blue spaces and ecosystems,7.0,0.001127758981794748
+NSF,Pressure → system,P07,High-carbon technological and industrial path dependence,O10,Food supply and urban-rural supply chains,7.0,0.001127758981794748
+NSF,Pressure → system,P07,High-carbon technological and industrial path dependence,O11,Industrial production and employment systems,70.0,0.011277589817947478
+NSF,Pressure → system,P07,High-carbon technological and industrial path dependence,O12,"Planning, governance and public administration systems",7.0,0.001127758981794748
+NSF,Pressure → system,P08,Institutional coordination and policy implementation pressure,O01,Population and community systems,25.0,0.0040277106492669565
+NSF,Pressure → system,P08,Institutional coordination and policy implementation pressure,O02,Housing and built-environment systems,18.0,0.0028999516674722086
+NSF,Pressure → system,P08,Institutional coordination and policy implementation pressure,O03,Transport and urban mobility systems,28.0,0.004511035927178992
+NSF,Pressure → system,P08,Institutional coordination and policy implementation pressure,O04,"Water supply, drainage and stormwater systems",17.0,0.0027388432415015305
+NSF,Pressure → system,P08,Institutional coordination and policy implementation pressure,O05,Energy supply and power systems,40.0,0.00644433703882713
+NSF,Pressure → system,P08,Institutional coordination and policy implementation pressure,O06,Waste and resource-circulation systems,7.0,0.001127758981794748
+NSF,Pressure → system,P08,Institutional coordination and policy implementation pressure,O07,"Information, communication and digital infrastructure",12.0,0.0019333011116481392
+NSF,Pressure → system,P08,Institutional coordination and policy implementation pressure,O08,Green-blue spaces and ecosystems,33.0,0.005316578057032383
+NSF,Pressure → system,P08,Institutional coordination and policy implementation pressure,O10,Food supply and urban-rural supply chains,11.0,0.001772192685677461
+NSF,Pressure → system,P08,Institutional coordination and policy implementation pressure,O11,Industrial production and employment systems,7.0,0.001127758981794748
+NSF,Pressure → system,P08,Institutional coordination and policy implementation pressure,O12,"Planning, governance and public administration systems",180.0,0.028999516674722087
+NSF,System → knowledge,O01,Population and community systems,K01,State measurement and problem diagnosis,86.0,0.013855324633478331
+NSF,System → knowledge,O01,Population and community systems,K02,Mechanism analysis and causal identification,237.0,0.03818269695505075
+NSF,System → knowledge,O01,Population and community systems,K03,Scenario simulation and risk prediction,39.0,0.006283228612856452
+NSF,System → knowledge,O01,Population and community systems,K04,Intervention design and performance optimization,34.0,0.005477686483003061
+NSF,System → knowledge,O01,Population and community systems,K05,Planning decision support and policy design,37.0,0.005961011760915096
+NSF,System → knowledge,O01,Population and community systems,K06,Implementation monitoring and impact evaluation,10.0,0.0016110842597067826
+NSF,System → knowledge,O02,Housing and built-environment systems,K01,State measurement and problem diagnosis,127.0,0.02046077009827614
+NSF,System → knowledge,O02,Housing and built-environment systems,K02,Mechanism analysis and causal identification,155.0,0.02497180602545513
+NSF,System → knowledge,O02,Housing and built-environment systems,K03,Scenario simulation and risk prediction,97.0,0.015627517319155793
+NSF,System → knowledge,O02,Housing and built-environment systems,K04,Intervention design and performance optimization,187.0,0.030127275656516836
+NSF,System → knowledge,O02,Housing and built-environment systems,K05,Planning decision support and policy design,26.0,0.004188819075237635
+NSF,System → knowledge,O02,Housing and built-environment systems,K06,Implementation monitoring and impact evaluation,6.0,0.0009666505558240696
+NSF,System → knowledge,O03,Transport and urban mobility systems,K01,State measurement and problem diagnosis,76.0,0.012244240373771548
+NSF,System → knowledge,O03,Transport and urban mobility systems,K02,Mechanism analysis and causal identification,62.0,0.009988722410182052
+NSF,System → knowledge,O03,Transport and urban mobility systems,K03,Scenario simulation and risk prediction,47.0,0.007572096020621879
+NSF,System → knowledge,O03,Transport and urban mobility systems,K04,Intervention design and performance optimization,221.0,0.0356049621395199
+NSF,System → knowledge,O03,Transport and urban mobility systems,K05,Planning decision support and policy design,46.0,0.007410987594651201
+NSF,System → knowledge,O03,Transport and urban mobility systems,K06,Implementation monitoring and impact evaluation,11.0,0.001772192685677461
+NSF,System → knowledge,O04,"Water supply, drainage and stormwater systems",K01,State measurement and problem diagnosis,196.0,0.03157725149025294
+NSF,System → knowledge,O04,"Water supply, drainage and stormwater systems",K02,Mechanism analysis and causal identification,307.0,0.04946028677299823
+NSF,System → knowledge,O04,"Water supply, drainage and stormwater systems",K03,Scenario simulation and risk prediction,131.0,0.021105203802158853
+NSF,System → knowledge,O04,"Water supply, drainage and stormwater systems",K04,Intervention design and performance optimization,307.0,0.04946028677299823
+NSF,System → knowledge,O04,"Water supply, drainage and stormwater systems",K05,Planning decision support and policy design,82.0,0.013210890929595619
+NSF,System → knowledge,O04,"Water supply, drainage and stormwater systems",K06,Implementation monitoring and impact evaluation,3.0,0.0004833252779120348
+NSF,System → knowledge,O05,Energy supply and power systems,K01,State measurement and problem diagnosis,68.0,0.010955372966006122
+NSF,System → knowledge,O05,Energy supply and power systems,K02,Mechanism analysis and causal identification,84.0,0.013533107781536975
+NSF,System → knowledge,O05,Energy supply and power systems,K03,Scenario simulation and risk prediction,62.0,0.009988722410182052
+NSF,System → knowledge,O05,Energy supply and power systems,K04,Intervention design and performance optimization,433.0,0.06975994844530368
+NSF,System → knowledge,O05,Energy supply and power systems,K05,Planning decision support and policy design,65.0,0.010472047688094087
+NSF,System → knowledge,O05,Energy supply and power systems,K06,Implementation monitoring and impact evaluation,3.0,0.0004833252779120348
+NSF,System → knowledge,O06,Waste and resource-circulation systems,K01,State measurement and problem diagnosis,23.0,0.0037054937973256003
+NSF,System → knowledge,O06,Waste and resource-circulation systems,K02,Mechanism analysis and causal identification,21.0,0.0033832769453842437
+NSF,System → knowledge,O06,Waste and resource-circulation systems,K03,Scenario simulation and risk prediction,4.0,0.0006444337038827131
+NSF,System → knowledge,O06,Waste and resource-circulation systems,K04,Intervention design and performance optimization,116.0,0.01868857741259868
+NSF,System → knowledge,O06,Waste and resource-circulation systems,K05,Planning decision support and policy design,13.0,0.0020944095376188173
+NSF,System → knowledge,O07,"Information, communication and digital infrastructure",K01,State measurement and problem diagnosis,41.0,0.006605445464797809
+NSF,System → knowledge,O07,"Information, communication and digital infrastructure",K02,Mechanism analysis and causal identification,18.0,0.0028999516674722086
+NSF,System → knowledge,O07,"Information, communication and digital infrastructure",K03,Scenario simulation and risk prediction,13.0,0.0020944095376188173
+NSF,System → knowledge,O07,"Information, communication and digital infrastructure",K04,Intervention design and performance optimization,61.0,0.009827613984211375
+NSF,System → knowledge,O07,"Information, communication and digital infrastructure",K05,Planning decision support and policy design,18.0,0.0028999516674722086
+NSF,System → knowledge,O07,"Information, communication and digital infrastructure",K06,Implementation monitoring and impact evaluation,1.0,0.00016110842597067828
+NSF,System → knowledge,O08,Green-blue spaces and ecosystems,K01,State measurement and problem diagnosis,433.0,0.06975994844530368
+NSF,System → knowledge,O08,Green-blue spaces and ecosystems,K02,Mechanism analysis and causal identification,922.0,0.14854196874496536
+NSF,System → knowledge,O08,Green-blue spaces and ecosystems,K03,Scenario simulation and risk prediction,190.0,0.03061060093442887
+NSF,System → knowledge,O08,Green-blue spaces and ecosystems,K04,Intervention design and performance optimization,82.0,0.013210890929595619
+NSF,System → knowledge,O08,Green-blue spaces and ecosystems,K05,Planning decision support and policy design,59.0,0.009505397132270018
+NSF,System → knowledge,O08,Green-blue spaces and ecosystems,K06,Implementation monitoring and impact evaluation,4.0,0.0006444337038827131
+NSF,System → knowledge,O09,Public health and healthcare service systems,K01,State measurement and problem diagnosis,15.0,0.002416626389560174
+NSF,System → knowledge,O09,Public health and healthcare service systems,K02,Mechanism analysis and causal identification,18.0,0.0028999516674722086
+NSF,System → knowledge,O09,Public health and healthcare service systems,K03,Scenario simulation and risk prediction,6.0,0.0009666505558240696
+NSF,System → knowledge,O09,Public health and healthcare service systems,K04,Intervention design and performance optimization,6.0,0.0009666505558240696
+NSF,System → knowledge,O09,Public health and healthcare service systems,K05,Planning decision support and policy design,1.0,0.00016110842597067828
+NSF,System → knowledge,O10,Food supply and urban-rural supply chains,K01,State measurement and problem diagnosis,48.0,0.007733204446592557
+NSF,System → knowledge,O10,Food supply and urban-rural supply chains,K02,Mechanism analysis and causal identification,66.0,0.010633156114064766
+NSF,System → knowledge,O10,Food supply and urban-rural supply chains,K03,Scenario simulation and risk prediction,29.0,0.00467214435314967
+NSF,System → knowledge,O10,Food supply and urban-rural supply chains,K04,Intervention design and performance optimization,58.0,0.00934428870629934
+NSF,System → knowledge,O10,Food supply and urban-rural supply chains,K05,Planning decision support and policy design,31.0,0.004994361205091026
+NSF,System → knowledge,O10,Food supply and urban-rural supply chains,K06,Implementation monitoring and impact evaluation,1.0,0.00016110842597067828
+NSF,System → knowledge,O11,Industrial production and employment systems,K01,State measurement and problem diagnosis,19.0,0.003061060093442887
+NSF,System → knowledge,O11,Industrial production and employment systems,K02,Mechanism analysis and causal identification,24.0,0.0038666022232962784
+NSF,System → knowledge,O11,Industrial production and employment systems,K03,Scenario simulation and risk prediction,6.0,0.0009666505558240696
+NSF,System → knowledge,O11,Industrial production and employment systems,K04,Intervention design and performance optimization,99.0,0.015949734171097147
+NSF,System → knowledge,O11,Industrial production and employment systems,K05,Planning decision support and policy design,24.0,0.0038666022232962784
+NSF,System → knowledge,O11,Industrial production and employment systems,K06,Implementation monitoring and impact evaluation,2.0,0.00032221685194135655
+NSF,System → knowledge,O12,"Planning, governance and public administration systems",K01,State measurement and problem diagnosis,68.0,0.010955372966006122
+NSF,System → knowledge,O12,"Planning, governance and public administration systems",K02,Mechanism analysis and causal identification,201.0,0.032382793620106334
+NSF,System → knowledge,O12,"Planning, governance and public administration systems",K03,Scenario simulation and risk prediction,58.0,0.00934428870629934
+NSF,System → knowledge,O12,"Planning, governance and public administration systems",K04,Intervention design and performance optimization,40.0,0.00644433703882713
+NSF,System → knowledge,O12,"Planning, governance and public administration systems",K05,Planning decision support and policy design,117.0,0.018849685838569358
+NSF,System → knowledge,O12,"Planning, governance and public administration systems",K06,Implementation monitoring and impact evaluation,6.0,0.0009666505558240696
+NSFC,Need → pressure,N01,Climate adaptation and extreme-risk reduction,P01,Extreme climate and natural-hazard shocks,326.5,0.05887125856473134
+NSFC,Need → pressure,N01,Climate adaptation and extreme-risk reduction,P02,Pollutant emissions and cumulative environmental exposure,10.0,0.0018031013342949874
+NSFC,Need → pressure,N01,Climate adaptation and extreme-risk reduction,P03,Resource and environmental carrying-capacity pressure,17.416666666666664,0.0031404014905637694
+NSFC,Need → pressure,N01,Climate adaptation and extreme-risk reduction,P04,Population and spatial-development pressure,74.25,0.013388027407140282
+NSFC,Need → pressure,N01,Climate adaptation and extreme-risk reduction,P05,Infrastructure ageing and system-function failure,3.5,0.0006310854670032456
+NSFC,Need → pressure,N01,Climate adaptation and extreme-risk reduction,P06,Barriers to urban service access,1.0,0.00018031013342949875
+NSFC,Need → pressure,N01,Climate adaptation and extreme-risk reduction,P07,High-carbon technological and industrial path dependence,2.333333333333333,0.0004207236446688303
+NSFC,Need → pressure,N02,"Disaster prevention, emergency response and recovery",P01,Extreme climate and natural-hazard shocks,403.49999999999994,0.07275513883880273
+NSFC,Need → pressure,N02,"Disaster prevention, emergency response and recovery",P02,Pollutant emissions and cumulative environmental exposure,9.333333333333332,0.0016828945786753213
+NSFC,Need → pressure,N02,"Disaster prevention, emergency response and recovery",P03,Resource and environmental carrying-capacity pressure,8.333333333333334,0.001502584445245823
+NSFC,Need → pressure,N02,"Disaster prevention, emergency response and recovery",P04,Population and spatial-development pressure,49.16666666666667,0.008865248226950355
+NSFC,Need → pressure,N02,"Disaster prevention, emergency response and recovery",P05,Infrastructure ageing and system-function failure,18.916666666666664,0.0034108666907080175
+NSFC,Need → pressure,N02,"Disaster prevention, emergency response and recovery",P06,Barriers to urban service access,4.0,0.000721240533717995
+NSFC,Need → pressure,N02,"Disaster prevention, emergency response and recovery",P07,High-carbon technological and industrial path dependence,1.0,0.00018031013342949875
+NSFC,Need → pressure,N02,"Disaster prevention, emergency response and recovery",P08,Institutional coordination and policy implementation pressure,14.0,0.0025243418680129825
+NSFC,Need → pressure,N03,Critical infrastructure resilience,P01,Extreme climate and natural-hazard shocks,94.66666666666666,0.017069359297992547
+NSFC,Need → pressure,N03,Critical infrastructure resilience,P02,Pollutant emissions and cumulative environmental exposure,2.833333333333333,0.0005108787113835797
+NSFC,Need → pressure,N03,Critical infrastructure resilience,P03,Resource and environmental carrying-capacity pressure,4.5,0.0008113956004327443
+NSFC,Need → pressure,N03,Critical infrastructure resilience,P04,Population and spatial-development pressure,12.5,0.0022538766678687344
+NSFC,Need → pressure,N03,Critical infrastructure resilience,P05,Infrastructure ageing and system-function failure,105.33333333333333,0.0189926673879072
+NSFC,Need → pressure,N03,Critical infrastructure resilience,P06,Barriers to urban service access,2.5,0.00045077533357374685
+NSFC,Need → pressure,N03,Critical infrastructure resilience,P07,High-carbon technological and industrial path dependence,0.3333333333333333,6.010337780983291e-05
+NSFC,Need → pressure,N03,Critical infrastructure resilience,P08,Institutional coordination and policy implementation pressure,5.5,0.000991705733862243
+NSFC,Need → pressure,N04,Air quality improvement,P01,Extreme climate and natural-hazard shocks,5.666666666666666,0.0010217574227671595
+NSFC,Need → pressure,N04,Air quality improvement,P02,Pollutant emissions and cumulative environmental exposure,281.5000000000001,0.050757302560403915
+NSFC,Need → pressure,N04,Air quality improvement,P03,Resource and environmental carrying-capacity pressure,2.0,0.0003606202668589975
+NSFC,Need → pressure,N04,Air quality improvement,P04,Population and spatial-development pressure,21.75,0.003921745402091598
+NSFC,Need → pressure,N04,Air quality improvement,P05,Infrastructure ageing and system-function failure,1.3333333333333333,0.00024041351123933163
+NSFC,Need → pressure,N04,Air quality improvement,P06,Barriers to urban service access,0.5,9.015506671474937e-05
+NSFC,Need → pressure,N04,Air quality improvement,P07,High-carbon technological and industrial path dependence,2.333333333333333,0.0004207236446688303
+NSFC,Need → pressure,N04,Air quality improvement,P08,Institutional coordination and policy implementation pressure,1.5833333333333333,0.00028549104459670634
+NSFC,Need → pressure,N05,Water environmental quality and water security,P01,Extreme climate and natural-hazard shocks,100.16666666666664,0.018061065031854787
+NSFC,Need → pressure,N05,Water environmental quality and water security,P02,Pollutant emissions and cumulative environmental exposure,325.0,0.05860079336458709
+NSFC,Need → pressure,N05,Water environmental quality and water security,P03,Resource and environmental carrying-capacity pressure,203.0,0.03660295708618824
+NSFC,Need → pressure,N05,Water environmental quality and water security,P04,Population and spatial-development pressure,25.41666666666666,0.004582882557999758
+NSFC,Need → pressure,N05,Water environmental quality and water security,P05,Infrastructure ageing and system-function failure,32.0,0.00576992426974396
+NSFC,Need → pressure,N05,Water environmental quality and water security,P06,Barriers to urban service access,2.5,0.00045077533357374685
+NSFC,Need → pressure,N05,Water environmental quality and water security,P07,High-carbon technological and industrial path dependence,2.0,0.0003606202668589975
+NSFC,Need → pressure,N05,Water environmental quality and water security,P08,Institutional coordination and policy implementation pressure,13.000000000000004,0.002344031734583484
+NSFC,Need → pressure,N06,Ecological integrity and biodiversity protection,P01,Extreme climate and natural-hazard shocks,399.8333333333333,0.07209400168289458
+NSFC,Need → pressure,N06,Ecological integrity and biodiversity protection,P02,Pollutant emissions and cumulative environmental exposure,108.33333333333333,0.019533597788195696
+NSFC,Need → pressure,N06,Ecological integrity and biodiversity protection,P03,Resource and environmental carrying-capacity pressure,399.49999999999994,0.07203389830508473
+NSFC,Need → pressure,N06,Ecological integrity and biodiversity protection,P04,Population and spatial-development pressure,229.6666666666667,0.04141122731097489
+NSFC,Need → pressure,N06,Ecological integrity and biodiversity protection,P05,Infrastructure ageing and system-function failure,8.083333333333332,0.001457506911888448
+NSFC,Need → pressure,N06,Ecological integrity and biodiversity protection,P06,Barriers to urban service access,4.0,0.000721240533717995
+NSFC,Need → pressure,N06,Ecological integrity and biodiversity protection,P07,High-carbon technological and industrial path dependence,1.0,0.00018031013342949875
+NSFC,Need → pressure,N06,Ecological integrity and biodiversity protection,P08,Institutional coordination and policy implementation pressure,38.916666666666664,0.007017069359297992
+NSFC,Need → pressure,N07,Housing security and community renewal,P01,Extreme climate and natural-hazard shocks,5.0,0.0009015506671474937
+NSFC,Need → pressure,N07,Housing security and community renewal,P02,Pollutant emissions and cumulative environmental exposure,1.0,0.00018031013342949875
+NSFC,Need → pressure,N07,Housing security and community renewal,P03,Resource and environmental carrying-capacity pressure,5.583333333333333,0.0010067315783147013
+NSFC,Need → pressure,N07,Housing security and community renewal,P04,Population and spatial-development pressure,70.66666666666669,0.01274191609568458
+NSFC,Need → pressure,N07,Housing security and community renewal,P05,Infrastructure ageing and system-function failure,5.25,0.0009466282005048684
+NSFC,Need → pressure,N07,Housing security and community renewal,P06,Barriers to urban service access,12.583333333333334,0.0022689025123211926
+NSFC,Need → pressure,N07,Housing security and community renewal,P07,High-carbon technological and industrial path dependence,2.5,0.00045077533357374685
+NSFC,Need → pressure,N07,Housing security and community renewal,P08,Institutional coordination and policy implementation pressure,16.91666666666667,0.0030502464238490214
+NSFC,Need → pressure,N08,Transport accessibility and travel safety,P01,Extreme climate and natural-hazard shocks,9.833333333333332,0.0017730496453900707
+NSFC,Need → pressure,N08,Transport accessibility and travel safety,P02,Pollutant emissions and cumulative environmental exposure,3.3333333333333335,0.0006010337780983291
+NSFC,Need → pressure,N08,Transport accessibility and travel safety,P03,Resource and environmental carrying-capacity pressure,9.0,0.0016227912008654887
+NSFC,Need → pressure,N08,Transport accessibility and travel safety,P04,Population and spatial-development pressure,66.5,0.011990623873061665
+NSFC,Need → pressure,N08,Transport accessibility and travel safety,P05,Infrastructure ageing and system-function failure,108.83333333333334,0.01962375285491045
+NSFC,Need → pressure,N08,Transport accessibility and travel safety,P06,Barriers to urban service access,62.25,0.011224305805986297
+NSFC,Need → pressure,N08,Transport accessibility and travel safety,P07,High-carbon technological and industrial path dependence,6.833333333333333,0.0012321192451015747
+NSFC,Need → pressure,N08,Transport accessibility and travel safety,P08,Institutional coordination and policy implementation pressure,29.666666666666664,0.005349200625075129
+NSFC,Need → pressure,N09,Accessibility of urban services,P01,Extreme climate and natural-hazard shocks,1.0,0.00018031013342949875
+NSFC,Need → pressure,N09,Accessibility of urban services,P03,Resource and environmental carrying-capacity pressure,1.5,0.00027046520014424813
+NSFC,Need → pressure,N09,Accessibility of urban services,P04,Population and spatial-development pressure,13.583333333333334,0.0024492126457506913
+NSFC,Need → pressure,N09,Accessibility of urban services,P06,Barriers to urban service access,21.75,0.003921745402091598
+NSFC,Need → pressure,N09,Accessibility of urban services,P07,High-carbon technological and industrial path dependence,0.8333333333333333,0.00015025844452458227
+NSFC,Need → pressure,N09,Accessibility of urban services,P08,Institutional coordination and policy implementation pressure,4.916666666666667,0.0008865248226950355
+NSFC,Need → pressure,N10,Urban food access and supply security,P01,Extreme climate and natural-hazard shocks,52.83333333333334,0.009526385382858518
+NSFC,Need → pressure,N10,Urban food access and supply security,P02,Pollutant emissions and cumulative environmental exposure,19.5,0.0035160476018752254
+NSFC,Need → pressure,N10,Urban food access and supply security,P03,Resource and environmental carrying-capacity pressure,44.833333333333336,0.008083904315422528
+NSFC,Need → pressure,N10,Urban food access and supply security,P04,Population and spatial-development pressure,11.833333333333334,0.0021336699122490683
+NSFC,Need → pressure,N10,Urban food access and supply security,P05,Infrastructure ageing and system-function failure,1.0,0.00018031013342949875
+NSFC,Need → pressure,N10,Urban food access and supply security,P06,Barriers to urban service access,3.0,0.0005409304002884963
+NSFC,Need → pressure,N10,Urban food access and supply security,P07,High-carbon technological and industrial path dependence,1.0,0.00018031013342949875
+NSFC,Need → pressure,N10,Urban food access and supply security,P08,Institutional coordination and policy implementation pressure,3.3333333333333335,0.0006010337780983291
+NSFC,Need → pressure,N11,Clean-energy access and energy security,P01,Extreme climate and natural-hazard shocks,10.833333333333334,0.0019533597788195696
+NSFC,Need → pressure,N11,Clean-energy access and energy security,P02,Pollutant emissions and cumulative environmental exposure,2.9166666666666665,0.000525904555836038
+NSFC,Need → pressure,N11,Clean-energy access and energy security,P03,Resource and environmental carrying-capacity pressure,30.083333333333332,0.00542432984733742
+NSFC,Need → pressure,N11,Clean-energy access and energy security,P04,Population and spatial-development pressure,0.5,9.015506671474937e-05
+NSFC,Need → pressure,N11,Clean-energy access and energy security,P05,Infrastructure ageing and system-function failure,46.0,0.008294266137756943
+NSFC,Need → pressure,N11,Clean-energy access and energy security,P06,Barriers to urban service access,2.5,0.00045077533357374685
+NSFC,Need → pressure,N11,Clean-energy access and energy security,P07,High-carbon technological and industrial path dependence,45.83333333333333,0.008264214448852024
+NSFC,Need → pressure,N11,Clean-energy access and energy security,P08,Institutional coordination and policy implementation pressure,9.583333333333334,0.0017279721120326964
+NSFC,Need → pressure,N12,"Decarbonization of buildings, transport and industry",P01,Extreme climate and natural-hazard shocks,8.0,0.00144248106743599
+NSFC,Need → pressure,N12,"Decarbonization of buildings, transport and industry",P02,Pollutant emissions and cumulative environmental exposure,25.833333333333332,0.00465801178026205
+NSFC,Need → pressure,N12,"Decarbonization of buildings, transport and industry",P03,Resource and environmental carrying-capacity pressure,29.25,0.005274071402812838
+NSFC,Need → pressure,N12,"Decarbonization of buildings, transport and industry",P04,Population and spatial-development pressure,39.5,0.0071222502704652
+NSFC,Need → pressure,N12,"Decarbonization of buildings, transport and industry",P05,Infrastructure ageing and system-function failure,5.5,0.000991705733862243
+NSFC,Need → pressure,N12,"Decarbonization of buildings, transport and industry",P06,Barriers to urban service access,5.0,0.0009015506671474937
+NSFC,Need → pressure,N12,"Decarbonization of buildings, transport and industry",P07,High-carbon technological and industrial path dependence,155.83333333333331,0.028098329126096885
+NSFC,Need → pressure,N12,"Decarbonization of buildings, transport and industry",P08,Institutional coordination and policy implementation pressure,22.583333333333332,0.004072003846616179
+NSFC,Need → pressure,N13,Waste reduction and resource circularity,P01,Extreme climate and natural-hazard shocks,1.5,0.00027046520014424813
+NSFC,Need → pressure,N13,Waste reduction and resource circularity,P02,Pollutant emissions and cumulative environmental exposure,74.66666666666666,0.01346315662940257
+NSFC,Need → pressure,N13,Waste reduction and resource circularity,P03,Resource and environmental carrying-capacity pressure,35.416666666666664,0.006385983892294746
+NSFC,Need → pressure,N13,Waste reduction and resource circularity,P04,Population and spatial-development pressure,4.0,0.000721240533717995
+NSFC,Need → pressure,N13,Waste reduction and resource circularity,P05,Infrastructure ageing and system-function failure,3.0,0.0005409304002884963
+NSFC,Need → pressure,N13,Waste reduction and resource circularity,P07,High-carbon technological and industrial path dependence,8.5,0.0015326361341507393
+NSFC,Need → pressure,N13,Waste reduction and resource circularity,P08,Institutional coordination and policy implementation pressure,15.666666666666668,0.0028248587570621473
+NSFC,Need → pressure,N14,Reduction of environmental exposure and health risks,P01,Extreme climate and natural-hazard shocks,7.0,0.0012621709340064912
+NSFC,Need → pressure,N14,Reduction of environmental exposure and health risks,P02,Pollutant emissions and cumulative environmental exposure,162.08333333333337,0.029225267460031262
+NSFC,Need → pressure,N14,Reduction of environmental exposure and health risks,P03,Resource and environmental carrying-capacity pressure,0.5,9.015506671474937e-05
+NSFC,Need → pressure,N14,Reduction of environmental exposure and health risks,P04,Population and spatial-development pressure,4.333333333333333,0.0007813439115278278
+NSFC,Need → pressure,N14,Reduction of environmental exposure and health risks,P08,Institutional coordination and policy implementation pressure,1.3333333333333333,0.00024041351123933163
+NSFC,Need → pressure,N15,Public health and physical and mental well-being,P01,Extreme climate and natural-hazard shocks,5.833333333333333,0.001051809111672076
+NSFC,Need → pressure,N15,Public health and physical and mental well-being,P02,Pollutant emissions and cumulative environmental exposure,16.5,0.0029751172015867293
+NSFC,Need → pressure,N15,Public health and physical and mental well-being,P03,Resource and environmental carrying-capacity pressure,2.5,0.00045077533357374685
+NSFC,Need → pressure,N15,Public health and physical and mental well-being,P04,Population and spatial-development pressure,31.666666666666664,0.005709820891934126
+NSFC,Need → pressure,N15,Public health and physical and mental well-being,P05,Infrastructure ageing and system-function failure,1.0,0.00018031013342949875
+NSFC,Need → pressure,N15,Public health and physical and mental well-being,P06,Barriers to urban service access,7.0,0.0012621709340064912
+NSFC,Need → pressure,N15,Public health and physical and mental well-being,P07,High-carbon technological and industrial path dependence,1.0,0.00018031013342949875
+NSFC,Need → pressure,N15,Public health and physical and mental well-being,P08,Institutional coordination and policy implementation pressure,8.166666666666668,0.0014725327563409065
+NSFC,Need → pressure,N16,Social inclusion and distributive equity,P01,Extreme climate and natural-hazard shocks,1.0,0.00018031013342949875
+NSFC,Need → pressure,N16,Social inclusion and distributive equity,P02,Pollutant emissions and cumulative environmental exposure,4.666666666666666,0.0008414472893376607
+NSFC,Need → pressure,N16,Social inclusion and distributive equity,P03,Resource and environmental carrying-capacity pressure,6.833333333333333,0.0012321192451015747
+NSFC,Need → pressure,N16,Social inclusion and distributive equity,P04,Population and spatial-development pressure,55.41666666666667,0.009992186560884722
+NSFC,Need → pressure,N16,Social inclusion and distributive equity,P05,Infrastructure ageing and system-function failure,0.75,0.00013523260007212407
+NSFC,Need → pressure,N16,Social inclusion and distributive equity,P06,Barriers to urban service access,13.916666666666668,0.0025093160235605243
+NSFC,Need → pressure,N16,Social inclusion and distributive equity,P08,Institutional coordination and policy implementation pressure,26.916666666666654,0.004853347758144005
+NSFC,Need → pressure,N17,Planning and policy implementation capacity,P01,Extreme climate and natural-hazard shocks,3.0,0.0005409304002884963
+NSFC,Need → pressure,N17,Planning and policy implementation capacity,P02,Pollutant emissions and cumulative environmental exposure,8.500000000000002,0.0015326361341507395
+NSFC,Need → pressure,N17,Planning and policy implementation capacity,P03,Resource and environmental carrying-capacity pressure,28.833333333333332,0.0051989421805505465
+NSFC,Need → pressure,N17,Planning and policy implementation capacity,P04,Population and spatial-development pressure,214.9166666666667,0.038751652842889776
+NSFC,Need → pressure,N17,Planning and policy implementation capacity,P05,Infrastructure ageing and system-function failure,4.0,0.000721240533717995
+NSFC,Need → pressure,N17,Planning and policy implementation capacity,P06,Barriers to urban service access,4.666666666666667,0.0008414472893376609
+NSFC,Need → pressure,N17,Planning and policy implementation capacity,P07,High-carbon technological and industrial path dependence,5.666666666666667,0.0010217574227671595
+NSFC,Need → pressure,N17,Planning and policy implementation capacity,P08,Institutional coordination and policy implementation pressure,200.75000000000014,0.036197259285971894
+NSFC,Need → pressure,N18,Public participation and multi-actor coordination,P01,Extreme climate and natural-hazard shocks,0.5,9.015506671474937e-05
+NSFC,Need → pressure,N18,Public participation and multi-actor coordination,P03,Resource and environmental carrying-capacity pressure,0.25,4.5077533357374686e-05
+NSFC,Need → pressure,N18,Public participation and multi-actor coordination,P04,Population and spatial-development pressure,1.8333333333333333,0.000330568577954081
+NSFC,Need → pressure,N18,Public participation and multi-actor coordination,P05,Infrastructure ageing and system-function failure,0.5,9.015506671474937e-05
+NSFC,Need → pressure,N18,Public participation and multi-actor coordination,P06,Barriers to urban service access,0.3333333333333333,6.010337780983291e-05
+NSFC,Need → pressure,N18,Public participation and multi-actor coordination,P08,Institutional coordination and policy implementation pressure,18.083333333333332,0.003260608246183435
+NSFC,Need → pressure,N19,Urban-rural linkages and cross-regional coordination,P01,Extreme climate and natural-hazard shocks,2.333333333333333,0.0004207236446688303
+NSFC,Need → pressure,N19,Urban-rural linkages and cross-regional coordination,P02,Pollutant emissions and cumulative environmental exposure,1.0,0.00018031013342949875
+NSFC,Need → pressure,N19,Urban-rural linkages and cross-regional coordination,P03,Resource and environmental carrying-capacity pressure,11.666666666666668,0.002103618223344152
+NSFC,Need → pressure,N19,Urban-rural linkages and cross-regional coordination,P04,Population and spatial-development pressure,77.5,0.013974035340786152
+NSFC,Need → pressure,N19,Urban-rural linkages and cross-regional coordination,P06,Barriers to urban service access,0.5,9.015506671474937e-05
+NSFC,Need → pressure,N19,Urban-rural linkages and cross-regional coordination,P08,Institutional coordination and policy implementation pressure,43.08333333333334,0.007768361581920906
+NSFC,Pressure → system,P01,Extreme climate and natural-hazard shocks,O01,Population and community systems,52.0,0.009376126938333935
+NSFC,Pressure → system,P01,Extreme climate and natural-hazard shocks,O02,Housing and built-environment systems,136.0,0.02452217814641183
+NSFC,Pressure → system,P01,Extreme climate and natural-hazard shocks,O03,Transport and urban mobility systems,89.0,0.016047601875225387
+NSFC,Pressure → system,P01,Extreme climate and natural-hazard shocks,O04,"Water supply, drainage and stormwater systems",201.0,0.03624233681932924
+NSFC,Pressure → system,P01,Extreme climate and natural-hazard shocks,O05,Energy supply and power systems,35.0,0.006310854670032456
+NSFC,Pressure → system,P01,Extreme climate and natural-hazard shocks,O06,Waste and resource-circulation systems,1.0,0.00018031013342949875
+NSFC,Pressure → system,P01,Extreme climate and natural-hazard shocks,O07,"Information, communication and digital infrastructure",13.0,0.0023440317345834838
+NSFC,Pressure → system,P01,Extreme climate and natural-hazard shocks,O08,Green-blue spaces and ecosystems,711.0,0.12820050486837362
+NSFC,Pressure → system,P01,Extreme climate and natural-hazard shocks,O09,Public health and healthcare service systems,8.0,0.00144248106743599
+NSFC,Pressure → system,P01,Extreme climate and natural-hazard shocks,O10,Food supply and urban-rural supply chains,107.0,0.019293184276956366
+NSFC,Pressure → system,P01,Extreme climate and natural-hazard shocks,O11,Industrial production and employment systems,20.0,0.003606202668589975
+NSFC,Pressure → system,P01,Extreme climate and natural-hazard shocks,O12,"Planning, governance and public administration systems",66.0,0.011900468806346917
+NSFC,Pressure → system,P02,Pollutant emissions and cumulative environmental exposure,O01,Population and community systems,40.0,0.00721240533717995
+NSFC,Pressure → system,P02,Pollutant emissions and cumulative environmental exposure,O02,Housing and built-environment systems,85.0,0.015326361341507392
+NSFC,Pressure → system,P02,Pollutant emissions and cumulative environmental exposure,O03,Transport and urban mobility systems,44.0,0.007933645870897944
+NSFC,Pressure → system,P02,Pollutant emissions and cumulative environmental exposure,O04,"Water supply, drainage and stormwater systems",208.0,0.03750450775333574
+NSFC,Pressure → system,P02,Pollutant emissions and cumulative environmental exposure,O05,Energy supply and power systems,12.0,0.002163721601153985
+NSFC,Pressure → system,P02,Pollutant emissions and cumulative environmental exposure,O06,Waste and resource-circulation systems,79.0,0.0142445005409304
+NSFC,Pressure → system,P02,Pollutant emissions and cumulative environmental exposure,O07,"Information, communication and digital infrastructure",13.0,0.0023440317345834838
+NSFC,Pressure → system,P02,Pollutant emissions and cumulative environmental exposure,O08,Green-blue spaces and ecosystems,358.0,0.06455102776776055
+NSFC,Pressure → system,P02,Pollutant emissions and cumulative environmental exposure,O09,Public health and healthcare service systems,36.0,0.006491164803461955
+NSFC,Pressure → system,P02,Pollutant emissions and cumulative environmental exposure,O10,Food supply and urban-rural supply chains,62.0,0.011179228272628922
+NSFC,Pressure → system,P02,Pollutant emissions and cumulative environmental exposure,O11,Industrial production and employment systems,48.0,0.00865488640461594
+NSFC,Pressure → system,P02,Pollutant emissions and cumulative environmental exposure,O12,"Planning, governance and public administration systems",72.0,0.01298232960692391
+NSFC,Pressure → system,P03,Resource and environmental carrying-capacity pressure,O01,Population and community systems,21.0,0.0037865128020194735
+NSFC,Pressure → system,P03,Resource and environmental carrying-capacity pressure,O02,Housing and built-environment systems,40.0,0.00721240533717995
+NSFC,Pressure → system,P03,Resource and environmental carrying-capacity pressure,O03,Transport and urban mobility systems,15.0,0.002704652001442481
+NSFC,Pressure → system,P03,Resource and environmental carrying-capacity pressure,O04,"Water supply, drainage and stormwater systems",102.0,0.01839163360980887
+NSFC,Pressure → system,P03,Resource and environmental carrying-capacity pressure,O05,Energy supply and power systems,28.0,0.005048683736025965
+NSFC,Pressure → system,P03,Resource and environmental carrying-capacity pressure,O06,Waste and resource-circulation systems,18.0,0.0032455824017309774
+NSFC,Pressure → system,P03,Resource and environmental carrying-capacity pressure,O07,"Information, communication and digital infrastructure",1.0,0.00018031013342949875
+NSFC,Pressure → system,P03,Resource and environmental carrying-capacity pressure,O08,Green-blue spaces and ecosystems,463.0,0.08348359177785791
+NSFC,Pressure → system,P03,Resource and environmental carrying-capacity pressure,O10,Food supply and urban-rural supply chains,87.0,0.01568698160836639
+NSFC,Pressure → system,P03,Resource and environmental carrying-capacity pressure,O11,Industrial production and employment systems,26.0,0.0046880634691669676
+NSFC,Pressure → system,P03,Resource and environmental carrying-capacity pressure,O12,"Planning, governance and public administration systems",40.0,0.00721240533717995
+NSFC,Pressure → system,P04,Population and spatial-development pressure,O01,Population and community systems,81.0,0.014605120807789397
+NSFC,Pressure → system,P04,Population and spatial-development pressure,O02,Housing and built-environment systems,412.0,0.07428777497295348
+NSFC,Pressure → system,P04,Population and spatial-development pressure,O03,Transport and urban mobility systems,100.0,0.018031013342949875
+NSFC,Pressure → system,P04,Population and spatial-development pressure,O04,"Water supply, drainage and stormwater systems",27.0,0.004868373602596466
+NSFC,Pressure → system,P04,Population and spatial-development pressure,O05,Energy supply and power systems,1.0,0.00018031013342949875
+NSFC,Pressure → system,P04,Population and spatial-development pressure,O06,Waste and resource-circulation systems,3.0,0.0005409304002884963
+NSFC,Pressure → system,P04,Population and spatial-development pressure,O07,"Information, communication and digital infrastructure",3.0,0.0005409304002884963
+NSFC,Pressure → system,P04,Population and spatial-development pressure,O08,Green-blue spaces and ecosystems,255.0,0.04597908402452218
+NSFC,Pressure → system,P04,Population and spatial-development pressure,O10,Food supply and urban-rural supply chains,17.0,0.0030652722683014787
+NSFC,Pressure → system,P04,Population and spatial-development pressure,O11,Industrial production and employment systems,12.0,0.002163721601153985
+NSFC,Pressure → system,P04,Population and spatial-development pressure,O12,"Planning, governance and public administration systems",94.0,0.01694915254237288
+NSFC,Pressure → system,P05,Infrastructure ageing and system-function failure,O02,Housing and built-environment systems,18.0,0.0032455824017309774
+NSFC,Pressure → system,P05,Infrastructure ageing and system-function failure,O03,Transport and urban mobility systems,184.0,0.03317706455102777
+NSFC,Pressure → system,P05,Infrastructure ageing and system-function failure,O04,"Water supply, drainage and stormwater systems",44.0,0.007933645870897944
+NSFC,Pressure → system,P05,Infrastructure ageing and system-function failure,O05,Energy supply and power systems,67.0,0.012080778939776415
+NSFC,Pressure → system,P05,Infrastructure ageing and system-function failure,O06,Waste and resource-circulation systems,3.0,0.0005409304002884963
+NSFC,Pressure → system,P05,Infrastructure ageing and system-function failure,O07,"Information, communication and digital infrastructure",8.0,0.00144248106743599
+NSFC,Pressure → system,P05,Infrastructure ageing and system-function failure,O08,Green-blue spaces and ecosystems,14.0,0.0025243418680129825
+NSFC,Pressure → system,P05,Infrastructure ageing and system-function failure,O10,Food supply and urban-rural supply chains,2.0,0.0003606202668589975
+NSFC,Pressure → system,P05,Infrastructure ageing and system-function failure,O11,Industrial production and employment systems,2.0,0.0003606202668589975
+NSFC,Pressure → system,P05,Infrastructure ageing and system-function failure,O12,"Planning, governance and public administration systems",3.0,0.0005409304002884963
+NSFC,Pressure → system,P06,Barriers to urban service access,O01,Population and community systems,8.0,0.00144248106743599
+NSFC,Pressure → system,P06,Barriers to urban service access,O02,Housing and built-environment systems,25.0,0.004507753335737469
+NSFC,Pressure → system,P06,Barriers to urban service access,O03,Transport and urban mobility systems,72.0,0.01298232960692391
+NSFC,Pressure → system,P06,Barriers to urban service access,O04,"Water supply, drainage and stormwater systems",3.0,0.0005409304002884963
+NSFC,Pressure → system,P06,Barriers to urban service access,O05,Energy supply and power systems,2.0,0.0003606202668589975
+NSFC,Pressure → system,P06,Barriers to urban service access,O07,"Information, communication and digital infrastructure",2.0,0.0003606202668589975
+NSFC,Pressure → system,P06,Barriers to urban service access,O08,Green-blue spaces and ecosystems,18.0,0.0032455824017309774
+NSFC,Pressure → system,P06,Barriers to urban service access,O09,Public health and healthcare service systems,2.0,0.0003606202668589975
+NSFC,Pressure → system,P06,Barriers to urban service access,O10,Food supply and urban-rural supply chains,2.0,0.0003606202668589975
+NSFC,Pressure → system,P06,Barriers to urban service access,O12,"Planning, governance and public administration systems",14.0,0.0025243418680129825
+NSFC,Pressure → system,P07,High-carbon technological and industrial path dependence,O01,Population and community systems,4.0,0.000721240533717995
+NSFC,Pressure → system,P07,High-carbon technological and industrial path dependence,O02,Housing and built-environment systems,46.0,0.008294266137756943
+NSFC,Pressure → system,P07,High-carbon technological and industrial path dependence,O03,Transport and urban mobility systems,29.0,0.005228993869455464
+NSFC,Pressure → system,P07,High-carbon technological and industrial path dependence,O04,"Water supply, drainage and stormwater systems",5.0,0.0009015506671474937
+NSFC,Pressure → system,P07,High-carbon technological and industrial path dependence,O05,Energy supply and power systems,59.0,0.010638297872340425
+NSFC,Pressure → system,P07,High-carbon technological and industrial path dependence,O06,Waste and resource-circulation systems,1.0,0.00018031013342949875
+NSFC,Pressure → system,P07,High-carbon technological and industrial path dependence,O08,Green-blue spaces and ecosystems,4.0,0.000721240533717995
+NSFC,Pressure → system,P07,High-carbon technological and industrial path dependence,O10,Food supply and urban-rural supply chains,7.0,0.0012621709340064912
+NSFC,Pressure → system,P07,High-carbon technological and industrial path dependence,O11,Industrial production and employment systems,73.0,0.013162639740353407
+NSFC,Pressure → system,P07,High-carbon technological and industrial path dependence,O12,"Planning, governance and public administration systems",9.0,0.0016227912008654887
+NSFC,Pressure → system,P08,Institutional coordination and policy implementation pressure,O01,Population and community systems,36.0,0.006491164803461955
+NSFC,Pressure → system,P08,Institutional coordination and policy implementation pressure,O02,Housing and built-environment systems,82.0,0.014785430941218897
+NSFC,Pressure → system,P08,Institutional coordination and policy implementation pressure,O03,Transport and urban mobility systems,56.0,0.01009736747205193
+NSFC,Pressure → system,P08,Institutional coordination and policy implementation pressure,O04,"Water supply, drainage and stormwater systems",5.0,0.0009015506671474937
+NSFC,Pressure → system,P08,Institutional coordination and policy implementation pressure,O05,Energy supply and power systems,15.0,0.002704652001442481
+NSFC,Pressure → system,P08,Institutional coordination and policy implementation pressure,O06,Waste and resource-circulation systems,17.0,0.0030652722683014787
+NSFC,Pressure → system,P08,Institutional coordination and policy implementation pressure,O07,"Information, communication and digital infrastructure",3.0,0.0005409304002884963
+NSFC,Pressure → system,P08,Institutional coordination and policy implementation pressure,O08,Green-blue spaces and ecosystems,49.0,0.008835196538045438
+NSFC,Pressure → system,P08,Institutional coordination and policy implementation pressure,O09,Public health and healthcare service systems,2.0,0.0003606202668589975
+NSFC,Pressure → system,P08,Institutional coordination and policy implementation pressure,O10,Food supply and urban-rural supply chains,7.0,0.0012621709340064912
+NSFC,Pressure → system,P08,Institutional coordination and policy implementation pressure,O11,Industrial production and employment systems,21.0,0.0037865128020194735
+NSFC,Pressure → system,P08,Institutional coordination and policy implementation pressure,O12,"Planning, governance and public administration systems",181.0,0.03263613415073927
+NSFC,System → knowledge,O01,Population and community systems,K01,State measurement and problem diagnosis,37.0,0.0066714749368914535
+NSFC,System → knowledge,O01,Population and community systems,K02,Mechanism analysis and causal identification,154.0,0.027767760548142804
+NSFC,System → knowledge,O01,Population and community systems,K03,Scenario simulation and risk prediction,23.0,0.004147133068878471
+NSFC,System → knowledge,O01,Population and community systems,K04,Intervention design and performance optimization,1.0,0.00018031013342949875
+NSFC,System → knowledge,O01,Population and community systems,K05,Planning decision support and policy design,26.0,0.0046880634691669676
+NSFC,System → knowledge,O01,Population and community systems,K06,Implementation monitoring and impact evaluation,1.0,0.00018031013342949875
+NSFC,System → knowledge,O02,Housing and built-environment systems,K01,State measurement and problem diagnosis,149.0,0.026866209880995313
+NSFC,System → knowledge,O02,Housing and built-environment systems,K02,Mechanism analysis and causal identification,327.0,0.05896141363144609
+NSFC,System → knowledge,O02,Housing and built-environment systems,K03,Scenario simulation and risk prediction,84.0,0.015146051208077894
+NSFC,System → knowledge,O02,Housing and built-environment systems,K04,Intervention design and performance optimization,148.0,0.026685899747565814
+NSFC,System → knowledge,O02,Housing and built-environment systems,K05,Planning decision support and policy design,135.0,0.02434186801298233
+NSFC,System → knowledge,O02,Housing and built-environment systems,K06,Implementation monitoring and impact evaluation,1.0,0.00018031013342949875
+NSFC,System → knowledge,O03,Transport and urban mobility systems,K01,State measurement and problem diagnosis,91.0,0.016408222142084386
+NSFC,System → knowledge,O03,Transport and urban mobility systems,K02,Mechanism analysis and causal identification,127.0,0.02289938694554634
+NSFC,System → knowledge,O03,Transport and urban mobility systems,K03,Scenario simulation and risk prediction,89.0,0.016047601875225387
+NSFC,System → knowledge,O03,Transport and urban mobility systems,K04,Intervention design and performance optimization,230.0,0.04147133068878471
+NSFC,System → knowledge,O03,Transport and urban mobility systems,K05,Planning decision support and policy design,51.0,0.009195816804904436
+NSFC,System → knowledge,O03,Transport and urban mobility systems,K06,Implementation monitoring and impact evaluation,1.0,0.00018031013342949875
+NSFC,System → knowledge,O04,"Water supply, drainage and stormwater systems",K01,State measurement and problem diagnosis,64.0,0.01153984853948792
+NSFC,System → knowledge,O04,"Water supply, drainage and stormwater systems",K02,Mechanism analysis and causal identification,245.0,0.04417598269022719
+NSFC,System → knowledge,O04,"Water supply, drainage and stormwater systems",K03,Scenario simulation and risk prediction,116.0,0.020915975477821855
+NSFC,System → knowledge,O04,"Water supply, drainage and stormwater systems",K04,Intervention design and performance optimization,134.0,0.02416155787955283
+NSFC,System → knowledge,O04,"Water supply, drainage and stormwater systems",K05,Planning decision support and policy design,35.0,0.006310854670032456
+NSFC,System → knowledge,O04,"Water supply, drainage and stormwater systems",K06,Implementation monitoring and impact evaluation,1.0,0.00018031013342949875
+NSFC,System → knowledge,O05,Energy supply and power systems,K01,State measurement and problem diagnosis,22.0,0.003966822935448972
+NSFC,System → knowledge,O05,Energy supply and power systems,K02,Mechanism analysis and causal identification,24.0,0.00432744320230797
+NSFC,System → knowledge,O05,Energy supply and power systems,K03,Scenario simulation and risk prediction,28.0,0.005048683736025965
+NSFC,System → knowledge,O05,Energy supply and power systems,K04,Intervention design and performance optimization,110.0,0.01983411467724486
+NSFC,System → knowledge,O05,Energy supply and power systems,K05,Planning decision support and policy design,35.0,0.006310854670032456
+NSFC,System → knowledge,O06,Waste and resource-circulation systems,K01,State measurement and problem diagnosis,10.0,0.0018031013342949874
+NSFC,System → knowledge,O06,Waste and resource-circulation systems,K02,Mechanism analysis and causal identification,62.0,0.011179228272628922
+NSFC,System → knowledge,O06,Waste and resource-circulation systems,K03,Scenario simulation and risk prediction,9.0,0.0016227912008654887
+NSFC,System → knowledge,O06,Waste and resource-circulation systems,K04,Intervention design and performance optimization,22.0,0.003966822935448972
+NSFC,System → knowledge,O06,Waste and resource-circulation systems,K05,Planning decision support and policy design,17.0,0.0030652722683014787
+NSFC,System → knowledge,O06,Waste and resource-circulation systems,K06,Implementation monitoring and impact evaluation,2.0,0.0003606202668589975
+NSFC,System → knowledge,O07,"Information, communication and digital infrastructure",K01,State measurement and problem diagnosis,20.0,0.003606202668589975
+NSFC,System → knowledge,O07,"Information, communication and digital infrastructure",K02,Mechanism analysis and causal identification,1.0,0.00018031013342949875
+NSFC,System → knowledge,O07,"Information, communication and digital infrastructure",K03,Scenario simulation and risk prediction,2.0,0.0003606202668589975
+NSFC,System → knowledge,O07,"Information, communication and digital infrastructure",K04,Intervention design and performance optimization,17.0,0.0030652722683014787
+NSFC,System → knowledge,O07,"Information, communication and digital infrastructure",K05,Planning decision support and policy design,3.0,0.0005409304002884963
+NSFC,System → knowledge,O08,Green-blue spaces and ecosystems,K01,State measurement and problem diagnosis,469.0,0.08456545257843491
+NSFC,System → knowledge,O08,Green-blue spaces and ecosystems,K02,Mechanism analysis and causal identification,1053.0,0.18986657050126218
+NSFC,System → knowledge,O08,Green-blue spaces and ecosystems,K03,Scenario simulation and risk prediction,173.0,0.031193653083303283
+NSFC,System → knowledge,O08,Green-blue spaces and ecosystems,K04,Intervention design and performance optimization,82.0,0.014785430941218897
+NSFC,System → knowledge,O08,Green-blue spaces and ecosystems,K05,Planning decision support and policy design,91.0,0.016408222142084386
+NSFC,System → knowledge,O08,Green-blue spaces and ecosystems,K06,Implementation monitoring and impact evaluation,4.0,0.000721240533717995
+NSFC,System → knowledge,O09,Public health and healthcare service systems,K01,State measurement and problem diagnosis,23.0,0.004147133068878471
+NSFC,System → knowledge,O09,Public health and healthcare service systems,K02,Mechanism analysis and causal identification,16.0,0.00288496213487198
+NSFC,System → knowledge,O09,Public health and healthcare service systems,K03,Scenario simulation and risk prediction,6.0,0.0010818608005769925
+NSFC,System → knowledge,O09,Public health and healthcare service systems,K04,Intervention design and performance optimization,2.0,0.0003606202668589975
+NSFC,System → knowledge,O09,Public health and healthcare service systems,K05,Planning decision support and policy design,1.0,0.00018031013342949875
+NSFC,System → knowledge,O10,Food supply and urban-rural supply chains,K01,State measurement and problem diagnosis,77.0,0.013883880274071402
+NSFC,System → knowledge,O10,Food supply and urban-rural supply chains,K02,Mechanism analysis and causal identification,108.0,0.019473494410385865
+NSFC,System → knowledge,O10,Food supply and urban-rural supply chains,K03,Scenario simulation and risk prediction,58.0,0.010457987738910927
+NSFC,System → knowledge,O10,Food supply and urban-rural supply chains,K04,Intervention design and performance optimization,35.0,0.006310854670032456
+NSFC,System → knowledge,O10,Food supply and urban-rural supply chains,K05,Planning decision support and policy design,12.0,0.002163721601153985
+NSFC,System → knowledge,O10,Food supply and urban-rural supply chains,K06,Implementation monitoring and impact evaluation,1.0,0.00018031013342949875
+NSFC,System → knowledge,O11,Industrial production and employment systems,K01,State measurement and problem diagnosis,21.0,0.0037865128020194735
+NSFC,System → knowledge,O11,Industrial production and employment systems,K02,Mechanism analysis and causal identification,82.0,0.014785430941218897
+NSFC,System → knowledge,O11,Industrial production and employment systems,K03,Scenario simulation and risk prediction,21.0,0.0037865128020194735
+NSFC,System → knowledge,O11,Industrial production and employment systems,K04,Intervention design and performance optimization,43.0,0.007753335737468446
+NSFC,System → knowledge,O11,Industrial production and employment systems,K05,Planning decision support and policy design,32.0,0.00576992426974396
+NSFC,System → knowledge,O11,Industrial production and employment systems,K06,Implementation monitoring and impact evaluation,3.0,0.0005409304002884963
+NSFC,System → knowledge,O12,"Planning, governance and public administration systems",K01,State measurement and problem diagnosis,82.0,0.014785430941218897
+NSFC,System → knowledge,O12,"Planning, governance and public administration systems",K02,Mechanism analysis and causal identification,156.0,0.028128380815001804
+NSFC,System → knowledge,O12,"Planning, governance and public administration systems",K03,Scenario simulation and risk prediction,50.0,0.009015506671474938
+NSFC,System → knowledge,O12,"Planning, governance and public administration systems",K04,Intervention design and performance optimization,36.0,0.006491164803461955
+NSFC,System → knowledge,O12,"Planning, governance and public administration systems",K05,Planning decision support and policy design,149.0,0.026866209880995313
+NSFC,System → knowledge,O12,"Planning, governance and public administration systems",K06,Implementation monitoring and impact evaluation,6.0,0.0010818608005769925

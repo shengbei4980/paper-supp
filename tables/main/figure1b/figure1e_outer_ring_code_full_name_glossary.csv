@@ -1,0 +1,35 @@
+﻿level,code,full_name,parent_domain
+SDG,S15,SDG 15  Life on land,
+SDG,S07,SDG 7  Clean energy,
+SDG,S11,SDG 11  Sustainable cities,
+SDG,S13,SDG 13  Climate action,
+SDG,S17,SDG 17  Partnerships,
+Target,11.3,"11.3  By 2030, enhance inclusive and sustainable urbanization and capacity for participatory, integrated and sustainable human settlement planning and management in all countries",
+Target,13.1,13.1  Strengthen resilience and adaptive capacity to climate-related hazards and natural disasters in all countries,
+Target,7.2,"7.2  By 2030, increase substantially the share of renewable energy in the global energy mix",
+Target,15.3,"15.3  By 2030, combat desertification, restore degraded land and soil, including land affected by desertification, drought and floods, and strive to achieve a land degradation-neutral world",
+Target,15.1,"15.1  By 2020, ensure the conservation, restoration and sustainable use of terrestrial and inland freshwater ecosystems and their services, in particular forests, wetlands, mountains and drylands, in line with obligations under international agreements",
+Urban-need domain,D01,D01  Urban safety and resilience,
+Urban-need domain,D06,D06  Governance capacity and regional coordination,
+Urban-need domain,D02,D02  Environmental quality and ecological protection,
+Urban-need domain,D04,D04  Low-carbon transition and resource circularity,
+Urban-need domain,D03,D03  Basic services and spatial development,
+Urban-need topic,N01,Climate adaptation and extreme-risk reduction,D01
+Urban-need topic,N02,"Disaster prevention, emergency response and recovery",D01
+Urban-need topic,N03,Critical infrastructure resilience,D01
+Urban-need topic,N04,Air quality improvement,D02
+Urban-need topic,N05,Water environmental quality and water security,D02
+Urban-need topic,N06,Ecological integrity and biodiversity protection,D02
+Urban-need topic,N07,Housing security and community renewal,D03
+Urban-need topic,N08,Transport accessibility and travel safety,D03
+Urban-need topic,N09,Accessibility of urban services,D03
+Urban-need topic,N10,Urban food access and supply security,D03
+Urban-need topic,N11,Clean-energy access and energy security,D04
+Urban-need topic,N12,"Decarbonization of buildings, transport and industry",D04
+Urban-need topic,N13,Waste reduction and resource circularity,D04
+Urban-need topic,N14,Reduction of environmental exposure and health risks,D05
+Urban-need topic,N15,Public health and physical and mental well-being,D05
+Urban-need topic,N16,Social inclusion and distributive equity,D05
+Urban-need topic,N17,Planning and policy implementation capacity,D06
+Urban-need topic,N18,Public participation and multi-actor coordination,D06
+Urban-need topic,N19,Urban-rural linkages and cross-regional coordination,D06

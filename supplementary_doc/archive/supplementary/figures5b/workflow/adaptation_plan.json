@@ -1,0 +1,81 @@
+{
+  "template_id": "dis_radial_bar_error_significance",
+  "template_name": "带显著性标记与误差棒的环形柱状图",
+  "plot_goal": "Compare all 36 signed NSF−NSFC conditional task-share differences and their original 95% bootstrap intervals.",
+  "selected_columns": [
+    "left_code",
+    "right_code",
+    "domain_label",
+    "knowledge_label",
+    "delta_pp",
+    "ci_low_pp",
+    "ci_high_pp"
+  ],
+  "column_mappings": [
+    {
+      "data_column": "left_code",
+      "template_role": "facet group",
+      "reason": ""
+    },
+    {
+      "data_column": "right_code",
+      "template_role": "task row",
+      "reason": ""
+    },
+    {
+      "data_column": "delta_pp",
+      "template_role": "point estimate",
+      "reason": ""
+    },
+    {
+      "data_column": "ci_low_pp",
+      "template_role": "lower interval endpoint",
+      "reason": ""
+    },
+    {
+      "data_column": "ci_high_pp",
+      "template_role": "upper interval endpoint",
+      "reason": ""
+    }
+  ],
+  "required_preprocessing": [
+    "Verify the complete 6×6 domain-task grid and original probability arithmetic.",
+    "Independently recount qualifying paths from the corrected path-task source."
+  ],
+  "required_dependencies": [
+    "numpy",
+    "pandas",
+    "matplotlib",
+    "Pillow"
+  ],
+  "layout_elements_to_preserve": [
+    "Grouped domain sections",
+    "Point and interval endpoints",
+    "Visible shared zero reference"
+  ],
+  "style_elements_to_preserve": [
+    "Clean vector marks",
+    "Thin interval end caps",
+    "Legible domain and task labels"
+  ],
+  "elements_allowed_to_change": [
+    "Polar coordinate layout to common-scale Cartesian facets",
+    "Inapplicable significance letters and radial bars"
+  ],
+  "title_plan": "English Fig. S6 title and six domain headings with descriptive path counts.",
+  "axis_plan": "All facets use the same −22 to +27 percentage-point horizontal scale with zero marked.",
+  "legend_plan": "Use Figure 1a deep blue/red for estimates and mid blue/red for intervals; hollow points show intervals spanning zero.",
+  "annotation_plan": "Label four values called out in the original figure; include all 36 points and intervals.",
+  "output_formats": [
+    "png",
+    "svg",
+    "pdf",
+    "tiff"
+  ],
+  "warnings": [
+    "The original bootstrap replicates are unavailable; reuse the archived percentile bounds without re-estimation.",
+    "Path-qualified counts are not domain-level significance results."
+  ],
+  "can_proceed": true,
+  "clarification_question": ""
+}

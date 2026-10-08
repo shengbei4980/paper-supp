@@ -1,0 +1,13 @@
+{
+  "cells": 36,
+  "unique_pairs": 36,
+  "point_min_pp": -14.075448166468698,
+  "point_max_pp": 20.40887479743408,
+  "interval_min_pp": -17.69981391789454,
+  "interval_max_pp": 24.91515942112815,
+  "intervals_excluding_zero": 19,
+  "intervals_crossing_zero": 17,
+  "path_counts_match_source": true,
+  "value_definition": "100 × (NSF conditional task share − NSFC conditional task share)",
+  "interval_source": "Existing bootstrap 95% percentile bounds; replicates not archived here"
+}

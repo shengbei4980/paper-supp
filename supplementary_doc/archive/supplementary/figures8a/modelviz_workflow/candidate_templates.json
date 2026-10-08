@@ -1,0 +1,202 @@
+{
+  "original_request": "使用 modelviz 全流程重构 figure5b（对应补充材料图 S11a 的 a 图），保留现有 Figure5b 的 b 面板标识、标题和稳定性门表述。用户指定采用多个关系和弦图：分别展示 NSF/NSFC 在三类相对位置下的SDG—正式 Target、Target—知识任务、知识任务—行动阶段邻层加权连接，并保留底部行动阶段分组占比。完整四层路径在数据表中保留；每步询问后推进。",
+  "candidate_count": 10,
+  "total_templates": 89,
+  "candidates": [
+    {
+      "template_id": "net_chord_relationship",
+      "template_name": "关系和弦图",
+      "category": "network_flow",
+      "score": 0.605,
+      "matched_keywords": [
+        "和弦图",
+        "连接强度",
+        "流向关系"
+      ],
+      "matched_synonyms": [
+        "弦图"
+      ],
+      "matched_chart_types": [
+        "chord_diagram"
+      ],
+      "matched_use_cases": [],
+      "matched_styles": [],
+      "penalties": [],
+      "candidate_reason": "图表类型匹配：chord_diagram；功能关键词匹配：和弦图, 连接强度, 流向关系；原始表达匹配：弦图",
+      "preview": "templates/06_NET_network_flow/06_NET_001/assets/preview.png",
+      "code_path": "templates/06_NET_network_flow/06_NET_001/关系和弦图.py",
+      "catalog_order": 32
+    },
+    {
+      "template_id": "cmp_nightingale_rose_grid",
+      "template_name": "自由组合南丁格尔玫瑰图",
+      "category": "comparison_ranking",
+      "score": 0.105,
+      "matched_keywords": [
+        "多组比较"
+      ],
+      "matched_synonyms": [],
+      "matched_chart_types": [],
+      "matched_use_cases": [],
+      "matched_styles": [],
+      "penalties": [],
+      "candidate_reason": "功能关键词匹配：多组比较",
+      "preview": "templates/02_CMP_comparison_ranking/02_CMP_009/assets/preview.png",
+      "code_path": "templates/02_CMP_comparison_ranking/02_CMP_009/自由组合南丁格尔玫瑰图.py",
+      "catalog_order": 12
+    },
+    {
+      "template_id": "cmp_3d_waterfall_distribution",
+      "template_name": "三维瀑布图",
+      "category": "comparison_ranking",
+      "score": 0.105,
+      "matched_keywords": [
+        "多组比较"
+      ],
+      "matched_synonyms": [],
+      "matched_chart_types": [],
+      "matched_use_cases": [],
+      "matched_styles": [],
+      "penalties": [],
+      "candidate_reason": "功能关键词匹配：多组比较",
+      "preview": "templates/02_CMP_comparison_ranking/02_CMP_014/assets/preview.png",
+      "code_path": "templates/02_CMP_comparison_ranking/02_CMP_014/三维瀑布图.py",
+      "catalog_order": 17
+    },
+    {
+      "template_id": "dis_radial_bar_error_significance",
+      "template_name": "带显著性标记与误差棒的环形柱状图",
+      "category": "distribution_uncertainty",
+      "score": 0.105,
+      "matched_keywords": [
+        "多组比较"
+      ],
+      "matched_synonyms": [],
+      "matched_chart_types": [],
+      "matched_use_cases": [],
+      "matched_styles": [],
+      "penalties": [],
+      "candidate_reason": "功能关键词匹配：多组比较",
+      "preview": "templates/04_DIS_distribution_uncertainty/04_DIS_005/assets/preview.png",
+      "code_path": "templates/04_DIS_distribution_uncertainty/04_DIS_005/带显著性标记与误差棒的环形柱状图.py",
+      "catalog_order": 26
+    },
+    {
+      "template_id": "net_multi_set_venn",
+      "template_name": "多组韦恩图",
+      "category": "network_flow",
+      "score": 0.105,
+      "matched_keywords": [
+        "多组比较"
+      ],
+      "matched_synonyms": [],
+      "matched_chart_types": [],
+      "matched_use_cases": [],
+      "matched_styles": [],
+      "penalties": [],
+      "candidate_reason": "功能关键词匹配：多组比较",
+      "preview": "templates/06_NET_network_flow/06_NET_002/assets/preview.png",
+      "code_path": "templates/06_NET_network_flow/06_NET_002/多组韦恩图.py",
+      "catalog_order": 33
+    },
+    {
+      "template_id": "sen_shap_interaction_network",
+      "template_name": "SHAP交互特征网络图",
+      "category": "sensitivity_robustness",
+      "score": 0.105,
+      "matched_keywords": [
+        "连接强度"
+      ],
+      "matched_synonyms": [],
+      "matched_chart_types": [],
+      "matched_use_cases": [],
+      "matched_styles": [],
+      "penalties": [],
+      "candidate_reason": "功能关键词匹配：连接强度",
+      "preview": "templates/10_SEN_sensitivity_robustness/10_SEN_011/assets/preview.png",
+      "code_path": "templates/10_SEN_sensitivity_robustness/10_SEN_011/SHAP交互特征网络图.py",
+      "catalog_order": 76
+    },
+    {
+      "template_id": "clu_rda_biplot",
+      "template_name": "RDA冗余分析",
+      "category": "clustering_reduction",
+      "score": 0.03,
+      "matched_keywords": [],
+      "matched_synonyms": [],
+      "matched_chart_types": [],
+      "matched_use_cases": [],
+      "matched_styles": [
+        "科研风",
+        "简洁",
+        "Figure1a蓝红配色"
+      ],
+      "penalties": [],
+      "candidate_reason": "风格弱匹配：科研风, 简洁, Figure1a蓝红配色",
+      "preview": "templates/01_CLU_clustering_reduction/01_CLU_004/assets/preview.png",
+      "code_path": "templates/01_CLU_clustering_reduction/01_CLU_004/RDA冗余分析.py",
+      "catalog_order": 3
+    },
+    {
+      "template_id": "cmp_gradient_single_factor_bar",
+      "template_name": "渐变单因子条形图",
+      "category": "comparison_ranking",
+      "score": 0.03,
+      "matched_keywords": [],
+      "matched_synonyms": [],
+      "matched_chart_types": [],
+      "matched_use_cases": [],
+      "matched_styles": [
+        "科研风",
+        "简洁",
+        "Figure1a蓝红配色"
+      ],
+      "penalties": [],
+      "candidate_reason": "风格弱匹配：科研风, 简洁, Figure1a蓝红配色",
+      "preview": "templates/02_CMP_comparison_ranking/02_CMP_005/assets/preview.png",
+      "code_path": "templates/02_CMP_comparison_ranking/02_CMP_005/渐变单因子条形图.py",
+      "catalog_order": 8
+    },
+    {
+      "template_id": "cmp_stack_pie_box_report",
+      "template_name": "百分比堆叠、内嵌饼图与箱线图报告",
+      "category": "comparison_ranking",
+      "score": 0.03,
+      "matched_keywords": [],
+      "matched_synonyms": [],
+      "matched_chart_types": [],
+      "matched_use_cases": [],
+      "matched_styles": [
+        "科研风",
+        "简洁",
+        "Figure1a蓝红配色"
+      ],
+      "penalties": [],
+      "candidate_reason": "风格弱匹配：科研风, 简洁, Figure1a蓝红配色",
+      "preview": "templates/02_CMP_comparison_ranking/02_CMP_010/assets/preview.png",
+      "code_path": "templates/02_CMP_comparison_ranking/02_CMP_010/百分比堆叠、内嵌饼图与箱线图报告.py",
+      "catalog_order": 13
+    },
+    {
+      "template_id": "mpn_rf_importance_correlation",
+      "template_name": "RF变量重要性与相关性分析组合图",
+      "category": "multi_panel_report",
+      "score": 0.03,
+      "matched_keywords": [],
+      "matched_synonyms": [],
+      "matched_chart_types": [],
+      "matched_use_cases": [],
+      "matched_styles": [
+        "科研风",
+        "简洁",
+        "Figure1a蓝红配色"
+      ],
+      "penalties": [],
+      "candidate_reason": "风格弱匹配：科研风, 简洁, Figure1a蓝红配色",
+      "preview": "templates/05_MPN_multi_panel_report/05_MPN_001/assets/preview.png",
+      "code_path": "templates/05_MPN_multi_panel_report/05_MPN_001/RF变量重要性与相关性分析组合图.py",
+      "catalog_order": 28
+    }
+  ],
+  "warnings": []
+}

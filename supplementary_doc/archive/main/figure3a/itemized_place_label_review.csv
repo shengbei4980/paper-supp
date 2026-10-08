@@ -1,0 +1,21 @@
+﻿agency,rank,unit_id,map_name,bar_full_name,source_name,source_full_name,view,name_match,point_in_unit
+NSF,1,06037,Los Angeles County,"Los Angeles County, California",Los Angeles County,"Los Angeles County, California",main,True,True
+NSF,2,36061,New York County,"New York County, New York",New York County,"New York County, New York",Northeast inset,True,True
+NSF,3,25017,Middlesex County,"Middlesex County, Massachusetts",Middlesex County,"Middlesex County, Massachusetts",Northeast inset,True,True
+NSF,4,08013,Boulder County,"Boulder County, Colorado",Boulder County,"Boulder County, Colorado",main,True,True
+NSF,5,53033,King County,"King County, Washington",King County,"King County, Washington",main,True,True
+NSF,6,26161,Washtenaw County,"Washtenaw County, Michigan",Washtenaw County,"Washtenaw County, Michigan",main,True,True
+NSF,7,04013,Maricopa County,"Maricopa County, Arizona",Maricopa County,"Maricopa County, Arizona",main,True,True
+NSF,8,48041,Brazos County,"Brazos County, Texas",Brazos County,"Brazos County, Texas",main,True,True
+NSF,9,06073,San Diego County,"San Diego County, California",San Diego County,"San Diego County, California",main,True,True
+NSF,10,25001,Barnstable County,"Barnstable County, Massachusetts",Barnstable County,"Barnstable County, Massachusetts",Northeast inset,True,True
+NSFC,1,110000,Beijing,Beijing,Beijing,Beijing,main,True,True
+NSFC,2,320100,Nanjing,Nanjing,Nanjing,Nanjing,Yangtze inset,True,True
+NSFC,3,420100,Wuhan,Wuhan,Wuhan,Wuhan,main,True,True
+NSFC,4,310000,Shanghai,Shanghai,Shanghai,Shanghai,Yangtze inset,True,True
+NSFC,5,440100,Guangzhou,Guangzhou,Guangzhou,Guangzhou,main,True,True
+NSFC,6,610100,Xi'an,Xi'an,Xi'an,Xi'an,main,True,True
+NSFC,7,620100,Lanzhou,Lanzhou,Lanzhou,Lanzhou,main,True,True
+NSFC,8,330100,Hangzhou,Hangzhou,Hangzhou,Hangzhou,Yangtze inset,True,True
+NSFC,9,510100,Chengdu,Chengdu,Chengdu,Chengdu,main,True,True
+NSFC,10,120000,Tianjin,Tianjin,Tianjin,Tianjin,main,True,True

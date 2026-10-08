@@ -1,0 +1,71 @@
+{
+  "canvas_mm": [
+    183,
+    110
+  ],
+  "targets": 85,
+  "left_targets": 40,
+  "right_targets": 45,
+  "country_metric_slots": 1190,
+  "missing_slots": 154,
+  "source_sha256": "19b8bf7aa02bfa8dd6f7befe5943511a3366d4c281c220b2975f90116add8731",
+  "palette": {
+    "nsf": "#3775BA",
+    "nsfc": "#B64342"
+  },
+  "row_height_mm": {
+    "left": 2.15,
+    "right": 1.9111111111111112
+  },
+  "cell_width_mm": 9.85,
+  "metric_column_gap_mm": 0,
+  "target_font_pt": 5.5,
+  "target_labels_overlap": false,
+  "outer_frames": 1,
+  "target_labels_inside_frame": true,
+  "dagger_marks_removed": true,
+  "legend_arrangement": "left NSF / right NSFC",
+  "encoding": "equal-area upper-left NSF / lower-right NSFC triangles; linear 0-100% shade",
+  "stats_recomputed": false,
+  "all_values_from_validated_source": true,
+  "original_cell_paths_and_colors_unchanged": true,
+  "dagger_free_svg": true,
+  "exports": [
+    {
+      "format": "png",
+      "bytes": 841506,
+      "pixels": [
+        4322,
+        2598
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ]
+    },
+    {
+      "format": "pdf",
+      "bytes": 85158
+    },
+    {
+      "format": "svg",
+      "bytes": 302228
+    },
+    {
+      "format": "tiff",
+      "bytes": 3497974,
+      "pixels": [
+        4322,
+        2598
+      ],
+      "dpi": [
+        600.0,
+        600.0
+      ]
+    }
+  ],
+  "visual_review": {
+    "passed": true,
+    "method": "Codex实际查看最终预览；两色带左右排列，标签无重叠。"
+  }
+}

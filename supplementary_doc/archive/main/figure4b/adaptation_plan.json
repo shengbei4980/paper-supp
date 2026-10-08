@@ -1,0 +1,102 @@
+{
+  "template_id": "rel_diagonal_split_triangular_heatmap",
+  "template_name": "图双变量对角线分割组合三角热图",
+  "plot_goal": "85 Target全量，183×110 mm同格双国矩阵",
+  "selected_columns": [
+    "sdg",
+    "target",
+    "metric",
+    "value_nsf",
+    "low_support_nsf",
+    "observed_nsf",
+    "value_nsfc",
+    "low_support_nsfc",
+    "observed_nsfc"
+  ],
+  "column_mappings": [
+    {
+      "data_column": "sdg",
+      "template_role": "group",
+      "reason": ""
+    },
+    {
+      "data_column": "target",
+      "template_role": "column category",
+      "reason": ""
+    },
+    {
+      "data_column": "metric",
+      "template_role": "metric row",
+      "reason": ""
+    },
+    {
+      "data_column": "value_nsf",
+      "template_role": "value or evidence flag",
+      "reason": ""
+    },
+    {
+      "data_column": "low_support_nsf",
+      "template_role": "value or evidence flag",
+      "reason": ""
+    },
+    {
+      "data_column": "observed_nsf",
+      "template_role": "value or evidence flag",
+      "reason": ""
+    },
+    {
+      "data_column": "value_nsfc",
+      "template_role": "value or evidence flag",
+      "reason": ""
+    },
+    {
+      "data_column": "low_support_nsfc",
+      "template_role": "value or evidence flag",
+      "reason": ""
+    },
+    {
+      "data_column": "observed_nsfc",
+      "template_role": "value or evidence flag",
+      "reason": ""
+    }
+  ],
+  "required_preprocessing": [
+    "Retain string Target IDs",
+    "Split at SDG10: 40 and 45 columns",
+    "Keep missing distinct from zero"
+  ],
+  "required_dependencies": [
+    "numpy",
+    "pandas",
+    "matplotlib"
+  ],
+  "layout_elements_to_preserve": [
+    "Two triangles in each cell",
+    "Paired sequential color scales",
+    "Matrix alignment"
+  ],
+  "style_elements_to_preserve": [
+    "White background",
+    "Thin grid",
+    "Direct labels"
+  ],
+  "elements_allowed_to_change": [
+    "Rectangular rather than triangular matrix",
+    "Figure1a palette",
+    "Two horizontal bands",
+    "183×110 mm canvas"
+  ],
+  "title_plan": "Target carriers and knowledge-task profiles",
+  "axis_plan": "Targets in columns, Share and K01–K06 in rows",
+  "legend_plan": "Country triangle key and paired 0–100% shade legend",
+  "annotation_plan": "Low-support Target dagger; absent triangle dash",
+  "output_formats": [
+    "png",
+    "pdf",
+    "svg",
+    "tiff"
+  ],
+  "warnings": [],
+  "can_proceed": true,
+  "clarification_question": ""
+}

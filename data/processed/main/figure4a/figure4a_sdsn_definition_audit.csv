@@ -1,0 +1,3 @@
+﻿agency,country,analysis_window,source_version,source_workbook,source_workbook_sha256,score_source_sheet,lag_window,global_basket,challenge_definition,aggregation,n_study_sdgs
+NSF,United States,2015–2025,Sustainable Development Report 2026,database_2026.xlsx,44c30300f053d6d12f9cf9ab28a26d36e314f9b9c20ee272eb90b417e686b93e,Backdated SDG Index,t-3_to_t-1,yes,100 - national SDG Goal score,funding-year matched t-3 to t-1 mean; closed across 12 study SDGs,12
+NSFC,China,2015–2025,Sustainable Development Report 2026,database_2026.xlsx,44c30300f053d6d12f9cf9ab28a26d36e314f9b9c20ee272eb90b417e686b93e,Backdated SDG Index,t-3_to_t-1,yes,100 - national SDG Goal score,funding-year matched t-3 to t-1 mean; closed across 12 study SDGs,12

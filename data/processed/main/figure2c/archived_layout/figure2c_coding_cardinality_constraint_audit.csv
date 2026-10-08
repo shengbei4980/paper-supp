@@ -1,0 +1,9 @@
+﻿agency,field,project_rows,minimum_codes,maximum_codes,empty_rows,multi_code_rows,constraint,status
+NSF,need_codes,6207,1,5,0,1783,one or more,PASS
+NSF,pressure_codes,6207,1,1,0,0,exactly one,PASS
+NSF,system_codes,6207,1,1,0,0,exactly one,PASS
+NSF,primary_knowledge_codes,6207,1,1,0,0,exactly one,PASS
+NSFC,need_codes,5546,1,4,0,1189,one or more,PASS
+NSFC,pressure_codes,5546,1,1,0,0,exactly one,PASS
+NSFC,system_codes,5546,1,1,0,0,exactly one,PASS
+NSFC,primary_knowledge_codes,5546,1,1,0,0,exactly one,PASS

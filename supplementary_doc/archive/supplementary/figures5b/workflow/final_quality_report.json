@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "technical_report": "technical_quality_report.json",
+  "visual_report": "visual_quality_report.json",
+  "source_sha256": {
+    "六领域差异路径计数.csv": "f4e0d58298210b13013fecf2d860dd64bf48b188277e9c60f16838cbef28a20c",
+    "路径任务校正结果.csv": "eeac494294dc08db648a3452ba59da438f4ba8cef4baa0db568053ea915cd07d",
+    "领域任务原始结果.csv": "f44bce4b3db7a8e65816e7a8d9baf23bcd11083932c4a4053061153c999e85f0"
+  },
+  "output_sha256": {
+    "图S6_六类城市需求领域的知识任务差异_重构.pdf": "171a86a218b0bf7799a142f78594a107df8ea25eaa678f7964bbe657355ad8a7",
+    "图S6_六类城市需求领域的知识任务差异_重构.png": "2b83c20ff37f56181405592c5b3793ac4565381ffab6be4cfbf238de65b8ef25",
+    "图S6_六类城市需求领域的知识任务差异_重构.svg": "f0ef9b7eb5e7be8725dd83e8bad889b2aba998a26578ceb13e66baeaed6317b4",
+    "图S6_六类城市需求领域的知识任务差异_重构.tiff": "b8011f135c9a204b4cd98cbcdd0b1f629348fde8d2aff2862ea56d8bee57c6a0"
+  }
+}

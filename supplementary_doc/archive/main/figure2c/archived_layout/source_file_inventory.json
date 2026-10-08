@@ -1,0 +1,52 @@
+[
+  {
+    "source": "E:\\可持续发展目标基金\\定稿撰写\\成图\\成图精简休整版本\\figure2\\figure2c\\全量路径任务配对圆环图\\数据\\Figure2c_编码基数约束审计.csv",
+    "local": "数据/Figure2c_编码基数约束审计.csv",
+    "sha256": "217e5085d3b2f1c172b045dfa89b322d00227d773e2aa93469830a5f9f9d1a6c"
+  },
+  {
+    "source": "E:\\可持续发展目标基金\\定稿撰写\\成图\\成图精简休整版本\\figure2\\figure2c\\全量路径任务配对圆环图\\数据\\Figure2c_旧新点估计对比.csv",
+    "local": "数据/Figure2c_旧新点估计对比.csv",
+    "sha256": "b84ea9dbf1d436bdeaed00bb787b34106238a6e076fc8fbeead18bac8fa17c01"
+  },
+  {
+    "source": "E:\\可持续发展目标基金\\定稿撰写\\成图\\成图精简休整版本\\figure2\\figure2c\\全量路径任务配对圆环图\\数据\\Figure2c_领域汇聚摘要.csv",
+    "local": "数据/Figure2c_领域汇聚摘要.csv",
+    "sha256": "d12279f3fc2fcf1c03977f80076b3de0b4d1c3ce8bee8597064d889e6dce2c2d"
+  },
+  {
+    "source": "E:\\可持续发展目标基金\\定稿撰写\\成图\\成图精简休整版本\\figure2\\figure2c\\全量路径任务配对圆环图\\数据\\Figure2c_路径权重守恒审计.csv",
+    "local": "数据/Figure2c_路径权重守恒审计.csv",
+    "sha256": "a36f076e228d2dafe266a8c15e7703448b3909747e636c7c7e67990d9a1081d3"
+  },
+  {
+    "source": "E:\\可持续发展目标基金\\定稿撰写\\成图\\成图精简休整版本\\figure2\\figure2c\\全量路径任务配对圆环图\\数据\\Figure2c_路径事件追溯.csv",
+    "local": "数据/Figure2c_路径事件追溯.csv",
+    "sha256": "c1d3f2229175a3cf526e4794f9ed6a83e9bfbfafd43cd7c30de80c95376b3cb9"
+  },
+  {
+    "source": "E:\\可持续发展目标基金\\定稿撰写\\成图\\成图精简休整版本\\figure2\\figure2c\\全量路径任务配对圆环图\\数据\\Figure2c_路径支持度.csv",
+    "local": "数据/Figure2c_路径支持度.csv",
+    "sha256": "457fae2117021b913321b2c4a8fd235373dd4bdfae515fd125d3abb3f51d2b2b"
+  },
+  {
+    "source": "E:\\可持续发展目标基金\\定稿撰写\\成图\\成图精简休整版本\\figure2\\figure2c\\全量路径任务配对圆环图\\数据\\Figure2c_全量热图单元.csv",
+    "local": "数据/Figure2c_全量热图单元.csv",
+    "sha256": "eeac494294dc08db648a3452ba59da438f4ba8cef4baa0db568053ea915cd07d"
+  },
+  {
+    "source": "E:\\可持续发展目标基金\\定稿撰写\\成图\\成图精简休整版本\\figure2\\figure2c\\全量路径任务配对圆环图\\数据\\Figure2c_条件路径差异全量_校正.csv",
+    "local": "数据/Figure2c_条件路径差异全量_校正.csv",
+    "sha256": "6960a1468893b93ca82666e10e3657dcd13e5bea3e438204e15eaa6e8bf0d7c5"
+  },
+  {
+    "source": "E:\\可持续发展目标基金\\定稿撰写\\成图\\成图精简休整版本\\figure2\\figure2c\\全量路径任务配对圆环图\\数据\\Figure2c_字段与指标说明.csv",
+    "local": "数据/Figure2c_字段与指标说明.csv",
+    "sha256": "8fe1ab709499be7fdbb4032d24241f6d0149ea69e2584cbbb6707a4eb41295e3"
+  },
+  {
+    "source": "E:\\可持续发展目标基金\\定稿撰写\\成图\\成图精简休整版本\\figure2\\figure2c\\全量路径任务配对圆环图\\数据\\Figure2c_Bootstrap完整分布_校正.csv",
+    "local": "数据/Figure2c_Bootstrap完整分布_校正.csv",
+    "sha256": "2c9681d6211a3dda929aebc1939842a42d3e9b88eb5dc97d32bac53e56dc3598"
+  }
+]

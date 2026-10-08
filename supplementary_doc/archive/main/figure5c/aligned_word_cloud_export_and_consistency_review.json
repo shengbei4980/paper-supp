@@ -1,0 +1,45 @@
+{
+  "pdf_size_mm": [
+    182.9999999999947,
+    154.53000000000333
+  ],
+  "embedded_fonts": [
+    "/CFEKEO+ArialMT",
+    "/CFEKEO+Arial-BoldMT"
+  ],
+  "rasters": {
+    "png": {
+      "size": [
+        4322,
+        3650
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ]
+    },
+    "tiff": {
+      "size": [
+        4322,
+        3650
+      ],
+      "dpi": [
+        600.0,
+        600.0
+      ]
+    }
+  },
+  "all16_full_names_verified_in_pdf_and_svg": true,
+  "fonts_and_colors_identical_to_previous_version": true,
+  "both_columns_left_aligned": true,
+  "all_ranked_pairs_top_aligned": true,
+  "all108_original_scatter_shapes_sizes_and_relative_coordinates_retained": true,
+  "source_estimates_unchanged": true,
+  "no_overlap_or_clipping": true,
+  "nature_figure_static_counts": {
+    "PASS": 13,
+    "WARN": 1,
+    "FAIL": 0
+  },
+  "static_width_warning_resolved_by_measured_pdf_page": true
+}

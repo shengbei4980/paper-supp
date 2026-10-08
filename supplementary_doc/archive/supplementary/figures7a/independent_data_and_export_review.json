@@ -1,0 +1,43 @@
+{
+  "passed": true,
+  "project_records_reconstructed": 11753,
+  "locations_checked": 478,
+  "max_project_to_map_supply_error": 3.999502951046452e-10,
+  "independent_gini_and_curve_checks": [
+    {
+      "agency": "NSF",
+      "location_n": 352,
+      "pairwise_gini": 0.6826115782828287,
+      "vertices": 353
+    },
+    {
+      "agency": "NSFC",
+      "location_n": 126,
+      "pairwise_gini": 0.8103795671411972,
+      "vertices": 127
+    }
+  ],
+  "all_480_vertices_preserved_in_svg": true,
+  "exports": {
+    "png": {
+      "size": [
+        2102,
+        2078
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ]
+    },
+    "tiff": {
+      "size": [
+        2102,
+        2078
+      ],
+      "dpi": [
+        600.0,
+        600.0
+      ]
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "source": "E:\\可持续发展目标基金\\定稿撰写\\成图\\成图精简休整版本\\figure1\\figure1a\\代码\\figure1a_sdg_target_ring.py",
+  "source_sha256": "31402a5c3ac7128b445bf69af382e237ce95cc4d49ae86d909d8868b983aeebc",
+  "NSF": [
+    "#E4EDF5",
+    "#7F99B2",
+    "#003366"
+  ],
+  "NSFC": [
+    "#F6E4E4",
+    "#C57F7F",
+    "#8B0000"
+  ],
+  "zero_and_missing": "#ECEFF1",
+  "original_share_range": [
+    0,
+    70
+  ],
+  "current_difference_range": [
+    -90,
+    90
+  ],
+  "note": "Exact source palettes are applied to signed magnitude / 90; quantity is percentage-point difference, not the Figure1a within-SDG share."
+}

@@ -1,0 +1,33 @@
+{
+  "revision": "用户要求总体指标采用条形图",
+  "items": [
+    {
+      "attempt": 1,
+      "issue": "Overlap标题下移后与NSF数值标签相碰",
+      "fix": "标题与条形起点左对齐，保留与顶框间距；数据及条形尺度不变",
+      "execution_success": true
+    }
+  ],
+  "previous_revisions": [
+    {
+      "attempt": 1,
+      "issue": "内嵌白底右缘覆盖NSF SDG11柱左端；布局断言发现",
+      "fix": "仅缩小内嵌白底宽度0.501→0.493；保留数据和各标注位置",
+      "execution_success": true
+    },
+    {
+      "attempt": 2,
+      "revision": "用户确认总体指标改为共用国家位置的内嵌折线",
+      "issue": "Overlap数字标签与下方Aitchison上界刻度6.3相碰",
+      "fix": "将Aitchison折线整体下移0.032轴单位并扩大无边框白底；保持各数据值、区间、主柱大小不变",
+      "execution_success": true
+    },
+    {
+      "attempt": 3,
+      "revision": "用户要求总体折线改为贯穿整个图框",
+      "issue": "总体标题与Overlap标题相碰",
+      "fix": "去除重复的总体标题，保留两个完整指标标题；将国家标签移离顶框",
+      "execution_success": true
+    }
+  ]
+}

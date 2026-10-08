@@ -1,0 +1,57 @@
+{
+  "selected_layout": "I_taskTSNE80",
+  "size_mm": [
+    183,
+    210
+  ],
+  "points": 11753,
+  "group_palette": {
+    "K01": "#287D8E",
+    "K02": "#679D7A",
+    "K03": "#C3A253",
+    "K04": "#D38658",
+    "K05": "#AC627A",
+    "K06": "#8276A5"
+  },
+  "centre_label_count": 6,
+  "ring_cells": 144,
+  "angular_subdivisions_per_cell": 80,
+  "maximum_arc_chord_error": 2.287209694190606e-05,
+  "concentric_radii": {
+    "point_max": 9.050000000000002,
+    "K_band_inner": 9.35,
+    "K_band_outer": 9.61,
+    "heatmap_inner": 9.7,
+    "heatmap_outer": 13.5
+  },
+  "uniform_coordinate_transform": {
+    "translation": [
+      1.5980085773254016,
+      -4.711335209181357
+    ],
+    "scale": 0.0988300204770149
+  },
+  "text_outside_canvas": [],
+  "artificial_jitter": false,
+  "hand_packed_clusters": false,
+  "low_support_rendering": "sector dagger only; no hatch or extra strokes",
+  "hatch_overlay_count": 0,
+  "legend_full_names": {
+    "K01": "State measurement and problem diagnosis",
+    "L01": "Engineering and infrastructure intervention",
+    "K03": "Scenario simulation and risk prediction",
+    "L02": "Digital technology intervention",
+    "L04": "Spatial planning intervention",
+    "K06": "Implementation monitoring and impact evaluation",
+    "L03": "Ecological restoration intervention",
+    "K02": "Mechanism analysis and causal identification",
+    "L07": "Legal and institutional intervention",
+    "K04": "Intervention design and performance optimization",
+    "L05": "Public service and operational intervention",
+    "K05": "Planning decision support and policy design",
+    "L09": "Participation, collaboration and capacity-building intervention",
+    "L06": "Behavioural and demand-management intervention",
+    "L08": "Fiscal, financial and market intervention"
+  },
+  "palette_source": "Figure1a original two 3-stop maps"
+}

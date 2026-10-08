@@ -1,0 +1,42 @@
+{
+  "template_id": "net_chord_relationship",
+  "template_name": "关系和弦图",
+  "metadata": {
+    "id": "net_chord_relationship",
+    "name": "关系和弦图",
+    "category": "network_flow",
+    "description": "用和弦图展示实体、类别或物种之间的成对关系和连接强度。",
+    "keywords": [
+      "和弦图",
+      "关系网络",
+      "连接强度",
+      "流向关系"
+    ],
+    "synonyms": [
+      "弦图",
+      "circos关系图",
+      "环形网络图"
+    ],
+    "use_cases": [
+      "展示物种、类别或节点之间的相互连接",
+      "比较关系权重或共现强度",
+      "需要圆形关系网络布局"
+    ],
+    "negative_keywords": [
+      "时间趋势曲线",
+      "单变量箱线图",
+      "空间栅格"
+    ],
+    "chart_type": "chord_diagram",
+    "preview": "templates/06_NET_network_flow/06_NET_001/assets/preview.png",
+    "code_path": "templates/06_NET_network_flow/06_NET_001/关系和弦图.py",
+    "dependencies": [
+      "pillow",
+      "matplotlib",
+      "pandas",
+      "pyCirclize"
+    ]
+  },
+  "template_code_path": "templates\\06_NET_network_flow\\06_NET_001\\关系和弦图.py",
+  "preview": "templates/06_NET_network_flow/06_NET_001/assets/preview.png"
+}

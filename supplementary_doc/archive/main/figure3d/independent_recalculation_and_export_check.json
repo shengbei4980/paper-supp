@@ -1,0 +1,101 @@
+{
+  "status": "PASS",
+  "source_rows": 16716,
+  "locations": 478,
+  "task_cells": 2868,
+  "verified_family_conservation": 10546,
+  "zero_task_cells": 1425,
+  "max_independent_value_error": 6.750155989720952e-14,
+  "max_pairwise_gini_error": 6.661338147750939e-16,
+  "palette_matches_figure1a": true,
+  "background_profiles_grey": 462,
+  "exports": [
+    {
+      "stem": "Figure3d_全量地点任务贡献偏离谱",
+      "profiles": 478,
+      "task_points": 2868,
+      "editable_svg_texts": 132,
+      "pdf_truetype_embedded": true,
+      "raster": {
+        "png": {
+          "pixels": [
+            4322,
+            4370
+          ],
+          "dpi": [
+            599.9988,
+            599.9988
+          ]
+        },
+        "tiff": {
+          "pixels": [
+            4322,
+            4370
+          ],
+          "dpi": [
+            600.0,
+            600.0
+          ]
+        }
+      }
+    },
+    {
+      "stem": "Figure3d_全量地点任务贡献偏离谱_NSF",
+      "profiles": 352,
+      "task_points": 2112,
+      "editable_svg_texts": 70,
+      "pdf_truetype_embedded": true,
+      "raster": {
+        "png": {
+          "pixels": [
+            3779,
+            4251
+          ],
+          "dpi": [
+            599.9988,
+            599.9988
+          ]
+        },
+        "tiff": {
+          "pixels": [
+            3779,
+            4251
+          ],
+          "dpi": [
+            600.0,
+            600.0
+          ]
+        }
+      }
+    },
+    {
+      "stem": "Figure3d_全量地点任务贡献偏离谱_NSFC",
+      "profiles": 126,
+      "task_points": 756,
+      "editable_svg_texts": 65,
+      "pdf_truetype_embedded": true,
+      "raster": {
+        "png": {
+          "pixels": [
+            3779,
+            4251
+          ],
+          "dpi": [
+            599.9988,
+            599.9988
+          ]
+        },
+        "tiff": {
+          "pixels": [
+            3779,
+            4251
+          ],
+          "dpi": [
+            600.0,
+            600.0
+          ]
+        }
+      }
+    }
+  ]
+}

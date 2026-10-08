@@ -1,0 +1,76 @@
+{
+  "size_mm": [
+    183.0,
+    116.0
+  ],
+  "effect_cells": 342,
+  "ess_readouts": 0,
+  "stable_points": 0,
+  "source_stable_cells": 35,
+  "low_support_rows": 24,
+  "low_support_cells": 144,
+  "color_limits_pp": [
+    -90,
+    90
+  ],
+  "data_range_pp": [
+    -89.49122392778017,
+    86.09437633209622
+  ],
+  "palette": {
+    "nsf": "#3775BA",
+    "nsfc": "#B64342",
+    "zero": "#FFFFFF"
+  },
+  "zero_maps_to_exact_white": true,
+  "palette_reuse": "Reference country hues combined into a zero-centered difference scale",
+  "all_original_effect_estimates_retained_exactly": true,
+  "copied_source_sha256": {
+    "Figure5c_完整条件份额与差值.csv": "4b8ed8e1e9150589ea977d50b5fe8ba1551d80dff7c85de5d951428a8d9bcd64",
+    "Figure5c_类别需求支持度.csv": "331c56ee84006dd81536eaeef3b64b5912cf24fc57c5a052f4cedc59639edeca"
+  },
+  "all_text_within_canvas": true,
+  "no_text_overlap": true,
+  "labels_fit_rows": true,
+  "near_N12_K02_pp": -24.470386634487586,
+  "near_N12_K04_pp": 30.112879994752983,
+  "statistical_results_reused_without_recalculation": true,
+  "low_support_legend_removed": true,
+  "ess_columns_and_legend_removed": true,
+  "low_support_hatching_removed": true,
+  "displayed_low_support_hatch_rows": 0,
+  "need_labels": [
+    "N01",
+    "N02",
+    "N03",
+    "N04",
+    "N05",
+    "N06",
+    "N07",
+    "N08",
+    "N09",
+    "N10",
+    "N11",
+    "N12",
+    "N13",
+    "N14",
+    "N15",
+    "N16",
+    "N17",
+    "N18",
+    "N19"
+  ],
+  "frame_color": "black",
+  "numeric_labels": 59,
+  "hidden_numeric_labels": 283,
+  "hidden_zero_numeric_labels": 29,
+  "numeric_label_min_abs_pp": 20.0,
+  "numeric_label_rule": "Label unrounded differences ≤ −20 or ≥ +20 pp; retain all color cells",
+  "numeric_label_threshold_is_not_a_significance_criterion": true,
+  "number_precision_decimals": 1,
+  "all_numbers_fit_cells": true,
+  "stable_difference_legend_removed": true,
+  "all_stable_points_removed": true,
+  "minimum_number_contrast_ratio": 4.779498496957958,
+  "reuse_level": "Structural adaptation of an existing quantitative heatmap"
+}

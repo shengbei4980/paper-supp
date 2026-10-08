@@ -1,0 +1,53 @@
+﻿check,passed,details
+311 unique links,True,311
+stage counts,True,"{'Need → pressure': 150, 'Pressure → system': 90, 'System → knowledge': 71}"
+archived source copies,True,4
+observed individual JSD formula,True,8.673617379884035e-19
+observed Need → pressure contribution,True,0.0282985570590386
+observed Need → pressure nsf normalization,True,1.0
+observed Need → pressure nsfc normalization,True,1.0
+observed Pressure → system contribution,True,0.0289385177517519
+observed Pressure → system nsf normalization,True,1.0
+observed Pressure → system nsfc normalization,True,1.0
+observed System → knowledge contribution,True,0.0147612546593093
+observed System → knowledge nsf normalization,True,1.0
+observed System → knowledge nsfc normalization,True,1.0
+observed total JSD,True,0.07199832947009988
+balanced individual JSD formula,True,2.168404344971009e-19
+balanced Need → pressure contribution,True,0.0085080607191792
+balanced Need → pressure nsf normalization,True,1.0
+balanced Need → pressure nsfc normalization,True,1.0
+balanced Pressure → system contribution,True,0.0102344417317747
+balanced Pressure → system nsf normalization,True,0.9999999999999999
+balanced Pressure → system nsfc normalization,True,1.0000000000000002
+balanced System → knowledge contribution,True,0.008015679865993
+balanced System → knowledge nsf normalization,True,1.0000000000000002
+balanced System → knowledge nsfc normalization,True,1.0
+balanced total JSD,True,0.026758182316947054
+observed shares against original 2a flow table,True,2.7755575615628914e-17
+observed cumulative complete and monotone,True,"{0.5: 17, 0.8: 61, 0.9: 101}"
+observed thresholds,True,"{0.5: 17, 0.8: 61, 0.9: 101}"
+observed independently ranked diagnostic thresholds,True,"independent ranks saved for comparison only, not plotted"
+balanced cumulative complete and monotone,True,"{0.5: 55, 0.8: 139, 0.9: 193}"
+balanced thresholds,True,"{0.5: 55, 0.8: 139, 0.9: 193}"
+balanced independently ranked diagnostic thresholds,True,"independent ranks saved for comparison only, not plotted"
+shared ordered data retains every source field,True,311 complete rows in observed order
+contraction rounds to 62.8%,True,62.83499559797504
+Observed Total percentile CI,True,"[0.0708232244676033, 0.08091559545576783]"
+Observed Need → pressure percentile CI,True,"[0.027632461720754203, 0.03192515942485803]"
+Observed Pressure → system percentile CI,True,"[0.027946624186789053, 0.03262893402470245]"
+Observed System → knowledge percentile CI,True,"[0.01419105975406355, 0.017522119372569128]"
+Target–year balanced Total percentile CI,True,"[0.027697710828258414, 0.03331545316027796]"
+Target–year balanced Need → pressure percentile CI,True,"[0.008815715601481313, 0.011116722613508592]"
+Target–year balanced Pressure → system percentile CI,True,"[0.010045350697782484, 0.012999601539821794]"
+Target–year balanced System → knowledge percentile CI,True,"[0.00781271276812398, 0.010300789460828524]"
+SVG observed full point count,True,311
+SVG observed cumulative vertices,True,312
+SVG balanced full point count,True,311
+SVG balanced cumulative vertices,True,312
+SVG full paired segments,True,311
+PDF one page 180 by 110 mm,True,"[0.0, 0.0, 510.2362060546875, 311.81103515625]"
+PDF live text,True,699
+PDF agency comparison and mark legends,True,Agency comparison named separately from red/blue states; point/line/band legends present
+text inside canvas,True,35
+600 dpi raster,True,"{'size': (4251, 2598), 'dpi': (599.9988, 599.9988)}"

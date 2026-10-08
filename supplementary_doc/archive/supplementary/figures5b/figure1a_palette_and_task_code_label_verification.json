@@ -1,0 +1,24 @@
+{
+  "figure1a_source": "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure1\\figure1a\\figure1a_sdg_target_ring.py",
+  "palette_pairs": {
+    "NSF_DARK": {
+      "figure1a": "#003366",
+      "figure_s6": "#003366"
+    },
+    "NSF_MID": {
+      "figure1a": "#7F99B2",
+      "figure_s6": "#7F99B2"
+    },
+    "NSFC_DARK": {
+      "figure1a": "#8B0000",
+      "figure_s6": "#8B0000"
+    },
+    "NSFC_MID": {
+      "figure1a": "#C57F7F",
+      "figure_s6": "#C57F7F"
+    }
+  },
+  "light_endpoints_present_in_figure1a": true,
+  "palette_matches": true,
+  "k01_to_k06_absent_from_svg": true
+}

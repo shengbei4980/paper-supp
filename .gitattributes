@@ -1,0 +1,5 @@
+# Preserve archived source bytes; do not normalize line endings.
+* -text
+data/processed/coding/nsf_coding_evidence.csv filter=lfs diff=lfs merge=lfs -text
+data/processed/coding/nsfc_coding_evidence.csv filter=lfs diff=lfs merge=lfs -text
+figures/supplementary/figures8b/figure5d_discrete_mirrored_ridgelines_reconstructed.tiff filter=lfs diff=lfs merge=lfs -text

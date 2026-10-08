@@ -1,0 +1,15 @@
+{
+  "success": true,
+  "return_code": 0,
+  "stdout": "{\"figure\": \"FigureS3_\\u5168\\u91cf\\u57ce\\u5e02Target\\u7ec4\\u5408_\\u73af\\u5f62\\u77e9\\u9635\\u805a\\u7c7b\\u56fe\", \"cities\": {\"NSF\": 334, \"NSFC\": 95}, \"pairs\": 62, \"nonzero_cells\": 2570, \"index_pages\": 6}\n",
+  "stderr": "",
+  "generated_files": [
+    "E:\\可持续发展目标基金\\定稿撰写\\成图\\补充s图\\完善s3\\图\\FigureS3_全量城市Target组合_环形矩阵聚类图.pdf",
+    "E:\\可持续发展目标基金\\定稿撰写\\成图\\补充s图\\完善s3\\图\\FigureS3_全量城市Target组合_环形矩阵聚类图.png",
+    "E:\\可持续发展目标基金\\定稿撰写\\成图\\补充s图\\完善s3\\图\\FigureS3_全量城市Target组合_环形矩阵聚类图.svg",
+    "E:\\可持续发展目标基金\\定稿撰写\\成图\\补充s图\\完善s3\\图\\FigureS3_完整组合与城市索引.pdf",
+    "E:\\可持续发展目标基金\\定稿撰写\\成图\\补充s图\\完善s3\\图\\FigureS3_组合编号与城市覆盖数.png"
+  ],
+  "execution_time": 9.2867,
+  "error_type": ""
+}

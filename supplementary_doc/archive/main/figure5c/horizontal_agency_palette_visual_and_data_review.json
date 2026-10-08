@@ -1,0 +1,42 @@
+{
+  "size_mm": [
+    183.0,
+    85.01
+  ],
+  "source_sha256": {
+    "实际研究主题估计_108项.csv": "c3b04c84b14991df7c7e9dad503391c5ccdb38a0b36fa0c5bc1627daeeb15c7d",
+    "研究主题_SDG贡献_1296项.csv": "0ce951cb6e0feb4efdc87fdb50442e5686f3888a002a2afca6abeabe2564483c"
+  },
+  "all_108_estimates_unchanged": true,
+  "complete_theme_labels": 16,
+  "selected_points": 16,
+  "context_points": 92,
+  "agency_palette": {
+    "NSF": [
+      "#3775BA",
+      "#16365B"
+    ],
+    "NSFC": [
+      "#B64342",
+      "#652325"
+    ]
+  },
+  "magnitude_color_scale_pp": [
+    0,
+    8
+  ],
+  "direction_encoded_by_group_headings": true,
+  "individual_colorbar_labels": "Absolute share shift (pp)",
+  "selected_names_unchanged": true,
+  "gray_circles_are_selection_highlights": true,
+  "word_positions_are_editorial": true,
+  "no_leaders": true,
+  "no_word_background_frames": true,
+  "no_overlap": true,
+  "no_clipping": true,
+  "minimum_text_contrast": 6.194620492028253,
+  "label_font_size_range": [
+    6.461410445026785,
+    8.2
+  ]
+}

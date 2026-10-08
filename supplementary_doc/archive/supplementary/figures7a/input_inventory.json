@@ -1,0 +1,22 @@
+[
+  {
+    "file": "projects.csv",
+    "source": "E:\\可持续发展目标基金\\定稿撰写\\成图\\成图精简休整版本\\figure3\\figure3b\\数据\\输入快照\\projects.csv",
+    "sha256": "5d358023a28b476837fcc09a86871008d044eaf988d974e0cf774d3b9cef2750"
+  },
+  {
+    "file": "us_county_mapping.csv",
+    "source": "E:\\可持续发展目标基金\\定稿撰写\\成图\\成图精简休整版本\\figure3\\figure3b\\数据\\输入快照\\us_county_mapping.csv",
+    "sha256": "f62cc8b3056328c6a93d5f6af62db587ebe5c090858f20019d318672a8f41571"
+  },
+  {
+    "file": "us_county_totals.csv",
+    "source": "E:\\可持续发展目标基金\\定稿撰写\\成图\\成图精简休整版本\\figure3\\figure3b\\数据\\输入快照\\us_county_totals.csv",
+    "sha256": "aa4e410a8b501b43e5aa7b9928be0899b0bc143cab3d7ce8db188fd156474cf9"
+  },
+  {
+    "file": "cn_city_totals.csv",
+    "source": "E:\\可持续发展目标基金\\定稿撰写\\成图\\成图精简休整版本\\figure3\\figure3b\\数据\\输入快照\\cn_city_totals.csv",
+    "sha256": "481d516ffb39efdcf92024dc1991307844ecf2b348ce906f4c9e66e93acc38bd"
+  }
+]

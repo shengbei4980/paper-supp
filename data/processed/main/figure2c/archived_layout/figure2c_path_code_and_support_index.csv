@@ -1,0 +1,55 @@
+﻿domain,path,path_display,need_label,pressure_label,system_label,nsf_raw_path_n,nsfc_raw_path_n
+D01,N01|P01|O01,N01→P01→O01,Climate adaptation and extreme-risk reduction,Extreme climate and natural-hazard shocks,Population and community systems,111.11666666666666,16.0
+D01,N01|P01|O02,N01→P01→O02,Climate adaptation and extreme-risk reduction,Extreme climate and natural-hazard shocks,Housing and built-environment systems,62.16666666666666,31.666666666666668
+D01,N01|P01|O04,N01→P01→O04,Climate adaptation and extreme-risk reduction,Extreme climate and natural-hazard shocks,"Water supply, drainage and stormwater systems",114.45,38.0
+D01,N01|P01|O08,N01→P01→O08,Climate adaptation and extreme-risk reduction,Extreme climate and natural-hazard shocks,Green-blue spaces and ecosystems,445.25,176.83333333333334
+D01,N01|P01|O10,N01→P01→O10,Climate adaptation and extreme-risk reduction,Extreme climate and natural-hazard shocks,Food supply and urban-rural supply chains,16.916666666666668,37.66666666666666
+D01,N01|P01|O12,N01→P01→O12,Climate adaptation and extreme-risk reduction,Extreme climate and natural-hazard shocks,"Planning, governance and public administration systems",63.083333333333336,13.666666666666666
+D01,N02|P01|O01,N02→P01→O01,"Disaster prevention, emergency response and recovery",Extreme climate and natural-hazard shocks,Population and community systems,158.75,30.5
+D01,N02|P01|O02,N02→P01→O02,"Disaster prevention, emergency response and recovery",Extreme climate and natural-hazard shocks,Housing and built-environment systems,203.5,80.5
+D01,N02|P01|O03,N02→P01→O03,"Disaster prevention, emergency response and recovery",Extreme climate and natural-hazard shocks,Transport and urban mobility systems,24.7,25.33333333333333
+D01,N02|P01|O04,N02→P01→O04,"Disaster prevention, emergency response and recovery",Extreme climate and natural-hazard shocks,"Water supply, drainage and stormwater systems",100.86666666666666,113.16666666666669
+D01,N02|P01|O07,N02→P01→O07,"Disaster prevention, emergency response and recovery",Extreme climate and natural-hazard shocks,"Information, communication and digital infrastructure",30.0,11.0
+D01,N02|P01|O08,N02→P01→O08,"Disaster prevention, emergency response and recovery",Extreme climate and natural-hazard shocks,Green-blue spaces and ecosystems,103.25,68.83333333333333
+D01,N02|P01|O12,N02→P01→O12,"Disaster prevention, emergency response and recovery",Extreme climate and natural-hazard shocks,"Planning, governance and public administration systems",111.08333333333331,48.16666666666666
+D01,N03|P01|O03,N03→P01→O03,Critical infrastructure resilience,Extreme climate and natural-hazard shocks,Transport and urban mobility systems,35.53333333333333,51.833333333333336
+D01,N03|P01|O05,N03→P01→O05,Critical infrastructure resilience,Extreme climate and natural-hazard shocks,Energy supply and power systems,46.5,20.0
+D01,N03|P05|O03,N03→P05→O03,Critical infrastructure resilience,Infrastructure ageing and system-function failure,Transport and urban mobility systems,57.16666666666666,65.5
+D01,N03|P05|O05,N03→P05→O05,Critical infrastructure resilience,Infrastructure ageing and system-function failure,Energy supply and power systems,58.833333333333336,19.0
+D02,N04|P02|O02,N04→P02→O02,Air quality improvement,Pollutant emissions and cumulative environmental exposure,Housing and built-environment systems,20.166666666666668,44.5
+D02,N04|P02|O08,N04→P02→O08,Air quality improvement,Pollutant emissions and cumulative environmental exposure,Green-blue spaces and ecosystems,67.0,62.5
+D02,N04|P02|O11,N04→P02→O11,Air quality improvement,Pollutant emissions and cumulative environmental exposure,Industrial production and employment systems,15.333333333333334,30.08333333333333
+D02,N04|P02|O12,N04→P02→O12,Air quality improvement,Pollutant emissions and cumulative environmental exposure,"Planning, governance and public administration systems",24.25,63.833333333333336
+D02,N05|P01|O04,N05→P01→O04,Water environmental quality and water security,Extreme climate and natural-hazard shocks,"Water supply, drainage and stormwater systems",74.7,38.66666666666666
+D02,N05|P01|O08,N05→P01→O08,Water environmental quality and water security,Extreme climate and natural-hazard shocks,Green-blue spaces and ecosystems,40.833333333333336,57.833333333333336
+D02,N05|P02|O04,N05→P02→O04,Water environmental quality and water security,Pollutant emissions and cumulative environmental exposure,"Water supply, drainage and stormwater systems",301.25,168.0
+D02,N05|P02|O08,N05→P02→O08,Water environmental quality and water security,Pollutant emissions and cumulative environmental exposure,Green-blue spaces and ecosystems,144.91666666666666,138.5
+D02,N05|P03|O04,N05→P03→O04,Water environmental quality and water security,Resource and environmental carrying-capacity pressure,"Water supply, drainage and stormwater systems",159.91666666666666,89.83333333333333
+D02,N05|P03|O08,N05→P03→O08,Water environmental quality and water security,Resource and environmental carrying-capacity pressure,Green-blue spaces and ecosystems,25.83333333333333,72.0
+D02,N05|P03|O10,N05→P03→O10,Water environmental quality and water security,Resource and environmental carrying-capacity pressure,Food supply and urban-rural supply chains,18.666666666666668,28.83333333333333
+D02,N05|P05|O04,N05→P05→O04,Water environmental quality and water security,Infrastructure ageing and system-function failure,"Water supply, drainage and stormwater systems",47.41666666666666,26.0
+D02,N06|P01|O08,N06→P01→O08,Ecological integrity and biodiversity protection,Extreme climate and natural-hazard shocks,Green-blue spaces and ecosystems,430.0833333333333,398.5
+D02,N06|P02|O08,N06→P02→O08,Ecological integrity and biodiversity protection,Pollutant emissions and cumulative environmental exposure,Green-blue spaces and ecosystems,67.58333333333333,103.0
+D02,N06|P03|O08,N06→P03→O08,Ecological integrity and biodiversity protection,Resource and environmental carrying-capacity pressure,Green-blue spaces and ecosystems,115.33333333333331,367.5
+D02,N06|P04|O08,N06→P04→O08,Ecological integrity and biodiversity protection,Population and spatial-development pressure,Green-blue spaces and ecosystems,37.5,192.75
+D02,N06|P08|O08,N06→P08→O08,Ecological integrity and biodiversity protection,Institutional coordination and policy implementation pressure,Green-blue spaces and ecosystems,15.666666666666666,29.08333333333333
+D03,N08|P04|O03,N08→P04→O03,Transport accessibility and travel safety,Population and spatial-development pressure,Transport and urban mobility systems,17.0,56.833333333333336
+D03,N08|P05|O03,N08→P05→O03,Transport accessibility and travel safety,Infrastructure ageing and system-function failure,Transport and urban mobility systems,100.16666666666669,106.83333333333331
+D03,N08|P06|O03,N08→P06→O03,Transport accessibility and travel safety,Barriers to urban service access,Transport and urban mobility systems,77.08333333333333,59.0
+D03,N08|P08|O03,N08→P08→O03,Transport accessibility and travel safety,Institutional coordination and policy implementation pressure,Transport and urban mobility systems,15.5,29.166666666666668
+D03,N10|P01|O10,N10→P01→O10,Urban food access and supply security,Extreme climate and natural-hazard shocks,Food supply and urban-rural supply chains,37.25,49.66666666666666
+D03,N10|P03|O10,N10→P03→O10,Urban food access and supply security,Resource and environmental carrying-capacity pressure,Food supply and urban-rural supply chains,38.16666666666666,36.66666666666666
+D04,N11|P03|O05,N11→P03→O05,Clean-energy access and energy security,Resource and environmental carrying-capacity pressure,Energy supply and power systems,51.16666666666666,22.33333333333333
+D04,N11|P05|O05,N11→P05→O05,Clean-energy access and energy security,Infrastructure ageing and system-function failure,Energy supply and power systems,106.66666666666669,46.0
+D04,N11|P07|O05,N11→P07→O05,Clean-energy access and energy security,High-carbon technological and industrial path dependence,Energy supply and power systems,195.0,40.833333333333336
+D04,N12|P07|O02,N12→P07→O02,"Decarbonization of buildings, transport and industry",High-carbon technological and industrial path dependence,Housing and built-environment systems,68.25,36.333333333333336
+D04,N12|P07|O03,N12→P07→O03,"Decarbonization of buildings, transport and industry",High-carbon technological and industrial path dependence,Transport and urban mobility systems,22.5,22.83333333333333
+D04,N12|P07|O05,N12→P07→O05,"Decarbonization of buildings, transport and industry",High-carbon technological and industrial path dependence,Energy supply and power systems,37.833333333333336,16.666666666666668
+D04,N12|P07|O11,N12→P07→O11,"Decarbonization of buildings, transport and industry",High-carbon technological and industrial path dependence,Industrial production and employment systems,52.91666666666666,62.5
+D04,N13|P02|O06,N13→P02→O06,Waste reduction and resource circularity,Pollutant emissions and cumulative environmental exposure,Waste and resource-circulation systems,91.41666666666669,58.5
+D04,N13|P03|O06,N13→P03→O06,Waste reduction and resource circularity,Resource and environmental carrying-capacity pressure,Waste and resource-circulation systems,36.75,15.5
+D05,N14|P02|O04,N14→P02→O04,Reduction of environmental exposure and health risks,Pollutant emissions and cumulative environmental exposure,"Water supply, drainage and stormwater systems",34.5,14.666666666666666
+D05,N14|P02|O08,N14→P02→O08,Reduction of environmental exposure and health risks,Pollutant emissions and cumulative environmental exposure,Green-blue spaces and ecosystems,36.66666666666666,35.166666666666664
+D05,N16|P04|O01,N16→P04→O01,Social inclusion and distributive equity,Population and spatial-development pressure,Population and community systems,17.0,33.333333333333336
+D06,N17|P08|O12,N17→P08→O12,Planning and policy implementation capacity,Institutional coordination and policy implementation pressure,"Planning, governance and public administration systems",66.91666666666667,98.25
+D06,N18|P08|O12,N18→P08→O12,Public participation and multi-actor coordination,Institutional coordination and policy implementation pressure,"Planning, governance and public administration systems",49.91666666666666,12.166666666666666

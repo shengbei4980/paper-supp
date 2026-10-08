@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "requirement_alignment": "四条横条起点与首根SDG柱左边缘对齐；横轴刻度、轴线和NSF/NSFC行标签移除；总体指标名称与主纵轴标题同列外置。",
+  "data_expression_quality": "全部24记录、48根主柱和48数字保留；四个总体估计与原95%区间保留，独立尺度从零开始。",
+  "style_preservation": "同一黑框、既有Figure1a蓝红颜色与主柱原物理大小保留。",
+  "readability": "真实预览中数值、区间及外置三行指标名称可读，没有文字相互遮挡。",
+  "layout_quality": "起点精确对齐，指标名称在画框左侧；所有文字在画布内，横向刻度已取消。",
+  "color_quality": "NSF #3775BA，NSFC #B64342；图例和底注继续说明国家映射，Overlap灰尾为非共享构成。",
+  "issues": [],
+  "suggested_fixes": [],
+  "needs_repair": false,
+  "confidence": 0.96
+}

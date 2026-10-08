@@ -1,0 +1,188 @@
+{
+  "width_mm": 180,
+  "height_mm": 120,
+  "links": 311,
+  "main_data_axes": 1,
+  "unit_scale_pixels": [
+    32.1770589487125,
+    32.1770589487125
+  ],
+  "area_pt2_per_share_percent": 7.0,
+  "labels": [
+    {
+      "gid": "link_0_N02_P01",
+      "text": "Disaster response →\nHazard shocks",
+      "bbox_figure": [
+        [
+          0.7625930117617618,
+          0.4881571802271021
+        ],
+        [
+          0.8758934747247248,
+          0.5204914684215466
+        ]
+      ]
+    },
+    {
+      "gid": "link_0_N06_P04",
+      "text": "Ecological integrity →\nSpatial pressure",
+      "bbox_figure": [
+        [
+          0.2274919982482482,
+          0.4809089800933746
+        ],
+        [
+          0.3439674612112112,
+          0.5141180469336524
+        ]
+      ]
+    },
+    {
+      "gid": "link_0_N02_P04",
+      "text": "Disaster response →\nSpatial pressure",
+      "bbox_figure": [
+        [
+          0.40162003878878877,
+          0.3957738449582394
+        ],
+        [
+          0.5149205017517516,
+          0.4289829117985172
+        ]
+      ]
+    },
+    {
+      "gid": "link_1_P04_O02",
+      "text": "Spatial pressure →\nBuilt environment",
+      "bbox_figure": [
+        [
+          0.1704508195695695,
+          0.41323826130818314
+        ],
+        [
+          0.2738735047547547,
+          0.44557254950262765
+        ]
+      ]
+    },
+    {
+      "gid": "link_1_P01_O01",
+      "text": "Hazard shocks →\nPopulation & communities",
+      "bbox_figure": [
+        [
+          0.606513206956957,
+          0.8048028321485547
+        ],
+        [
+          0.7459192254754755,
+          0.8372512219054992
+        ]
+      ]
+    },
+    {
+      "gid": "link_1_P01_O08",
+      "text": "Hazard shocks →\nGreen-blue ecosystems",
+      "bbox_figure": [
+        [
+          0.7826043105605606,
+          0.6753974267431495
+        ],
+        [
+          0.9103686624124125,
+          0.7078458165000938
+        ]
+      ]
+    },
+    {
+      "gid": "link_2_O07_K01",
+      "text": "Digital infrastructure →\nMeasurement & diagnosis",
+      "bbox_figure": [
+        [
+          0.4111817692692693,
+          0.7839900611744557
+        ],
+        [
+          0.5507641766766767,
+          0.8171991280147335
+        ]
+      ]
+    },
+    {
+      "gid": "link_2_O06_K04",
+      "text": "Resource-circulation system →\nDesign & optimization",
+      "bbox_figure": [
+        [
+          0.538444776026026,
+          0.7056657368501315
+        ],
+        [
+          0.7050146834334334,
+          0.7388748036904091
+        ]
+      ]
+    },
+    {
+      "gid": "link_2_O08_K02",
+      "text": "Green-blue ecosystems →\nMechanism analysis",
+      "bbox_figure": [
+        [
+          0.21880337212212206,
+          0.63799501806494
+        ],
+        [
+          0.36173716841841835,
+          0.6703293062593844
+        ]
+      ]
+    }
+  ],
+  "quadrants": {
+    "I": 129,
+    "III": 112,
+    "II": 39,
+    "IV": 31
+  },
+  "smaller": 217,
+  "larger": 94,
+  "sign_flips": 70,
+  "ellipse_scale": [
+    {
+      "stage": "Need → pressure",
+      "scale": 8.34018336764328,
+      "covered_count": 150
+    },
+    {
+      "stage": "Pressure → system",
+      "scale": 4.940947529012048,
+      "covered_count": 90
+    },
+    {
+      "stage": "System → knowledge",
+      "scale": 4.909580242442442,
+      "covered_count": 71
+    }
+  ],
+  "ellipse_covariance": "Equal-link population covariance orientation; scaled by maximum Mahalanobis distance to cover every stage link; 1e-10 relative boundary tolerance",
+  "colour_semantics": "blue: balanced NSF share higher; red: balanced NSFC share higher",
+  "area_semantics": "geometric marker fill area calibrated across circle, triangle and square; no minimum area",
+  "summary_rows_drawn": false,
+  "ellipse_colours": {
+    "Need → pressure": "#287D63",
+    "Pressure → system": "#B88727",
+    "System → knowledge": "#8064A2"
+  },
+  "quadrant_background_colours": {
+    "I": "#EEF4FA",
+    "II": "#E5EEF6",
+    "III": "#FBF0EF",
+    "IV": "#F8E9E9"
+  },
+  "xlim": [
+    -9.25,
+    9.25
+  ],
+  "ylim": [
+    -4.2,
+    4.2
+  ]
+}

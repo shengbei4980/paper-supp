@@ -1,0 +1,61 @@
+﻿check,pass,detail
+Source archive unchanged: 数据/Figure2c_编码基数约束审计.csv,True,
+Original file unchanged: Figure2c_编码基数约束审计.csv,True,
+Source archive unchanged: 数据/Figure2c_旧新点估计对比.csv,True,
+Original file unchanged: Figure2c_旧新点估计对比.csv,True,
+Source archive unchanged: 数据/Figure2c_领域汇聚摘要.csv,True,
+Original file unchanged: Figure2c_领域汇聚摘要.csv,True,
+Source archive unchanged: 数据/Figure2c_路径权重守恒审计.csv,True,
+Original file unchanged: Figure2c_路径权重守恒审计.csv,True,
+Source archive unchanged: 数据/Figure2c_路径事件追溯.csv,True,
+Original file unchanged: Figure2c_路径事件追溯.csv,True,
+Source archive unchanged: 数据/Figure2c_路径支持度.csv,True,
+Original file unchanged: Figure2c_路径支持度.csv,True,
+Source archive unchanged: 数据/Figure2c_全量热图单元.csv,True,
+Original file unchanged: Figure2c_全量热图单元.csv,True,
+Source archive unchanged: 数据/Figure2c_条件路径差异全量_校正.csv,True,
+Original file unchanged: Figure2c_条件路径差异全量_校正.csv,True,
+Source archive unchanged: 数据/Figure2c_字段与指标说明.csv,True,
+Original file unchanged: Figure2c_字段与指标说明.csv,True,
+Source archive unchanged: 数据/Figure2c_Bootstrap完整分布_校正.csv,True,
+Original file unchanged: Figure2c_Bootstrap完整分布_校正.csv,True,
+"54 paths, 324 unique path-task cells",True,
+Every path has all six tasks,True,
+nsf_probability sums to one within each path,True,1.1102230246251565e-15
+"nsf_probability lies in [0,1]",True,
+nsfc_probability sums to one within each path,True,1.2212453270876722e-15
+"nsfc_probability lies in [0,1]",True,
+"Difference equals NSF minus NSFC, percentage points",True,1.509903313490213e-14
+972 unique rendered cells,True,
+NSF complete source key coverage,True,
+NSF rendered values agree with source,True,
+NSF source zero cells retained,True,
+NSF fixed scale does not clip,True,
+NSFC complete source key coverage,True,
+NSFC rendered values agree with source,True,
+NSFC source zero cells retained,True,
+NSFC fixed scale does not clip,True,
+difference complete source key coverage,True,
+difference rendered values agree with source,True,
+difference source zero cells retained,True,
+difference fixed scale does not clip,True,
+2000 resamples for every path-task cell,True,
+Bootstrap lower 95% percentile reproduced,True,9.71445146547012e-17
+Bootstrap upper 95% percentile reproduced,True,9.71445146547012e-17
+Interval unit conversion,True,
+BH q values reproduced from supplied p values,True,
+Corrected marker identity matches interval and BH gate,True,
+34 markers retain the exact source identities,True,
+SVG contains all 18 rings by 6 domains,True,108
+SVG contains all 972 actual heatmap cells,True,972
+SVG cell colors match the mapped source values,True,[]
+SVG marker IDs match source gate,True,
+36 task-by-domain black outline frames,True,36
+Fine frame stroke width 0.35 pt,True,
+54 searchable SVG path labels retained,True,
+One plotting frame,True,
+No clipped text,True,[]
+No overlapping legend / task / domain text,True,[]
+PNG 600 dpi,True,"(599.9988, 599.9988)"
+PNG fixed physical size,True,"(4322, 4559)"
+PNG not blank,True,

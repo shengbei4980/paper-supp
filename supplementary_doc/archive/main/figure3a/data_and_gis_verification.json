@@ -1,0 +1,24 @@
+{
+  "city_supply_NSF": 4999.999999999648,
+  "city_supply_NSFC": 5545.99999999809,
+  "NSF_county_assigned": 4999.999999999828,
+  "NSF_county_unassigned": 0.0,
+  "unmatched_records": 0,
+  "input_hashes": {
+    "数据\\输入\\NSFC_城市面供给汇总.csv": "481d516ffb39efdcf92024dc1991307844ecf2b348ce906f4c9e66e93acc38bd",
+    "数据\\输入\\NSFC_编码结果_城市归属校正版.csv": "81976cdd6b3a35393c901e6de1ed209080ff94f492b2fdc2ddce4537b0ebd7c1",
+    "数据\\输入\\NSF_编码结果_城市归属校正版.csv": "5921b7dd831a24408cd0b2126707a173a4b0b91e68046c0fd44285f97e155735",
+    "数据\\输入\\全部机构城市_行政归属校正表.csv": "bcdc1272d6da51f75de38b63589db1db40d18cce2156468a5c2a0eb099847540",
+    "数据\\输入\\地理边界.gpkg": "83be20a6514589297ad9fc320fc47c9e961584569b2b9e7b7ed8d16112b8cce7",
+    "数据\\输入\\项目级城市归属_校正版.csv": "5d358023a28b476837fcc09a86871008d044eaf988d974e0cf774d3b9cef2750"
+  },
+  "layers": {
+    "US_states": 56,
+    "US_counties": 3235,
+    "CN_provinces": 34,
+    "CN_cities": 370,
+    "city_supply_points": 637,
+    "source_city_points": 653,
+    "NSF_project_locations": 6207
+  }
+}

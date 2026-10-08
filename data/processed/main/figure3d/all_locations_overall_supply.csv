@@ -1,0 +1,479 @@
+﻿agency,unit_id,unit_name,unit_type,family_n,supply,F_pct,overall_rank,state,short_name
+NSF,US_01015,Calhoun County,county_or_equivalent,3,1.166666666666,0.0233333333333208,252,AL,"Calhoun, AL"
+NSF,US_01073,Jefferson County,county_or_equivalent,6,5.0,0.10000000000000343,160,AL,"Jefferson, AL"
+NSF,US_01081,Lee County,county_or_equivalent,13,8.833333333333,0.17666666666666606,135,AL,"Lee, AL"
+NSF,US_01089,Madison County,county_or_equivalent,6,5.25,0.1050000000000036,157,AL,"Madison, AL"
+NSF,US_01097,Mobile County,county_or_equivalent,3,2.333333333333,0.0466666666666616,208,AL,"Mobile, AL"
+NSF,US_01125,Tuscaloosa County,county_or_equivalent,35,27.783333333332003,0.5556666666666592,60,AL,"Tuscaloosa, AL"
+NSF,US_02020,Anchorage (county equivalent),county_or_equivalent,29,20.499999999998003,0.40999999999997416,80,AK,"Anchorage (county equivalent), AK"
+NSF,US_02090,Fairbanks North Star Borough,county_or_equivalent,79,49.75952380952,0.9951904761904341,27,AK,"Fairbanks North Star Borough, AK"
+NSF,US_02110,Juneau (county equivalent),county_or_equivalent,11,7.809523809523,0.15619047619046536,142,AK,"Juneau (county equivalent), AK"
+NSF,US_02290,Yukon-Koyukuk (county equivalent),county_or_equivalent,1,0.5,0.010000000000000344,330,AK,"Yukon-Koyukuk (county equivalent), AK"
+NSF,US_04005,Coconino County,county_or_equivalent,15,9.999999999999,0.19999999999998685,124,AZ,"Coconino, AZ"
+NSF,US_04013,Maricopa County,county_or_equivalent,110,90.033333333331,1.8006666666666817,7,AZ,"Maricopa, AZ"
+NSF,US_04019,Pima County,county_or_equivalent,39,31.142857142856002,0.6228571428571414,50,AZ,"Pima, AZ"
+NSF,US_05007,Benton County,county_or_equivalent,1,1.0,0.020000000000000687,253,AR,"Benton, AR"
+NSF,US_05143,Washington County,county_or_equivalent,26,22.283333333332997,0.4456666666666753,72,AR,"Washington, AR"
+NSF,US_06001,Alameda County,county_or_equivalent,86,74.66666666666501,1.4933333333333514,11,CA,"Alameda, CA"
+NSF,US_06007,Butte County,county_or_equivalent,2,1.5,0.030000000000001033,242,CA,"Butte, CA"
+NSF,US_06013,Contra Costa County,county_or_equivalent,9,9.0,0.18000000000000618,131,CA,"Contra Costa, CA"
+NSF,US_06019,Fresno County,county_or_equivalent,3,2.5,0.05000000000000172,200,CA,"Fresno, CA"
+NSF,US_06023,Humboldt County,county_or_equivalent,1,1.0,0.020000000000000687,254,CA,"Humboldt, CA"
+NSF,US_06027,Inyo County,county_or_equivalent,1,1.0,0.020000000000000687,255,CA,"Inyo, CA"
+NSF,US_06037,Los Angeles County,county_or_equivalent,161,132.933333333328,2.6586666666666514,1,CA,"Los Angeles, CA"
+NSF,US_06041,Marin County,county_or_equivalent,3,3.0,0.060000000000002066,187,CA,"Marin, CA"
+NSF,US_06045,Mendocino County,county_or_equivalent,1,1.0,0.020000000000000687,256,CA,"Mendocino, CA"
+NSF,US_06047,Merced County,county_or_equivalent,10,7.499999999999,0.14999999999998515,143,CA,"Merced, CA"
+NSF,US_06053,Monterey County,county_or_equivalent,6,5.2,0.10400000000000358,159,CA,"Monterey, CA"
+NSF,US_06055,Napa County,county_or_equivalent,1,1.0,0.020000000000000687,257,CA,"Napa, CA"
+NSF,US_06057,Nevada County,county_or_equivalent,1,1.0,0.020000000000000687,258,CA,"Nevada, CA"
+NSF,US_06059,Orange County,county_or_equivalent,59,49.416666666665996,0.9883333333333539,28,CA,"Orange, CA"
+NSF,US_06065,Riverside County,county_or_equivalent,25,18.666666666665,0.37333333333331287,85,CA,"Riverside, CA"
+NSF,US_06067,Sacramento County,county_or_equivalent,3,3.0,0.060000000000002066,188,CA,"Sacramento, CA"
+NSF,US_06073,San Diego County,county_or_equivalent,90,77.037301587299,1.5407460317460329,9,CA,"San Diego, CA"
+NSF,US_06075,San Francisco County,county_or_equivalent,13,12.5,0.2500000000000086,111,CA,"San Francisco, CA"
+NSF,US_06077,San Joaquin County,county_or_equivalent,1,0.5,0.010000000000000344,331,CA,"San Joaquin, CA"
+NSF,US_06079,San Luis Obispo County,county_or_equivalent,6,3.9000000000000004,0.07800000000000269,177,CA,"San Luis Obispo, CA"
+NSF,US_06081,San Mateo County,county_or_equivalent,4,4.0,0.08000000000000275,170,CA,"San Mateo, CA"
+NSF,US_06083,Santa Barbara County,county_or_equivalent,38,31.2,0.6240000000000214,49,CA,"Santa Barbara, CA"
+NSF,US_06085,Santa Clara County,county_or_equivalent,78,65.533333333331,1.310666666666665,16,CA,"Santa Clara, CA"
+NSF,US_06087,Santa Cruz County,county_or_equivalent,34,28.249999999999,0.5649999999999994,59,CA,"Santa Cruz, CA"
+NSF,US_06095,Solano County,county_or_equivalent,1,1.0,0.020000000000000687,259,CA,"Solano, CA"
+NSF,US_06097,Sonoma County,county_or_equivalent,6,4.5,0.09000000000000309,166,CA,"Sonoma, CA"
+NSF,US_06113,Yolo County,county_or_equivalent,41,31.866666666666,0.637333333333342,44,CA,"Yolo, CA"
+NSF,US_08005,Arapahoe County,county_or_equivalent,4,3.1428571428570002,0.06285714285714217,186,CO,"Arapahoe, CO"
+NSF,US_08013,Boulder County,county_or_equivalent,161,128.26666666666299,2.565333333333348,4,CO,"Boulder, CO"
+NSF,US_08014,Broomfield County,county_or_equivalent,2,2.0,0.040000000000001375,215,CO,"Broomfield, CO"
+NSF,US_08031,Denver County,county_or_equivalent,18,15.333333333333,0.30666666666667053,98,CO,"Denver, CO"
+NSF,US_08037,Eagle County,county_or_equivalent,3,2.5,0.05000000000000172,201,CO,"Eagle, CO"
+NSF,US_08041,El Paso County,county_or_equivalent,1,1.0,0.020000000000000687,260,CO,"El Paso, CO"
+NSF,US_08051,Gunnison County,county_or_equivalent,1,1.0,0.020000000000000687,261,CO,"Gunnison, CO"
+NSF,US_08059,Jefferson County,county_or_equivalent,30,24.309523809524002,0.48619047619049677,67,CO,"Jefferson, CO"
+NSF,US_08069,Larimer County,county_or_equivalent,73,59.416666666666,1.188333333333361,22,CO,"Larimer, CO"
+NSF,US_08077,Mesa County,county_or_equivalent,1,1.0,0.020000000000000687,262,CO,"Mesa, CO"
+NSF,US_09110,Capitol County,county_or_equivalent,35,27.166666666667,0.5433333333333586,62,CT,"Capitol, CT"
+NSF,US_09120,Greater Bridgeport County,county_or_equivalent,1,1.0,0.020000000000000687,263,CT,"Greater Bridgeport, CT"
+NSF,US_09130,Lower Connecticut River Valley County,county_or_equivalent,1,1.0,0.020000000000000687,264,CT,"Lower Connecticut River Valley, CT"
+NSF,US_09170,South Central Connecticut County,county_or_equivalent,37,32.499999999999,0.6500000000000024,42,CT,"South Central Connecticut, CT"
+NSF,US_09190,Western Connecticut County,county_or_equivalent,2,2.0,0.040000000000001375,216,CT,"Western Connecticut, CT"
+NSF,US_10001,Kent County,county_or_equivalent,2,2.0,0.040000000000001375,217,DE,"Kent, DE"
+NSF,US_10003,New Castle County,county_or_equivalent,40,31.499999999998003,0.6299999999999817,45,DE,"New Castle, DE"
+NSF,US_10005,Sussex County,county_or_equivalent,1,1.0,0.020000000000000687,265,DE,"Sussex, DE"
+NSF,US_11001,District of Columbia,county_or_equivalent,74,61.309523809521004,1.2261904761904623,20,DC,District of Columbia
+NSF,US_12001,Alachua County,county_or_equivalent,56,41.309523809521004,0.8261904761904485,32,FL,"Alachua, FL"
+NSF,US_12009,Brevard County,county_or_equivalent,3,3.0,0.060000000000002066,189,FL,"Brevard, FL"
+NSF,US_12011,Broward County,county_or_equivalent,1,0.5,0.010000000000000344,332,FL,"Broward, FL"
+NSF,US_12021,Collier County,county_or_equivalent,3,3.0,0.060000000000002066,190,FL,"Collier, FL"
+NSF,US_12057,Hillsborough County,county_or_equivalent,39,30.283333333332003,0.6056666666666609,54,FL,"Hillsborough, FL"
+NSF,US_12061,Indian River County,county_or_equivalent,1,1.0,0.020000000000000687,266,FL,"Indian River, FL"
+NSF,US_12071,Lee County,county_or_equivalent,5,4.333333333333,0.08666666666666298,169,FL,"Lee, FL"
+NSF,US_12073,Leon County,county_or_equivalent,33,27.45,0.5490000000000189,61,FL,"Leon, FL"
+NSF,US_12085,Martin County,county_or_equivalent,1,1.0,0.020000000000000687,267,FL,"Martin, FL"
+NSF,US_12086,Miami-Dade County,county_or_equivalent,44,35.309523809523,0.7061904761904843,40,FL,"Miami-Dade, FL"
+NSF,US_12095,Orange County,county_or_equivalent,34,25.092857142855998,0.5018571428571372,64,FL,"Orange, FL"
+NSF,US_12099,Palm Beach County,county_or_equivalent,14,11.833333333333,0.23666666666666814,115,FL,"Palm Beach, FL"
+NSF,US_12109,St. Johns County,county_or_equivalent,1,1.0,0.020000000000000687,268,FL,"St. Johns, FL"
+NSF,US_12115,Sarasota County,county_or_equivalent,4,2.166666666667,0.04333333333334149,214,FL,"Sarasota, FL"
+NSF,US_12127,Volusia County,county_or_equivalent,5,5.0,0.10000000000000343,161,FL,"Volusia, FL"
+NSF,US_13031,Bulloch County,county_or_equivalent,3,1.833333333333,0.03666666666666126,239,GA,"Bulloch, GA"
+NSF,US_13059,Clarke County,county_or_equivalent,33,28.916666666666,0.5783333333333399,57,GA,"Clarke, GA"
+NSF,US_13067,Cobb County,county_or_equivalent,2,2.0,0.040000000000001375,218,GA,"Cobb, GA"
+NSF,US_13121,Fulton County,county_or_equivalent,88,72.616666666664,1.45233333333333,13,GA,"Fulton, GA"
+NSF,US_13135,Gwinnett County,county_or_equivalent,1,1.0,0.020000000000000687,269,GA,"Gwinnett, GA"
+NSF,US_15001,Hawaii County,county_or_equivalent,2,2.0,0.040000000000001375,219,HI,"Hawaii, HI"
+NSF,US_15003,Honolulu County,county_or_equivalent,38,31.416666666665,0.6283333333333216,46,HI,"Honolulu, HI"
+NSF,US_16001,Ada County,county_or_equivalent,17,13.142857142856,0.2628571428571291,108,ID,"Ada, ID"
+NSF,US_16005,Bannock County,county_or_equivalent,1,1.0,0.020000000000000687,270,ID,"Bannock, ID"
+NSF,US_16057,Latah County,county_or_equivalent,13,10.22619047619,0.20452380952380705,121,ID,"Latah, ID"
+NSF,US_17019,Champaign County,county_or_equivalent,90,72.749999999997,1.45499999999999,12,IL,"Champaign, IL"
+NSF,US_17031,Cook County,county_or_equivalent,81,69.366666666664,1.3873333333333278,15,IL,"Cook, IL"
+NSF,US_17037,DeKalb County,county_or_equivalent,5,5.0,0.10000000000000343,162,IL,"DeKalb, IL"
+NSF,US_17043,DuPage County,county_or_equivalent,1,0.333333333333,0.00666666666666023,341,IL,"DuPage, IL"
+NSF,US_17077,Jackson County,county_or_equivalent,4,4.0,0.08000000000000275,171,IL,"Jackson, IL"
+NSF,US_17089,Kane County,county_or_equivalent,2,2.0,0.040000000000001375,220,IL,"Kane, IL"
+NSF,US_17097,Lake County,county_or_equivalent,1,1.0,0.020000000000000687,271,IL,"Lake, IL"
+NSF,US_17111,McHenry County,county_or_equivalent,2,2.0,0.040000000000001375,221,IL,"McHenry, IL"
+NSF,US_17119,Madison County,county_or_equivalent,1,0.5,0.010000000000000344,333,IL,"Madison, IL"
+NSF,US_18035,Delaware County,county_or_equivalent,1,1.0,0.020000000000000687,272,IN,"Delaware, IN"
+NSF,US_18097,Marion County,county_or_equivalent,2,2.0,0.040000000000001375,222,IN,"Marion, IN"
+NSF,US_18105,Monroe County,county_or_equivalent,27,20.166666666665,0.4033333333333139,81,IN,"Monroe, IN"
+NSF,US_18127,Porter County,county_or_equivalent,1,1.0,0.020000000000000687,273,IN,"Porter, IN"
+NSF,US_18141,St. Joseph County,county_or_equivalent,37,29.783333333333,0.5956666666666806,55,IN,"St. Joseph, IN"
+NSF,US_18151,Steuben County,county_or_equivalent,1,1.0,0.020000000000000687,274,IN,"Steuben, IN"
+NSF,US_18157,Tippecanoe County,county_or_equivalent,60,50.533333333331996,1.0106666666666746,26,IN,"Tippecanoe, IN"
+NSF,US_18167,Vigo County,county_or_equivalent,2,1.333333333333,0.026666666666660916,248,IN,"Vigo, IN"
+NSF,US_19013,Black Hawk County,county_or_equivalent,3,2.25,0.045000000000001546,211,IA,"Black Hawk, IA"
+NSF,US_19103,Johnson County,county_or_equivalent,22,16.583333333332,0.3316666666666514,92,IA,"Johnson, IA"
+NSF,US_19113,Linn County,county_or_equivalent,1,0.25,0.005000000000000172,347,IA,"Linn, IA"
+NSF,US_19169,Story County,county_or_equivalent,55,47.666666666664995,0.9533333333333327,29,IA,"Story, IA"
+NSF,US_20045,Douglas County,county_or_equivalent,27,21.499999999998998,0.4299999999999948,76,KS,"Douglas, KS"
+NSF,US_20161,Riley County,county_or_equivalent,24,18.699999999999,0.3739999999999929,84,KS,"Riley, KS"
+NSF,US_20173,Sedgwick County,county_or_equivalent,3,2.5,0.05000000000000172,202,KS,"Sedgwick, KS"
+NSF,US_21067,Fayette County,county_or_equivalent,15,14.333333333333,0.28666666666666984,102,KY,"Fayette, KY"
+NSF,US_21111,Jefferson County,county_or_equivalent,8,8.0,0.1600000000000055,141,KY,"Jefferson, KY"
+NSF,US_21227,Warren County,county_or_equivalent,1,0.25,0.005000000000000172,348,KY,"Warren, KY"
+NSF,US_22033,East Baton Rouge Parish,county_or_equivalent,43,35.333333333333,0.7066666666666843,39,LA,"East Baton Rouge Parish, LA"
+NSF,US_22055,Lafayette Parish,county_or_equivalent,11,8.916666666666,0.17833333333332613,134,LA,"Lafayette Parish, LA"
+NSF,US_22071,Orleans Parish,county_or_equivalent,19,13.499999999999,0.26999999999998925,105,LA,"Orleans Parish, LA"
+NSF,US_22109,Terrebonne Parish,county_or_equivalent,3,3.0,0.060000000000002066,191,LA,"Terrebonne Parish, LA"
+NSF,US_23001,Androscoggin County,county_or_equivalent,2,1.0,0.020000000000000687,275,ME,"Androscoggin, ME"
+NSF,US_23005,Cumberland County,county_or_equivalent,6,5.333333333333,0.10666666666666366,153,ME,"Cumberland, ME"
+NSF,US_23011,Kennebec County,county_or_equivalent,2,2.0,0.040000000000001375,223,ME,"Kennebec, ME"
+NSF,US_23013,Knox County,county_or_equivalent,1,1.0,0.020000000000000687,276,ME,"Knox, ME"
+NSF,US_23015,Lincoln County,county_or_equivalent,7,5.533333333333,0.11066666666666382,151,ME,"Lincoln, ME"
+NSF,US_23019,Penobscot County,county_or_equivalent,10,9.0,0.18000000000000618,132,ME,"Penobscot, ME"
+NSF,US_24003,Anne Arundel County,county_or_equivalent,2,2.0,0.040000000000001375,224,MD,"Anne Arundel, MD"
+NSF,US_24005,Baltimore County,county_or_equivalent,3,2.5,0.05000000000000172,203,MD,"Baltimore, MD"
+NSF,US_24019,Dorchester County,county_or_equivalent,16,13.583333333333,0.27166666666666933,104,MD,"Dorchester, MD"
+NSF,US_24031,Montgomery County,county_or_equivalent,4,4.0,0.08000000000000275,172,MD,"Montgomery, MD"
+NSF,US_24033,Prince George's County,county_or_equivalent,47,40.583333333333,0.811666666666688,34,MD,"Prince George's, MD"
+NSF,US_24039,Somerset County,county_or_equivalent,1,1.0,0.020000000000000687,277,MD,"Somerset, MD"
+NSF,US_24510,Baltimore (county equivalent),county_or_equivalent,36,28.583333333333,0.5716666666666798,58,MD,"Baltimore (county equivalent), MD"
+NSF,US_25001,Barnstable County,county_or_equivalent,95,75.083333333331,1.5016666666666716,10,MA,"Barnstable, MA"
+NSF,US_25003,Berkshire County,county_or_equivalent,2,1.5,0.030000000000001033,243,MA,"Berkshire, MA"
+NSF,US_25005,Bristol County,county_or_equivalent,3,2.5,0.05000000000000172,204,MA,"Bristol, MA"
+NSF,US_25009,Essex County,county_or_equivalent,1,1.0,0.020000000000000687,278,MA,"Essex, MA"
+NSF,US_25013,Hampden County,county_or_equivalent,1,1.0,0.020000000000000687,279,MA,"Hampden, MA"
+NSF,US_25015,Hampshire County,county_or_equivalent,36,31.333333333332,0.6266666666666615,47,MA,"Hampshire, MA"
+NSF,US_25017,Middlesex County,county_or_equivalent,155,129.342857142853,2.586857142857149,3,MA,"Middlesex, MA"
+NSF,US_25021,Norfolk County,county_or_equivalent,8,7.2,0.14400000000000496,145,MA,"Norfolk, MA"
+NSF,US_25023,Plymouth County,county_or_equivalent,1,1.0,0.020000000000000687,280,MA,"Plymouth, MA"
+NSF,US_25025,Suffolk County,county_or_equivalent,79,64.58333333333,1.2916666666666445,19,MA,"Suffolk, MA"
+NSF,US_25027,Worcester County,county_or_equivalent,23,21.5,0.43000000000001476,75,MA,"Worcester, MA"
+NSF,US_26049,Genesee County,county_or_equivalent,1,1.0,0.020000000000000687,281,MI,"Genesee, MI"
+NSF,US_26061,Houghton County,county_or_equivalent,23,17.944444444443,0.3588888888888723,89,MI,"Houghton, MI"
+NSF,US_26065,Ingham County,county_or_equivalent,38,29.333333333330998,0.5866666666666401,56,MI,"Ingham, MI"
+NSF,US_26073,Isabella County,county_or_equivalent,4,2.75,0.05500000000000189,198,MI,"Isabella, MI"
+NSF,US_26077,Kalamazoo County,county_or_equivalent,1,1.0,0.020000000000000687,282,MI,"Kalamazoo, MI"
+NSF,US_26103,Marquette County,county_or_equivalent,4,3.5,0.07000000000000241,180,MI,"Marquette, MI"
+NSF,US_26125,Oakland County,county_or_equivalent,4,4.0,0.08000000000000275,173,MI,"Oakland, MI"
+NSF,US_26139,Ottawa County,county_or_equivalent,3,1.666666666666,0.03333333333332115,241,MI,"Ottawa, MI"
+NSF,US_26161,Washtenaw County,county_or_equivalent,123,104.983333333331,2.0996666666666925,6,MI,"Washtenaw, MI"
+NSF,US_26163,Wayne County,county_or_equivalent,16,15.333333333333,0.30666666666667053,99,MI,"Wayne, MI"
+NSF,US_27007,Beltrami County,county_or_equivalent,1,0.25,0.005000000000000172,349,MN,"Beltrami, MN"
+NSF,US_27053,Hennepin County,county_or_equivalent,49,39.949999999998,0.7989999999999875,37,MN,"Hennepin, MN"
+NSF,US_27103,Nicollet County,county_or_equivalent,1,0.333333333333,0.00666666666666023,342,MN,"Nicollet, MN"
+NSF,US_27123,Ramsey County,county_or_equivalent,4,4.0,0.08000000000000275,174,MN,"Ramsey, MN"
+NSF,US_27131,Rice County,county_or_equivalent,1,1.0,0.020000000000000687,283,MN,"Rice, MN"
+NSF,US_27137,St. Louis County,county_or_equivalent,9,6.366666666666,0.1273333333333244,148,MN,"St. Louis, MN"
+NSF,US_28035,Forrest County,county_or_equivalent,4,3.5,0.07000000000000241,181,MS,"Forrest, MS"
+NSF,US_28071,Lafayette County,county_or_equivalent,5,3.333333333333,0.0666666666666623,184,MS,"Lafayette, MS"
+NSF,US_28105,Oktibbeha County,county_or_equivalent,7,4.5,0.09000000000000309,167,MS,"Oktibbeha, MS"
+NSF,US_29019,Boone County,county_or_equivalent,11,9.0,0.18000000000000618,133,MO,"Boone, MO"
+NSF,US_29037,Cass County,county_or_equivalent,1,1.0,0.020000000000000687,284,MO,"Cass, MO"
+NSF,US_29077,Greene County,county_or_equivalent,1,1.0,0.020000000000000687,285,MO,"Greene, MO"
+NSF,US_29095,Jackson County,county_or_equivalent,1,1.0,0.020000000000000687,286,MO,"Jackson, MO"
+NSF,US_29161,Phelps County,county_or_equivalent,20,16.333333333333,0.32666666666667127,93,MO,"Phelps, MO"
+NSF,US_29225,Webster County,county_or_equivalent,1,1.0,0.020000000000000687,287,MO,"Webster, MO"
+NSF,US_29510,St. Louis (county equivalent),county_or_equivalent,20,15.833333333333,0.3166666666666709,97,MO,"St. Louis (county equivalent), MO"
+NSF,US_30031,Gallatin County,county_or_equivalent,11,9.5,0.19000000000000652,127,MT,"Gallatin, MT"
+NSF,US_30063,Missoula County,county_or_equivalent,12,9.5,0.19000000000000652,128,MT,"Missoula, MT"
+NSF,US_31055,Douglas County,county_or_equivalent,5,5.0,0.10000000000000343,163,NE,"Douglas, NE"
+NSF,US_31109,Lancaster County,county_or_equivalent,14,9.666666666666,0.19333333333332664,126,NE,"Lancaster, NE"
+NSF,US_32003,Clark County,county_or_equivalent,6,5.0,0.10000000000000343,164,NV,"Clark, NV"
+NSF,US_32031,Washoe County,county_or_equivalent,38,30.583333333333,0.6116666666666811,53,NV,"Washoe, NV"
+NSF,US_33005,Cheshire County,county_or_equivalent,1,0.333333333333,0.00666666666666023,343,NH,"Cheshire, NH"
+NSF,US_33009,Grafton County,county_or_equivalent,17,12.616666666666,0.25233333333332864,109,NH,"Grafton, NH"
+NSF,US_33013,Merrimack County,county_or_equivalent,2,2.0,0.040000000000001375,225,NH,"Merrimack, NH"
+NSF,US_33017,Strafford County,county_or_equivalent,28,18.066666666665,0.3613333333333124,87,NH,"Strafford, NH"
+NSF,US_34001,Atlantic County,county_or_equivalent,1,1.0,0.020000000000000687,288,NJ,"Atlantic, NJ"
+NSF,US_34007,Camden County,county_or_equivalent,3,2.25,0.045000000000001546,212,NJ,"Camden, NJ"
+NSF,US_34013,Essex County,county_or_equivalent,28,24.416666666666,0.48833333333333684,66,NJ,"Essex, NJ"
+NSF,US_34015,Gloucester County,county_or_equivalent,4,3.0,0.060000000000002066,192,NJ,"Gloucester, NJ"
+NSF,US_34017,Hudson County,county_or_equivalent,10,6.033333333333,0.12066666666666416,149,NJ,"Hudson, NJ"
+NSF,US_34019,Hunterdon County,county_or_equivalent,1,1.0,0.020000000000000687,289,NJ,"Hunterdon, NJ"
+NSF,US_34021,Mercer County,county_or_equivalent,40,33.059523809523,0.6611904761904827,41,NJ,"Mercer, NJ"
+NSF,US_34023,Middlesex County,county_or_equivalent,43,32.083333333331,0.641666666666642,43,NJ,"Middlesex, NJ"
+NSF,US_34035,Somerset County,county_or_equivalent,1,1.0,0.020000000000000687,290,NJ,"Somerset, NJ"
+NSF,US_34039,Union County,county_or_equivalent,1,1.0,0.020000000000000687,291,NJ,"Union, NJ"
+NSF,US_35001,Bernalillo County,county_or_equivalent,13,11.0,0.22000000000000755,117,NM,"Bernalillo, NM"
+NSF,US_35013,Doña Ana County,county_or_equivalent,11,9.833333333333,0.19666666666666674,125,NM,"Doña Ana, NM"
+NSF,US_35028,Los Alamos County,county_or_equivalent,3,3.0,0.060000000000002066,193,NM,"Los Alamos, NM"
+NSF,US_35053,Socorro County,county_or_equivalent,8,5.666666666666,0.1133333333333239,150,NM,"Socorro, NM"
+NSF,US_36001,Albany County,county_or_equivalent,13,9.033333333332,0.1806666666666462,130,NY,"Albany, NY"
+NSF,US_36007,Broome County,county_or_equivalent,10,8.833333333333,0.17666666666666606,136,NY,"Broome, NY"
+NSF,US_36015,Chemung County,county_or_equivalent,1,1.0,0.020000000000000687,292,NY,"Chemung, NY"
+NSF,US_36027,Dutchess County,county_or_equivalent,2,2.0,0.040000000000001375,226,NY,"Dutchess, NY"
+NSF,US_36029,Erie County,county_or_equivalent,47,40.533333333333,0.8106666666666879,35,NY,"Erie, NY"
+NSF,US_36047,Kings County,county_or_equivalent,10,10.0,0.20000000000000687,122,NY,"Kings, NY"
+NSF,US_36053,Madison County,county_or_equivalent,2,0.666666666667,0.013333333333340457,329,NY,"Madison, NY"
+NSF,US_36055,Monroe County,county_or_equivalent,18,14.249999999999,0.28499999999998976,103,NY,"Monroe, NY"
+NSF,US_36059,Nassau County,county_or_equivalent,2,2.0,0.040000000000001375,227,NY,"Nassau, NY"
+NSF,US_36061,New York County,county_or_equivalent,152,132.699999999996,2.6540000000000115,2,NY,"New York, NY"
+NSF,US_36065,Oneida County,county_or_equivalent,1,1.0,0.020000000000000687,293,NY,"Oneida, NY"
+NSF,US_36067,Onondaga County,county_or_equivalent,26,21.416666666666,0.42833333333333473,78,NY,"Onondaga, NY"
+NSF,US_36081,Queens County,county_or_equivalent,4,4.0,0.08000000000000275,175,NY,"Queens, NY"
+NSF,US_36083,Rensselaer County,county_or_equivalent,23,19.166666666666,0.38333333333333314,82,NY,"Rensselaer, NY"
+NSF,US_36085,Richmond County,county_or_equivalent,1,0.5,0.010000000000000344,334,NY,"Richmond, NY"
+NSF,US_36089,St. Lawrence County,county_or_equivalent,12,8.333333333333,0.1666666666666657,139,NY,"St. Lawrence, NY"
+NSF,US_36091,Saratoga County,county_or_equivalent,1,0.333333333333,0.00666666666666023,344,NY,"Saratoga, NY"
+NSF,US_36093,Schenectady County,county_or_equivalent,3,2.25,0.045000000000001546,213,NY,"Schenectady, NY"
+NSF,US_36103,Suffolk County,county_or_equivalent,33,24.444444444443,0.4888888888888768,65,NY,"Suffolk, NY"
+NSF,US_36109,Tompkins County,county_or_equivalent,64,57.25,1.1450000000000393,23,NY,"Tompkins, NY"
+NSF,US_36111,Ulster County,county_or_equivalent,2,1.5,0.030000000000001033,244,NY,"Ulster, NY"
+NSF,US_36119,Westchester County,county_or_equivalent,2,2.0,0.040000000000001375,228,NY,"Westchester, NY"
+NSF,US_37021,Buncombe County,county_or_equivalent,1,0.25,0.005000000000000172,350,NC,"Buncombe, NC"
+NSF,US_37031,Carteret County,county_or_equivalent,2,2.0,0.040000000000001375,229,NC,"Carteret, NC"
+NSF,US_37063,Durham County,county_or_equivalent,26,22.583333333333,0.4516666666666756,70,NC,"Durham, NC"
+NSF,US_37067,Forsyth County,county_or_equivalent,2,2.0,0.040000000000001375,230,NC,"Forsyth, NC"
+NSF,US_37081,Guilford County,county_or_equivalent,20,16.166666666666,0.3233333333333311,95,NC,"Guilford, NC"
+NSF,US_37119,Mecklenburg County,county_or_equivalent,19,16.999999999998998,0.33999999999999164,91,NC,"Mecklenburg, NC"
+NSF,US_37129,New Hanover County,county_or_equivalent,10,8.833333333333,0.17666666666666606,137,NC,"New Hanover, NC"
+NSF,US_37135,Orange County,county_or_equivalent,41,31.283333333331996,0.6256666666666614,48,NC,"Orange, NC"
+NSF,US_37147,Pitt County,county_or_equivalent,15,13.25,0.2650000000000091,107,NC,"Pitt, NC"
+NSF,US_37175,Transylvania County,county_or_equivalent,1,1.0,0.020000000000000687,294,NC,"Transylvania, NC"
+NSF,US_37183,Wake County,county_or_equivalent,52,40.416666666665,0.8083333333333278,36,NC,"Wake, NC"
+NSF,US_37189,Watauga County,county_or_equivalent,6,3.833333333333,0.07666666666666264,179,NC,"Watauga, NC"
+NSF,US_37191,Wayne County,county_or_equivalent,1,1.0,0.020000000000000687,295,NC,"Wayne, NC"
+NSF,US_38017,Cass County,county_or_equivalent,3,2.0,0.040000000000001375,231,ND,"Cass, ND"
+NSF,US_38035,Grand Forks County,county_or_equivalent,3,2.5,0.05000000000000172,205,ND,"Grand Forks, ND"
+NSF,US_39009,Athens County,county_or_equivalent,2,0.9999999999999998,0.02000000000000068,328,OH,"Athens, OH"
+NSF,US_39017,Butler County,county_or_equivalent,1,1.0,0.020000000000000687,296,OH,"Butler, OH"
+NSF,US_39035,Cuyahoga County,county_or_equivalent,17,14.666666666666,0.29333333333333006,100,OH,"Cuyahoga, OH"
+NSF,US_39049,Franklin County,county_or_equivalent,52,41.033333333331996,0.8206666666666681,33,OH,"Franklin, OH"
+NSF,US_39061,Hamilton County,county_or_equivalent,14,12.333333333333,0.2466666666666685,113,OH,"Hamilton, OH"
+NSF,US_39089,Licking County,county_or_equivalent,1,1.0,0.020000000000000687,297,OH,"Licking, OH"
+NSF,US_39093,Lorain County,county_or_equivalent,6,5.5,0.11000000000000378,152,OH,"Lorain, OH"
+NSF,US_39095,Lucas County,county_or_equivalent,4,3.0,0.060000000000002066,194,OH,"Lucas, OH"
+NSF,US_39113,Montgomery County,county_or_equivalent,6,3.866666666667,0.07733333333334266,178,OH,"Montgomery, OH"
+NSF,US_39133,Portage County,county_or_equivalent,5,4.0,0.08000000000000275,176,OH,"Portage, OH"
+NSF,US_39153,Summit County,county_or_equivalent,5,5.0,0.10000000000000343,165,OH,"Summit, OH"
+NSF,US_39173,Wood County,county_or_equivalent,1,1.0,0.020000000000000687,298,OH,"Wood, OH"
+NSF,US_40027,Cleveland County,county_or_equivalent,27,21.638888888887998,0.43277777777777476,74,OK,"Cleveland, OK"
+NSF,US_40109,Oklahoma County,county_or_equivalent,2,2.0,0.040000000000001375,232,OK,"Oklahoma, OK"
+NSF,US_40119,Payne County,county_or_equivalent,16,10.666666666665,0.21333333333330734,120,OK,"Payne, OK"
+NSF,US_40143,Tulsa County,county_or_equivalent,1,0.5,0.010000000000000344,335,OK,"Tulsa, OK"
+NSF,US_41003,Benton County,county_or_equivalent,83,64.999999999997,1.2999999999999847,18,OR,"Benton, OR"
+NSF,US_41017,Deschutes County,county_or_equivalent,1,1.0,0.020000000000000687,299,OR,"Deschutes, OR"
+NSF,US_41029,Jackson County,county_or_equivalent,1,1.0,0.020000000000000687,300,OR,"Jackson, OR"
+NSF,US_41039,Lane County,county_or_equivalent,25,21.476190476189,0.42952380952379476,77,OR,"Lane, OR"
+NSF,US_41047,Marion County,county_or_equivalent,2,2.0,0.040000000000001375,233,OR,"Marion, OR"
+NSF,US_41051,Multnomah County,county_or_equivalent,42,31.009523809522996,0.6201904761904813,51,OR,"Multnomah, OR"
+NSF,US_42003,Allegheny County,county_or_equivalent,70,59.449999999998,1.189000000000001,21,PA,"Allegheny, PA"
+NSF,US_42019,Butler County,county_or_equivalent,1,1.0,0.020000000000000687,301,PA,"Butler, PA"
+NSF,US_42027,Centre County,county_or_equivalent,91,71.111111111108,1.422222222222209,14,PA,"Centre, PA"
+NSF,US_42029,Chester County,county_or_equivalent,3,2.333333333333,0.0466666666666616,209,PA,"Chester, PA"
+NSF,US_42061,Huntingdon County,county_or_equivalent,1,0.333333333333,0.00666666666666023,345,PA,"Huntingdon, PA"
+NSF,US_42063,Indiana County,county_or_equivalent,1,0.5,0.010000000000000344,336,PA,"Indiana, PA"
+NSF,US_42071,Lancaster County,county_or_equivalent,2,1.333333333333,0.026666666666660916,249,PA,"Lancaster, PA"
+NSF,US_42077,Lehigh County,county_or_equivalent,1,1.0,0.020000000000000687,302,PA,"Lehigh, PA"
+NSF,US_42091,Montgomery County,county_or_equivalent,9,8.5,0.17000000000000584,138,PA,"Montgomery, PA"
+NSF,US_42095,Northampton County,county_or_equivalent,13,10.833333333333,0.21666666666666745,118,PA,"Northampton, PA"
+NSF,US_42101,Philadelphia County,county_or_equivalent,54,44.333333333333,0.8866666666666906,31,PA,"Philadelphia, PA"
+NSF,US_44001,Bristol County,county_or_equivalent,1,1.0,0.020000000000000687,303,RI,"Bristol, RI"
+NSF,US_44003,Kent County,county_or_equivalent,18,18.0,0.36000000000001237,88,RI,"Kent, RI"
+NSF,US_44007,Providence County,county_or_equivalent,21,17.366666666666,0.34733333333333194,90,RI,"Providence, RI"
+NSF,US_44009,Washington County,county_or_equivalent,22,16.249999999998998,0.32499999999999113,94,RI,"Washington, RI"
+NSF,US_45019,Charleston County,county_or_equivalent,3,2.333333333333,0.0466666666666616,210,SC,"Charleston, SC"
+NSF,US_45051,Horry County,county_or_equivalent,5,2.833333333333,0.05666666666666195,197,SC,"Horry, SC"
+NSF,US_45063,Lexington County,county_or_equivalent,1,1.0,0.020000000000000687,304,SC,"Lexington, SC"
+NSF,US_45077,Pickens County,county_or_equivalent,28,22.166666666666,0.44333333333333524,73,SC,"Pickens, SC"
+NSF,US_45079,Richland County,county_or_equivalent,22,18.083333333333,0.36166666666667246,86,SC,"Richland, SC"
+NSF,US_46011,Brookings County,county_or_equivalent,8,5.249999999999,0.1049999999999836,158,SD,"Brookings, SD"
+NSF,US_46103,Pennington County,county_or_equivalent,8,7.0,0.14000000000000482,146,SD,"Pennington, SD"
+NSF,US_47001,Anderson County,county_or_equivalent,1,0.25,0.005000000000000172,351,TN,"Anderson, TN"
+NSF,US_47037,Davidson County,county_or_equivalent,32,22.833333333332,0.4566666666666557,69,TN,"Davidson, TN"
+NSF,US_47065,Hamilton County,county_or_equivalent,3,2.0,0.040000000000001375,234,TN,"Hamilton, TN"
+NSF,US_47093,Knox County,county_or_equivalent,35,30.666666666666,0.6133333333333411,52,TN,"Knox, TN"
+NSF,US_47105,Loudon County,county_or_equivalent,1,1.0,0.020000000000000687,305,TN,"Loudon, TN"
+NSF,US_47141,Putnam County,county_or_equivalent,3,3.0,0.060000000000002066,195,TN,"Putnam, TN"
+NSF,US_47157,Shelby County,county_or_equivalent,7,5.333333333333,0.10666666666666366,154,TN,"Shelby, TN"
+NSF,US_48029,Bexar County,county_or_equivalent,18,14.416666666666,0.2883333333333299,101,TX,"Bexar, TX"
+NSF,US_48041,Brazos County,county_or_equivalent,110,86.361111111108,1.7272222222222193,8,TX,"Brazos, TX"
+NSF,US_48113,Dallas County,county_or_equivalent,20,15.866666666666,0.3173333333333309,96,TX,"Dallas, TX"
+NSF,US_48121,Denton County,county_or_equivalent,16,10.666666666666,0.21333333333332732,119,TX,"Denton, TX"
+NSF,US_48141,El Paso County,county_or_equivalent,16,12.583333333333,0.25166666666666865,110,TX,"El Paso, TX"
+NSF,US_48143,Erath County,county_or_equivalent,1,1.0,0.020000000000000687,306,TX,"Erath, TX"
+NSF,US_48167,Galveston County,county_or_equivalent,1,1.0,0.020000000000000687,307,TX,"Galveston, TX"
+NSF,US_48201,Harris County,county_or_equivalent,72,56.699999999999,1.134000000000019,24,TX,"Harris, TX"
+NSF,US_48209,Hays County,county_or_equivalent,11,10.0,0.20000000000000687,123,TX,"Hays, TX"
+NSF,US_48215,Hidalgo County,county_or_equivalent,1,0.333333333333,0.00666666666666023,346,TX,"Hidalgo, TX"
+NSF,US_48245,Jefferson County,county_or_equivalent,1,0.5,0.010000000000000344,337,TX,"Jefferson, TX"
+NSF,US_48273,Kleberg County,county_or_equivalent,2,1.0,0.020000000000000687,308,TX,"Kleberg, TX"
+NSF,US_48303,Lubbock County,county_or_equivalent,28,21.027777777777,0.42055555555555446,79,TX,"Lubbock, TX"
+NSF,US_48309,McLennan County,county_or_equivalent,7,5.333333333333,0.10666666666666366,155,TX,"McLennan, TX"
+NSF,US_48355,Nueces County,county_or_equivalent,12,9.333333333333,0.1866666666666664,129,TX,"Nueces, TX"
+NSF,US_48381,Randall County,county_or_equivalent,3,1.833333333333,0.03666666666666126,240,TX,"Randall, TX"
+NSF,US_48423,Smith County,county_or_equivalent,2,1.5,0.030000000000001033,245,TX,"Smith, TX"
+NSF,US_48439,Tarrant County,county_or_equivalent,15,11.416666666667,0.22833333333334785,116,TX,"Tarrant, TX"
+NSF,US_48451,Tom Green County,county_or_equivalent,1,1.0,0.020000000000000687,309,TX,"Tom Green, TX"
+NSF,US_48453,Travis County,county_or_equivalent,89,65.083333333329,1.3016666666666246,17,TX,"Travis, TX"
+NSF,US_48471,Walker County,county_or_equivalent,1,1.0,0.020000000000000687,310,TX,"Walker, TX"
+NSF,US_48473,Waller County,county_or_equivalent,2,2.0,0.040000000000001375,235,TX,"Waller, TX"
+NSF,US_49005,Cache County,county_or_equivalent,21,13.392857142856,0.26785714285712925,106,UT,"Cache, UT"
+NSF,US_49011,Davis County,county_or_equivalent,1,1.0,0.020000000000000687,311,UT,"Davis, UT"
+NSF,US_49035,Salt Lake County,county_or_equivalent,42,37.166666666666,0.7433333333333457,38,UT,"Salt Lake, UT"
+NSF,US_49049,Utah County,county_or_equivalent,8,4.416666666666,0.08833333333332304,168,UT,"Utah, UT"
+NSF,US_49057,Weber County,county_or_equivalent,1,1.0,0.020000000000000687,312,UT,"Weber, UT"
+NSF,US_50001,Addison County,county_or_equivalent,3,2.5,0.05000000000000172,206,VT,"Addison, VT"
+NSF,US_50003,Bennington County,county_or_equivalent,2,1.333333333333,0.026666666666660916,250,VT,"Bennington, VT"
+NSF,US_50007,Chittenden County,county_or_equivalent,17,12.499999999999,0.2499999999999886,112,VT,"Chittenden, VT"
+NSF,US_50023,Washington County,county_or_equivalent,1,0.5,0.010000000000000344,338,VT,"Washington, VT"
+NSF,US_50025,Windham County,county_or_equivalent,1,1.0,0.020000000000000687,313,VT,"Windham, VT"
+NSF,US_51013,Arlington County,county_or_equivalent,1,1.0,0.020000000000000687,314,VA,"Arlington, VA"
+NSF,US_51059,Fairfax County,county_or_equivalent,3,3.0,0.060000000000002066,196,VA,"Fairfax, VA"
+NSF,US_51073,Gloucester County,county_or_equivalent,11,7.499999999999,0.14999999999998515,144,VA,"Gloucester, VA"
+NSF,US_51085,Hanover County,county_or_equivalent,1,1.0,0.020000000000000687,315,VA,"Hanover, VA"
+NSF,US_51121,Montgomery County,county_or_equivalent,70,53.869047619044,1.077380952380917,25,VA,"Montgomery, VA"
+NSF,US_51125,Nelson County,county_or_equivalent,1,1.0,0.020000000000000687,316,VA,"Nelson, VA"
+NSF,US_51131,Northampton County,county_or_equivalent,1,1.0,0.020000000000000687,317,VA,"Northampton, VA"
+NSF,US_51147,Prince Edward County,county_or_equivalent,1,1.0,0.020000000000000687,318,VA,"Prince Edward, VA"
+NSF,US_51179,Stafford County,county_or_equivalent,2,2.0,0.040000000000001375,236,VA,"Stafford, VA"
+NSF,US_51510,Alexandria (county equivalent),county_or_equivalent,1,1.0,0.020000000000000687,319,VA,"Alexandria (county equivalent), VA"
+NSF,US_51540,Charlottesville (county equivalent),county_or_equivalent,27,22.42619047619,0.44852380952381543,71,VA,"Charlottesville (county equivalent), VA"
+NSF,US_51600,Fairfax (county equivalent),county_or_equivalent,25,23.333333333333,0.4666666666666761,68,VA,"Fairfax (county equivalent), VA"
+NSF,US_51660,Harrisonburg (county equivalent),county_or_equivalent,1,1.0,0.020000000000000687,320,VA,"Harrisonburg (county equivalent), VA"
+NSF,US_51683,Manassas (county equivalent),county_or_equivalent,1,0.25,0.005000000000000172,352,VA,"Manassas (county equivalent), VA"
+NSF,US_51710,Norfolk (county equivalent),county_or_equivalent,13,8.249999999999,0.16499999999998566,140,VA,"Norfolk (county equivalent), VA"
+NSF,US_51760,Richmond (county equivalent),county_or_equivalent,4,3.5,0.07000000000000241,182,VA,"Richmond (county equivalent), VA"
+NSF,US_51830,Williamsburg (county equivalent),county_or_equivalent,4,3.333333333333,0.0666666666666623,185,VA,"Williamsburg (county equivalent), VA"
+NSF,US_53011,Clark County,county_or_equivalent,1,1.0,0.020000000000000687,321,WA,"Clark, WA"
+NSF,US_53033,King County,county_or_equivalent,149,120.61666666666501,2.412333333333383,5,WA,"King, WA"
+NSF,US_53035,Kitsap County,county_or_equivalent,1,1.0,0.020000000000000687,322,WA,"Kitsap, WA"
+NSF,US_53037,Kittitas County,county_or_equivalent,4,2.666666666667,0.05333333333334183,199,WA,"Kittitas, WA"
+NSF,US_53057,Skagit County,county_or_equivalent,1,1.0,0.020000000000000687,323,WA,"Skagit, WA"
+NSF,US_53063,Spokane County,county_or_equivalent,2,2.0,0.040000000000001375,237,WA,"Spokane, WA"
+NSF,US_53067,Thurston County,county_or_equivalent,2,1.5,0.030000000000001033,246,WA,"Thurston, WA"
+NSF,US_53071,Walla Walla County,county_or_equivalent,1,0.5,0.010000000000000344,339,WA,"Walla Walla, WA"
+NSF,US_53073,Whatcom County,county_or_equivalent,5,3.5,0.07000000000000241,183,WA,"Whatcom, WA"
+NSF,US_53075,Whitman County,county_or_equivalent,25,18.75,0.3750000000000129,83,WA,"Whitman, WA"
+NSF,US_54053,Mason County,county_or_equivalent,1,1.0,0.020000000000000687,324,WV,"Mason, WV"
+NSF,US_54061,Monongalia County,county_or_equivalent,14,11.892857142857,0.2378571428571482,114,WV,"Monongalia, WV"
+NSF,US_55025,Dane County,county_or_equivalent,58,47.033333333330994,0.9406666666666522,30,WI,"Dane, WI"
+NSF,US_55033,Dunn County,county_or_equivalent,2,2.0,0.040000000000001375,238,WI,"Dunn, WI"
+NSF,US_55035,Eau Claire County,county_or_equivalent,1,0.5,0.010000000000000344,340,WI,"Eau Claire, WI"
+NSF,US_55043,Grant County,county_or_equivalent,2,1.5,0.030000000000001033,247,WI,"Grant, WI"
+NSF,US_55079,Milwaukee County,county_or_equivalent,28,26.166666666666,0.523333333333338,63,WI,"Milwaukee, WI"
+NSF,US_55133,Waukesha County,county_or_equivalent,1,1.0,0.020000000000000687,325,WI,"Waukesha, WI"
+NSF,US_56001,Albany County,county_or_equivalent,10,6.7777777777770005,0.13555555555554466,147,WY,"Albany, WY"
+NSF,US_56033,Sheridan County,county_or_equivalent,1,1.0,0.020000000000000687,326,WY,"Sheridan, WY"
+NSF,US_72097,Mayagüez (county equivalent),county_or_equivalent,7,5.333333333333,0.10666666666666366,156,PR,"Mayagüez (county equivalent), PR"
+NSF,US_72113,Ponce (county equivalent),county_or_equivalent,1,1.0,0.020000000000000687,327,PR,"Ponce (county equivalent), PR"
+NSF,US_72127,San Juan (county equivalent),county_or_equivalent,3,2.5,0.05000000000000172,207,PR,"San Juan (county equivalent), PR"
+NSF,US_78030,St. Thomas (county equivalent),county_or_equivalent,4,1.25,0.02500000000000086,251,VI,"St. Thomas (county equivalent), VI"
+NSFC,CN_110000,Beijing,prefecture_or_equivalent,1219,1219.0,21.979805265055894,1,,Beijing
+NSFC,CN_120000,Tianjin,prefecture_or_equivalent,113,113.0,2.0375045077533356,10,,Tianjin
+NSFC,CN_130100,Shijiazhuang,prefecture_or_equivalent,20,20.0,0.36062026685899745,39,,Shijiazhuang
+NSFC,CN_130200,唐山,prefecture_or_equivalent,5,5.0,0.09015506671474936,61,,唐山
+NSFC,CN_130300,秦皇岛,prefecture_or_equivalent,4,4.0,0.0721240533717995,69,,秦皇岛
+NSFC,CN_130400,邯郸,prefecture_or_equivalent,5,5.0,0.09015506671474936,62,,邯郸
+NSFC,CN_130600,Baoding,prefecture_or_equivalent,9,9.0,0.16227912008654885,47,,Baoding
+NSFC,CN_130800,承德,prefecture_or_equivalent,1,1.0,0.018031013342949875,101,,承德
+NSFC,CN_131000,廊坊,prefecture_or_equivalent,3,3.0,0.05409304002884962,78,,廊坊
+NSFC,CN_140100,Taiyuan,prefecture_or_equivalent,24,24.0,0.43274432023079695,35,,Taiyuan
+NSFC,CN_140700,晋中,prefecture_or_equivalent,5,5.0,0.09015506671474936,63,,晋中
+NSFC,CN_150100,Hohhot,prefecture_or_equivalent,60,60.0,1.0818608005769925,24,,Hohhot
+NSFC,CN_150200,包头,prefecture_or_equivalent,2,2.0,0.03606202668589975,83,,包头
+NSFC,CN_150400,赤峰,prefecture_or_equivalent,1,1.0,0.018031013342949875,102,,赤峰
+NSFC,CN_150500,通辽,prefecture_or_equivalent,1,1.0,0.018031013342949875,103,,通辽
+NSFC,CN_210100,Shenyang,prefecture_or_equivalent,66,66.0,1.1900468806346918,21,,Shenyang
+NSFC,CN_210200,Dalian,prefecture_or_equivalent,65,65.0,1.1720158672917418,22,,Dalian
+NSFC,CN_210700,锦州,prefecture_or_equivalent,2,2.0,0.03606202668589975,84,,锦州
+NSFC,CN_220100,Changchun,prefecture_or_equivalent,83,83.0,1.4965741074648395,17,,Changchun
+NSFC,CN_220200,吉林,prefecture_or_equivalent,2,2.0,0.03606202668589975,85,,吉林
+NSFC,CN_220300,四平,prefecture_or_equivalent,3,3.0,0.05409304002884962,79,,四平
+NSFC,CN_222400,延吉,prefecture_or_equivalent,8,8.0,0.144248106743599,49,,延吉
+NSFC,CN_230100,Harbin,prefecture_or_equivalent,97,97.0,1.7490082942661378,12,,Harbin
+NSFC,CN_230600,大庆,prefecture_or_equivalent,1,1.0,0.018031013342949875,104,,大庆
+NSFC,CN_310000,Shanghai,prefecture_or_equivalent,336,336.0,6.058420483231157,4,,Shanghai
+NSFC,CN_320100,Nanjing,prefecture_or_equivalent,546,546.0,9.844933285250631,2,,Nanjing
+NSFC,CN_320200,Wuxi,prefecture_or_equivalent,1,1.0,0.018031013342949875,105,,Wuxi
+NSFC,CN_320300,徐州,prefecture_or_equivalent,50,50.0,0.9015506671474937,27,,徐州
+NSFC,CN_320400,常州,prefecture_or_equivalent,1,1.0,0.018031013342949875,106,,常州
+NSFC,CN_320500,Suzhou,prefecture_or_equivalent,37,37.0,0.6671474936891453,31,,Suzhou
+NSFC,CN_320600,南通,prefecture_or_equivalent,8,8.0,0.144248106743599,50,,南通
+NSFC,CN_320800,淮阴,prefecture_or_equivalent,5,5.0,0.09015506671474936,64,,淮阴
+NSFC,CN_320900,盐城,prefecture_or_equivalent,2,2.0,0.03606202668589975,86,,盐城
+NSFC,CN_321000,扬州,prefecture_or_equivalent,7,7.0,0.12621709340064913,53,,扬州
+NSFC,CN_321100,镇江,prefecture_or_equivalent,13,13.0,0.23440317345834835,42,,镇江
+NSFC,CN_330100,Hangzhou,prefecture_or_equivalent,154,154.0,2.7767760548142806,8,,Hangzhou
+NSFC,CN_330200,宁波,prefecture_or_equivalent,20,20.0,0.36062026685899745,40,,宁波
+NSFC,CN_330300,温州,prefecture_or_equivalent,2,2.0,0.03606202668589975,87,,温州
+NSFC,CN_330500,湖州,prefecture_or_equivalent,1,1.0,0.018031013342949875,107,,湖州
+NSFC,CN_330600,绍兴,prefecture_or_equivalent,1,1.0,0.018031013342949875,108,,绍兴
+NSFC,CN_330700,金华,prefecture_or_equivalent,8,8.0,0.144248106743599,51,,金华
+NSFC,CN_330900,舟山,prefecture_or_equivalent,4,4.0,0.0721240533717995,70,,舟山
+NSFC,CN_331000,台州,prefecture_or_equivalent,1,1.0,0.018031013342949875,109,,台州
+NSFC,CN_340100,Hefei,prefecture_or_equivalent,57,57.0,1.0277677605481428,26,,Hefei
+NSFC,CN_340200,芜湖,prefecture_or_equivalent,13,13.0,0.23440317345834835,43,,芜湖
+NSFC,CN_340300,蚌埠,prefecture_or_equivalent,2,2.0,0.03606202668589975,88,,蚌埠
+NSFC,CN_340400,淮南,prefecture_or_equivalent,4,4.0,0.0721240533717995,71,,淮南
+NSFC,CN_340500,马鞍山,prefecture_or_equivalent,5,5.0,0.09015506671474936,65,,马鞍山
+NSFC,CN_340600,淮北,prefecture_or_equivalent,2,2.0,0.03606202668589975,89,,淮北
+NSFC,CN_341000,黄山,prefecture_or_equivalent,1,1.0,0.018031013342949875,110,,黄山
+NSFC,CN_341100,滁州,prefecture_or_equivalent,2,2.0,0.03606202668589975,90,,滁州
+NSFC,CN_341300,宿州,prefecture_or_equivalent,1,1.0,0.018031013342949875,111,,宿州
+NSFC,CN_350100,Fuzhou,prefecture_or_equivalent,40,40.0,0.7212405337179949,28,,Fuzhou
+NSFC,CN_350200,Xiamen,prefecture_or_equivalent,68,68.0,1.2261089073205915,20,,Xiamen
+NSFC,CN_350500,泉州,prefecture_or_equivalent,11,11.0,0.1983411467724486,45,,泉州
+NSFC,CN_360100,Nanchang,prefecture_or_equivalent,75,75.0,1.3523260007212405,18,,Nanchang
+NSFC,CN_360700,赣州,prefecture_or_equivalent,7,7.0,0.12621709340064913,54,,赣州
+NSFC,CN_360900,宜春,prefecture_or_equivalent,1,1.0,0.018031013342949875,112,,宜春
+NSFC,CN_361100,上饶,prefecture_or_equivalent,1,1.0,0.018031013342949875,113,,上饶
+NSFC,CN_370100,Jinan,prefecture_or_equivalent,60,60.0,1.0818608005769925,25,,Jinan
+NSFC,CN_370200,Qingdao,prefecture_or_equivalent,69,69.0,1.2441399206635413,19,,Qingdao
+NSFC,CN_370300,淄博,prefecture_or_equivalent,8,8.0,0.144248106743599,52,,淄博
+NSFC,CN_370600,烟台,prefecture_or_equivalent,21,21.0,0.3786512802019473,37,,烟台
+NSFC,CN_370800,曲阜,prefecture_or_equivalent,6,6.0,0.10818608005769924,55,,曲阜
+NSFC,CN_370900,泰安,prefecture_or_equivalent,3,3.0,0.05409304002884962,80,,泰安
+NSFC,CN_371300,临沂,prefecture_or_equivalent,4,4.0,0.0721240533717995,72,,临沂
+NSFC,CN_410100,Zhengzhou,prefecture_or_equivalent,61,61.0,1.0998918139199423,23,,Zhengzhou
+NSFC,CN_410200,开封,prefecture_or_equivalent,21,21.0,0.3786512802019473,38,,开封
+NSFC,CN_410400,平顶山,prefecture_or_equivalent,1,1.0,0.018031013342949875,114,,平顶山
+NSFC,CN_410700,新乡,prefecture_or_equivalent,6,6.0,0.10818608005769924,56,,新乡
+NSFC,CN_410800,焦作,prefecture_or_equivalent,6,6.0,0.10818608005769924,57,,焦作
+NSFC,CN_411000,许昌,prefecture_or_equivalent,1,1.0,0.018031013342949875,115,,许昌
+NSFC,CN_411300,南阳,prefecture_or_equivalent,1,1.0,0.018031013342949875,116,,南阳
+NSFC,CN_411500,信阳,prefecture_or_equivalent,6,6.0,0.10818608005769924,58,,信阳
+NSFC,CN_420100,Wuhan,prefecture_or_equivalent,338,338.0,6.094482509917057,3,,Wuhan
+NSFC,CN_420500,宜昌,prefecture_or_equivalent,5,5.0,0.09015506671474936,66,,宜昌
+NSFC,CN_420600,襄阳,prefecture_or_equivalent,2,2.0,0.03606202668589975,91,,襄阳
+NSFC,CN_421000,荆州,prefecture_or_equivalent,2,2.0,0.03606202668589975,92,,荆州
+NSFC,CN_422800,恩施,prefecture_or_equivalent,1,1.0,0.018031013342949875,117,,恩施
+NSFC,CN_430100,Changsha,prefecture_or_equivalent,92,92.0,1.6588532275513883,14,,Changsha
+NSFC,CN_430300,湘潭,prefecture_or_equivalent,11,11.0,0.1983411467724486,46,,湘潭
+NSFC,CN_430400,衡阳,prefecture_or_equivalent,1,1.0,0.018031013342949875,118,,衡阳
+NSFC,CN_430600,岳阳,prefecture_or_equivalent,1,1.0,0.018031013342949875,119,,岳阳
+NSFC,CN_430700,常德,prefecture_or_equivalent,2,2.0,0.03606202668589975,93,,常德
+NSFC,CN_433100,吉首,prefecture_or_equivalent,4,4.0,0.0721240533717995,73,,吉首
+NSFC,CN_440100,Guangzhou,prefecture_or_equivalent,334,334.0,6.022358456545258,5,,Guangzhou
+NSFC,CN_440300,Shenzhen,prefecture_or_equivalent,94,94.0,1.694915254237288,13,,Shenzhen
+NSFC,CN_440400,珠海,prefecture_or_equivalent,1,1.0,0.018031013342949875,120,,珠海
+NSFC,CN_440500,汕头,prefecture_or_equivalent,4,4.0,0.0721240533717995,74,,汕头
+NSFC,CN_440600,佛山,prefecture_or_equivalent,2,2.0,0.03606202668589975,94,,佛山
+NSFC,CN_440800,湛江,prefecture_or_equivalent,2,2.0,0.03606202668589975,95,,湛江
+NSFC,CN_441900,东莞,prefecture_or_equivalent,5,5.0,0.09015506671474936,67,,东莞
+NSFC,CN_450100,Nanning,prefecture_or_equivalent,40,40.0,0.7212405337179949,29,,Nanning
+NSFC,CN_450300,桂林,prefecture_or_equivalent,26,26.0,0.4688063469166967,33,,桂林
+NSFC,CN_450700,钦州,prefecture_or_equivalent,2,2.0,0.03606202668589975,96,,钦州
+NSFC,CN_450900,玉林,prefecture_or_equivalent,1,1.0,0.018031013342949875,121,,玉林
+NSFC,CN_460100,海口,prefecture_or_equivalent,25,25.0,0.45077533357374683,34,,海口
+NSFC,CN_460200,三亚,prefecture_or_equivalent,2,2.0,0.03606202668589975,97,,三亚
+NSFC,CN_460400,儋州,prefecture_or_equivalent,2,2.0,0.03606202668589975,98,,儋州
+NSFC,CN_500000,Chongqing,prefecture_or_equivalent,106,106.0,1.9112874143526866,11,,Chongqing
+NSFC,CN_510100,Chengdu,prefecture_or_equivalent,140,140.0,2.5243418680129825,9,,Chengdu
+NSFC,CN_510700,绵阳,prefecture_or_equivalent,6,6.0,0.10818608005769924,59,,绵阳
+NSFC,CN_511300,南充,prefecture_or_equivalent,4,4.0,0.0721240533717995,75,,南充
+NSFC,CN_511800,雅安,prefecture_or_equivalent,6,6.0,0.10818608005769924,60,,雅安
+NSFC,CN_520100,Guiyang,prefecture_or_equivalent,39,39.0,0.703209520375045,30,,Guiyang
+NSFC,CN_520300,遵义,prefecture_or_equivalent,1,1.0,0.018031013342949875,122,,遵义
+NSFC,CN_520600,铜仁,prefecture_or_equivalent,1,1.0,0.018031013342949875,123,,铜仁
+NSFC,CN_530100,Kunming,prefecture_or_equivalent,86,86.0,1.550667147493689,15,,Kunming
+NSFC,CN_530300,曲靖,prefecture_or_equivalent,2,2.0,0.03606202668589975,99,,曲靖
+NSFC,CN_530400,玉溪,prefecture_or_equivalent,3,3.0,0.05409304002884962,81,,玉溪
+NSFC,CN_532800,西双版纳,prefecture_or_equivalent,12,12.0,0.21637216011539848,44,,西双版纳
+NSFC,CN_532900,大理,prefecture_or_equivalent,3,3.0,0.05409304002884962,82,,大理
+NSFC,CN_540100,拉萨,prefecture_or_equivalent,5,5.0,0.09015506671474936,68,,拉萨
+NSFC,CN_540400,林芝,prefecture_or_equivalent,4,4.0,0.0721240533717995,76,,林芝
+NSFC,CN_610100,Xi'an,prefecture_or_equivalent,204,204.0,3.678326721961774,6,,Xi'an
+NSFC,CN_610300,宝鸡,prefecture_or_equivalent,4,4.0,0.0721240533717995,77,,宝鸡
+NSFC,CN_610400,Yangling,prefecture_or_equivalent,36,36.0,0.6491164803461954,32,,Yangling
+NSFC,CN_610600,延安,prefecture_or_equivalent,2,2.0,0.03606202668589975,100,,延安
+NSFC,CN_620100,Lanzhou,prefecture_or_equivalent,183,183.0,3.299675441759827,7,,Lanzhou
+NSFC,CN_623000,合作,prefecture_or_equivalent,1,1.0,0.018031013342949875,124,,合作
+NSFC,CN_630100,西宁,prefecture_or_equivalent,18,18.0,0.3245582401730977,41,,西宁
+NSFC,CN_640100,银川,prefecture_or_equivalent,24,24.0,0.43274432023079695,36,,银川
+NSFC,CN_650100,乌鲁木齐,prefecture_or_equivalent,86,86.0,1.550667147493689,16,,乌鲁木齐
+NSFC,CN_659001,石河子,prefecture_or_equivalent,9,9.0,0.16227912008654885,48,,石河子
+NSFC,CN_659002,阿拉尔,prefecture_or_equivalent,1,1.0,0.018031013342949875,125,,阿拉尔
+NSFC,CN_810000,香港,prefecture_or_equivalent,1,1.0,0.018031013342949875,126,,香港

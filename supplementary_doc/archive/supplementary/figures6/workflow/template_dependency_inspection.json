@@ -1,0 +1,60 @@
+{
+  "success": true,
+  "dependency_inspection": {
+    "success": true,
+    "template_code_path": "C:\\Users\\19392\\.codex\\skills\\modelviz-skill\\templates\\09_REL_relationship_correlation\\09_REL_010\\分组相关性气泡矩阵.py",
+    "required_dependencies": [
+      {
+        "import_name": "matplotlib",
+        "package_name": "matplotlib",
+        "source": [
+          "ast"
+        ]
+      },
+      {
+        "import_name": "numpy",
+        "package_name": "numpy",
+        "source": [
+          "ast"
+        ]
+      },
+      {
+        "import_name": "pandas",
+        "package_name": "pandas",
+        "source": [
+          "ast"
+        ]
+      },
+      {
+        "import_name": "scipy",
+        "package_name": "scipy",
+        "source": [
+          "ast"
+        ]
+      },
+      {
+        "import_name": "statsmodels",
+        "package_name": "statsmodels",
+        "source": [
+          "ast"
+        ]
+      },
+      {
+        "import_name": "PIL",
+        "package_name": "Pillow",
+        "source": [
+          "ast"
+        ]
+      }
+    ],
+    "unresolved_dependencies": [],
+    "stdlib_dependencies": [
+      "os",
+      "pathlib",
+      "shutil",
+      "logging"
+    ],
+    "internal_modules": [],
+    "warnings": []
+  }
+}

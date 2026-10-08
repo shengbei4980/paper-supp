@@ -1,0 +1,458 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:ns4="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="518.4pt" height="291.6pt" viewBox="0 0 518.4 291.6" version="1.1">
+ <metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:date>2026-09-16T18:14:59.360507</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 291.6  L 518.4 291.6  L 518.4 0  L 0 0  z " style="fill: #ffffff" />
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 62.208 235.6128  L 492.48 235.6128  L 492.48 66.1932  L 62.208 66.1932  z " style="fill: #ffffff" />
+   </g>
+   <g id="line2d_1">
+    <path d="M 62.208 235.6128  L 62.208 66.1932  " clip-path="url(#p824baaab70)" style="fill: none; stroke: #e7ecef; stroke-width: 0.45; stroke-linecap: square" />
+   </g>
+   <g id="line2d_2">
+    <path d="M 169.776 235.6128  L 169.776 66.1932  " clip-path="url(#p824baaab70)" style="fill: none; stroke: #e7ecef; stroke-width: 0.45; stroke-linecap: square" />
+   </g>
+   <g id="line2d_3">
+    <path d="M 384.912 235.6128  L 384.912 66.1932  " clip-path="url(#p824baaab70)" style="fill: none; stroke: #e7ecef; stroke-width: 0.45; stroke-linecap: square" />
+   </g>
+   <g id="line2d_4">
+    <path d="M 492.48 235.6128  L 492.48 66.1932  " clip-path="url(#p824baaab70)" style="fill: none; stroke: #e7ecef; stroke-width: 0.45; stroke-linecap: square" />
+   </g>
+   <g id="line2d_5">
+    <path d="M 277.344 235.6128  L 277.344 66.1932  " clip-path="url(#p824baaab70)" style="fill: none; stroke-dasharray: 2.1,2.1; stroke-dashoffset: 0; stroke: #89969e; stroke-width: 0.7" />
+   </g>
+   <g id="line2d_6">
+    <path d="M 136.771265 75.146268  L 317.644724 75.146268  " clip-path="url(#p824baaab70)" style="fill: none; stroke: #c9d1d6; stroke-width: 0.6; stroke-linecap: square" />
+   </g>
+   <g id="line2d_7">
+    <path d="M 143.259974 88.92022  L 357.376043 88.92022  " clip-path="url(#p824baaab70)" style="fill: none; stroke: #c9d1d6; stroke-width: 0.6; stroke-linecap: square" />
+   </g>
+   <g id="line2d_8">
+    <path d="M 132.425118 102.694171  L 333.209201 102.694171  " clip-path="url(#p824baaab70)" style="fill: none; stroke: #c9d1d6; stroke-width: 0.6; stroke-linecap: square" />
+   </g>
+   <g id="line2d_9">
+    <path d="M 151.774964 116.468122  L 331.332848 116.468122  " clip-path="url(#p824baaab70)" style="fill: none; stroke: #c9d1d6; stroke-width: 0.6; stroke-linecap: square" />
+   </g>
+   <g id="line2d_10">
+    <path d="M 146.947758 130.242073  L 335.209006 130.242073  " clip-path="url(#p824baaab70)" style="fill: none; stroke: #c9d1d6; stroke-width: 0.6; stroke-linecap: square" />
+   </g>
+   <g id="line2d_11">
+    <path d="M 156.526343 144.016024  L 351.824135 144.016024  " clip-path="url(#p824baaab70)" style="fill: none; stroke: #c9d1d6; stroke-width: 0.6; stroke-linecap: square" />
+   </g>
+   <g id="line2d_12">
+    <path d="M 162.397804 157.789976  L 356.42532 157.789976  " clip-path="url(#p824baaab70)" style="fill: none; stroke: #c9d1d6; stroke-width: 0.6; stroke-linecap: square" />
+   </g>
+   <g id="line2d_13">
+    <path d="M 154.867501 171.563927  L 331.516111 171.563927  " clip-path="url(#p824baaab70)" style="fill: none; stroke: #c9d1d6; stroke-width: 0.6; stroke-linecap: square" />
+   </g>
+   <g id="line2d_14">
+    <path d="M 178.27703 185.337878  L 357.517794 185.337878  " clip-path="url(#p824baaab70)" style="fill: none; stroke: #c9d1d6; stroke-width: 0.6; stroke-linecap: square" />
+   </g>
+   <g id="line2d_15">
+    <path d="M 133.529672 199.111829  L 297.429429 199.111829  " clip-path="url(#p824baaab70)" style="fill: none; stroke: #c9d1d6; stroke-width: 0.6; stroke-linecap: square" />
+   </g>
+   <g id="line2d_16">
+    <path d="M 143.930142 212.88578  L 335.61 212.88578  " clip-path="url(#p824baaab70)" style="fill: none; stroke: #c9d1d6; stroke-width: 0.6; stroke-linecap: square" />
+   </g>
+   <g id="line2d_17">
+    <path d="M 166.837257 226.659732  L 305.405217 226.659732  " clip-path="url(#p824baaab70)" style="fill: none; stroke: #c9d1d6; stroke-width: 0.6; stroke-linecap: square" />
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_18">
+      <defs>
+       <path id="me7c0741351" d="M 0 0  L 0 3  " style="stroke: #7e8992; stroke-width: 0.8" />
+      </defs>
+      <g>
+       <use ns4:href="#me7c0741351" x="62.208" y="235.6128" style="fill: #7e8992; stroke: #7e8992; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 7.3px; font-family: 'Arial'; text-anchor: middle" x="62.208" y="247.338003" transform="rotate(-0 62.208 247.338003)">0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_19">
+      <g>
+       <use ns4:href="#me7c0741351" x="169.776" y="235.6128" style="fill: #7e8992; stroke: #7e8992; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 7.3px; font-family: 'Arial'; text-anchor: middle" x="169.776" y="247.338003" transform="rotate(-0 169.776 247.338003)">25</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_20">
+      <g>
+       <use ns4:href="#me7c0741351" x="277.344" y="235.6128" style="fill: #7e8992; stroke: #7e8992; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 7.3px; font-family: 'Arial'; text-anchor: middle" x="277.344" y="247.338003" transform="rotate(-0 277.344 247.338003)">50</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_21">
+      <g>
+       <use ns4:href="#me7c0741351" x="384.912" y="235.6128" style="fill: #7e8992; stroke: #7e8992; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 7.3px; font-family: 'Arial'; text-anchor: middle" x="384.912" y="247.338003" transform="rotate(-0 384.912 247.338003)">75</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_22">
+      <g>
+       <use ns4:href="#me7c0741351" x="492.48" y="235.6128" style="fill: #7e8992; stroke: #7e8992; stroke-width: 0.8" />
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 7.3px; font-family: 'Arial'; text-anchor: middle" x="492.48" y="247.338003" transform="rotate(-0 492.48 247.338003)">100</text>
+     </g>
+    </g>
+    <g id="text_6">
+     <text style="font-size: 7.8px; font-family: 'Arial'; text-anchor: middle" x="277.344" y="261.467034" transform="rotate(-0 277.344 261.467034)">Share of national SDG supply from the overall top 10 locations (%)</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_23" />
+     <g id="text_7">
+      <text style="font-size: 7.5px; font-family: 'Arial'; text-anchor: end" x="54.208" y="77.830448" transform="rotate(-0 54.208 77.830448)">SDG 2</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_24" />
+     <g id="text_8">
+      <text style="font-size: 7.5px; font-family: 'Arial'; text-anchor: end" x="54.208" y="91.604399" transform="rotate(-0 54.208 91.604399)">SDG 3</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_25" />
+     <g id="text_9">
+      <text style="font-size: 7.5px; font-family: 'Arial'; text-anchor: end" x="54.208" y="105.37835" transform="rotate(-0 54.208 105.37835)">SDG 6</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_26" />
+     <g id="text_10">
+      <text style="font-size: 7.5px; font-family: 'Arial'; text-anchor: end" x="54.208" y="119.152302" transform="rotate(-0 54.208 119.152302)">SDG 7</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_27" />
+     <g id="text_11">
+      <text style="font-size: 7.5px; font-family: 'Arial'; text-anchor: end" x="54.208" y="132.926253" transform="rotate(-0 54.208 132.926253)">SDG 9</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_28" />
+     <g id="text_12">
+      <text style="font-size: 7.5px; font-family: 'Arial'; text-anchor: end" x="54.208" y="146.700204" transform="rotate(-0 54.208 146.700204)">SDG 10</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_29" />
+     <g id="text_13">
+      <text style="font-size: 7.5px; font-family: 'Arial'; text-anchor: end" x="54.208" y="160.474155" transform="rotate(-0 54.208 160.474155)">SDG 11</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_30" />
+     <g id="text_14">
+      <text style="font-size: 7.5px; font-family: 'Arial'; text-anchor: end" x="54.208" y="174.248107" transform="rotate(-0 54.208 174.248107)">SDG 12</text>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_31" />
+     <g id="text_15">
+      <text style="font-size: 7.5px; font-family: 'Arial'; text-anchor: end" x="54.208" y="188.022058" transform="rotate(-0 54.208 188.022058)">SDG 13</text>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_32" />
+     <g id="text_16">
+      <text style="font-size: 7.5px; font-family: 'Arial'; text-anchor: end" x="54.208" y="201.796009" transform="rotate(-0 54.208 201.796009)">SDG 15</text>
+     </g>
+    </g>
+    <g id="ytick_11">
+     <g id="line2d_33" />
+     <g id="text_17">
+      <text style="font-size: 7.5px; font-family: 'Arial'; text-anchor: end" x="54.208" y="215.56996" transform="rotate(-0 54.208 215.56996)">SDG 16</text>
+     </g>
+    </g>
+    <g id="ytick_12">
+     <g id="line2d_34" />
+     <g id="text_18">
+      <text style="font-size: 7.5px; font-family: 'Arial'; text-anchor: end" x="54.208" y="229.343911" transform="rotate(-0 54.208 229.343911)">SDG 17</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 62.208 235.6128  L 62.208 66.1932  " style="fill: none; stroke: #7e8992; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square" />
+   </g>
+   <g id="patch_4">
+    <path d="M 62.208 235.6128  L 492.48 235.6128  " style="fill: none; stroke: #7e8992; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square" />
+   </g>
+   <g id="observation_NSF_S02">
+    <title>NSF | SDG2 | Fixed top 10 share: 17.329332% | Top 10 fractional supply: 26.950000 | National fractional supply: 155.516667 | National project families: 271</title><defs>
+     <path id="m903e6bd405" d="M 0 1.936492  C 0.513564 1.936492 1.006162 1.732451 1.369306 1.369306  C 1.732451 1.006162 1.936492 0.513564 1.936492 0  C 1.936492 -0.513564 1.732451 -1.006162 1.369306 -1.369306  C 1.006162 -1.732451 0.513564 -1.936492 0 -1.936492  C -0.513564 -1.936492 -1.006162 -1.732451 -1.369306 -1.369306  C -1.732451 -1.006162 -1.936492 -0.513564 -1.936492 0  C -1.936492 0.513564 -1.732451 1.006162 -1.369306 1.369306  C -1.006162 1.732451 -0.513564 1.936492 0 1.936492  z " />
+    </defs>
+    <g clip-path="url(#p824baaab70)">
+     <use ns4:href="#m903e6bd405" x="136.771265" y="75.146268" style="fill: #3281a8" />
+    </g>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 7.3px; font-family: 'Arial'; text-anchor: end; fill: #3281a8" x="130.771265" y="77.033432" transform="rotate(-0 130.771265 77.033432)">17.3</text>
+   </g>
+   <g id="observation_NSFC_S02">
+    <title>NSFC | SDG2 | Fixed top 10 share: 59.366337% | Top 10 fractional supply: 124.916667 | National fractional supply: 210.416667 | National project families: 313</title><defs>
+     <path id="mb526640740" d="M -1.936492 1.936492  L 1.936492 1.936492  L 1.936492 -1.936492  L -1.936492 -1.936492  z " />
+    </defs>
+    <g clip-path="url(#p824baaab70)">
+     <use ns4:href="#mb526640740" x="317.644724" y="75.146268" style="fill: #b84f55" />
+    </g>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 7.3px; font-family: 'Arial'; text-anchor: start; fill: #b84f55" x="323.644724" y="77.033432" transform="rotate(-0 323.644724 77.033432)">59.4</text>
+   </g>
+   <g id="observation_NSF_S03">
+    <title>NSF | SDG3 | Fixed top 10 share: 18.837380% | Top 10 fractional supply: 42.666667 | National fractional supply: 226.500000 | National project families: 397</title><g clip-path="url(#p824baaab70)">
+     <use ns4:href="#m903e6bd405" x="143.259974" y="88.92022" style="fill: #3281a8" />
+    </g>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 7.3px; font-family: 'Arial'; text-anchor: end; fill: #3281a8" x="137.259974" y="90.807384" transform="rotate(-0 137.259974 90.807384)">18.8</text>
+   </g>
+   <g id="observation_NSFC_S03">
+    <title>NSFC | SDG3 | Fixed top 10 share: 68.600337% | Top 10 fractional supply: 169.500000 | National fractional supply: 247.083333 | National project families: 390</title><g clip-path="url(#p824baaab70)">
+     <use ns4:href="#mb526640740" x="357.376043" y="88.92022" style="fill: #b84f55" />
+    </g>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 7.3px; font-family: 'Arial'; text-anchor: start; fill: #b84f55" x="363.376043" y="90.807384" transform="rotate(-0 363.376043 90.807384)">68.6</text>
+   </g>
+   <g id="observation_NSF_S06">
+    <title>NSF | SDG6 | Fixed top 10 share: 16.319240% | Top 10 fractional supply: 114.577381 | National fractional supply: 702.100000 | National project families: 991</title><g clip-path="url(#p824baaab70)">
+     <use ns4:href="#m903e6bd405" x="132.425118" y="102.694171" style="fill: #3281a8" />
+    </g>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 7.3px; font-family: 'Arial'; text-anchor: end; fill: #3281a8" x="126.425118" y="104.581335" transform="rotate(-0 126.425118 104.581335)">16.3</text>
+   </g>
+   <g id="observation_NSFC_S06">
+    <title>NSFC | SDG6 | Fixed top 10 share: 62.983694% | Top 10 fractional supply: 431.333333 | National fractional supply: 684.833333 | National project families: 897</title><g clip-path="url(#p824baaab70)">
+     <use ns4:href="#mb526640740" x="333.209201" y="102.694171" style="fill: #b84f55" />
+    </g>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 7.3px; font-family: 'Arial'; text-anchor: start; fill: #b84f55" x="339.209201" y="104.581335" transform="rotate(-0 339.209201 104.581335)">63.0</text>
+   </g>
+   <g id="observation_NSF_S07">
+    <title>NSF | SDG7 | Fixed top 10 share: 20.816359% | Top 10 fractional supply: 109.008333 | National fractional supply: 523.666667 | National project families: 680</title><g clip-path="url(#p824baaab70)">
+     <use ns4:href="#m903e6bd405" x="151.774964" y="116.468122" style="fill: #3281a8" />
+    </g>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 7.3px; font-family: 'Arial'; text-anchor: end; fill: #3281a8" x="145.774964" y="118.355286" transform="rotate(-0 145.774964 118.355286)">20.8</text>
+   </g>
+   <g id="observation_NSFC_S07">
+    <title>NSFC | SDG7 | Fixed top 10 share: 62.547609% | Top 10 fractional supply: 123.166667 | National fractional supply: 196.916667 | National project families: 269</title><g clip-path="url(#p824baaab70)">
+     <use ns4:href="#mb526640740" x="331.332848" y="116.468122" style="fill: #b84f55" />
+    </g>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 7.3px; font-family: 'Arial'; text-anchor: start; fill: #b84f55" x="337.332848" y="118.355286" transform="rotate(-0 337.332848 118.355286)">62.5</text>
+   </g>
+   <g id="observation_NSF_S09">
+    <title>NSF | SDG9 | Fixed top 10 share: 19.694462% | Top 10 fractional supply: 80.194444 | National fractional supply: 407.192857 | National project families: 684</title><g clip-path="url(#p824baaab70)">
+     <use ns4:href="#m903e6bd405" x="146.947758" y="130.242073" style="fill: #3281a8" />
+    </g>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 7.3px; font-family: 'Arial'; text-anchor: end; fill: #3281a8" x="140.947758" y="132.129237" transform="rotate(-0 140.947758 132.129237)">19.7</text>
+   </g>
+   <g id="observation_NSFC_S09">
+    <title>NSFC | SDG9 | Fixed top 10 share: 63.448471% | Top 10 fractional supply: 186.750000 | National fractional supply: 294.333333 | National project families: 404</title><g clip-path="url(#p824baaab70)">
+     <use ns4:href="#mb526640740" x="335.209006" y="130.242073" style="fill: #b84f55" />
+    </g>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 7.3px; font-family: 'Arial'; text-anchor: start; fill: #b84f55" x="341.209006" y="132.129237" transform="rotate(-0 341.209006 132.129237)">63.4</text>
+   </g>
+   <g id="observation_NSF_S10">
+    <title>NSF | SDG10 | Fixed top 10 share: 21.920632% | Top 10 fractional supply: 21.266667 | National fractional supply: 97.016667 | National project families: 192</title><g clip-path="url(#p824baaab70)">
+     <use ns4:href="#m903e6bd405" x="156.526343" y="144.016024" style="fill: #3281a8" />
+    </g>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 7.3px; font-family: 'Arial'; text-anchor: end; fill: #3281a8" x="150.526343" y="145.903188" transform="rotate(-0 150.526343 145.903188)">21.9</text>
+   </g>
+   <g id="observation_NSFC_S10">
+    <title>NSFC | SDG10 | Fixed top 10 share: 67.310012% | Top 10 fractional supply: 46.500000 | National fractional supply: 69.083333 | National project families: 121</title><g clip-path="url(#p824baaab70)">
+     <use ns4:href="#mb526640740" x="351.824135" y="144.016024" style="fill: #b84f55" />
+    </g>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 7.3px; font-family: 'Arial'; text-anchor: start; fill: #b84f55" x="357.824135" y="145.903188" transform="rotate(-0 357.824135 145.903188)">67.3</text>
+   </g>
+   <g id="observation_NSF_S11">
+    <title>NSF | SDG11 | Fixed top 10 share: 23.285225% | Top 10 fractional supply: 253.302778 | National fractional supply: 1087.826190 | National project families: 1616</title><g clip-path="url(#p824baaab70)">
+     <use ns4:href="#m903e6bd405" x="162.397804" y="157.789976" style="fill: #3281a8" />
+    </g>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 7.3px; font-family: 'Arial'; text-anchor: end; fill: #3281a8" x="156.397804" y="159.67714" transform="rotate(-0 156.397804 159.67714)">23.3</text>
+   </g>
+   <g id="observation_NSFC_S11">
+    <title>NSFC | SDG11 | Fixed top 10 share: 68.379379% | Top 10 fractional supply: 1324.166667 | National fractional supply: 1936.500000 | National project families: 2415</title><g clip-path="url(#p824baaab70)">
+     <use ns4:href="#mb526640740" x="356.42532" y="157.789976" style="fill: #b84f55" />
+    </g>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 7.3px; font-family: 'Arial'; text-anchor: start; fill: #b84f55" x="362.42532" y="159.67714" transform="rotate(-0 362.42532 159.67714)">68.4</text>
+   </g>
+   <g id="observation_NSF_S12">
+    <title>NSF | SDG12 | Fixed top 10 share: 21.535099% | Top 10 fractional supply: 55.833333 | National fractional supply: 259.266667 | National project families: 398</title><g clip-path="url(#p824baaab70)">
+     <use ns4:href="#m903e6bd405" x="154.867501" y="171.563927" style="fill: #3281a8" />
+    </g>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 7.3px; font-family: 'Arial'; text-anchor: end; fill: #3281a8" x="148.867501" y="173.451091" transform="rotate(-0 148.867501 173.451091)">21.5</text>
+   </g>
+   <g id="observation_NSFC_S12">
+    <title>NSFC | SDG12 | Fixed top 10 share: 62.590201% | Top 10 fractional supply: 137.333333 | National fractional supply: 219.416667 | National project families: 341</title><g clip-path="url(#p824baaab70)">
+     <use ns4:href="#mb526640740" x="331.516111" y="171.563927" style="fill: #b84f55" />
+    </g>
+   </g>
+   <g id="text_34">
+    <text style="font-size: 7.3px; font-family: 'Arial'; text-anchor: start; fill: #b84f55" x="337.516111" y="173.451091" transform="rotate(-0 337.516111 173.451091)">62.6</text>
+   </g>
+   <g id="observation_NSF_S13">
+    <title>NSF | SDG13 | Fixed top 10 share: 26.975734% | Top 10 fractional supply: 287.452778 | National fractional supply: 1065.597619 | National project families: 1562</title><g clip-path="url(#p824baaab70)">
+     <use ns4:href="#m903e6bd405" x="178.27703" y="185.337878" style="fill: #3281a8" />
+    </g>
+   </g>
+   <g id="text_35">
+    <text style="font-size: 7.3px; font-family: 'Arial'; text-anchor: end; fill: #3281a8" x="172.27703" y="187.225042" transform="rotate(-0 172.27703 187.225042)">27.0</text>
+   </g>
+   <g id="observation_NSFC_S13">
+    <title>NSFC | SDG13 | Fixed top 10 share: 68.633282% | Top 10 fractional supply: 480.833333 | National fractional supply: 700.583333 | National project families: 1061</title><g clip-path="url(#p824baaab70)">
+     <use ns4:href="#mb526640740" x="357.517794" y="185.337878" style="fill: #b84f55" />
+    </g>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 7.3px; font-family: 'Arial'; text-anchor: start; fill: #b84f55" x="363.517794" y="187.225042" transform="rotate(-0 363.517794 187.225042)">68.6</text>
+   </g>
+   <g id="observation_NSF_S15">
+    <title>NSF | SDG15 | Fixed top 10 share: 16.575950% | Top 10 fractional supply: 54.816667 | National fractional supply: 330.700000 | National project families: 447</title><g clip-path="url(#p824baaab70)">
+     <use ns4:href="#m903e6bd405" x="133.529672" y="199.111829" style="fill: #3281a8" />
+    </g>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 7.3px; font-family: 'Arial'; text-anchor: end; fill: #3281a8" x="127.529672" y="200.998993" transform="rotate(-0 127.529672 200.998993)">16.6</text>
+   </g>
+   <g id="observation_NSFC_S15">
+    <title>NSFC | SDG15 | Fixed top 10 share: 54.668077% | Top 10 fractional supply: 516.750000 | National fractional supply: 945.250000 | National project families: 1152</title><g clip-path="url(#p824baaab70)">
+     <use ns4:href="#mb526640740" x="297.429429" y="199.111829" style="fill: #b84f55" />
+    </g>
+   </g>
+   <g id="text_38">
+    <text style="font-size: 7.3px; font-family: 'Arial'; text-anchor: start; fill: #b84f55" x="303.429429" y="200.998993" transform="rotate(-0 303.429429 200.998993)">54.7</text>
+   </g>
+   <g id="observation_NSF_S16">
+    <title>NSF | SDG16 | Fixed top 10 share: 18.993135% | Top 10 fractional supply: 13.833333 | National fractional supply: 72.833333 | National project families: 128</title><g clip-path="url(#p824baaab70)">
+     <use ns4:href="#m903e6bd405" x="143.930142" y="212.88578" style="fill: #3281a8" />
+    </g>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 7.3px; font-family: 'Arial'; text-anchor: end; fill: #3281a8" x="137.930142" y="214.772945" transform="rotate(-0 137.930142 214.772945)">19.0</text>
+   </g>
+   <g id="observation_NSFC_S16">
+    <title>NSFC | SDG16 | Fixed top 10 share: 63.541667% | Top 10 fractional supply: 20.333333 | National fractional supply: 32.000000 | National project families: 49</title><g clip-path="url(#p824baaab70)">
+     <use ns4:href="#mb526640740" x="335.61" y="212.88578" style="fill: #b84f55" />
+    </g>
+   </g>
+   <g id="text_40">
+    <text style="font-size: 7.3px; font-family: 'Arial'; text-anchor: start; fill: #b84f55" x="341.61" y="214.772945" transform="rotate(-0 341.61 214.772945)">63.5</text>
+   </g>
+   <g id="observation_NSF_S17">
+    <title>NSF | SDG17 | Fixed top 10 share: 24.317003% | Top 10 fractional supply: 17.455556 | National fractional supply: 71.783333 | National project families: 132</title><g clip-path="url(#p824baaab70)">
+     <use ns4:href="#m903e6bd405" x="166.837257" y="226.659732" style="fill: #3281a8" />
+    </g>
+   </g>
+   <g id="text_41">
+    <text style="font-size: 7.3px; font-family: 'Arial'; text-anchor: end; fill: #3281a8" x="160.837257" y="228.546896" transform="rotate(-0 160.837257 228.546896)">24.3</text>
+   </g>
+   <g id="observation_NSFC_S17">
+    <title>NSFC | SDG17 | Fixed top 10 share: 56.521739% | Top 10 fractional supply: 5.416667 | National fractional supply: 9.583333 | National project families: 18</title><g clip-path="url(#p824baaab70)">
+     <use ns4:href="#mb526640740" x="305.405217" y="226.659732" style="fill: #b84f55" />
+    </g>
+   </g>
+   <g id="text_42">
+    <text style="font-size: 7.3px; font-family: 'Arial'; text-anchor: start; fill: #b84f55" x="311.405217" y="228.546896" transform="rotate(-0 311.405217 228.546896)">56.5</text>
+   </g>
+  </g>
+  <g id="text_43">
+   <text style="font-weight: 700; font-size: 11px; font-family: 'Arial'; text-anchor: start" x="14.5152" y="13.122" transform="rotate(-0 14.5152 13.122)">c</text>
+  </g>
+  <g id="text_44">
+   <text style="font-weight: 700; font-size: 9.4px; font-family: 'Arial'; text-anchor: start" x="44.064" y="13.122" transform="rotate(-0 44.064 13.122)">Cross-goal contributions of the overall top 10 locations</text>
+  </g>
+  <g id="text_45">
+   <text style="font-size: 7.5px; font-family: 'Arial'; text-anchor: start; fill: #4e5d67" x="44.064" y="30.9096" transform="rotate(-0 44.064 30.9096)">The same top 10 locations from panel a are retained across all 12 SDGs.</text>
+  </g>
+  <g id="text_46">
+   <text style="font-size: 6.7px; font-family: 'Arial'; text-anchor: start; fill: #5e6d77" x="62.208" y="278.7696" transform="rotate(-0 62.208 278.7696)">All locations enter each national denominator. NSFC SDG17: 18 project families.</text>
+  </g>
+  <g id="legend_1">
+   <g id="line2d_35">
+    <defs>
+     <path id="m5383255677" d="M 0 1.9  C 0.503886 1.9 0.987202 1.699804 1.343503 1.343503  C 1.699804 0.987202 1.9 0.503886 1.9 0  C 1.9 -0.503886 1.699804 -0.987202 1.343503 -1.343503  C 0.987202 -1.699804 0.503886 -1.9 0 -1.9  C -0.503886 -1.9 -0.987202 -1.699804 -1.343503 -1.343503  C -1.699804 -0.987202 -1.9 -0.503886 -1.9 0  C -1.9 0.503886 -1.699804 0.987202 -1.343503 1.343503  C -0.987202 1.699804 -0.503886 1.9 0 1.9  z " style="stroke: #3281a8" />
+    </defs>
+    <g>
+     <use ns4:href="#m5383255677" x="54.4952" y="47.482109" style="fill: #3281a8; stroke: #3281a8" />
+    </g>
+   </g>
+   <g id="text_47">
+    <text style="font-size: 7.4px; font-family: 'Arial'; text-anchor: start" x="65.5952" y="50.072109" transform="rotate(-0 65.5952 50.072109)">NSF · counties and equivalents</text>
+   </g>
+   <g id="line2d_36">
+    <defs>
+     <path id="mf4ae66568c" d="M -1.9 1.9  L 1.9 1.9  L 1.9 -1.9  L -1.9 -1.9  z " style="stroke: #b84f55; stroke-linejoin: miter" />
+    </defs>
+    <g>
+     <use ns4:href="#mf4ae66568c" x="195.062825" y="47.482109" style="fill: #b84f55; stroke: #b84f55; stroke-linejoin: miter" />
+    </g>
+   </g>
+   <g id="text_48">
+    <text style="font-size: 7.4px; font-family: 'Arial'; text-anchor: start" x="206.162825" y="50.072109" transform="rotate(-0 206.162825 50.072109)">NSFC · prefecture-level units</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p824baaab70">
+   <rect x="62.208" y="66.1932" width="430.272" height="169.4196" />
+  </clipPath>
+ </defs>
+</svg>

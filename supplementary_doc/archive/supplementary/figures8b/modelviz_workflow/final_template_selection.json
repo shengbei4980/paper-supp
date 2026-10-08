@@ -1,0 +1,64 @@
+{
+  "dataset_summary": "189 rows, 3 mismatch classes × 9 intervention modes × 7 discrete action stages; paired NSF and NSFC conditional shares with bootstrap intervals and support flags.",
+  "observed_data_features": [
+    "Twenty-seven class/intervention profiles each contain seven ordered stage positions.",
+    "The NSF and NSFC shares each sum to one within every observed profile.",
+    "One NSFC profile (lower research supply, L03) has no projects, so its seven shares and intervals are unobserved rather than zero.",
+    "Forty-two rows belong to six low-support profiles; 49 cells satisfy the reliable-difference rule."
+  ],
+  "relevant_columns": [
+    "mismatch_class",
+    "intervention",
+    "intervention_label",
+    "action_stage",
+    "nsf_probability",
+    "nsfc_probability",
+    "nsf_ci_low",
+    "nsf_ci_high",
+    "nsfc_ci_low",
+    "nsfc_ci_high",
+    "difference_pp",
+    "min_ess",
+    "low_support",
+    "stable_cell"
+  ],
+  "candidate_comparisons": [
+    {
+      "template_id": "dis_ridgeline_distribution",
+      "suitable": true,
+      "advantages": [
+        "Provides ordered categorical rows and an area/outline hierarchy suitable for mirrored profiles.",
+        "Allows paired profiles and uncertainty ribbons in compact panels."
+      ],
+      "limitations": [
+        "Template demo uses continuous KDE; this dataset instead requires discrete stepped profiles without smoothing."
+      ],
+      "data_compatibility": "Use the ridge panel arrangement and replace KDE with the seven empirical action-stage probabilities and their bootstrap bounds.",
+      "requirement_compatibility": "User confirmed a discrete mirrored ridge redesign with all 189 positions and evidence marks."
+    },
+    {
+      "template_id": "dis_radial_bar_error_significance",
+      "suitable": false,
+      "advantages": [
+        "Can show error bars and significance."
+      ],
+      "limitations": [
+        "Radial segments cannot legibly hold 27 paired seven-stage profiles and support annotations."
+      ],
+      "data_compatibility": "Requires large reformatting and loses the ordered-stage profile reading.",
+      "requirement_compatibility": "Less suitable than the user-selected mirrored ridge."
+    }
+  ],
+  "selected_template_id": "dis_ridgeline_distribution",
+  "selected_template_name": "山脊分布图",
+  "alternative_template_ids": [],
+  "selection_reason": "The user selected a discrete mirrored ridge after reviewing the modelviz candidate/template tradeoffs.",
+  "data_support_reason": "The data already contain 27 complete seven-position profiles, paired country values, uncertainty bounds, ESS, and reliable-difference flags; no statistical smoothing or re-estimation is required.",
+  "data_warnings": [
+    "The seven action stages are discrete ordered categories, not a continuous stage variable; never apply KDE or interpolate to imply intermediate stages.",
+    "Seven NSFC L03 cells in the lower-supply class are unobserved and must not be drawn as zero."
+  ],
+  "confidence": 0.96,
+  "needs_clarification": false,
+  "clarification_question": ""
+}

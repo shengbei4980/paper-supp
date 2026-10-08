@@ -1,0 +1,25 @@
+{
+  "original_request": "城市 × Target组合矩阵 请你使用modelviz skill 的全流程每一步对我进行问询完成此补充图的制作",
+  "goal": "全量城市Target组合出现环形矩阵，内环城市组合相似性聚类树",
+  "functional_keywords": [
+    "环形热图",
+    "分组注释",
+    "层次聚类"
+  ],
+  "chart_types": [
+    "circular_heatmap",
+    "clustered_heatmap"
+  ],
+  "style_keywords": [
+    "简洁",
+    "科研风"
+  ],
+  "use_case": "论文补充图S3",
+  "negative_requirements": [
+    "不截取前十城市",
+    "不以城市相似性连线替代组合出现"
+  ],
+  "explicit_template": true,
+  "is_ambiguous": false,
+  "clarification_question": ""
+}

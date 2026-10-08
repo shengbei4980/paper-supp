@@ -1,0 +1,13 @@
+﻿agency,city_id,institution_city,institution_region,label_text,label_reason,nonempty_label,comma_free,english_display,unique_within_agency,audit_status
+NSF,NSF|TX|DENTON,DENTON,TX,Denton,Descriptive contribution-ratio departure (project n >= 10),True,True,True,True,PASS
+NSF,NSF|OK|NORMAN,NORMAN,OK,Norman,Descriptive contribution-ratio departure (project n >= 10),True,True,True,True,PASS
+NSF,NSF|MI|ANN ARBOR,ANN ARBOR,MI,Ann Arbor,Top aligned-contribution share,True,True,True,True,PASS
+NSF,NSF|CO|BOULDER,BOULDER,CO,Boulder,Top aligned-contribution share,True,True,True,True,PASS
+NSF,NSF|NY|NEW YORK,NEW YORK,NY,New York,Top aligned-contribution share,True,True,True,True,PASS
+NSF,NSF|WA|SEATTLE,SEATTLE,WA,Seattle,Top aligned-contribution share,True,True,True,True,PASS
+NSFC,NSFC|云南|西双版纳,西双版纳,云南,Xishuangbanna,Descriptive contribution-ratio departure (project n >= 10),True,True,True,True,PASS
+NSFC,NSFC|江苏|镇江,镇江,江苏,Zhenjiang,Descriptive contribution-ratio departure (project n >= 10),True,True,True,True,PASS
+NSFC,NSFC|北京|北京,北京,北京,Beijing,Top aligned-contribution share,True,True,True,True,PASS
+NSFC,NSFC|广东|广州,广州,广东,Guangzhou,Top aligned-contribution share,True,True,True,True,PASS
+NSFC,NSFC|江苏|南京,南京,江苏,Nanjing,Top aligned-contribution share,True,True,True,True,PASS
+NSFC,NSFC|上海|上海,上海,上海,Shanghai,Top aligned-contribution share,True,True,True,True,PASS

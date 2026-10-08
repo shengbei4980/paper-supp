@@ -1,0 +1,14 @@
+{
+  "checked_image": "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure2\\figure2e\\最终新\\出图\\figure2e_preview.png",
+  "method": "Direct rendered-image inspection after final redraw",
+  "passed": true,
+  "checks": {
+    "matrix_headers_clear_of_panel_titles": true,
+    "six_reach_titles_readable": true,
+    "six_fully_enclosed_equal_reach_frames": true,
+    "matrix_frame_aligned_with_reach_block": true,
+    "blue_red_identifiable_across_matrix_curves_and_legends": true,
+    "K06_low_n_and_bootstrap_bands_retained": true,
+    "full_K_and_L_source_labels_in_legend": true
+  }
+}

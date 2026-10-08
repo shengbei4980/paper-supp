@@ -1,0 +1,329 @@
+{
+  "passed": 80,
+  "total": 80,
+  "inset_title": "Puerto Rico and the U.S. Virgin Islands",
+  "source_file_count": 12,
+  "source_hash_mismatches": [],
+  "checks": [
+    {
+      "check": "20个排名地名唯一",
+      "passed": true
+    },
+    {
+      "check": "美国前10县均匹配唯一州名",
+      "passed": true
+    },
+    {
+      "check": "NSF的10个ID和排名与底图一致",
+      "passed": true
+    },
+    {
+      "check": "NSF 06037地名与原始归属一致",
+      "passed": true
+    },
+    {
+      "check": "NSF 06037地图和柱图排序一致",
+      "passed": true
+    },
+    {
+      "check": "NSF 06037引线目标在行政面内",
+      "passed": true
+    },
+    {
+      "check": "NSF 36061地名与原始归属一致",
+      "passed": true
+    },
+    {
+      "check": "NSF 36061地图和柱图排序一致",
+      "passed": true
+    },
+    {
+      "check": "NSF 36061引线目标在行政面内",
+      "passed": true
+    },
+    {
+      "check": "NSF 25017地名与原始归属一致",
+      "passed": true
+    },
+    {
+      "check": "NSF 25017地图和柱图排序一致",
+      "passed": true
+    },
+    {
+      "check": "NSF 25017引线目标在行政面内",
+      "passed": true
+    },
+    {
+      "check": "NSF 08013地名与原始归属一致",
+      "passed": true
+    },
+    {
+      "check": "NSF 08013地图和柱图排序一致",
+      "passed": true
+    },
+    {
+      "check": "NSF 08013引线目标在行政面内",
+      "passed": true
+    },
+    {
+      "check": "NSF 53033地名与原始归属一致",
+      "passed": true
+    },
+    {
+      "check": "NSF 53033地图和柱图排序一致",
+      "passed": true
+    },
+    {
+      "check": "NSF 53033引线目标在行政面内",
+      "passed": true
+    },
+    {
+      "check": "NSF 26161地名与原始归属一致",
+      "passed": true
+    },
+    {
+      "check": "NSF 26161地图和柱图排序一致",
+      "passed": true
+    },
+    {
+      "check": "NSF 26161引线目标在行政面内",
+      "passed": true
+    },
+    {
+      "check": "NSF 04013地名与原始归属一致",
+      "passed": true
+    },
+    {
+      "check": "NSF 04013地图和柱图排序一致",
+      "passed": true
+    },
+    {
+      "check": "NSF 04013引线目标在行政面内",
+      "passed": true
+    },
+    {
+      "check": "NSF 48041地名与原始归属一致",
+      "passed": true
+    },
+    {
+      "check": "NSF 48041地图和柱图排序一致",
+      "passed": true
+    },
+    {
+      "check": "NSF 48041引线目标在行政面内",
+      "passed": true
+    },
+    {
+      "check": "NSF 06073地名与原始归属一致",
+      "passed": true
+    },
+    {
+      "check": "NSF 06073地图和柱图排序一致",
+      "passed": true
+    },
+    {
+      "check": "NSF 06073引线目标在行政面内",
+      "passed": true
+    },
+    {
+      "check": "NSF 25001地名与原始归属一致",
+      "passed": true
+    },
+    {
+      "check": "NSF 25001地图和柱图排序一致",
+      "passed": true
+    },
+    {
+      "check": "NSF 25001引线目标在行政面内",
+      "passed": true
+    },
+    {
+      "check": "NSFC的10个ID和排名与底图一致",
+      "passed": true
+    },
+    {
+      "check": "110000有唯一英文城市名",
+      "passed": true
+    },
+    {
+      "check": "NSFC 110000地名与原始归属一致",
+      "passed": true
+    },
+    {
+      "check": "NSFC 110000地图和柱图排序一致",
+      "passed": true
+    },
+    {
+      "check": "NSFC 110000引线目标在行政面内",
+      "passed": true
+    },
+    {
+      "check": "320100有唯一英文城市名",
+      "passed": true
+    },
+    {
+      "check": "NSFC 320100地名与原始归属一致",
+      "passed": true
+    },
+    {
+      "check": "NSFC 320100地图和柱图排序一致",
+      "passed": true
+    },
+    {
+      "check": "NSFC 320100引线目标在行政面内",
+      "passed": true
+    },
+    {
+      "check": "420100有唯一英文城市名",
+      "passed": true
+    },
+    {
+      "check": "NSFC 420100地名与原始归属一致",
+      "passed": true
+    },
+    {
+      "check": "NSFC 420100地图和柱图排序一致",
+      "passed": true
+    },
+    {
+      "check": "NSFC 420100引线目标在行政面内",
+      "passed": true
+    },
+    {
+      "check": "310000有唯一英文城市名",
+      "passed": true
+    },
+    {
+      "check": "NSFC 310000地名与原始归属一致",
+      "passed": true
+    },
+    {
+      "check": "NSFC 310000地图和柱图排序一致",
+      "passed": true
+    },
+    {
+      "check": "NSFC 310000引线目标在行政面内",
+      "passed": true
+    },
+    {
+      "check": "440100有唯一英文城市名",
+      "passed": true
+    },
+    {
+      "check": "NSFC 440100地名与原始归属一致",
+      "passed": true
+    },
+    {
+      "check": "NSFC 440100地图和柱图排序一致",
+      "passed": true
+    },
+    {
+      "check": "NSFC 440100引线目标在行政面内",
+      "passed": true
+    },
+    {
+      "check": "610100有唯一英文城市名",
+      "passed": true
+    },
+    {
+      "check": "NSFC 610100地名与原始归属一致",
+      "passed": true
+    },
+    {
+      "check": "NSFC 610100地图和柱图排序一致",
+      "passed": true
+    },
+    {
+      "check": "NSFC 610100引线目标在行政面内",
+      "passed": true
+    },
+    {
+      "check": "620100有唯一英文城市名",
+      "passed": true
+    },
+    {
+      "check": "NSFC 620100地名与原始归属一致",
+      "passed": true
+    },
+    {
+      "check": "NSFC 620100地图和柱图排序一致",
+      "passed": true
+    },
+    {
+      "check": "NSFC 620100引线目标在行政面内",
+      "passed": true
+    },
+    {
+      "check": "330100有唯一英文城市名",
+      "passed": true
+    },
+    {
+      "check": "NSFC 330100地名与原始归属一致",
+      "passed": true
+    },
+    {
+      "check": "NSFC 330100地图和柱图排序一致",
+      "passed": true
+    },
+    {
+      "check": "NSFC 330100引线目标在行政面内",
+      "passed": true
+    },
+    {
+      "check": "510100有唯一英文城市名",
+      "passed": true
+    },
+    {
+      "check": "NSFC 510100地名与原始归属一致",
+      "passed": true
+    },
+    {
+      "check": "NSFC 510100地图和柱图排序一致",
+      "passed": true
+    },
+    {
+      "check": "NSFC 510100引线目标在行政面内",
+      "passed": true
+    },
+    {
+      "check": "120000有唯一英文城市名",
+      "passed": true
+    },
+    {
+      "check": "NSFC 120000地名与原始归属一致",
+      "passed": true
+    },
+    {
+      "check": "NSFC 120000地图和柱图排序一致",
+      "passed": true
+    },
+    {
+      "check": "NSFC 120000引线目标在行政面内",
+      "passed": true
+    },
+    {
+      "check": "插图将两个地区分别规范命名并以and连接",
+      "passed": true
+    },
+    {
+      "check": "波多黎各和美属维尔京群岛标题无斜杠",
+      "passed": true
+    },
+    {
+      "check": "底图同时包含波多黎各与美属维尔京群岛",
+      "passed": true
+    },
+    {
+      "check": "西安英文名与原始城市归属表一致",
+      "passed": true
+    },
+    {
+      "check": "SVG地名文字可编辑",
+      "passed": true
+    },
+    {
+      "check": "原始数据和底图副本逐文件SHA-256相同",
+      "passed": true
+    }
+  ]
+}

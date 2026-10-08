@@ -1,0 +1,142 @@
+{
+  "execution": {
+    "success": true,
+    "return_code": 0,
+    "stdout": "{\"paths\": 753, \"panels\": 6, \"edges\": 397, \"output\": \"E:\\\\可持续发展目标基金\\\\定稿撰写\\\\成图\\\\figure5\\\\重新输出figure\\\\figure5b\\\\modelviz重构\\\\图\\\\Figure5b_六和弦图_整体.png\"}\n",
+    "stderr": "",
+    "generated_files": [
+      "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure5\\重新输出figure\\figure5b\\modelviz重构\\图\\Figure5b_六和弦图_整体.pdf",
+      "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure5\\重新输出figure\\figure5b\\modelviz重构\\图\\Figure5b_六和弦图_整体.png",
+      "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure5\\重新输出figure\\figure5b\\modelviz重构\\图\\Figure5b_六和弦图_整体.svg",
+      "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure5\\重新输出figure\\figure5b\\modelviz重构\\图\\Figure5b_和弦图_higher_NSF.pdf",
+      "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure5\\重新输出figure\\figure5b\\modelviz重构\\图\\Figure5b_和弦图_higher_NSF.png",
+      "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure5\\重新输出figure\\figure5b\\modelviz重构\\图\\Figure5b_和弦图_higher_NSF.svg",
+      "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure5\\重新输出figure\\figure5b\\modelviz重构\\图\\Figure5b_和弦图_higher_NSFC.pdf",
+      "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure5\\重新输出figure\\figure5b\\modelviz重构\\图\\Figure5b_和弦图_higher_NSFC.png",
+      "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure5\\重新输出figure\\figure5b\\modelviz重构\\图\\Figure5b_和弦图_higher_NSFC.svg",
+      "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure5\\重新输出figure\\figure5b\\modelviz重构\\图\\Figure5b_和弦图_lower_NSF.pdf",
+      "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure5\\重新输出figure\\figure5b\\modelviz重构\\图\\Figure5b_和弦图_lower_NSF.png",
+      "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure5\\重新输出figure\\figure5b\\modelviz重构\\图\\Figure5b_和弦图_lower_NSF.svg",
+      "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure5\\重新输出figure\\figure5b\\modelviz重构\\图\\Figure5b_和弦图_lower_NSFC.pdf",
+      "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure5\\重新输出figure\\figure5b\\modelviz重构\\图\\Figure5b_和弦图_lower_NSFC.png",
+      "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure5\\重新输出figure\\figure5b\\modelviz重构\\图\\Figure5b_和弦图_lower_NSFC.svg",
+      "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure5\\重新输出figure\\figure5b\\modelviz重构\\图\\Figure5b_和弦图_near_NSF.pdf",
+      "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure5\\重新输出figure\\figure5b\\modelviz重构\\图\\Figure5b_和弦图_near_NSF.png",
+      "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure5\\重新输出figure\\figure5b\\modelviz重构\\图\\Figure5b_和弦图_near_NSF.svg",
+      "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure5\\重新输出figure\\figure5b\\modelviz重构\\图\\Figure5b_和弦图_near_NSFC.pdf",
+      "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure5\\重新输出figure\\figure5b\\modelviz重构\\图\\Figure5b_和弦图_near_NSFC.png",
+      "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure5\\重新输出figure\\figure5b\\modelviz重构\\图\\Figure5b_和弦图_near_NSFC.svg"
+    ],
+    "execution_time": 6.9928,
+    "error_type": ""
+  },
+  "artifacts": {
+    "success": true,
+    "valid_files": [
+      "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure5\\重新输出figure\\figure5b\\modelviz重构\\图\\Figure5b_六和弦图_整体.pdf",
+      "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure5\\重新输出figure\\figure5b\\modelviz重构\\图\\Figure5b_六和弦图_整体.png",
+      "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure5\\重新输出figure\\figure5b\\modelviz重构\\图\\Figure5b_六和弦图_整体.svg",
+      "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure5\\重新输出figure\\figure5b\\modelviz重构\\图\\Figure5b_和弦图_higher_NSF.pdf",
+      "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure5\\重新输出figure\\figure5b\\modelviz重构\\图\\Figure5b_和弦图_higher_NSF.png",
+      "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure5\\重新输出figure\\figure5b\\modelviz重构\\图\\Figure5b_和弦图_higher_NSF.svg",
+      "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure5\\重新输出figure\\figure5b\\modelviz重构\\图\\Figure5b_和弦图_higher_NSFC.pdf",
+      "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure5\\重新输出figure\\figure5b\\modelviz重构\\图\\Figure5b_和弦图_higher_NSFC.png",
+      "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure5\\重新输出figure\\figure5b\\modelviz重构\\图\\Figure5b_和弦图_higher_NSFC.svg",
+      "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure5\\重新输出figure\\figure5b\\modelviz重构\\图\\Figure5b_和弦图_lower_NSF.pdf",
+      "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure5\\重新输出figure\\figure5b\\modelviz重构\\图\\Figure5b_和弦图_lower_NSF.png",
+      "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure5\\重新输出figure\\figure5b\\modelviz重构\\图\\Figure5b_和弦图_lower_NSF.svg",
+      "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure5\\重新输出figure\\figure5b\\modelviz重构\\图\\Figure5b_和弦图_lower_NSFC.pdf",
+      "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure5\\重新输出figure\\figure5b\\modelviz重构\\图\\Figure5b_和弦图_lower_NSFC.png",
+      "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure5\\重新输出figure\\figure5b\\modelviz重构\\图\\Figure5b_和弦图_lower_NSFC.svg",
+      "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure5\\重新输出figure\\figure5b\\modelviz重构\\图\\Figure5b_和弦图_near_NSF.pdf",
+      "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure5\\重新输出figure\\figure5b\\modelviz重构\\图\\Figure5b_和弦图_near_NSF.png",
+      "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure5\\重新输出figure\\figure5b\\modelviz重构\\图\\Figure5b_和弦图_near_NSF.svg",
+      "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure5\\重新输出figure\\figure5b\\modelviz重构\\图\\Figure5b_和弦图_near_NSFC.pdf",
+      "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure5\\重新输出figure\\figure5b\\modelviz重构\\图\\Figure5b_和弦图_near_NSFC.png",
+      "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure5\\重新输出figure\\figure5b\\modelviz重构\\图\\Figure5b_和弦图_near_NSFC.svg"
+    ],
+    "generated_formats": [
+      "pdf",
+      "png",
+      "svg"
+    ],
+    "issues": []
+  },
+  "images": {
+    "Figure5b_六和弦图_整体.png": {
+      "success": true,
+      "image_readable": true,
+      "image_width": 4264,
+      "image_height": 6055,
+      "file_size": 4736743,
+      "pixel_variance": 2582.6671,
+      "possible_blank_image": false,
+      "issues": []
+    },
+    "Figure5b_和弦图_higher_NSF.png": {
+      "success": true,
+      "image_readable": true,
+      "image_width": 2373,
+      "image_height": 2460,
+      "file_size": 1082737,
+      "pixel_variance": 2637.0215,
+      "possible_blank_image": false,
+      "issues": []
+    },
+    "Figure5b_和弦图_higher_NSFC.png": {
+      "success": true,
+      "image_readable": true,
+      "image_width": 2382,
+      "image_height": 2413,
+      "file_size": 1068043,
+      "pixel_variance": 2946.1719,
+      "possible_blank_image": false,
+      "issues": []
+    },
+    "Figure5b_和弦图_lower_NSF.png": {
+      "success": true,
+      "image_readable": true,
+      "image_width": 2369,
+      "image_height": 2460,
+      "file_size": 1016447,
+      "pixel_variance": 2782.4384,
+      "possible_blank_image": false,
+      "issues": []
+    },
+    "Figure5b_和弦图_lower_NSFC.png": {
+      "success": true,
+      "image_readable": true,
+      "image_width": 2373,
+      "image_height": 2449,
+      "file_size": 690367,
+      "pixel_variance": 2967.7417,
+      "possible_blank_image": false,
+      "issues": []
+    },
+    "Figure5b_和弦图_near_NSF.png": {
+      "success": true,
+      "image_readable": true,
+      "image_width": 2384,
+      "image_height": 2406,
+      "file_size": 956855,
+      "pixel_variance": 2904.4115,
+      "possible_blank_image": false,
+      "issues": []
+    },
+    "Figure5b_和弦图_near_NSFC.png": {
+      "success": true,
+      "image_readable": true,
+      "image_width": 2386,
+      "image_height": 2458,
+      "file_size": 980317,
+      "pixel_variance": 3040.1585,
+      "possible_blank_image": false,
+      "issues": []
+    }
+  },
+  "warnings": {
+    "success": true,
+    "warnings": [],
+    "issues": []
+  }
+}

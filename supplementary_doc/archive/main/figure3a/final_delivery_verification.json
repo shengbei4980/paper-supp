@@ -1,0 +1,313 @@
+{
+  "passed": 76,
+  "total": 76,
+  "county_top10_pct": 21.5471587301581,
+  "china_top10_pct": 64.31662459427484,
+  "checks": [
+    {
+      "check": "US_states数量",
+      "passed": true
+    },
+    {
+      "check": "US_states坐标系",
+      "passed": true
+    },
+    {
+      "check": "US_states几何非空",
+      "passed": true
+    },
+    {
+      "check": "US_counties数量",
+      "passed": true
+    },
+    {
+      "check": "US_counties坐标系",
+      "passed": true
+    },
+    {
+      "check": "US_counties几何非空",
+      "passed": true
+    },
+    {
+      "check": "CN_provinces数量",
+      "passed": true
+    },
+    {
+      "check": "CN_provinces坐标系",
+      "passed": true
+    },
+    {
+      "check": "CN_provinces几何非空",
+      "passed": true
+    },
+    {
+      "check": "CN_cities数量",
+      "passed": true
+    },
+    {
+      "check": "CN_cities坐标系",
+      "passed": true
+    },
+    {
+      "check": "CN_cities几何非空",
+      "passed": true
+    },
+    {
+      "check": "city_supply_points数量",
+      "passed": true
+    },
+    {
+      "check": "city_supply_points坐标系",
+      "passed": true
+    },
+    {
+      "check": "city_supply_points几何非空",
+      "passed": true
+    },
+    {
+      "check": "source_city_points数量",
+      "passed": true
+    },
+    {
+      "check": "source_city_points坐标系",
+      "passed": true
+    },
+    {
+      "check": "source_city_points几何非空",
+      "passed": true
+    },
+    {
+      "check": "NSF_project_locations数量",
+      "passed": true
+    },
+    {
+      "check": "NSF_project_locations坐标系",
+      "passed": true
+    },
+    {
+      "check": "NSF_project_locations几何非空",
+      "passed": true
+    },
+    {
+      "check": "县GEOID唯一",
+      "passed": true
+    },
+    {
+      "check": "项目ID唯一",
+      "passed": true
+    },
+    {
+      "check": "全部项目均有县归属",
+      "passed": true
+    },
+    {
+      "check": "县域供给全国总和5000",
+      "passed": true
+    },
+    {
+      "check": "中国供给全国总和5546",
+      "passed": true
+    },
+    {
+      "check": "县域份额全国总和100%",
+      "passed": true
+    },
+    {
+      "check": "中国份额全国总和100%",
+      "passed": true
+    },
+    {
+      "check": "县域供给逐县独立重算",
+      "passed": true
+    },
+    {
+      "check": "全部项目点在对应县内",
+      "passed": true
+    },
+    {
+      "check": "有供给县352个",
+      "passed": true
+    },
+    {
+      "check": "有供给中国城市126个",
+      "passed": true
+    },
+    {
+      "check": "图中共20个Top10标签且不重复",
+      "passed": true
+    },
+    {
+      "check": "NSF标签恰为供给前10名",
+      "passed": true
+    },
+    {
+      "check": "NSF标签份额与数据逐项一致",
+      "passed": true
+    },
+    {
+      "check": "NSF标签份额之和与Top10说明一致",
+      "passed": true
+    },
+    {
+      "check": "NSFC标签恰为供给前10名",
+      "passed": true
+    },
+    {
+      "check": "NSFC标签份额与数据逐项一致",
+      "passed": true
+    },
+    {
+      "check": "NSFC标签份额之和与Top10说明一致",
+      "passed": true
+    },
+    {
+      "check": "20根排名柱对应20个不重复单元",
+      "passed": true
+    },
+    {
+      "check": "NSF色带覆盖真实范围且以真实最大值为端点",
+      "passed": true
+    },
+    {
+      "check": "NSF色带使用平方根映射且刻度均在真实范围内",
+      "passed": true
+    },
+    {
+      "check": "NSF柱状图排序与源数据一致",
+      "passed": true
+    },
+    {
+      "check": "NSF实际绘制柱长等于源份额",
+      "passed": true
+    },
+    {
+      "check": "NSF排名柱线性轴起点为零且覆盖全部柱",
+      "passed": true
+    },
+    {
+      "check": "NSF集中份额条与独立求和一致",
+      "passed": true
+    },
+    {
+      "check": "NSF集中份额条统一0至100刻度",
+      "passed": true
+    },
+    {
+      "check": "NSFC色带覆盖真实范围且以真实最大值为端点",
+      "passed": true
+    },
+    {
+      "check": "NSFC色带使用平方根映射且刻度均在真实范围内",
+      "passed": true
+    },
+    {
+      "check": "NSFC柱状图排序与源数据一致",
+      "passed": true
+    },
+    {
+      "check": "NSFC实际绘制柱长等于源份额",
+      "passed": true
+    },
+    {
+      "check": "NSFC排名柱线性轴起点为零且覆盖全部柱",
+      "passed": true
+    },
+    {
+      "check": "NSFC集中份额条与独立求和一致",
+      "passed": true
+    },
+    {
+      "check": "NSFC集中份额条统一0至100刻度",
+      "passed": true
+    },
+    {
+      "check": "美国柱标签包含County及完整州名",
+      "passed": true
+    },
+    {
+      "check": "两列排名柱统一高度宽度和基线",
+      "passed": true
+    },
+    {
+      "check": "两条集中份额条统一宽度高度和基线",
+      "passed": true
+    },
+    {
+      "check": "输入源文件未改动",
+      "passed": true
+    },
+    {
+      "check": "仅保留两幅主图比例尺",
+      "passed": true
+    },
+    {
+      "check": "水平比例尺测地校准:1200",
+      "passed": true
+    },
+    {
+      "check": "NSF指北针以主图中心为参考",
+      "passed": true
+    },
+    {
+      "check": "NSF指北方向与独立子午线收敛角计算一致",
+      "passed": true
+    },
+    {
+      "check": "NSF真北参考点位于主图地理范围内",
+      "passed": true
+    },
+    {
+      "check": "水平比例尺测地校准:1200",
+      "passed": true
+    },
+    {
+      "check": "NSFC指北针以主图中心为参考",
+      "passed": true
+    },
+    {
+      "check": "NSFC指北方向与独立子午线收敛角计算一致",
+      "passed": true
+    },
+    {
+      "check": "NSFC真北参考点位于主图地理范围内",
+      "passed": true
+    },
+    {
+      "check": "GIS文件本轮未改动",
+      "passed": true
+    },
+    {
+      "check": "文字标注未超出画布",
+      "passed": true
+    },
+    {
+      "check": "两幅主图统一高度及基线",
+      "passed": true
+    },
+    {
+      "check": "六幅插图统一高度及基线",
+      "passed": true
+    },
+    {
+      "check": "输出格式:png",
+      "passed": true
+    },
+    {
+      "check": "输出格式:pdf",
+      "passed": true
+    },
+    {
+      "check": "输出格式:svg",
+      "passed": true
+    },
+    {
+      "check": "输出格式:tiff",
+      "passed": true
+    },
+    {
+      "check": "600dpi PNG尺寸",
+      "passed": true
+    }
+  ],
+  "known_limitation": "中国既有边界含相邻面重叠；按行政代码归并，未用面积分摊。美国县归属依据源项目坐标，并不等于逐机构门牌核验。"
+}

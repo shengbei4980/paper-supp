@@ -1,0 +1,5 @@
+{
+  "request": "横条起点与竖柱对齐；去掉横向x轴及国家行标签；总体指标外置到y轴标题列。",
+  "output_stem": "Figure4a_条形对齐_外置指标轴",
+  "review_passed": true
+}

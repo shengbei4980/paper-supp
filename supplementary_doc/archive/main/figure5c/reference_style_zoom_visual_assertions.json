@@ -1,0 +1,20 @@
+{
+  "size_mm": [
+    183,
+    180
+  ],
+  "all_scatter_points": 108,
+  "enlarged_names": 18,
+  "selection": "largest absolute shift plus eight nearest themes in the observed/standardized share plane",
+  "exact_circle_membership": true,
+  "estimates_unchanged": true,
+  "lower_coordinates_unchanged": true,
+  "upper_layout": "labels rearranged for readability; not a quantitative coordinate plot",
+  "no_leaders": true,
+  "no_upper_axes": true,
+  "no_task_codes": true,
+  "label_overlap": false,
+  "canvas_clipping": false,
+  "label_font_min_pt": 6.85142810484468,
+  "label_font_max_pt": 9.5
+}

@@ -1,0 +1,148 @@
+{
+  "canvas_mm": [
+    183,
+    133.51724137931035
+  ],
+  "source_rows": 24,
+  "supply_bars": 24,
+  "challenge_bars": 24,
+  "bar_value_labels": 48,
+  "excluded_rows": 0,
+  "bar_label_collisions": [],
+  "metric_text_collisions": false,
+  "metric_graphics_overlap_bars_or_values": false,
+  "bar_region_mm": [
+    162.87,
+    68.2
+  ],
+  "line_span_fraction": 0.86,
+  "metric_graphics": [
+    {
+      "agency": "NSF",
+      "metric": "composition_overlap",
+      "estimate": 52.642233520621254,
+      "ci95": [
+        51.66944604383568,
+        53.639961342307615
+      ],
+      "display_range": [
+        51,
+        56
+      ],
+      "axes_y_positions": [
+        0.9270998309807308,
+        0.9171225235265198,
+        0.9373329368441807
+      ],
+      "axes_x_position": 0.07
+    },
+    {
+      "agency": "NSFC",
+      "metric": "composition_overlap",
+      "estimate": 54.60123609417947,
+      "ci95": [
+        53.639697112494744,
+        55.53636113220526
+      ],
+      "display_range": [
+        51,
+        56
+      ],
+      "axes_y_positions": [
+        0.9471921650685073,
+        0.9373302267948179,
+        0.9567831910995411
+      ],
+      "axes_x_position": 0.93
+    },
+    {
+      "agency": "NSF",
+      "metric": "aitchison_distance",
+      "estimate": 4.617674185215277,
+      "ci95": [
+        4.498301378527883,
+        4.757337566714584
+      ],
+      "display_range": [
+        4.3,
+        6.3
+      ],
+      "axes_y_positions": [
+        0.790196773979879,
+        0.7871359327827663,
+        0.793777886326015
+      ],
+      "axes_x_position": 0.07
+    },
+    {
+      "agency": "NSFC",
+      "metric": "aitchison_distance",
+      "estimate": 5.622720945131132,
+      "ci95": [
+        5.313623966645003,
+        6.069878195142971
+      ],
+      "display_range": [
+        4.3,
+        6.3
+      ],
+      "axes_y_positions": [
+        0.815967203721311,
+        0.8080416401703847,
+        0.8274327742344352
+      ],
+      "axes_x_position": 0.93
+    }
+  ],
+  "palette": {
+    "NSF": "#3775BA",
+    "NSFC": "#B64342"
+  },
+  "overall_estimates_and_intervals": [
+    {
+      "agency": "NSF",
+      "metric": "composition_overlap",
+      "estimate": 0.5264223352062118,
+      "ci95": [
+        0.5166944604383568,
+        0.5363996134230762
+      ]
+    },
+    {
+      "agency": "NSF",
+      "metric": "aitchison_distance",
+      "estimate": 4.617674185215282,
+      "ci95": [
+        4.498301378527883,
+        4.757337566714584
+      ]
+    },
+    {
+      "agency": "NSFC",
+      "metric": "composition_overlap",
+      "estimate": 0.5460123609417941,
+      "ci95": [
+        0.5363969711249474,
+        0.5553636113220526
+      ]
+    },
+    {
+      "agency": "NSFC",
+      "metric": "aitchison_distance",
+      "estimate": 5.6227209451311735,
+      "ci95": [
+        5.313623966645003,
+        6.069878195142971
+      ]
+    }
+  ],
+  "bootstrap_recomputed": false,
+  "source_sha256": {
+    "Figure4a_bootstrap总体指标.csv": "b56dce9d9f21834bc7a0d4eeaba6c8f17a326249ab68601f65887dc3d67ccabc",
+    "Figure4a_SDSN口径审计.csv": "c828535e3ff5a483b4a63131cc53950a7ca8950a512a46dc4d0202328d6cb967",
+    "Figure4a_年份覆盖审计.csv": "cf7b6b566d80748da02f814fb3a583260648fd989de6ee1108875653dc2be2e5",
+    "Figure4a_总体指标.csv": "54f522de6672bac08a30451225bc001d737e519d54339b56bf7ade02b3b5531e",
+    "Figure4a_构成数据.csv": "b499f51365232ccbcbb9ffd3e60d70221bea2ee90204c7377127d0fa89ff031b",
+    "Figure4a_项目族权重审计.csv": "e461f9dcfe0e8f7255e6d982c1cd78a9534384ca7f01910f7802eace133f2d2e"
+  }
+}

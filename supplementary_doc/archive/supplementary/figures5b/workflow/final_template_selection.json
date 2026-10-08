@@ -1,0 +1,114 @@
+{
+  "dataset_summary": "36 rows = six demand domains × six knowledge tasks, with signed NSF−NSFC estimates and bootstrap percentile intervals.",
+  "observed_data_features": [
+    "One estimate and two interval bounds exist for every domain-task pair.",
+    "The signed percentage-point range is approximately −14.1 to +20.4.",
+    "The original bootstrap replicate distribution is not archived; existing interval bounds are reused."
+  ],
+  "relevant_columns": [
+    "left_code",
+    "right_code",
+    "domain_label",
+    "knowledge_label",
+    "delta_pp",
+    "ci_low_pp",
+    "ci_high_pp"
+  ],
+  "candidate_comparisons": [
+    {
+      "template_id": "rel_grouped_regression_marginal_scatter",
+      "suitable": false,
+      "advantages": [],
+      "limitations": [
+        "Does not directly encode signed effect intervals"
+      ],
+      "data_compatibility": "Insufficient for this data structure",
+      "requirement_compatibility": "Lower"
+    },
+    {
+      "template_id": "cmp_correlation_stacked_bar",
+      "suitable": false,
+      "advantages": [],
+      "limitations": [
+        "Does not directly encode signed effect intervals"
+      ],
+      "data_compatibility": "Insufficient for this data structure",
+      "requirement_compatibility": "Lower"
+    },
+    {
+      "template_id": "cmp_shap_heatmap_bar_report",
+      "suitable": false,
+      "advantages": [],
+      "limitations": [
+        "Does not directly encode signed effect intervals"
+      ],
+      "data_compatibility": "Insufficient for this data structure",
+      "requirement_compatibility": "Lower"
+    },
+    {
+      "template_id": "clu_pcoa_permanova",
+      "suitable": false,
+      "advantages": [],
+      "limitations": [
+        "Does not directly encode signed effect intervals"
+      ],
+      "data_compatibility": "Insufficient for this data structure",
+      "requirement_compatibility": "Lower"
+    },
+    {
+      "template_id": "dis_combined_boxplot_grid",
+      "suitable": false,
+      "advantages": [],
+      "limitations": [
+        "Does not directly encode signed effect intervals"
+      ],
+      "data_compatibility": "Insufficient for this data structure",
+      "requirement_compatibility": "Lower"
+    },
+    {
+      "template_id": "dis_radial_bar_error_significance",
+      "suitable": true,
+      "advantages": [
+        "Contains uncertainty/error-bar marks"
+      ],
+      "limitations": [
+        "The original circular arrangement makes exact signed comparison difficult"
+      ],
+      "data_compatibility": "Six groups and six tasks with real interval bounds",
+      "requirement_compatibility": "Use point, interval and grouped layout; omit unrelated significance-letter convention"
+    },
+    {
+      "template_id": "dis_tukey_hsd_violin_grid",
+      "suitable": false,
+      "advantages": [],
+      "limitations": [
+        "Does not directly encode signed effect intervals"
+      ],
+      "data_compatibility": "Insufficient for this data structure",
+      "requirement_compatibility": "Lower"
+    },
+    {
+      "template_id": "cmp_flowing_percentage_stack",
+      "suitable": false,
+      "advantages": [],
+      "limitations": [
+        "Does not directly encode signed effect intervals"
+      ],
+      "data_compatibility": "Insufficient for this data structure",
+      "requirement_compatibility": "Lower"
+    }
+  ],
+  "selected_template_id": "dis_radial_bar_error_significance",
+  "selected_template_name": "带显著性标记与误差棒的环形柱状图",
+  "alternative_template_ids": [
+    "rel_grouped_regression_marginal_scatter"
+  ],
+  "selection_reason": "The selected uncertainty template is the only recalled candidate with explicit interval marks and grouped comparisons. The Cartesian facet adaptation improves exact positive/negative comparisons requested in the redesign.",
+  "data_support_reason": "All 36 cells have unique domain/task codes, point estimates and lower/upper interval bounds.",
+  "data_warnings": [
+    "Path-qualified counts are descriptive path-level tests, not significance tests for the domain-task intervals."
+  ],
+  "confidence": 0.88,
+  "needs_clarification": false,
+  "clarification_question": ""
+}

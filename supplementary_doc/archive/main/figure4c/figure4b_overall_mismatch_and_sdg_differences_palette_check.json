@@ -1,0 +1,54 @@
+{
+  "reference": "Figure4a_条形对齐_外置指标轴",
+  "palette": {
+    "NSF": "#3775BA",
+    "NSFC": "#B64342"
+  },
+  "overall_bar_alpha": 1,
+  "gray_background": "#D2D6DA",
+  "interval_color": "#26323D",
+  "original_canvas_and_frame_parameters_retained": true,
+  "all_38_intervals_verified": true,
+  "all_artist_values_match_tables": true,
+  "source_hashes_verified": true,
+  "exports": [
+    {
+      "path": "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure4\\配色同一figrue\\figure4b\\叠层重构输出\\图\\Figure4b_总体错配与SDG差值.png",
+      "bytes": 616700,
+      "pixels": [
+        4320,
+        4860
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ],
+      "readable": true
+    },
+    {
+      "path": "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure4\\配色同一figrue\\figure4b\\叠层重构输出\\图\\Figure4b_总体错配与SDG差值.pdf",
+      "bytes": 66382
+    },
+    {
+      "path": "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure4\\配色同一figrue\\figure4b\\叠层重构输出\\图\\Figure4b_总体错配与SDG差值.svg",
+      "bytes": 60314
+    },
+    {
+      "path": "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure4\\配色同一figrue\\figure4b\\叠层重构输出\\图\\Figure4b_总体错配与SDG差值.tiff",
+      "bytes": 1532446,
+      "pixels": [
+        4320,
+        4860
+      ],
+      "dpi": [
+        600.0,
+        600.0
+      ],
+      "readable": true
+    }
+  ],
+  "visual_review": {
+    "passed": true,
+    "method": "Codex实际查看本次最终PNG预览，实心总体蓝红柱、点、黑色区间和图例一致，无文字遮挡。"
+  }
+}

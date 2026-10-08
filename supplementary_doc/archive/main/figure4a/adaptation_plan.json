@@ -1,0 +1,81 @@
+{
+  "template_id": "cmp_stack_pie_box_report",
+  "template_name": "百分比堆叠、内嵌饼图与箱线图报告",
+  "plot_goal": "12个SDG全部构成对照与两国总体对齐度量",
+  "selected_columns": [
+    "agency",
+    "country",
+    "sdg_number",
+    "goal_name_en",
+    "supply_share",
+    "challenge_share",
+    "n_project_families",
+    "observed_project_coverage"
+  ],
+  "column_mappings": [
+    {
+      "data_column": "sdg_number",
+      "template_role": "公共分类轴",
+      "reason": "12个SDG同序对齐"
+    },
+    {
+      "data_column": "agency",
+      "template_role": "分组颜色与配对位置",
+      "reason": "NSF蓝、NSFC红；每SDG两柱"
+    },
+    {
+      "data_column": "supply_share",
+      "template_role": "向上实心柱",
+      "reason": "科研供给构成份额"
+    },
+    {
+      "data_column": "challenge_share",
+      "template_role": "向下镜像柱",
+      "reason": "各国自身外部挑战构成份额"
+    }
+  ],
+  "required_preprocessing": [
+    "仅乘100换算百分比",
+    "复核各构成合计100%及既有总体估计/分位数",
+    "保留24行、48柱、48个值，不新增bootstrap"
+  ],
+  "required_dependencies": [
+    "matplotlib",
+    "numpy",
+    "pandas"
+  ],
+  "layout_elements_to_preserve": [
+    "组成与总体不确定性共同展示",
+    "内部摘要与外部图例",
+    "可编辑矢量输出"
+  ],
+  "style_elements_to_preserve": [
+    "matplotlib二维图",
+    "数值刻度与统计摘要"
+  ],
+  "elements_allowed_to_change": [
+    "总体指标改为全框宽度的横向条形图",
+    "取消局部小窗及箱体；主图无新增面板分隔",
+    "画框适度增高，保留主柱图物理尺寸",
+    "继续使用同一黑框、Arial及Figure1a已确认红蓝"
+  ],
+  "title_plan": "National research-supply and SDG-challenge alignment",
+  "axis_plan": "总体指标采用贯穿主框的两组横向条形图：Overlap共用0–100%水平尺度，Aitchison共用0–7距离尺度，各组NSF/NSFC分行；下方12SDG共同分类轴与镜像百分比柱保留。画布183×133.517mm，主柱区域162.87×68.2mm大小不变。",
+  "legend_plan": "蓝红实心表示供给；蓝红边缘的灰斜线柱表示对应本国挑战；两国各在同SDG内左/右位置",
+  "annotation_plan": "四条总体条形从零开始，终点对应原观测值；黑色水平区间为原95%CI，端侧打印原观测值和上下限。Overlap灰色尾段为1−Overlap，不给Aitchison设置百分比余量。",
+  "output_formats": [
+    "png",
+    "pdf",
+    "svg",
+    "tiff"
+  ],
+  "warnings": [
+    "模板库没有直接适用的双国镜像柱及两总体指标组合成品；借用组成与不确定性组合报告思路，并复用本任务已验证的镜像柱代码做自定义适配。",
+    "科研供给和挑战是各自闭合构成，不可相加堆叠；向下镜像不表示负值。",
+    "两总体指标使用各自明确的单位和局部线性刻度；不根据柱形高度评判CLR方向。",
+    "保留估计与95%区间；不保留原bootstrap密度外形，全部2,000次原样本仍随附。",
+    "两个总体指标使用不同水平尺度；Aitchison的7仅为本图显示上限，不是理论最大值。Overlap灰色余量为1减去共享构成份额。"
+  ],
+  "can_proceed": true,
+  "clarification_question": ""
+}

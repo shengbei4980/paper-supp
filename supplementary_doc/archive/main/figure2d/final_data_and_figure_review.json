@@ -1,0 +1,661 @@
+{
+  "new_checks": 129,
+  "passed": 129,
+  "failed": 0,
+  "unchanged_statistics_previous_checks": 200,
+  "statistics_reuse_basis": "identical source hashes, table bytes, support table bytes and bootstrap array bytes",
+  "unique_projects": 11753,
+  "unique_profiles": 8399,
+  "coded_features": 147,
+  "group_colors": 6,
+  "formal_knowledge_subtypes": 16,
+  "ring_cells": 144,
+  "centre_labels": 6,
+  "check_details": [
+    {
+      "item": "原始文件哈希 NSF_编码结果.csv",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "原始文件哈希 NSFC_编码结果.csv",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "原始文件哈希 Figure2c_路径事件追溯.csv",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "全部11753项目保留",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "机构记录数",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "输入无重复项目",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "输出无重复项目",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "输入输出逐行ID一致",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "父级对应一致",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "所有子级均保留",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "NSF原始编码 urban_need_subtopic_multi",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "NSF原始编码 urban_pressure_subtype_multi",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "NSF原始编码 urban_system_subtype_multi",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "NSF原始编码 primary_knowledge_subtype_multi",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "NSF原始编码 intervention_subtype_multi",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "NSF原始编码 primary_knowledge_task",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "NSF原始编码 intervention_type_multi",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "NSF子级父级匹配",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "NSFC原始编码 urban_need_subtopic_multi",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "NSFC原始编码 urban_pressure_subtype_multi",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "NSFC原始编码 urban_system_subtype_multi",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "NSFC原始编码 primary_knowledge_subtype_multi",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "NSFC原始编码 intervention_subtype_multi",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "NSFC原始编码 primary_knowledge_task",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "NSFC原始编码 intervention_type_multi",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "NSFC子级父级匹配",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "实际编码组合数",
+      "pass": true,
+      "detail": "8399"
+    },
+    {
+      "item": "每行特征块贡献 urban_need_subtopic_multi",
+      "pass": true,
+      "detail": "2.7755575615628914e-17"
+    },
+    {
+      "item": "每行特征块贡献 urban_pressure_subtype_multi",
+      "pass": true,
+      "detail": "1.3877787807814457e-17"
+    },
+    {
+      "item": "每行特征块贡献 urban_system_subtype_multi",
+      "pass": true,
+      "detail": "1.3877787807814457e-17"
+    },
+    {
+      "item": "每行特征块贡献 primary_knowledge_subtype_multi",
+      "pass": true,
+      "detail": "1.1102230246251565e-16"
+    },
+    {
+      "item": "每行特征块贡献 intervention_subtype_multi",
+      "pass": true,
+      "detail": "8.326672684688674e-17"
+    },
+    {
+      "item": "147个编码维度",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "特征列名完整一致",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "独立重新计算特征矩阵",
+      "pass": true,
+      "detail": "0.0"
+    },
+    {
+      "item": "逐项目总特征范数",
+      "pass": true,
+      "detail": "2.220446049250313e-16"
+    },
+    {
+      "item": "投影排除国家及平衡权重",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "最终投影ID一致",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "未修改原始投影X",
+      "pass": true,
+      "detail": "0.0"
+    },
+    {
+      "item": "未修改原始投影Y",
+      "pass": true,
+      "detail": "0.0"
+    },
+    {
+      "item": "仅平移及等比缩放",
+      "pass": true,
+      "detail": "1.7763568394002505e-15"
+    },
+    {
+      "item": "无随机抖动或手排圆团",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "全部投影点位有限",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "无中心点被圆环裁切",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "六类各一色",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "每个点继承主K颜色",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "K01点数与原始样本一致",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "K02点数与原始样本一致",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "K03点数与原始样本一致",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "K04点数与原始样本一致",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "K05点数与原始样本一致",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "K06点数与原始样本一致",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "中心仅6个必要标签",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "K01标签锚点来自真实同类项目",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "K02标签锚点来自真实同类项目",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "K03标签锚点来自真实同类项目",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "K04标签锚点来自真实同类项目",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "K05标签锚点来自真实同类项目",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "K06标签锚点来自真实同类项目",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "圆弧细分精度",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "同心圆层次与间隔",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "未超画布文字",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "已复核统计输入未改变 144项子级干预完整比较.csv",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "已复核统计输入未改变 16子级支持量与父类内份额.csv",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "已复核统计输入未改变 Bootstrap完整分布.npz",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "全144项单元一一对应",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "绘图差值与已核实统计完全一致",
+      "pass": true,
+      "detail": "3.552713678800501e-15"
+    },
+    {
+      "item": "标记保持统计定义",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "缺失与低支持量保留",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "55个标记均符合阈值",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "BH值独立校验",
+      "pass": true,
+      "detail": "2.7929047963226594e-16"
+    },
+    {
+      "item": "全部值落入色条",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "SVG完整16个子级标签",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "SVG包含六类颜色",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "保留模板九层QuadMesh",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "完整名称覆盖6K及9L",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "K01完整名称与数据一致",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "K01完整名称实际进入SVG",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "K02完整名称与数据一致",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "K02完整名称实际进入SVG",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "K03完整名称与数据一致",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "K03完整名称实际进入SVG",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "K04完整名称与数据一致",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "K04完整名称实际进入SVG",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "K05完整名称与数据一致",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "K05完整名称实际进入SVG",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "K06完整名称与数据一致",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "K06完整名称实际进入SVG",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "L01完整名称与数据一致",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "L01完整名称实际进入SVG",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "L02完整名称与数据一致",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "L02完整名称实际进入SVG",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "L03完整名称与数据一致",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "L03完整名称实际进入SVG",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "L04完整名称与数据一致",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "L04完整名称实际进入SVG",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "L05完整名称与数据一致",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "L05完整名称实际进入SVG",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "L06完整名称与数据一致",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "L06完整名称实际进入SVG",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "L07完整名称与数据一致",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "L07完整名称实际进入SVG",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "L08完整名称与数据一致",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "L08完整名称实际进入SVG",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "L09完整名称与数据一致",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "L09完整名称实际进入SVG",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "K06.1无斜线覆盖或多余线条",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "Figure1a色带源文件哈希",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "Figure1a蓝色带完整三端点",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "Figure1a红色带完整三端点",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "L0180段圆弧网格保留",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "L0280段圆弧网格保留",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "L0380段圆弧网格保留",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "L0480段圆弧网格保留",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "L0580段圆弧网格保留",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "L0680段圆弧网格保留",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "L0780段圆弧网格保留",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "L0880段圆弧网格保留",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "L0980段圆弧网格保留",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "144单元及11520弧段颜色与Figure1a原色带逐项一致",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "K06.1深红单元保留真实数值",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "导出完整 png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "导出完整 pdf",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "导出完整 svg",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "600dpi主图尺寸",
+      "pass": true,
+      "detail": "((4322, 4960), (599.9988, 599.9988))"
+    },
+    {
+      "item": "布局发散结果存在 三个数据布局.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "布局发散结果存在 三个数据布局_含问题背景.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "布局发散结果存在 三个数据布局_知识任务主导.png",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "item": "布局发散结果存在 完整图_H_taskTSNE30.png",
+      "pass": true,
+      "detail": ""
+    }
+  ]
+}

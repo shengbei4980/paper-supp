@@ -1,0 +1,8 @@
+{
+  "repairs": [
+    {
+      "issue": "Long domain titles collided with path counts; +20.4 annotation approached the right border.",
+      "change": "Wrapped long titles, moved path counts inside each frame, and shifted +20.4 label left."
+    }
+  ]
+}

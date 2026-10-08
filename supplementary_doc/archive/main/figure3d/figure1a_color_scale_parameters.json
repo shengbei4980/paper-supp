@@ -1,0 +1,16 @@
+{
+  "colors": {
+    "NSF_DARK": "#003366",
+    "NSF_MID": "#7F99B2",
+    "NSFC_DARK": "#8B0000",
+    "NSFC_MID": "#C57F7F",
+    "NSF_LIGHT": "#E4EDF5",
+    "NSFC_LIGHT": "#F6E4E4"
+  },
+  "norm": "LogNorm",
+  "vmin": 0.001,
+  "vmax": 25,
+  "variable": "overall national supply share (%) for highlighted locations only",
+  "alpha": 1.0,
+  "other_locations_color": "#CDD1D5"
+}

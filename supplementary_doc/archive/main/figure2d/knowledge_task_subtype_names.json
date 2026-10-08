@@ -1,0 +1,66 @@
+{
+  "K01.1": {
+    "zh": "状态测量",
+    "en": "State measurement"
+  },
+  "K01.2": {
+    "zh": "问题诊断",
+    "en": "Problem diagnosis"
+  },
+  "K02.1": {
+    "zh": "机制解析",
+    "en": "Mechanism analysis"
+  },
+  "K02.2": {
+    "zh": "因果识别",
+    "en": "Causal identification"
+  },
+  "K03.1": {
+    "zh": "情景模拟",
+    "en": "Scenario simulation"
+  },
+  "K03.2": {
+    "zh": "趋势预测",
+    "en": "Trend prediction"
+  },
+  "K03.3": {
+    "zh": "风险预测与预警",
+    "en": "Risk prediction and early warning"
+  },
+  "K04.1": {
+    "zh": "干预方案设计",
+    "en": "Intervention design"
+  },
+  "K04.2": {
+    "zh": "干预方案比较",
+    "en": "Intervention comparison"
+  },
+  "K04.3": {
+    "zh": "效能优化",
+    "en": "Performance optimization"
+  },
+  "K05.1": {
+    "zh": "规划决策支持",
+    "en": "Planning decision support"
+  },
+  "K05.2": {
+    "zh": "政策工具设计",
+    "en": "Policy instrument design"
+  },
+  "K05.3": {
+    "zh": "治理方案设计",
+    "en": "Governance strategy design"
+  },
+  "K06.1": {
+    "zh": "实施过程监测",
+    "en": "Implementation process monitoring"
+  },
+  "K06.2": {
+    "zh": "干预效果评估",
+    "en": "Intervention effect evaluation"
+  },
+  "K06.3": {
+    "zh": "反馈与迭代改进",
+    "en": "Feedback and iterative improvement"
+  }
+}

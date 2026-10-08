@@ -1,0 +1,35 @@
+{
+  "passed": true,
+  "source_records": 11753,
+  "independently_checked_goal_pairs": 24,
+  "independently_checked_top_location_goal_rows": 240,
+  "max_independent_numerical_error": 3.183231456205249e-12,
+  "unique_top_locations": 20,
+  "svg_unique_observations": 24,
+  "all_input_hashes_match": true,
+  "all_numeric_labels_and_coordinates_match": true,
+  "raster_exports": {
+    "png": {
+      "pixels": [
+        4320,
+        2430
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ]
+    },
+    "tiff": {
+      "pixels": [
+        4320,
+        2430
+      ],
+      "dpi": [
+        600.0,
+        600.0
+      ]
+    }
+  },
+  "NSFC_all_12_above_50": true,
+  "NSF_all_12_below_30": true
+}

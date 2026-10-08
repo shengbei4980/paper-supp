@@ -1,0 +1,26 @@
+{
+  "png": {
+    "size": [
+      4320,
+      4860
+    ],
+    "dpi": [
+      599.9988,
+      599.9988
+    ]
+  },
+  "tiff": {
+    "size": [
+      4320,
+      4860
+    ],
+    "dpi": [
+      600.0,
+      600.0
+    ]
+  },
+  "original_data_unchanged": true,
+  "pdf_truetype_embedded": true,
+  "svg_text_elements": 61,
+  "visual_review": "Preview inspected; no clipped labels or frame misalignment observed."
+}

@@ -1,0 +1,20 @@
+{
+  "map_consistency_checks": [
+    {
+      "agency": "NSF",
+      "all_map_units": 3235,
+      "max_supply_error": 7.105427357601002e-15
+    },
+    {
+      "agency": "NSFC",
+      "all_map_units": 370,
+      "max_supply_error": 0.0
+    }
+  ],
+  "map_sha256": "53067ab9a0e422f9278718ed54144c965410efe069064e15a904b1e3cb54f268",
+  "positive_locations_retained": 478,
+  "curve_vertices_including_origins": 480,
+  "min_NSF_minus_NSFC_pp": -0.008725699111539018,
+  "strict_lorenz_dominance_claim_supported": false,
+  "uncertainty": "Descriptive finite-sample distribution; no confidence bands or hypothesis tests."
+}

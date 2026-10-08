@@ -1,0 +1,52 @@
+{
+  "size_mm": [
+    182.9999999999947,
+    164.00000000000722
+  ],
+  "pdf_fonts": [
+    {
+      "font": "/CFEKEO+ArialMT",
+      "type": "/Type0"
+    },
+    {
+      "font": "/CFEKEO+Arial-BoldMT",
+      "type": "/Type0"
+    }
+  ],
+  "pdf_text_extractable": true,
+  "raster_files": [
+    {
+      "file": "Figure5c_挑战标准化任务组合_全量贡献.png",
+      "pixels": [
+        4322,
+        3874
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ]
+    },
+    {
+      "file": "Figure5c_挑战标准化任务组合_全量贡献.tiff",
+      "pixels": [
+        4322,
+        3874
+      ],
+      "dpi": [
+        600.0,
+        600.0
+      ]
+    },
+    {
+      "file": "Figure5c_挑战标准化任务组合_全量贡献_预览.png",
+      "pixels": [
+        2161,
+        1937
+      ],
+      "dpi": [
+        299.9994,
+        299.9994
+      ]
+    }
+  ]
+}

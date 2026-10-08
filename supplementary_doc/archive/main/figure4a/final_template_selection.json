@@ -1,0 +1,156 @@
+{
+  "dataset_summary": "两国各12个SDG，24行，48个独立供给或挑战份额；两国各两项总体指标及既有2,000次项目族bootstrap样本。",
+  "observed_data_features": [
+    "同一12个SDG分类序列",
+    "各国科研供给和挑战构成各合计100%",
+    "两种总体指标衡量共享构成与对数比偏离"
+  ],
+  "relevant_columns": [
+    "agency",
+    "country",
+    "sdg_number",
+    "goal_name_en",
+    "supply_share",
+    "challenge_share",
+    "n_project_families",
+    "observed_project_coverage"
+  ],
+  "candidate_comparisons": [
+    {
+      "template_id": "cmp_correlation_stacked_bar",
+      "suitable": false,
+      "advantages": [
+        "分类比较或组成可视化候选"
+      ],
+      "limitations": [
+        "单独采用不能同时兼顾全量分类、48个值及双总体区间"
+      ],
+      "data_compatibility": "不作为最终母版",
+      "requirement_compatibility": "未完全覆盖叙事责任"
+    },
+    {
+      "template_id": "cmp_horizontal_percentage_stack",
+      "suitable": false,
+      "advantages": [
+        "分类比较或组成可视化候选"
+      ],
+      "limitations": [
+        "单独采用不能同时兼顾全量分类、48个值及双总体区间"
+      ],
+      "data_compatibility": "不作为最终母版",
+      "requirement_compatibility": "未完全覆盖叙事责任"
+    },
+    {
+      "template_id": "cmp_gradient_single_factor_bar",
+      "suitable": false,
+      "advantages": [
+        "分类比较或组成可视化候选"
+      ],
+      "limitations": [
+        "单独采用不能同时兼顾全量分类、48个值及双总体区间"
+      ],
+      "data_compatibility": "不作为最终母版",
+      "requirement_compatibility": "未完全覆盖叙事责任"
+    },
+    {
+      "template_id": "cmp_circular_barplot",
+      "suitable": false,
+      "advantages": [
+        "分类比较或组成可视化候选"
+      ],
+      "limitations": [
+        "单独采用不能同时兼顾全量分类、48个值及双总体区间"
+      ],
+      "data_compatibility": "不作为最终母版",
+      "requirement_compatibility": "未完全覆盖叙事责任"
+    },
+    {
+      "template_id": "cmp_radial_stacked_bar",
+      "suitable": false,
+      "advantages": [
+        "分类比较或组成可视化候选"
+      ],
+      "limitations": [
+        "单独采用不能同时兼顾全量分类、48个值及双总体区间"
+      ],
+      "data_compatibility": "不作为最终母版",
+      "requirement_compatibility": "未完全覆盖叙事责任"
+    },
+    {
+      "template_id": "rel_sem_effect_decomposition",
+      "suitable": false,
+      "advantages": [
+        "分类比较或组成可视化候选"
+      ],
+      "limitations": [
+        "单独采用不能同时兼顾全量分类、48个值及双总体区间"
+      ],
+      "data_compatibility": "不作为最终母版",
+      "requirement_compatibility": "未完全覆盖叙事责任"
+    },
+    {
+      "template_id": "sen_grouped_shap_top_features",
+      "suitable": false,
+      "advantages": [
+        "分类比较或组成可视化候选"
+      ],
+      "limitations": [
+        "单独采用不能同时兼顾全量分类、48个值及双总体区间"
+      ],
+      "data_compatibility": "不作为最终母版",
+      "requirement_compatibility": "未完全覆盖叙事责任"
+    },
+    {
+      "template_id": "cmp_stack_pie_box_report",
+      "suitable": true,
+      "advantages": [
+        "同时支持组成对照与总体统计的组合思路"
+      ],
+      "limitations": [
+        "需要将堆叠及饼图替换为镜像分组柱，并将独立分布面板压缩为无框点区间"
+      ],
+      "data_compatibility": "采用真实份额及预先计算总体统计",
+      "requirement_compatibility": "在同一框中保留完整组成证据与总体度量"
+    },
+    {
+      "template_id": "cmp_ternary_scatter",
+      "suitable": false,
+      "advantages": [
+        "分类比较或组成可视化候选"
+      ],
+      "limitations": [
+        "单独采用不能同时兼顾全量分类、48个值及双总体区间"
+      ],
+      "data_compatibility": "不作为最终母版",
+      "requirement_compatibility": "未完全覆盖叙事责任"
+    },
+    {
+      "template_id": "cmp_flowing_percentage_stack",
+      "suitable": false,
+      "advantages": [
+        "分类比较或组成可视化候选"
+      ],
+      "limitations": [
+        "单独采用不能同时兼顾全量分类、48个值及双总体区间"
+      ],
+      "data_compatibility": "不作为最终母版",
+      "requirement_compatibility": "未完全覆盖叙事责任"
+    }
+  ],
+  "selected_template_id": "cmp_stack_pie_box_report",
+  "selected_template_name": "百分比堆叠、内嵌饼图与箱线图报告",
+  "alternative_template_ids": [
+    "cmp_correlation_stacked_bar"
+  ],
+  "selection_reason": "复合组成与不确定性图最接近叙事结构；遵循用户已确认共同SDG分类轴和单框要求，复用既有主图实现自定义适配。",
+  "data_support_reason": "所有48个百分比来自原构成表；两项总体统计与区间来自原汇总及bootstrap结果。",
+  "data_warnings": [
+    "模板库没有直接适用的双国镜像柱及两总体指标组合成品；借用组成与不确定性组合报告思路，并复用本任务已验证的镜像柱代码做自定义适配。",
+    "科研供给和挑战是各自闭合构成，不可相加堆叠；向下镜像不表示负值。",
+    "两总体指标使用各自明确的单位和局部线性刻度；不根据柱形高度评判CLR方向。",
+    "保留估计与95%区间；不保留原bootstrap密度外形，全部2,000次原样本仍随附。"
+  ],
+  "confidence": 0.88,
+  "needs_clarification": false,
+  "clarification_question": ""
+}

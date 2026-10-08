@@ -1,0 +1,222 @@
+{
+  "original_request": "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure2\\figure2e\\知识任务—干预残差与行动到达曲线，将此文件夹下的图的画框进行统一大小，使其更加的规则，同时折线图采用全包围的形式，颜色样式严格沿用figure1a的参数，请使用modelviz全流程进行重构对其进行休整在并给我完整的休整后的图，最后将其输出到E:\\可持续发展目标基金\\定稿撰写\\成图\\figure2\\figure2e\\最终新 文件夹下",
+  "candidate_count": 10,
+  "total_templates": 89,
+  "candidates": [
+    {
+      "template_id": "cmp_shap_heatmap_bar_report",
+      "template_name": "SHAP组合分析图",
+      "category": "comparison_ranking",
+      "score": 0.21,
+      "matched_keywords": [
+        "分组",
+        "多面板"
+      ],
+      "matched_synonyms": [],
+      "matched_chart_types": [],
+      "matched_use_cases": [],
+      "matched_styles": [],
+      "penalties": [],
+      "candidate_reason": "功能关键词匹配：分组, 多面板",
+      "preview": "templates/02_CMP_comparison_ranking/02_CMP_012/assets/preview.png",
+      "code_path": "templates/02_CMP_comparison_ranking/02_CMP_012/SHAP组合分析图.py",
+      "catalog_order": 15
+    },
+    {
+      "template_id": "dis_combined_boxplot_grid",
+      "template_name": "组合箱线图",
+      "category": "distribution_uncertainty",
+      "score": 0.21,
+      "matched_keywords": [
+        "分组",
+        "多面板"
+      ],
+      "matched_synonyms": [],
+      "matched_chart_types": [],
+      "matched_use_cases": [],
+      "matched_styles": [],
+      "penalties": [],
+      "candidate_reason": "功能关键词匹配：分组, 多面板",
+      "preview": "templates/04_DIS_distribution_uncertainty/04_DIS_001/assets/preview.png",
+      "code_path": "templates/04_DIS_distribution_uncertainty/04_DIS_001/组合箱线图.py",
+      "catalog_order": 22
+    },
+    {
+      "template_id": "dis_tukey_hsd_violin_grid",
+      "template_name": "Tukey HSD检验小提琴图",
+      "category": "distribution_uncertainty",
+      "score": 0.21,
+      "matched_keywords": [
+        "分组",
+        "多面板"
+      ],
+      "matched_synonyms": [],
+      "matched_chart_types": [],
+      "matched_use_cases": [],
+      "matched_styles": [],
+      "penalties": [],
+      "candidate_reason": "功能关键词匹配：分组, 多面板",
+      "preview": "templates/04_DIS_distribution_uncertainty/04_DIS_006/assets/preview.png",
+      "code_path": "templates/04_DIS_distribution_uncertainty/04_DIS_006/Tukey HSD检验小提琴图.py",
+      "catalog_order": 27
+    },
+    {
+      "template_id": "rel_grouped_correlation_bubble_matrix",
+      "template_name": "分组相关性气泡矩阵",
+      "category": "relationship_correlation",
+      "score": 0.21,
+      "matched_keywords": [
+        "气泡矩阵",
+        "分组"
+      ],
+      "matched_synonyms": [],
+      "matched_chart_types": [],
+      "matched_use_cases": [],
+      "matched_styles": [],
+      "penalties": [],
+      "candidate_reason": "功能关键词匹配：气泡矩阵, 分组",
+      "preview": "templates/09_REL_relationship_correlation/09_REL_010/assets/preview.png",
+      "code_path": "templates/09_REL_relationship_correlation/09_REL_010/分组相关性气泡矩阵.py",
+      "catalog_order": 54
+    },
+    {
+      "template_id": "mpn_rf_importance_correlation",
+      "template_name": "RF变量重要性与相关性分析组合图",
+      "category": "multi_panel_report",
+      "score": 0.195,
+      "matched_keywords": [
+        "多面板"
+      ],
+      "matched_synonyms": [],
+      "matched_chart_types": [],
+      "matched_use_cases": [],
+      "matched_styles": [
+        "科学图",
+        "规则画框",
+        "全包围",
+        "figure1a配色"
+      ],
+      "penalties": [],
+      "candidate_reason": "功能关键词匹配：多面板；风格弱匹配：科学图, 规则画框, 全包围, figure1a配色",
+      "preview": "templates/05_MPN_multi_panel_report/05_MPN_001/assets/preview.png",
+      "code_path": "templates/05_MPN_multi_panel_report/05_MPN_001/RF变量重要性与相关性分析组合图.py",
+      "catalog_order": 28
+    },
+    {
+      "template_id": "mpn_scatter_matrix_timeseries_regression",
+      "template_name": "散点矩阵与时间序列回归报告",
+      "category": "multi_panel_report",
+      "score": 0.195,
+      "matched_keywords": [
+        "多面板"
+      ],
+      "matched_synonyms": [],
+      "matched_chart_types": [],
+      "matched_use_cases": [],
+      "matched_styles": [
+        "科学图",
+        "规则画框",
+        "全包围",
+        "figure1a配色"
+      ],
+      "penalties": [],
+      "candidate_reason": "功能关键词匹配：多面板；风格弱匹配：科学图, 规则画框, 全包围, figure1a配色",
+      "preview": "templates/05_MPN_multi_panel_report/05_MPN_002/assets/preview.png",
+      "code_path": "templates/05_MPN_multi_panel_report/05_MPN_002/散点矩阵与时间序列回归报告.py",
+      "catalog_order": 29
+    },
+    {
+      "template_id": "mpn_plot_postprocessing_grid",
+      "template_name": "绘图结果后处理",
+      "category": "multi_panel_report",
+      "score": 0.195,
+      "matched_keywords": [
+        "多面板"
+      ],
+      "matched_synonyms": [],
+      "matched_chart_types": [],
+      "matched_use_cases": [],
+      "matched_styles": [
+        "科学图",
+        "规则画框",
+        "全包围",
+        "figure1a配色"
+      ],
+      "penalties": [],
+      "candidate_reason": "功能关键词匹配：多面板；风格弱匹配：科学图, 规则画框, 全包围, figure1a配色",
+      "preview": "templates/05_MPN_multi_panel_report/05_MPN_003/assets/preview.png",
+      "code_path": "templates/05_MPN_multi_panel_report/05_MPN_003/绘图结果后处理.py",
+      "catalog_order": 30
+    },
+    {
+      "template_id": "mpn_3d_surface_scatter_report",
+      "template_name": "三维组合分析图",
+      "category": "multi_panel_report",
+      "score": 0.195,
+      "matched_keywords": [
+        "多面板"
+      ],
+      "matched_synonyms": [],
+      "matched_chart_types": [],
+      "matched_use_cases": [],
+      "matched_styles": [
+        "科学图",
+        "规则画框",
+        "全包围",
+        "figure1a配色"
+      ],
+      "penalties": [],
+      "candidate_reason": "功能关键词匹配：多面板；风格弱匹配：科学图, 规则画框, 全包围, figure1a配色",
+      "preview": "templates/05_MPN_multi_panel_report/05_MPN_004/assets/preview.png",
+      "code_path": "templates/05_MPN_multi_panel_report/05_MPN_004/三维组合分析图.py",
+      "catalog_order": 31
+    },
+    {
+      "template_id": "clu_rda_biplot",
+      "template_name": "RDA冗余分析",
+      "category": "clustering_reduction",
+      "score": 0.135,
+      "matched_keywords": [
+        "分组"
+      ],
+      "matched_synonyms": [],
+      "matched_chart_types": [],
+      "matched_use_cases": [],
+      "matched_styles": [
+        "科学图",
+        "规则画框",
+        "全包围",
+        "figure1a配色"
+      ],
+      "penalties": [],
+      "candidate_reason": "功能关键词匹配：分组；风格弱匹配：科学图, 规则画框, 全包围, figure1a配色",
+      "preview": "templates/01_CLU_clustering_reduction/01_CLU_004/assets/preview.png",
+      "code_path": "templates/01_CLU_clustering_reduction/01_CLU_004/RDA冗余分析.py",
+      "catalog_order": 3
+    },
+    {
+      "template_id": "cmp_stack_pie_box_report",
+      "template_name": "百分比堆叠、内嵌饼图与箱线图报告",
+      "category": "comparison_ranking",
+      "score": 0.135,
+      "matched_keywords": [
+        "多面板"
+      ],
+      "matched_synonyms": [],
+      "matched_chart_types": [],
+      "matched_use_cases": [],
+      "matched_styles": [
+        "科学图",
+        "规则画框",
+        "全包围",
+        "figure1a配色"
+      ],
+      "penalties": [],
+      "candidate_reason": "功能关键词匹配：多面板；风格弱匹配：科学图, 规则画框, 全包围, figure1a配色",
+      "preview": "templates/02_CMP_comparison_ranking/02_CMP_010/assets/preview.png",
+      "code_path": "templates/02_CMP_comparison_ranking/02_CMP_010/百分比堆叠、内嵌饼图与箱线图报告.py",
+      "catalog_order": 13
+    }
+  ],
+  "warnings": []
+}

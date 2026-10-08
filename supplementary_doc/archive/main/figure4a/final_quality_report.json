@@ -1,0 +1,24 @@
+{
+  "passed": true,
+  "repair_attempts": 0,
+  "dependency_install_rounds": 0,
+  "final_dependencies": [
+    "matplotlib",
+    "numpy",
+    "pandas"
+  ],
+  "final_script": "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure4\\配色同一figrue\\figure4a\\合并输出\\新\\modelviz叙事重构\\全量构成重构\\workspace\\adapted_plot.py",
+  "final_outputs": [
+    "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure4\\配色同一figrue\\figure4a\\合并输出\\新\\modelviz叙事重构\\全量构成重构\\outputs\\Figure4a_条形对齐_外置指标轴.pdf",
+    "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure4\\配色同一figrue\\figure4a\\合并输出\\新\\modelviz叙事重构\\全量构成重构\\outputs\\Figure4a_条形对齐_外置指标轴.png",
+    "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure4\\配色同一figrue\\figure4a\\合并输出\\新\\modelviz叙事重构\\全量构成重构\\outputs\\Figure4a_条形对齐_外置指标轴.svg",
+    "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure4\\配色同一figrue\\figure4a\\合并输出\\新\\modelviz叙事重构\\全量构成重构\\outputs\\Figure4a_条形对齐_外置指标轴.tiff",
+    "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure4\\配色同一figrue\\figure4a\\合并输出\\新\\modelviz叙事重构\\全量构成重构\\outputs\\Figure4a_条形对齐_外置指标轴_预览.png"
+  ],
+  "technical_summary": "脚本执行成功；坐标对齐、48数字、源文件哈希及PNG/PDF/SVG/TIFF验证通过。",
+  "visual_summary": "四条横条起点与首根SDG柱左边缘对齐；横轴刻度、轴线和NSF/NSFC行标签移除；总体指标名称与主纵轴标题同列外置。实际PNG预览审阅通过。",
+  "remaining_issues": [],
+  "warnings": [
+    "总体条形使用独立水平尺度；移除刻度后依靠标注数值读取，不能跨指标比较条形长度。"
+  ]
+}

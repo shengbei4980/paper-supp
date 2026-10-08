@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "dependency_inspection": {
+    "success": true,
+    "template_code_path": "templates\\06_NET_network_flow\\06_NET_001\\关系和弦图.py",
+    "required_dependencies": [
+      {
+        "import_name": "matplotlib",
+        "package_name": "matplotlib",
+        "source": [
+          "ast"
+        ]
+      },
+      {
+        "import_name": "pandas",
+        "package_name": "pandas",
+        "source": [
+          "ast"
+        ]
+      },
+      {
+        "import_name": "pyCirclize",
+        "package_name": "pyCirclize",
+        "source": [
+          "ast"
+        ]
+      },
+      {
+        "import_name": "PIL",
+        "package_name": "Pillow",
+        "source": [
+          "ast"
+        ]
+      }
+    ],
+    "unresolved_dependencies": [],
+    "stdlib_dependencies": [
+      "os",
+      "pathlib",
+      "shutil",
+      "logging"
+    ],
+    "internal_modules": [],
+    "warnings": []
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "dataset_summary": "2570个非零城市组合单元，62组组合，两国共429个有观测机构城市",
+  "observed_data_features": [
+    "NSF334城市、NSFC95城市",
+    "长表仅列有事件单元，需补全已确认的62列",
+    "基于项目记录，不是项目族"
+  ],
+  "relevant_columns": [
+    "agency",
+    "city_id",
+    "institution_city",
+    "pair_id",
+    "pair_project_count"
+  ],
+  "candidate_comparisons": [
+    {
+      "template_id": "rel_petal_correlation_heatmap",
+      "suitable": false,
+      "advantages": [],
+      "limitations": [
+        "现有布局与环形二值矩阵不直接匹配"
+      ],
+      "data_compatibility": "真实agency/city_id/pair_id可构成分组矩阵",
+      "requirement_compatibility": "不选"
+    },
+    {
+      "template_id": "clu_spearman_cluster_heatmap",
+      "suitable": true,
+      "advantages": [
+        "层次树的排序逻辑可参考"
+      ],
+      "limitations": [
+        "不能沿用Spearman，应使用已确认的Jaccard及平均连接"
+      ],
+      "data_compatibility": "真实agency/city_id/pair_id可构成分组矩阵",
+      "requirement_compatibility": "辅助参考"
+    },
+    {
+      "template_id": "evl_multiomics_circular_heatmap",
+      "suitable": false,
+      "advantages": [],
+      "limitations": [
+        "现有布局与环形二值矩阵不直接匹配"
+      ],
+      "data_compatibility": "真实agency/city_id/pair_id可构成分组矩阵",
+      "requirement_compatibility": "不选"
+    },
+    {
+      "template_id": "cmp_shap_heatmap_bar_report",
+      "suitable": false,
+      "advantages": [],
+      "limitations": [
+        "现有布局与环形二值矩阵不直接匹配"
+      ],
+      "data_compatibility": "真实agency/city_id/pair_id可构成分组矩阵",
+      "requirement_compatibility": "不选"
+    },
+    {
+      "template_id": "rel_grouped_correlation_heatmap",
+      "suitable": false,
+      "advantages": [],
+      "limitations": [
+        "现有布局与环形二值矩阵不直接匹配"
+      ],
+      "data_compatibility": "真实agency/city_id/pair_id可构成分组矩阵",
+      "requirement_compatibility": "不选"
+    },
+    {
+      "template_id": "sen_shap_interaction_matrix_heatmap",
+      "suitable": false,
+      "advantages": [],
+      "limitations": [
+        "现有布局与环形二值矩阵不直接匹配"
+      ],
+      "data_compatibility": "真实agency/city_id/pair_id可构成分组矩阵",
+      "requirement_compatibility": "不选"
+    },
+    {
+      "template_id": "rel_circular_grouped_correlation_heatmap",
+      "suitable": true,
+      "advantages": [
+        "环形分组矩阵与径向标签可适配"
+      ],
+      "limitations": [
+        "需增加内环树；将相关系数替换为二值观测"
+      ],
+      "data_compatibility": "真实agency/city_id/pair_id可构成分组矩阵",
+      "requirement_compatibility": "主模板"
+    }
+  ],
+  "selected_template_id": "rel_circular_grouped_correlation_heatmap",
+  "selected_template_name": "环状相关性热图-带有分组标注",
+  "alternative_template_ids": [
+    "clu_spearman_cluster_heatmap"
+  ],
+  "selection_reason": "用户已确认圆形矩阵及内环城市相似性树；保留极坐标矩阵结构并增加聚类树",
+  "data_support_reason": "城市组合出现事件可转换为二值矩阵；Jaccard可直接用于城市集合比较",
+  "data_warnings": [
+    "树是描述性相似性组织，不表示合作或因果联系",
+    "相同出现模式的城市可有零距离；并列叶序无额外意义"
+  ],
+  "confidence": 0.96,
+  "needs_clarification": false,
+  "clarification_question": ""
+}

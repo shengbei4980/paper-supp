@@ -1,0 +1,75 @@
+{
+  "template_id": "rel_grouped_correlation_bubble_matrix",
+  "template_name": "分组相关性气泡矩阵",
+  "plot_goal": "Regular Figure 2e panel frames, fully enclosed reach plots, and exact Figure 1a blue/red palette.",
+  "selected_columns": [
+    "knowledge_code",
+    "intervention_code",
+    "difference_nsf_minus_nsfc_pp",
+    "difference_ci_low_pp",
+    "difference_ci_high_pp",
+    "ci_excludes_zero",
+    "absolute_difference_rank"
+  ],
+  "column_mappings": [
+    {
+      "data_column": "knowledge_code",
+      "template_role": "bubble-matrix row",
+      "reason": ""
+    },
+    {
+      "data_column": "intervention_code",
+      "template_role": "bubble-matrix column",
+      "reason": ""
+    },
+    {
+      "data_column": "difference_nsf_minus_nsfc_pp",
+      "template_role": "signed bubble colour and absolute area",
+      "reason": ""
+    },
+    {
+      "data_column": "ci_excludes_zero",
+      "template_role": "bubble significance outline",
+      "reason": ""
+    }
+  ],
+  "required_preprocessing": [
+    "Use the two complete plot-input CSV grids as supplied; do not recalculate estimands.",
+    "Validate NSF and NSFC raw-code labels agree and save 15 full names in a separate mapping CSV."
+  ],
+  "required_dependencies": [
+    "matplotlib",
+    "numpy",
+    "pandas"
+  ],
+  "layout_elements_to_preserve": [
+    "Figure 2e bubble matrix plus 3×2 action-stage reach panels",
+    "Original figure legends and annotations"
+  ],
+  "style_elements_to_preserve": [
+    "Gridded bubble plot",
+    "Area-based magnitude encoding",
+    "Categorical task order"
+  ],
+  "elements_allowed_to_change": [
+    "Panel geometry",
+    "Axes frames",
+    "Palette and overlay opacity",
+    "Code-only axes and full-name legend"
+  ],
+  "title_plan": "Keep the supplied English title and panel names.",
+  "axis_plan": "Use one fixed matrix box and six identical framed reach boxes aligned to its top and bottom.",
+  "legend_plan": "Retain magnitude/count and country/CI keys; add 15 full raw-code names to a separate bottom legend.",
+  "annotation_plan": "Retain top-eight bubble values, A05–A07 note and K06 low-n label.",
+  "output_formats": [
+    "png",
+    "svg",
+    "pdf",
+    "tiff"
+  ],
+  "warnings": [
+    "The selected ModelViz template is a design reference; its correlation estimator is inapplicable to these precomputed residuals."
+  ],
+  "can_proceed": true,
+  "clarification_question": ""
+}

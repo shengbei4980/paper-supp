@@ -1,0 +1,29 @@
+{
+  "passed": true,
+  "script_executed": true,
+  "dependencies_available": true,
+  "dependency_issues": [],
+  "image_exists": true,
+  "image_readable": true,
+  "image_width": 4322,
+  "image_height": 2598,
+  "file_size": 1129950,
+  "pixel_variance": 1934.1846,
+  "possible_blank_image": false,
+  "generated_formats": [
+    "pdf",
+    "png",
+    "svg"
+  ],
+  "execution_errors": [],
+  "warnings": [],
+  "issues": [
+    {
+      "issue_type": "bad_extension",
+      "severity": "medium",
+      "message": "不支持的输出格式：.tiff",
+      "suggested_action": ""
+    }
+  ],
+  "needs_repair": false
+}

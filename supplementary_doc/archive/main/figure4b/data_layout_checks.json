@@ -1,0 +1,28 @@
+{
+  "canvas_mm": [
+    183,
+    110
+  ],
+  "targets": 85,
+  "sdgs": 12,
+  "paired_cells": 595,
+  "country_metric_slots": 1190,
+  "observed_slots": 1036,
+  "unobserved_slots": 154,
+  "target_share_slots": 170,
+  "task_slots": 1020,
+  "palette": {
+    "nsf": "#3775BA",
+    "nsfc": "#B64342"
+  },
+  "source_values_unchanged": true,
+  "scale": [
+    0,
+    1
+  ],
+  "normalization_checks": "passed",
+  "target_labels_within_canvas": true,
+  "minimum_label_pt": 5.6,
+  "template": "09_REL_005",
+  "meaning": "Actual within-SDG Target shares and within-Target task shares; not correlations."
+}

@@ -1,0 +1,85 @@
+{
+  "template_id": "net_chord_relationship",
+  "template_name": "关系和弦图",
+  "plot_goal": "Display Target–task–stage weighted relationships across six agency and mismatch-class panels, with selected SDGs only as external context.",
+  "selected_columns": [
+    "agency",
+    "mismatch_class",
+    "sdg",
+    "target",
+    "knowledge_task",
+    "action_stage",
+    "fractional_project_support",
+    "path_code"
+  ],
+  "column_mappings": [
+    {
+      "data_column": "sdg",
+      "template_role": "external selected-goal context",
+      "reason": ""
+    },
+    {
+      "data_column": "target",
+      "template_role": "formal Target sectors",
+      "reason": ""
+    },
+    {
+      "data_column": "knowledge_task",
+      "template_role": "K01-K06 sectors",
+      "reason": ""
+    },
+    {
+      "data_column": "action_stage",
+      "template_role": "A01-A07 sectors",
+      "reason": ""
+    },
+    {
+      "data_column": "fractional_project_support",
+      "template_role": "chord weights",
+      "reason": ""
+    }
+  ],
+  "required_preprocessing": [
+    "Split six agency-class panels",
+    "Aggregate Target–K and K–A edge tables",
+    "Check each transition conserves the panel's full support",
+    "Compute action-stage group shares directly from original paths for an integrated outer ring"
+  ],
+  "required_dependencies": [
+    "matplotlib",
+    "pandas",
+    "pycirclize",
+    "Pillow"
+  ],
+  "layout_elements_to_preserve": [
+    "Circular node sectors",
+    "Weighted interior chords",
+    "External node labels"
+  ],
+  "style_elements_to_preserve": [
+    "White background",
+    "Arc-and-ribbon geometry",
+    "Sector labels"
+  ],
+  "elements_allowed_to_change": [
+    "Six-panel composition",
+    "Figure 1a color palette",
+    "Title and annotations",
+    "Integrated action-stage summary rings"
+  ],
+  "title_plan": "Preserve existing Figure 5b wording and b panel letter.",
+  "axis_plan": "No Cartesian axes in chord panels; circle sectors are groups of Target, K, and A nodes. SDG labels stay outside the rings.",
+  "legend_plan": "No global legend; each chord panel has a compact lower-left key with its own three exact action-stage shares.",
+  "annotation_plan": "Each panel lists the number of paths and total support above the circle and puts stage shares in its lower-left key.",
+  "output_formats": [
+    "png",
+    "pdf",
+    "svg"
+  ],
+  "warnings": [
+    "The chord summary does not preserve visual continuity of individual four-node paths; the source CSV does.",
+    "Middle-layer arc widths double count incoming and outgoing incidence; panels have separate scales."
+  ],
+  "can_proceed": true,
+  "clarification_question": ""
+}

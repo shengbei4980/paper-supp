@@ -1,0 +1,12 @@
+{
+  "reviewed_images": ["FigureS3_全量城市Target组合_清晰标注版.png", "FigureS3_NSF_外环放大版.png"],
+  "review_method": "Assistant viewed actual rendered images after final horizontal-leader change",
+  "visible_label_overlap": false,
+  "visible_clipping": false,
+  "ring_color": "#000000",
+  "labels": "Actual Target codes; identical selection and placement across countries; horizontal leaders reach precise ring centres at the cut edge",
+  "annulus_thickness_change_percent": 46.6667,
+  "data_scope": "62 pairs, 334 NSF cities, 95 NSFC cities; no aggregation or filtering added",
+  "limitation": "Overview thumbnail cannot expose every small cell; vector and country enlargements supplied for detailed reading",
+  "status": "revision exported and inspected"
+}

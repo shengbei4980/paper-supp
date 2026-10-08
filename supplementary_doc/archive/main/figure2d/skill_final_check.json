@@ -1,0 +1,142 @@
+{
+  "skill": "academic-figure-skill",
+  "automated": [
+    {
+      "check_id": "AP-0",
+      "pass_": true,
+      "category": "PASS",
+      "message": "Typography baseline present",
+      "line": null
+    },
+    {
+      "check_id": "AP-0",
+      "pass_": false,
+      "category": "FAIL",
+      "message": "Missing CNS color palette (CATEGORICAL/DIVERGING)",
+      "line": null
+    },
+    {
+      "check_id": "AP-0",
+      "pass_": true,
+      "category": "PASS",
+      "message": "Export baseline (pdf.fonttype=42, svg.fonttype='none') present",
+      "line": null
+    },
+    {
+      "check_id": "AP-1",
+      "pass_": true,
+      "category": "PASS",
+      "message": "No default palette detected",
+      "line": null
+    },
+    {
+      "check_id": "AP-2",
+      "pass_": true,
+      "category": "PASS",
+      "message": "No jet/rainbow colormap",
+      "line": null
+    },
+    {
+      "check_id": "AP-3",
+      "pass_": true,
+      "category": "PASS",
+      "message": "Top/right spines removed",
+      "line": null
+    },
+    {
+      "check_id": "AP-4",
+      "pass_": false,
+      "category": "WARN",
+      "message": "Legend may occlude data — no bbox_to_anchor or external placement found",
+      "line": null
+    },
+    {
+      "check_id": "AP-5",
+      "pass_": true,
+      "category": "PASS",
+      "message": "Vector export present",
+      "line": null
+    },
+    {
+      "check_id": "AP-6",
+      "pass_": true,
+      "category": "PASS",
+      "message": "Individual data points shown",
+      "line": null
+    },
+    {
+      "check_id": "AP-7",
+      "pass_": true,
+      "category": "PASS",
+      "message": "Arial/Helvetica font set",
+      "line": null
+    },
+    {
+      "check_id": "CL-1",
+      "pass_": true,
+      "category": "PASS",
+      "message": "All font sizes >= 5pt (min: 5pt)",
+      "line": null
+    },
+    {
+      "check_id": "CL-2",
+      "pass_": true,
+      "category": "WARN",
+      "message": "No explicit dimension declaration — verify matches 89/183mm column",
+      "line": null
+    },
+    {
+      "check_id": "CL-3",
+      "pass_": true,
+      "category": "PASS",
+      "message": "All DPI values >= 300",
+      "line": null
+    },
+    {
+      "check_id": "CL-4",
+      "pass_": true,
+      "category": "PASS",
+      "message": "Font embedding configured",
+      "line": null
+    },
+    {
+      "check_id": "CL-5",
+      "pass_": true,
+      "category": "PASS",
+      "message": "Spine linewidth default (verify 0.5-0.8)",
+      "line": null
+    },
+    {
+      "check_id": "CL-6",
+      "pass_": true,
+      "category": "PASS",
+      "message": "Ticks outward",
+      "line": null
+    },
+    {
+      "check_id": "CL-7",
+      "pass_": true,
+      "category": "PASS",
+      "message": "Vector + raster both exported",
+      "line": null
+    }
+  ],
+  "reviewed_exceptions": {
+    "AP-0_palette": "Use the six user-requested K colours; retain Figure1a divergence palette.",
+    "AP-4_legend": "Manually placed in the open quadrant, outside the point-map radius; visually checked.",
+    "CL-2_size": "183/25.4 by 210/25.4 inches = 183 by 210 mm, not recognized by regex."
+  },
+  "visual_review": {
+    "smooth_concentric_heatmap": true,
+    "six_parent_colors_inherited_by_children": true,
+    "no_counts_or_subtype_caption_blocks_inside_map": true,
+    "all_16_subtypes_on_outer_ring": true,
+    "six_centre_labels_only": true,
+    "no_title_overlap": true,
+    "no_colourbar_overlap": true,
+    "legend_does_not_hide_points": true,
+    "all_data_points_inside_circle": true,
+    "projection_caveat_in_footer": true,
+    "PNG_PDF_SVG_exist": true
+  }
+}

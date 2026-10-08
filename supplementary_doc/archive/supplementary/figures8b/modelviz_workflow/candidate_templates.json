@@ -1,0 +1,223 @@
+{
+  "original_request": "使用 modelviz 全流程重构 Figure 5d / 补充图 S11b，保留三类相对科研供给位置、九类干预方式、七个离散行动阶段的全部 189 个国家差单元。比较 NSF 与 NSFC 经正式 Target 和授奖时间熵平衡后的条件阶段份额，展示项目族 bootstrap 95% 区间、跨国较小 ESS、低支持量及通过 BH-FDR 的可靠差异。用户已确认采用离散镜像山脊母版，不做连续核密度估计；严格沿用 Figure 1a 的蓝红色阶，输出期刊级 PNG、PDF、SVG、TIFF 与代码和数据。",
+  "candidate_count": 10,
+  "total_templates": 89,
+  "candidates": [
+    {
+      "template_id": "dis_ridgeline_distribution",
+      "template_name": "山脊分布图",
+      "category": "distribution_uncertainty",
+      "score": 0.31,
+      "matched_keywords": [
+        "山脊图"
+      ],
+      "matched_synonyms": [],
+      "matched_chart_types": [
+        "ridgeline_plot"
+      ],
+      "matched_use_cases": [],
+      "matched_styles": [],
+      "penalties": [],
+      "candidate_reason": "图表类型匹配：ridgeline_plot；功能关键词匹配：山脊图",
+      "preview": "templates/04_DIS_distribution_uncertainty/04_DIS_002/assets/preview.png",
+      "code_path": "templates/04_DIS_distribution_uncertainty/04_DIS_002/山脊分布图.py",
+      "catalog_order": 23
+    },
+    {
+      "template_id": "mpn_rf_importance_correlation",
+      "template_name": "RF变量重要性与相关性分析组合图",
+      "category": "multi_panel_report",
+      "score": 0.16,
+      "matched_keywords": [
+        "多面板"
+      ],
+      "matched_synonyms": [],
+      "matched_chart_types": [],
+      "matched_use_cases": [],
+      "matched_styles": [
+        "科研风",
+        "简洁",
+        "Figure1a蓝红配色"
+      ],
+      "penalties": [],
+      "candidate_reason": "功能关键词匹配：多面板；风格弱匹配：科研风, 简洁, Figure1a蓝红配色",
+      "preview": "templates/05_MPN_multi_panel_report/05_MPN_001/assets/preview.png",
+      "code_path": "templates/05_MPN_multi_panel_report/05_MPN_001/RF变量重要性与相关性分析组合图.py",
+      "catalog_order": 28
+    },
+    {
+      "template_id": "mpn_scatter_matrix_timeseries_regression",
+      "template_name": "散点矩阵与时间序列回归报告",
+      "category": "multi_panel_report",
+      "score": 0.16,
+      "matched_keywords": [
+        "多面板"
+      ],
+      "matched_synonyms": [],
+      "matched_chart_types": [],
+      "matched_use_cases": [],
+      "matched_styles": [
+        "科研风",
+        "简洁",
+        "Figure1a蓝红配色"
+      ],
+      "penalties": [],
+      "candidate_reason": "功能关键词匹配：多面板；风格弱匹配：科研风, 简洁, Figure1a蓝红配色",
+      "preview": "templates/05_MPN_multi_panel_report/05_MPN_002/assets/preview.png",
+      "code_path": "templates/05_MPN_multi_panel_report/05_MPN_002/散点矩阵与时间序列回归报告.py",
+      "catalog_order": 29
+    },
+    {
+      "template_id": "mpn_plot_postprocessing_grid",
+      "template_name": "绘图结果后处理",
+      "category": "multi_panel_report",
+      "score": 0.16,
+      "matched_keywords": [
+        "多面板"
+      ],
+      "matched_synonyms": [],
+      "matched_chart_types": [],
+      "matched_use_cases": [],
+      "matched_styles": [
+        "科研风",
+        "简洁",
+        "Figure1a蓝红配色"
+      ],
+      "penalties": [],
+      "candidate_reason": "功能关键词匹配：多面板；风格弱匹配：科研风, 简洁, Figure1a蓝红配色",
+      "preview": "templates/05_MPN_multi_panel_report/05_MPN_003/assets/preview.png",
+      "code_path": "templates/05_MPN_multi_panel_report/05_MPN_003/绘图结果后处理.py",
+      "catalog_order": 30
+    },
+    {
+      "template_id": "mpn_3d_surface_scatter_report",
+      "template_name": "三维组合分析图",
+      "category": "multi_panel_report",
+      "score": 0.16,
+      "matched_keywords": [
+        "多面板"
+      ],
+      "matched_synonyms": [],
+      "matched_chart_types": [],
+      "matched_use_cases": [],
+      "matched_styles": [
+        "科研风",
+        "简洁",
+        "Figure1a蓝红配色"
+      ],
+      "penalties": [],
+      "candidate_reason": "功能关键词匹配：多面板；风格弱匹配：科研风, 简洁, Figure1a蓝红配色",
+      "preview": "templates/05_MPN_multi_panel_report/05_MPN_004/assets/preview.png",
+      "code_path": "templates/05_MPN_multi_panel_report/05_MPN_004/三维组合分析图.py",
+      "catalog_order": 31
+    },
+    {
+      "template_id": "dis_radial_bar_error_significance",
+      "template_name": "带显著性标记与误差棒的环形柱状图",
+      "category": "distribution_uncertainty",
+      "score": 0.14,
+      "matched_keywords": [
+        "多组比较",
+        "显著性标记"
+      ],
+      "matched_synonyms": [],
+      "matched_chart_types": [],
+      "matched_use_cases": [],
+      "matched_styles": [],
+      "penalties": [],
+      "candidate_reason": "功能关键词匹配：多组比较, 显著性标记",
+      "preview": "templates/04_DIS_distribution_uncertainty/04_DIS_005/assets/preview.png",
+      "code_path": "templates/04_DIS_distribution_uncertainty/04_DIS_005/带显著性标记与误差棒的环形柱状图.py",
+      "catalog_order": 26
+    },
+    {
+      "template_id": "cmp_gradient_single_factor_bar",
+      "template_name": "渐变单因子条形图",
+      "category": "comparison_ranking",
+      "score": 0.1,
+      "matched_keywords": [
+        "显著性标记"
+      ],
+      "matched_synonyms": [],
+      "matched_chart_types": [],
+      "matched_use_cases": [],
+      "matched_styles": [
+        "科研风",
+        "简洁",
+        "Figure1a蓝红配色"
+      ],
+      "penalties": [],
+      "candidate_reason": "功能关键词匹配：显著性标记；风格弱匹配：科研风, 简洁, Figure1a蓝红配色",
+      "preview": "templates/02_CMP_comparison_ranking/02_CMP_005/assets/preview.png",
+      "code_path": "templates/02_CMP_comparison_ranking/02_CMP_005/渐变单因子条形图.py",
+      "catalog_order": 8
+    },
+    {
+      "template_id": "cmp_stack_pie_box_report",
+      "template_name": "百分比堆叠、内嵌饼图与箱线图报告",
+      "category": "comparison_ranking",
+      "score": 0.1,
+      "matched_keywords": [
+        "多面板"
+      ],
+      "matched_synonyms": [],
+      "matched_chart_types": [],
+      "matched_use_cases": [],
+      "matched_styles": [
+        "科研风",
+        "简洁",
+        "Figure1a蓝红配色"
+      ],
+      "penalties": [],
+      "candidate_reason": "功能关键词匹配：多面板；风格弱匹配：科研风, 简洁, Figure1a蓝红配色",
+      "preview": "templates/02_CMP_comparison_ranking/02_CMP_010/assets/preview.png",
+      "code_path": "templates/02_CMP_comparison_ranking/02_CMP_010/百分比堆叠、内嵌饼图与箱线图报告.py",
+      "catalog_order": 13
+    },
+    {
+      "template_id": "prd_multi_model_regression_fit",
+      "template_name": "多模型回归拟合对比图",
+      "category": "prediction_evaluation",
+      "score": 0.1,
+      "matched_keywords": [
+        "多面板"
+      ],
+      "matched_synonyms": [],
+      "matched_chart_types": [],
+      "matched_use_cases": [],
+      "matched_styles": [
+        "科研风",
+        "简洁",
+        "Figure1a蓝红配色"
+      ],
+      "penalties": [],
+      "candidate_reason": "功能关键词匹配：多面板；风格弱匹配：科研风, 简洁, Figure1a蓝红配色",
+      "preview": "templates/08_PRD_prediction_evaluation/08_PRD_002/assets/preview.png",
+      "code_path": "templates/08_PRD_prediction_evaluation/08_PRD_002/多模型回归拟合对比图.py",
+      "catalog_order": 36
+    },
+    {
+      "template_id": "rel_network_radar_report",
+      "template_name": "相关性网络与雷达报告",
+      "category": "relationship_correlation",
+      "score": 0.1,
+      "matched_keywords": [
+        "多面板"
+      ],
+      "matched_synonyms": [],
+      "matched_chart_types": [],
+      "matched_use_cases": [],
+      "matched_styles": [
+        "科研风",
+        "简洁",
+        "Figure1a蓝红配色"
+      ],
+      "penalties": [],
+      "candidate_reason": "功能关键词匹配：多面板；风格弱匹配：科研风, 简洁, Figure1a蓝红配色",
+      "preview": "templates/09_REL_relationship_correlation/09_REL_021/assets/preview.png",
+      "code_path": "templates/09_REL_relationship_correlation/09_REL_021/相关性网络与雷达报告.py",
+      "catalog_order": 65
+    }
+  ],
+  "warnings": []
+}

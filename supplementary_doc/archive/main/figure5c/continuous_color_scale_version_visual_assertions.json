@@ -1,0 +1,20 @@
+{
+  "size_mm": [
+    183,
+    190
+  ],
+  "term_count": 24,
+  "sdg_contribution_count": 144,
+  "net_point_count": 12,
+  "task_codes_visible": false,
+  "point_estimates_unchanged": true,
+  "word_region_aligned_to_plot": true,
+  "term_overlap": false,
+  "canvas_clipping": false,
+  "colorbar": {
+    "vmin": -10,
+    "center": 0,
+    "vmax": 10,
+    "unit": "percentage points"
+  }
+}

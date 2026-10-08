@@ -1,0 +1,26 @@
+{
+  "original_request": "请重新对其进行重构。沿用已确认的Figure4a叙事责任：引入各国自身的外部SDG挑战作为参照，展示并量化科研供给的总体构成偏离。恢复12个SDG的共同分类轴及全部48个百分比，整体指标采用嵌入主图的图形，保留95%区间，单黑框，Figure1a配色，183×110 mm。",
+  "goal": "完整对照两国12个SDG科研供给与本国挑战构成，并用观测值及区间量化总体对齐程度",
+  "functional_keywords": [
+    "比较",
+    "组成占比",
+    "分组比较",
+    "不确定性"
+  ],
+  "chart_types": [
+    "bar_chart"
+  ],
+  "style_keywords": [
+    "科研风",
+    "简洁"
+  ],
+  "use_case": "论文正文",
+  "negative_requirements": [
+    "不要三维",
+    "不要回归",
+    "不要拆成上下两个画框"
+  ],
+  "explicit_template": false,
+  "is_ambiguous": false,
+  "clarification_question": ""
+}

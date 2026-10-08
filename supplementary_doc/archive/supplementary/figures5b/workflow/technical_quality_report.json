@@ -1,0 +1,33 @@
+{
+  "passed": true,
+  "artifact_validation": {
+    "success": true,
+    "valid_files": [
+      "E:\\可持续发展目标基金\\定稿撰写\\成图\\补充s图\\s6\\出图\\图S6_六类城市需求领域的知识任务差异_重构.pdf",
+      "E:\\可持续发展目标基金\\定稿撰写\\成图\\补充s图\\s6\\出图\\图S6_六类城市需求领域的知识任务差异_重构.png",
+      "E:\\可持续发展目标基金\\定稿撰写\\成图\\补充s图\\s6\\出图\\图S6_六类城市需求领域的知识任务差异_重构.svg"
+    ],
+    "generated_formats": [
+      "pdf",
+      "png",
+      "svg"
+    ],
+    "issues": []
+  },
+  "image_inspection": {
+    "success": true,
+    "image_readable": true,
+    "image_width": 2400,
+    "image_height": 3240,
+    "file_size": 491641,
+    "pixel_variance": 1128.8197,
+    "possible_blank_image": false,
+    "issues": []
+  },
+  "warning_collection": {
+    "success": true,
+    "warnings": [],
+    "issues": []
+  },
+  "tiff_bytes": 2571594
+}

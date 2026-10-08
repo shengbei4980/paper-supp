@@ -1,0 +1,25 @@
+{
+  "original_request": "D01-D06的标签名称采用与原始数据对应的标签名称一致 以及K01-K06的标签去除，同时颜色样式严格沿用figure1a的颜色样式，请对其进行休整",
+  "goal": "展示六个需求领域中六类知识任务的 NSF−NSFC 份额差及 95% bootstrap 区间",
+  "functional_keywords": [
+    "比较",
+    "差异",
+    "误差棒",
+    "置信区间",
+    "分组"
+  ],
+  "chart_types": [],
+  "style_keywords": [
+    "论文",
+    "清晰",
+    "简洁",
+    "figure1a配色"
+  ],
+  "use_case": "论文补充材料图件",
+  "negative_requirements": [
+    "去除K01-K06代码标签"
+  ],
+  "explicit_template": false,
+  "is_ambiguous": false,
+  "clarification_question": ""
+}

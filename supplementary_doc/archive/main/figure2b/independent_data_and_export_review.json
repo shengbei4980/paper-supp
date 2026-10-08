@@ -1,0 +1,443 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "check": "311 unique complete source connections",
+      "passed": true,
+      "detail": 311
+    },
+    {
+      "check": "150 / 90 / 71 stage counts",
+      "passed": true,
+      "detail": {
+        "Need → pressure": 150,
+        "Pressure → system": 90,
+        "System → knowledge": 71
+      }
+    },
+    {
+      "check": "source copies SHA256 unchanged",
+      "passed": true,
+      "detail": 4
+    },
+    {
+      "check": "original source inputs unchanged",
+      "passed": true,
+      "detail": 4
+    },
+    {
+      "check": "raw-to-derived coordinates",
+      "passed": true,
+      "detail": 0.0
+    },
+    {
+      "check": "area proportional across marker shapes",
+      "passed": true,
+      "detail": 1.7763568394002505e-15
+    },
+    {
+      "check": "fractional project counts match original flow",
+      "passed": true,
+      "detail": 0.0
+    },
+    {
+      "check": "all per-link JSD components independently recomputed",
+      "passed": true,
+      "detail": 8.673617379884035e-19
+    },
+    {
+      "check": "quadrants match approved data",
+      "passed": true,
+      "detail": {
+        "I": 129,
+        "IV": 31,
+        "III": 112,
+        "II": 39
+      }
+    },
+    {
+      "check": "contraction / expansion / reversal counts",
+      "passed": true,
+      "detail": {
+        "gap_change": {
+          "smaller": 217,
+          "larger": 94
+        },
+        "sign_flips": 70
+      }
+    },
+    {
+      "check": "Need → pressure observed nsf normalised",
+      "passed": true,
+      "detail": 1.0
+    },
+    {
+      "check": "Need → pressure observed nsfc normalised",
+      "passed": true,
+      "detail": 1.0
+    },
+    {
+      "check": "Need → pressure observed additive JSD",
+      "passed": true,
+      "detail": 0.028298557059038602
+    },
+    {
+      "check": "Need → pressure balanced nsf normalised",
+      "passed": true,
+      "detail": 1.0
+    },
+    {
+      "check": "Need → pressure balanced nsfc normalised",
+      "passed": true,
+      "detail": 1.0
+    },
+    {
+      "check": "Need → pressure balanced additive JSD",
+      "passed": true,
+      "detail": 0.008508060719179257
+    },
+    {
+      "check": "Need → pressure ellipse covariance / scaled axes / angle",
+      "passed": true,
+      "detail": {
+        "mean": [
+          1.5145581548174173e-17,
+          -1.0053445344733921e-16
+        ],
+        "covariance": [
+          1.1468393055782198,
+          0.19695610237776812,
+          0.14850057149029958
+        ],
+        "coverage_scale": 8.340183367643283
+      }
+    },
+    {
+      "check": "Need → pressure ellipse includes all points, nearest and farthest",
+      "passed": true,
+      "detail": {
+        "covered": 150,
+        "max_distance_squared": 0.9999999998,
+        "nearest": "N04→P07",
+        "farthest": "N01→P01"
+      }
+    },
+    {
+      "check": "Need → pressure complete ellipse inside canvas limits",
+      "passed": true,
+      "detail": {
+        "x_extent": 8.931551026140895,
+        "y_extent": 3.213954037486663
+      }
+    },
+    {
+      "check": "Need → pressure saved summary",
+      "passed": true,
+      "detail": {
+        "stage": "Need → pressure",
+        "stage_index": "0",
+        "links": "150",
+        "smaller": "102",
+        "larger": "48",
+        "flips": "33",
+        "observed_contribution": "0.0282985570590386",
+        "balanced_contribution": "0.0085080607191792",
+        "retained_percent": "30.065351747190128",
+        "nsf_covered": "145",
+        "nsfc_covered": "140",
+        "both_covered": "135",
+        "quadrant_I": "64",
+        "quadrant_II": "19",
+        "quadrant_III": "53",
+        "quadrant_IV": "14",
+        "quadrant_axis": "0"
+      }
+    },
+    {
+      "check": "Pressure → system observed nsf normalised",
+      "passed": true,
+      "detail": 1.0
+    },
+    {
+      "check": "Pressure → system observed nsfc normalised",
+      "passed": true,
+      "detail": 1.0
+    },
+    {
+      "check": "Pressure → system observed additive JSD",
+      "passed": true,
+      "detail": 0.02893851775175191
+    },
+    {
+      "check": "Pressure → system balanced nsf normalised",
+      "passed": true,
+      "detail": 0.9999999999999999
+    },
+    {
+      "check": "Pressure → system balanced nsfc normalised",
+      "passed": true,
+      "detail": 1.0000000000000002
+    },
+    {
+      "check": "Pressure → system balanced additive JSD",
+      "passed": true,
+      "detail": 0.010234441731774747
+    },
+    {
+      "check": "Pressure → system ellipse covariance / scaled axes / angle",
+      "passed": true,
+      "detail": {
+        "mean": [
+          -1.4224732503009817e-17,
+          -2.275475332849355e-16
+        ],
+        "covariance": [
+          2.067763530669387,
+          0.8960766955919801,
+          0.5283397854221754
+        ],
+        "coverage_scale": 4.940947529012049
+      }
+    },
+    {
+      "check": "Pressure → system ellipse includes all points, nearest and farthest",
+      "passed": true,
+      "detail": {
+        "covered": 90,
+        "max_distance_squared": 0.9999999998000005,
+        "nearest": "P06→O09",
+        "farthest": "P04→O02"
+      }
+    },
+    {
+      "check": "Pressure → system complete ellipse inside canvas limits",
+      "passed": true,
+      "detail": {
+        "x_extent": 7.104944299637132,
+        "y_extent": 3.5914258116455744
+      }
+    },
+    {
+      "check": "Pressure → system saved summary",
+      "passed": true,
+      "detail": {
+        "stage": "Pressure → system",
+        "stage_index": "1",
+        "links": "90",
+        "smaller": "67",
+        "larger": "23",
+        "flips": "20",
+        "observed_contribution": "0.0289385177517519",
+        "balanced_contribution": "0.0102344417317747",
+        "retained_percent": "35.3661573808671",
+        "nsf_covered": "89",
+        "nsfc_covered": "88",
+        "both_covered": "87",
+        "quadrant_I": "36",
+        "quadrant_II": "11",
+        "quadrant_III": "34",
+        "quadrant_IV": "9",
+        "quadrant_axis": "0"
+      }
+    },
+    {
+      "check": "System → knowledge observed nsf normalised",
+      "passed": true,
+      "detail": 1.0
+    },
+    {
+      "check": "System → knowledge observed nsfc normalised",
+      "passed": true,
+      "detail": 1.0
+    },
+    {
+      "check": "System → knowledge observed additive JSD",
+      "passed": true,
+      "detail": 0.014761254659309364
+    },
+    {
+      "check": "System → knowledge balanced nsf normalised",
+      "passed": true,
+      "detail": 1.0000000000000002
+    },
+    {
+      "check": "System → knowledge balanced nsfc normalised",
+      "passed": true,
+      "detail": 1.0
+    },
+    {
+      "check": "System → knowledge balanced additive JSD",
+      "passed": true,
+      "detail": 0.008015679865993048
+    },
+    {
+      "check": "System → knowledge ellipse covariance / scaled axes / angle",
+      "passed": true,
+      "detail": {
+        "mean": [
+          -2.0273053580165574e-17,
+          1.0458733351201718e-16
+        ],
+        "covariance": [
+          1.2239248590942489,
+          0.40011651362610356,
+          0.35998366740757237
+        ],
+        "coverage_scale": 4.909580242442443
+      }
+    },
+    {
+      "check": "System → knowledge ellipse includes all points, nearest and farthest",
+      "passed": true,
+      "detail": {
+        "covered": 71,
+        "max_distance_squared": 0.9999999998000003,
+        "nearest": "O09→K05",
+        "farthest": "O05→K04"
+      }
+    },
+    {
+      "check": "System → knowledge complete ellipse inside canvas limits",
+      "passed": true,
+      "detail": {
+        "x_extent": 5.431524470109111,
+        "y_extent": 2.9456813228966414
+      }
+    },
+    {
+      "check": "System → knowledge saved summary",
+      "passed": true,
+      "detail": {
+        "stage": "System → knowledge",
+        "stage_index": "2",
+        "links": "71",
+        "smaller": "48",
+        "larger": "23",
+        "flips": "17",
+        "observed_contribution": "0.0147612546593093",
+        "balanced_contribution": "0.008015679865993",
+        "retained_percent": "54.30215825819293",
+        "nsf_covered": "70",
+        "nsfc_covered": "69",
+        "both_covered": "68",
+        "quadrant_I": "29",
+        "quadrant_II": "9",
+        "quadrant_III": "25",
+        "quadrant_IV": "8",
+        "quadrant_axis": "0"
+      }
+    },
+    {
+      "check": "nine labels follow prespecified rule",
+      "passed": true,
+      "detail": [
+        "link_0_N02_P01",
+        "link_0_N02_P04",
+        "link_0_N06_P04",
+        "link_1_P01_O01",
+        "link_1_P01_O08",
+        "link_1_P04_O02",
+        "link_2_O06_K04",
+        "link_2_O07_K01",
+        "link_2_O08_K02"
+      ]
+    },
+    {
+      "check": "SVG all 311 connection objects",
+      "passed": true,
+      "detail": 311
+    },
+    {
+      "check": "SVG coordinates exactly map source values (no jitter)",
+      "passed": true,
+      "detail": 4.99828615829756e-07
+    },
+    {
+      "check": "SVG polygon fill area scales with mean share",
+      "passed": true,
+      "detail": 1.0446048818835152e-05
+    },
+    {
+      "check": "SVG three ellipse objects",
+      "passed": true,
+      "detail": 3
+    },
+    {
+      "check": "SVG four distinct quadrant backgrounds",
+      "passed": true,
+      "detail": {
+        "I": "#eef4fa",
+        "II": "#e5eef6",
+        "III": "#fbf0ef",
+        "IV": "#f8e9e9"
+      }
+    },
+    {
+      "check": "SVG ellipse colours distinguish stages",
+      "passed": true,
+      "detail": [
+        "#287D63",
+        "#B88727",
+        "#8064A2"
+      ]
+    },
+    {
+      "check": "SVG one data axes",
+      "passed": true,
+      "detail": [
+        "axes_1"
+      ]
+    },
+    {
+      "check": "equal physical scale on x and y",
+      "passed": true,
+      "detail": [
+        32.1770589487125,
+        32.1770589487125
+      ]
+    },
+    {
+      "check": "selected label boxes do not overlap each other",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "check": "PDF exact 180 by 120 mm",
+      "passed": true,
+      "detail": [
+        510.2362204724,
+        340.157480315
+      ]
+    },
+    {
+      "check": "three summary rows removed",
+      "passed": true,
+      "detail": 1127
+    },
+    {
+      "check": "legends / quadrant counts / sample labels present",
+      "passed": true,
+      "detail": 1127
+    },
+    {
+      "check": "PDF contains selectable text",
+      "passed": true,
+      "detail": 1127
+    },
+    {
+      "check": "PNG 600 dpi at exact physical size",
+      "passed": true,
+      "detail": {
+        "size": [
+          4251,
+          2834
+        ],
+        "dpi": [
+          599.9988,
+          599.9988
+        ]
+      }
+    }
+  ],
+  "scope": "Source-copy hashes, independent arithmetic, unweighted covariance, labels, actual SVG coordinates/areas/colours, final PDF/PNG. Does not refit balancing weights or validate upstream coding. Ellipses are descriptive, not confidence intervals."
+}

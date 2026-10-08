@@ -1,0 +1,47 @@
+{
+  "source_country_metric_values_checked": 1190,
+  "max_allowed_numeric_difference": 1e-14,
+  "evidence_flags_identical": true,
+  "pdf_canvas_mm": [
+    182.9999999999947,
+    109.99999999998333
+  ],
+  "exports": {
+    "png": {
+      "pixels": [
+        4322,
+        2598
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ],
+      "readable": true
+    },
+    "tiff": {
+      "pixels": [
+        4322,
+        2598
+      ],
+      "dpi": [
+        600.0,
+        600.0
+      ],
+      "readable": true
+    }
+  },
+  "editable_svg_text": true,
+  "pdf_font_embedded": true,
+  "companion_intervals_preserved": true,
+  "source_sha256": {
+    "target_country_shares.csv": "aebfa45e043fb105ab8d951dbf19981271b27539b3ed8cf6859785ece06ae404",
+    "conditional_task_profiles.csv": "3e2f7d731f5faabf9c5eba9cecb864b8bb2867d6da7865b5d3e63ac43bbc4c7e",
+    "task_share_differences.csv": "94a502a3c65e00a6f5467b1722e0bf6045e50cd787597fc3b51e84be60c3bfcd",
+    "target_profile_jsd.csv": "e4b3915c31b4691215093a8fc8829f56ad4af0fb36bbd01daa6a58f0705a444b",
+    "Target完整名称.csv": "6d471813e5a5b8f012aecf76bbbe48a58809c3066349ff848bf9f3fc0d907d75",
+    "K01-K06完整名称.csv": "07dda2f7f7a437b455e4a52c91c64e06e1849d21a90fe3978583832fc70eddf5",
+    "metadata.json": "acf8201ea0c36906aef1019cbd1378825faef62701fa3d33244ba35d514ceb14",
+    "labels.json": "a3c10517fbae996e85838f52094c089e85ff0e0056a1cb1dc743e584159f5b9a"
+  },
+  "modelviz_note": "TIFF is outside modelviz artifact validator formats; independently opened and checked here."
+}

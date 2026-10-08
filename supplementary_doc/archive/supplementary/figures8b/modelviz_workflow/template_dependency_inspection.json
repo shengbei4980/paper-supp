@@ -1,0 +1,60 @@
+{
+  "success": true,
+  "dependency_inspection": {
+    "success": true,
+    "template_code_path": "templates\\04_DIS_distribution_uncertainty\\04_DIS_002\\山脊分布图.py",
+    "required_dependencies": [
+      {
+        "import_name": "matplotlib",
+        "package_name": "matplotlib",
+        "source": [
+          "ast"
+        ]
+      },
+      {
+        "import_name": "numpy",
+        "package_name": "numpy",
+        "source": [
+          "ast"
+        ]
+      },
+      {
+        "import_name": "pandas",
+        "package_name": "pandas",
+        "source": [
+          "ast"
+        ]
+      },
+      {
+        "import_name": "seaborn",
+        "package_name": "seaborn",
+        "source": [
+          "ast"
+        ]
+      },
+      {
+        "import_name": "scipy",
+        "package_name": "scipy",
+        "source": [
+          "ast"
+        ]
+      },
+      {
+        "import_name": "PIL",
+        "package_name": "Pillow",
+        "source": [
+          "ast"
+        ]
+      }
+    ],
+    "unresolved_dependencies": [],
+    "stdlib_dependencies": [
+      "os",
+      "pathlib",
+      "shutil",
+      "logging"
+    ],
+    "internal_modules": [],
+    "warnings": []
+  }
+}

@@ -1,0 +1,354 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "check": "311 unique links",
+      "passed": true,
+      "details": 311
+    },
+    {
+      "check": "stage counts",
+      "passed": true,
+      "details": {
+        "Need → pressure": 150,
+        "Pressure → system": 90,
+        "System → knowledge": 71
+      }
+    },
+    {
+      "check": "archived source copies",
+      "passed": true,
+      "details": 4
+    },
+    {
+      "check": "observed individual JSD formula",
+      "passed": true,
+      "details": 8.673617379884035e-19
+    },
+    {
+      "check": "observed Need → pressure contribution",
+      "passed": true,
+      "details": 0.0282985570590386
+    },
+    {
+      "check": "observed Need → pressure nsf normalization",
+      "passed": true,
+      "details": 1.0
+    },
+    {
+      "check": "observed Need → pressure nsfc normalization",
+      "passed": true,
+      "details": 1.0
+    },
+    {
+      "check": "observed Pressure → system contribution",
+      "passed": true,
+      "details": 0.0289385177517519
+    },
+    {
+      "check": "observed Pressure → system nsf normalization",
+      "passed": true,
+      "details": 1.0
+    },
+    {
+      "check": "observed Pressure → system nsfc normalization",
+      "passed": true,
+      "details": 1.0
+    },
+    {
+      "check": "observed System → knowledge contribution",
+      "passed": true,
+      "details": 0.0147612546593093
+    },
+    {
+      "check": "observed System → knowledge nsf normalization",
+      "passed": true,
+      "details": 1.0
+    },
+    {
+      "check": "observed System → knowledge nsfc normalization",
+      "passed": true,
+      "details": 1.0
+    },
+    {
+      "check": "observed total JSD",
+      "passed": true,
+      "details": 0.07199832947009988
+    },
+    {
+      "check": "balanced individual JSD formula",
+      "passed": true,
+      "details": 2.168404344971009e-19
+    },
+    {
+      "check": "balanced Need → pressure contribution",
+      "passed": true,
+      "details": 0.0085080607191792
+    },
+    {
+      "check": "balanced Need → pressure nsf normalization",
+      "passed": true,
+      "details": 1.0
+    },
+    {
+      "check": "balanced Need → pressure nsfc normalization",
+      "passed": true,
+      "details": 1.0
+    },
+    {
+      "check": "balanced Pressure → system contribution",
+      "passed": true,
+      "details": 0.0102344417317747
+    },
+    {
+      "check": "balanced Pressure → system nsf normalization",
+      "passed": true,
+      "details": 0.9999999999999999
+    },
+    {
+      "check": "balanced Pressure → system nsfc normalization",
+      "passed": true,
+      "details": 1.0000000000000002
+    },
+    {
+      "check": "balanced System → knowledge contribution",
+      "passed": true,
+      "details": 0.008015679865993
+    },
+    {
+      "check": "balanced System → knowledge nsf normalization",
+      "passed": true,
+      "details": 1.0000000000000002
+    },
+    {
+      "check": "balanced System → knowledge nsfc normalization",
+      "passed": true,
+      "details": 1.0
+    },
+    {
+      "check": "balanced total JSD",
+      "passed": true,
+      "details": 0.026758182316947054
+    },
+    {
+      "check": "observed shares against original 2a flow table",
+      "passed": true,
+      "details": 2.7755575615628914e-17
+    },
+    {
+      "check": "observed cumulative complete and monotone",
+      "passed": true,
+      "details": {
+        "0.5": 17,
+        "0.8": 61,
+        "0.9": 101
+      }
+    },
+    {
+      "check": "observed thresholds",
+      "passed": true,
+      "details": {
+        "0.5": 17,
+        "0.8": 61,
+        "0.9": 101
+      }
+    },
+    {
+      "check": "observed independently ranked diagnostic thresholds",
+      "passed": true,
+      "details": "independent ranks saved for comparison only, not plotted"
+    },
+    {
+      "check": "balanced cumulative complete and monotone",
+      "passed": true,
+      "details": {
+        "0.5": 55,
+        "0.8": 139,
+        "0.9": 193
+      }
+    },
+    {
+      "check": "balanced thresholds",
+      "passed": true,
+      "details": {
+        "0.5": 55,
+        "0.8": 139,
+        "0.9": 193
+      }
+    },
+    {
+      "check": "balanced independently ranked diagnostic thresholds",
+      "passed": true,
+      "details": "independent ranks saved for comparison only, not plotted"
+    },
+    {
+      "check": "shared ordered data retains every source field",
+      "passed": true,
+      "details": "311 complete rows in observed order"
+    },
+    {
+      "check": "contraction rounds to 62.8%",
+      "passed": true,
+      "details": 62.83499559797504
+    },
+    {
+      "check": "Observed Total percentile CI",
+      "passed": true,
+      "details": [
+        0.0708232244676033,
+        0.08091559545576783
+      ]
+    },
+    {
+      "check": "Observed Need → pressure percentile CI",
+      "passed": true,
+      "details": [
+        0.027632461720754203,
+        0.03192515942485803
+      ]
+    },
+    {
+      "check": "Observed Pressure → system percentile CI",
+      "passed": true,
+      "details": [
+        0.027946624186789053,
+        0.03262893402470245
+      ]
+    },
+    {
+      "check": "Observed System → knowledge percentile CI",
+      "passed": true,
+      "details": [
+        0.01419105975406355,
+        0.017522119372569128
+      ]
+    },
+    {
+      "check": "Target–year balanced Total percentile CI",
+      "passed": true,
+      "details": [
+        0.027697710828258414,
+        0.03331545316027796
+      ]
+    },
+    {
+      "check": "Target–year balanced Need → pressure percentile CI",
+      "passed": true,
+      "details": [
+        0.008815715601481313,
+        0.011116722613508592
+      ]
+    },
+    {
+      "check": "Target–year balanced Pressure → system percentile CI",
+      "passed": true,
+      "details": [
+        0.010045350697782484,
+        0.012999601539821794
+      ]
+    },
+    {
+      "check": "Target–year balanced System → knowledge percentile CI",
+      "passed": true,
+      "details": [
+        0.00781271276812398,
+        0.010300789460828524
+      ]
+    },
+    {
+      "check": "SVG observed full point count",
+      "passed": true,
+      "details": 311
+    },
+    {
+      "check": "SVG observed cumulative vertices",
+      "passed": true,
+      "details": 312
+    },
+    {
+      "check": "SVG balanced full point count",
+      "passed": true,
+      "details": 311
+    },
+    {
+      "check": "SVG balanced cumulative vertices",
+      "passed": true,
+      "details": 312
+    },
+    {
+      "check": "SVG full paired segments",
+      "passed": true,
+      "details": 311
+    },
+    {
+      "check": "PDF one page 180 by 110 mm",
+      "passed": true,
+      "details": [
+        0.0,
+        0.0,
+        510.2362060546875,
+        311.81103515625
+      ]
+    },
+    {
+      "check": "PDF live text",
+      "passed": true,
+      "details": 699
+    },
+    {
+      "check": "PDF agency comparison and mark legends",
+      "passed": true,
+      "details": "Agency comparison named separately from red/blue states; point/line/band legends present"
+    },
+    {
+      "check": "text inside canvas",
+      "passed": true,
+      "details": 35
+    },
+    {
+      "check": "600 dpi raster",
+      "passed": true,
+      "details": {
+        "size": [
+          4251,
+          2598
+        ],
+        "dpi": [
+          599.9988,
+          599.9988
+        ]
+      }
+    }
+  ],
+  "max_component_error": {
+    "observed": 8.673617379884035e-19,
+    "balanced": 2.168404344971009e-19
+  },
+  "totals": {
+    "observed": 0.07199832947009988,
+    "balanced": 0.026758182316947054
+  },
+  "contraction_percent": 62.83499559797504,
+  "original_percentile_intervals_not_containing_point": [
+    {
+      "state": "Target–year balanced",
+      "scope": "Total",
+      "point": 0.026758182316947,
+      "CI": [
+        0.027697710828258414,
+        0.03331545316027796
+      ]
+    },
+    {
+      "state": "Target–year balanced",
+      "scope": "Need → pressure",
+      "point": 0.0085080607191792,
+      "CI": [
+        0.008815715601481313,
+        0.011116722613508592
+      ]
+    }
+  ],
+  "uncertainty_limit": "Pointwise cumulative percentile bands added from original joint bootstrap replay; checked separately in 累计置信区间独立复核.json. Fixed fitted weights and observed ordering; not simultaneous.",
+  "verification_scope": "Original file hashes; independent recomputation from saved shares; observed shares against original flow table; original bootstrap quantiles; final SVG/PDF/PNG checks. Does not independently revalidate project coding or fit balancing weights."
+}

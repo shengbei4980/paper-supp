@@ -1,0 +1,22 @@
+{
+  "original_request": "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure2\\figure2e\\知识任务—干预残差与行动到达曲线，将此文件夹下的图的画框进行统一大小，使其更加的规则，同时折线图采用全包围的形式，颜色样式严格沿用figure1a的参数，请使用modelviz全流程进行重构对其进行休整在并给我完整的休整后的图，最后将其输出到E:\\可持续发展目标基金\\定稿撰写\\成图\\figure2\\figure2e\\最终新 文件夹下",
+  "goal": "Unify the residual matrix frame and six framed action-stage reach panels.",
+  "functional_keywords": [
+    "气泡矩阵",
+    "分组",
+    "多面板",
+    "趋势曲线"
+  ],
+  "chart_types": [],
+  "style_keywords": [
+    "科学图",
+    "规则画框",
+    "全包围",
+    "figure1a配色"
+  ],
+  "use_case": "论文正文图 Figure 2e",
+  "negative_requirements": [],
+  "explicit_template": false,
+  "is_ambiguous": false,
+  "clarification_question": ""
+}

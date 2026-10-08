@@ -1,0 +1,242 @@
+{
+  "source_nodes": 653,
+  "source_edges": 170,
+  "agency_nodes": {
+    "NSF": 525,
+    "NSFC": 128
+  },
+  "agency_edges": {
+    "NSF": 130,
+    "NSFC": 40
+  },
+  "geographic_map_edges": 163,
+  "cross_inset_edges_listed": 7,
+  "panel_nodes_edges": {
+    "US main": [
+      513,
+      122
+    ],
+    "China main": [
+      128,
+      40
+    ],
+    "Northeast detail": [
+      92,
+      3
+    ],
+    "Alaska": [
+      5,
+      1
+    ],
+    "Hawaii": [
+      3,
+      0
+    ],
+    "Puerto Rico and\nU.S. Virgin Islands": [
+      4,
+      0
+    ],
+    "Yangtze River Delta detail": [
+      19,
+      1
+    ],
+    "South China Sea": [
+      0,
+      0
+    ]
+  },
+  "map_frames": [
+    {
+      "name": "US main",
+      "agency": "NSF",
+      "rectangle": [
+        0.025,
+        0.543,
+        0.465,
+        0.35
+      ],
+      "bounds": [
+        -125,
+        24,
+        -66,
+        50
+      ],
+      "crs": "EPSG:5070"
+    },
+    {
+      "name": "China main",
+      "agency": "NSFC",
+      "rectangle": [
+        0.52,
+        0.543,
+        0.465,
+        0.35
+      ],
+      "bounds": [
+        73,
+        18,
+        136,
+        54
+      ],
+      "crs": "+proj=aea +lat_1=25 +lat_2=47 +lat_0=0 +lon_0=105 +datum=WGS84 +units=m"
+    },
+    {
+      "name": "Northeast detail",
+      "agency": "NSF",
+      "rectangle": [
+        0.025,
+        0.399,
+        0.183,
+        0.115
+      ],
+      "bounds": [
+        -75.7,
+        39.1,
+        -69.8,
+        43.2
+      ],
+      "crs": "+proj=aea +lat_1=39 +lat_2=44 +lat_0=40 +lon_0=-73 +datum=WGS84 +units=m"
+    },
+    {
+      "name": "Alaska",
+      "agency": "NSF",
+      "rectangle": [
+        0.22,
+        0.399,
+        0.095,
+        0.115
+      ],
+      "bounds": [
+        -170,
+        51,
+        -130,
+        72
+      ],
+      "crs": "EPSG:3338"
+    },
+    {
+      "name": "Hawaii",
+      "agency": "NSF",
+      "rectangle": [
+        0.327,
+        0.399,
+        0.067,
+        0.115
+      ],
+      "bounds": [
+        -161,
+        18,
+        -154,
+        23
+      ],
+      "crs": "+proj=aea +lat_1=18 +lat_2=23 +lat_0=20 +lon_0=-157 +datum=WGS84 +units=m"
+    },
+    {
+      "name": "Puerto Rico and\nU.S. Virgin Islands",
+      "agency": "NSF",
+      "rectangle": [
+        0.406,
+        0.399,
+        0.084,
+        0.115
+      ],
+      "bounds": [
+        -67.4,
+        17.55,
+        -64.4,
+        18.65
+      ],
+      "crs": "+proj=aea +lat_1=17 +lat_2=20 +lat_0=18 +lon_0=-66 +datum=WGS84 +units=m"
+    },
+    {
+      "name": "Yangtze River Delta detail",
+      "agency": "NSFC",
+      "rectangle": [
+        0.545,
+        0.399,
+        0.25,
+        0.115
+      ],
+      "bounds": [
+        118,
+        29.6,
+        122.3,
+        33.2
+      ],
+      "crs": "+proj=aea +lat_1=29 +lat_2=34 +lat_0=31 +lon_0=120 +datum=WGS84 +units=m"
+    },
+    {
+      "name": "South China Sea",
+      "agency": "NSFC",
+      "rectangle": [
+        0.817,
+        0.399,
+        0.153,
+        0.115
+      ],
+      "bounds": [
+        105,
+        3.5,
+        123,
+        24
+      ],
+      "crs": "+proj=aea +lat_1=5 +lat_2=25 +lat_0=15 +lon_0=114 +datum=WGS84 +units=m"
+    }
+  ],
+  "north_and_scale": [
+    {
+      "map": "US main",
+      "type": "north",
+      "reference_lonlat": [
+        -96.56561872886428,
+        38.462459093768416
+      ],
+      "angle_from_vertical_deg": 0.34101309787760736
+    },
+    {
+      "map": "US main",
+      "type": "scale",
+      "declared_km": 1200,
+      "geodesic_km": 1199.9999999999993
+    },
+    {
+      "map": "China main",
+      "type": "north",
+      "reference_lonlat": [
+        102.62205775219947,
+        36.43244974891834
+      ],
+      "angle_from_vertical_deg": 1.3723318762620305
+    },
+    {
+      "map": "China main",
+      "type": "scale",
+      "declared_km": 1200,
+      "geodesic_km": 1200.0000000000023
+    }
+  ],
+  "basemap_sha256": "53067ab9a0e422f9278718ed54144c965410efe069064e15a904b1e3cb54f268",
+  "figure1a_palette": {
+    "NSF": [
+      "#E4EDF5",
+      "#7F99B2",
+      "#003366"
+    ],
+    "NSFC": [
+      "#F6E4E4",
+      "#C57F7F",
+      "#8B0000"
+    ],
+    "node_fill": {
+      "NSF": "#003366",
+      "NSFC": "#8B0000"
+    },
+    "histogram_fill": {
+      "NSF": "#003366",
+      "NSFC": "#8B0000"
+    }
+  },
+  "edge_strength_scale": "Shared fixed 0.20–0.80 weighted-overlap scale; Figure 1a light/mid/dark ramp, alpha 0.65–1.00, width 0.34–2.69 pt; stronger edges drawn last.",
+  "mapping_rule": "All NSF nodes and NSF histogram bars = #003366; all NSFC nodes and NSFC histogram bars = #8B0000; node area = project count; edge width and shade = weighted overlap.",
+  "cross_inset_rule": "Seven cross-inset links are listed with exact values; no false arc is drawn between relocated map frames."
+}

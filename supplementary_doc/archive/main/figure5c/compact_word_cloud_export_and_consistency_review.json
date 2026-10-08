@@ -1,0 +1,51 @@
+{
+  "pdf_size_mm": [
+    182.9999999999947,
+    153.7899999999947
+  ],
+  "embedded_fonts": [
+    "/CFEKEO+ArialMT",
+    "/CFEKEO+Arial-BoldMT"
+  ],
+  "rasters": {
+    "png": {
+      "size": [
+        4322,
+        3632
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ]
+    },
+    "tiff": {
+      "size": [
+        4322,
+        3632
+      ],
+      "dpi": [
+        600.0,
+        600.0
+      ]
+    }
+  },
+  "source_estimates_and_sdg_contributions_unchanged": true,
+  "all16_full_names_verified_in_pdf_and_svg": true,
+  "all16_font_sizes_and_colors_unchanged": true,
+  "all108_scatter_marker_shapes_sizes_and_relative_coordinates_unchanged": true,
+  "selected_points_and_circles_unchanged": true,
+  "lower_plot_physical_width_and_height_mm": 75.945,
+  "original_lower_plot_size_preserved": true,
+  "independent_column_stacks": true,
+  "word_gap_mm": 0.6,
+  "central_gutter_mm": 1.5189,
+  "height_reduction_percent": 15.961748633882674,
+  "no_background_frame": true,
+  "no_overlap_or_clipping": true,
+  "nature_figure_static_counts": {
+    "PASS": 13,
+    "WARN": 1,
+    "FAIL": 0
+  },
+  "static_width_warning_resolved_by_measured_pdf_page": true
+}

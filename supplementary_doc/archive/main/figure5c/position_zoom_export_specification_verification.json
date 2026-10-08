@@ -1,0 +1,54 @@
+{
+  "pages": 1,
+  "size_mm": [
+    182.9999999999947,
+    211.00000000000972
+  ],
+  "editable_pdf_fonts": [
+    {
+      "name": "/CFEKEO+ArialMT",
+      "type": "/Type0"
+    },
+    {
+      "name": "/CFEKEO+Arial-BoldMT",
+      "type": "/Type0"
+    }
+  ],
+  "raster": {
+    "png": {
+      "pixels": [
+        4322,
+        4984
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ]
+    },
+    "tiff": {
+      "pixels": [
+        4322,
+        4984
+      ],
+      "dpi": [
+        600.0,
+        600.0
+      ]
+    }
+  },
+  "complete_labels_verified_in_svg_and_pdf": 16,
+  "outlined_point_mapping_verified": 16,
+  "all_scatter_points": 108,
+  "selected_theme_membership_unchanged": true,
+  "text_anchors_equal_original_coordinates": true,
+  "isotropic_magnification_range": [
+    1.15,
+    1.6
+  ],
+  "preflight": {
+    "PASS": 13,
+    "WARN": 1,
+    "FAIL": 0
+  },
+  "remaining_warning": "Static width variable unresolved; actual PDF page width verified as 183 mm."
+}

@@ -1,0 +1,10 @@
+﻿gid,pair_code,stage,selection
+link_0_N02_P04,N02→P04,Need → pressure,top 2 balanced JSD contribution within stage
+link_0_N06_P04,N06→P04,Need → pressure,top 2 balanced JSD contribution within stage
+link_0_N02_P01,N02→P01,Need → pressure,largest mean balanced share within stage
+link_1_P04_O02,P04→O02,Pressure → system,top 2 balanced JSD contribution within stage
+link_1_P01_O01,P01→O01,Pressure → system,top 2 balanced JSD contribution within stage
+link_1_P01_O08,P01→O08,Pressure → system,largest mean balanced share within stage
+link_2_O07_K01,O07→K01,System → knowledge,top 2 balanced JSD contribution within stage
+link_2_O06_K04,O06→K04,System → knowledge,top 2 balanced JSD contribution within stage
+link_2_O08_K02,O08→K02,System → knowledge,largest mean balanced share within stage

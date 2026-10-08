@@ -1,0 +1,59 @@
+{
+  "pdf_size_mm": [
+    182.9999999999947,
+    211.00000000000972
+  ],
+  "embedded_fonts": [
+    {
+      "name": "/CFEKEO+ArialMT",
+      "subtype": "/Type0"
+    },
+    {
+      "name": "/CFEKEO+Arial-BoldMT",
+      "subtype": "/Type0"
+    }
+  ],
+  "rasters": {
+    "png": {
+      "pixels": [
+        4322,
+        4984
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ]
+    },
+    "tiff": {
+      "pixels": [
+        4322,
+        4984
+      ],
+      "dpi": [
+        600.0,
+        600.0
+      ]
+    }
+  },
+  "unchanged_selected_themes": true,
+  "all108_original_points_retained": true,
+  "red_selected_points": 16,
+  "black_context_points": 92,
+  "all16_names_verified_in_svg_and_pdf": true,
+  "upper_frame_count": 2,
+  "lower_circle_count": 2,
+  "circles_contain_all_named_anchors": true,
+  "isotropic_enlargement": true,
+  "raw_text_anchors_unchanged": true,
+  "continuous_color_scale_applies_to_theme_labels": true,
+  "shared_font_mapping_pt": [
+    6.5845953174435765,
+    8.5
+  ],
+  "nature_figure_static_counts": {
+    "PASS": 13,
+    "WARN": 1,
+    "FAIL": 0
+  },
+  "static_width_warning_resolved_by_pdf_page_measurement": true
+}

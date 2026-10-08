@@ -1,0 +1,7 @@
+{
+  "template_dependency": "pyCirclize",
+  "actual_import_name": "pycirclize",
+  "installed_version": "1.10.1",
+  "issue": "The modelviz package mapping uses the distribution's capitalization as the import name. The initial install tool reported a false negative after pip installed the package successfully.",
+  "resolution": "A task-local corrected package map checks the actual lowercase import; dependency_report.json now records no missing packages. The installed skill files were not modified."
+}

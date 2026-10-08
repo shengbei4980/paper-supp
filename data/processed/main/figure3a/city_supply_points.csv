@@ -1,0 +1,638 @@
+﻿agency,city_id,city_name_en,city_supply,share_pct,longitude_wgs84,latitude_wgs84,source_city_n,source_city_ids,point_basis,top10,manuscript_example
+NSF,place_0103076,Auburn,8.83333333334,0.1766666666668,-85.4807825,32.6098566,1,NSF|AL|AUBURN,source representative city location; not exact institution address,False,False
+NSF,place_0107000,Birmingham,5.0,0.1,-86.8024326,33.5206824,1,NSF|AL|BIRMINGHAM,source representative city location; not exact institution address,False,False
+NSF,place_0119744,Dauphin Island,2.33333333333,0.04666666666660001,-88.1124817,30.2542022,1,NSF|AL|DAUPHIN ISLAND,source representative city location; not exact institution address,False,False
+NSF,place_0137000,Huntsville,5.25,0.105,-86.5859011,34.729847,2,NSF|AL|HUNTSVILLE;NSF|AL|NORMAL,source representative city location; not exact institution address,False,False
+NSF,place_0138272,Jacksonville,1.166666666667,0.02333333333334,-85.7612872,33.8137919,1,NSF|AL|JACKSONVILLE,source representative city location; not exact institution address,False,False
+NSF,place_0177256,Tuscaloosa,27.7833333333,0.555666666666,-87.5675258,33.2095614,1,NSF|AL|TUSCALOOSA,source representative city location; not exact institution address,False,False
+NSF,place_0203000,Anchorage,20.5,0.41000000000000003,-149.894852,61.2163129,2,NSF|AK|ANCHORAGE;NSF|AK|EAGLE RIVER,source representative city location; not exact institution address,False,False
+NSF,place_0224230,Fairbanks,49.75952380955,0.995190476191,-147.716675,64.837845,1,NSF|AK|FAIRBANKS,source representative city location; not exact institution address,False,False
+NSF,place_0226760,Fort Yukon,0.5,0.01,-145.273888,66.5647222,1,NSF|AK|FORT YUKON,source representative city location; not exact institution address,False,False
+NSF,place_0236400,Juneau,7.809523809527,0.15619047619054,-134.4196751,58.3019613,1,NSF|AK|JUNEAU,source representative city location; not exact institution address,False,False
+NSF,place_0412000,Chandler,2.0,0.04,-111.841185,33.3062031,1,NSF|AZ|CHANDLER,source representative city location; not exact institution address,False,False
+NSF,place_0423620,Flagstaff,10.000000000004,0.20000000000008003,-111.651822,35.1987522,1,NSF|AZ|FLAGSTAFF,source representative city location; not exact institution address,False,False
+NSF,place_0425300,Fountain Hills,2.0,0.04,-111.717361,33.6117105,1,NSF|AZ|FOUNTAIN HILLS,source representative city location; not exact institution address,False,False
+NSF,place_0455000,Phoenix,1.500000000001,0.03000000000002,-112.074141,33.4484367,1,NSF|AZ|PHOENIX,source representative city location; not exact institution address,False,False
+NSF,place_0465000,Scottsdale,83.2833333334,1.665666666668,-111.926018,33.4942189,1,NSF|AZ|SCOTTSDALE,source representative city location; not exact institution address,True,False
+NSF,place_0473000,Tempe,1.2499999999996,0.024999999999992004,-111.940016,33.4255117,1,NSF|AZ|TEMPE,source representative city location; not exact institution address,False,False
+NSF,place_0477000,Tucson,31.14285714285,0.622857142857,-110.974847,32.2228765,1,NSF|AZ|TUCSON,source representative city location; not exact institution address,False,False
+NSF,place_0505320,Bentonville,1.0,0.02,-94.208787,36.3728608,1,NSF|AR|BENTONVILLE,source representative city location; not exact institution address,False,False
+NSF,place_0521190,Elkins,1.0,0.02,-94.0082547,36.0014682,1,NSF|AR|ELKINS,source representative city location; not exact institution address,False,False
+NSF,place_0523290,Fayetteville,21.2833333333297,0.42566666666659403,-94.1574328,36.0625843,1,NSF|AR|FAYETTEVILLE,source representative city location; not exact institution address,False,False
+NSF,place_0600562,Alameda,1.0,0.02,-122.241635,37.7652076,1,NSF|CA|ALAMEDA,source representative city location; not exact institution address,False,False
+NSF,place_0600618,Alamo,1.0,0.02,-122.032184,37.8502033,1,NSF|CA|ALAMO,source representative city location; not exact institution address,False,False
+NSF,place_0600716,Albion,1.0,0.02,-123.7686251,39.2235117,1,NSF|CA|ALBION,source representative city location; not exact institution address,False,False
+NSF,place_0602476,Arcata,1.0,0.02,-124.08284,40.866517,1,NSF|CA|ARCATA,source representative city location; not exact institution address,False,False
+NSF,place_0606000,Berkeley,61.16666666663,1.2233333333326,-122.272863,37.8708393,1,NSF|CA|BERKELEY,source representative city location; not exact institution address,False,False
+NSF,place_0606308,Beverly Hills,1.0,0.02,-118.3963062,34.0696501,1,NSF|CA|BEVERLY HILLS,source representative city location; not exact institution address,False,False
+NSF,place_0606798,Bishop,1.0,0.02,-118.39524,37.363679,1,NSF|CA|BISHOP,source representative city location; not exact institution address,False,False
+NSF,place_0608310,Brisbane,1.0,0.02,-122.402794,37.687165,1,NSF|CA|BRISBANE,source representative city location; not exact institution address,False,False
+NSF,place_0611194,Carlsbad,1.0,0.02,-117.3505966,33.1580933,1,NSF|CA|CARLSBAD,source representative city location; not exact institution address,False,False
+NSF,place_0611530,Carson,1.0,0.02,-118.2517547,33.8322043,1,NSF|CA|CARSON,source representative city location; not exact institution address,False,False
+NSF,place_0613014,Chico,1.5,0.03,-121.8374777,39.7284945,1,NSF|CA|CHICO,source representative city location; not exact institution address,False,False
+NSF,place_0613756,Claremont,2.750000000004,0.05500000000008,-117.7197785,34.0966764,1,NSF|CA|CLAREMONT,source representative city location; not exact institution address,False,False
+NSF,place_0617610,Cupertino,1.0,0.02,-122.0322895,37.3228934,1,NSF|CA|CUPERTINO,source representative city location; not exact institution address,False,False
+NSF,place_0617988,Danville,3.0,0.06,-122.0008254,37.8225892,1,NSF|CA|DANVILLE,source representative city location; not exact institution address,False,False
+NSF,place_0618100,Davis,31.866666666669,0.6373333333333799,-121.739005,38.5435526,1,NSF|CA|DAVIS,source representative city location; not exact institution address,False,False
+NSF,place_0622678,Encinitas,1.0,0.02,-117.2919818,33.0369867,1,NSF|CA|ENCINITAS,source representative city location; not exact institution address,False,False
+NSF,place_0625380,Fountain Valley,2.0,0.04,-117.9627349,33.7038145,1,NSF|CA|FOUNTAIN VALLEY,source representative city location; not exact institution address,False,False
+NSF,place_0627000,Fresno,2.5,0.05,-119.78483,36.7394421,1,NSF|CA|FRESNO,source representative city location; not exact institution address,False,False
+NSF,place_0628000,Fullerton,2.0,0.04,-117.929416,33.8708215,1,NSF|CA|FULLERTON,source representative city location; not exact institution address,False,False
+NSF,place_0633000,Hayward,1.999999999996,0.03999999999992,-122.080796,37.6688205,1,NSF|CA|HAYWARD,source representative city location; not exact institution address,False,False
+NSF,place_0636546,Inglewood,1.0,0.02,-118.353132,33.9562003,1,NSF|CA|INGLEWOOD,source representative city location; not exact institution address,False,False
+NSF,place_0636770,Irvine,39.4166666666563,0.7883333333331259,-117.825981,33.6856969,1,NSF|CA|IRVINE,source representative city location; not exact institution address,False,False
+NSF,place_0638086,Kensington,2.0,0.04,-122.2802471,37.9104805,1,NSF|CA|KENSINGTON,source representative city location; not exact institution address,False,False
+NSF,place_0639178,Laguna Beach,1.0,0.02,-117.785366,33.5426975,1,NSF|CA|LAGUNA BEACH,source representative city location; not exact institution address,False,False
+NSF,place_0639496,Lake Forest,1.0,0.02,-117.6859213,33.6469261,1,NSF|CA|LAKE FOREST,source representative city location; not exact institution address,False,False
+NSF,place_0643000,Long Beach,5.833333333333,0.11666666666666,-118.191604,33.7690164,1,NSF|CA|LONG BEACH,source representative city location; not exact institution address,False,False
+NSF,place_0643280,Los Altos,2.0,0.04,-122.116578,37.3790629,1,NSF|CA|LOS ALTOS,source representative city location; not exact institution address,False,False
+NSF,place_0643294,Los Altos Hills,0.999999999999,0.01999999999998,-122.137463,37.3796627,1,NSF|CA|LOS ALTOS HILLS,source representative city location; not exact institution address,False,False
+NSF,place_0644000,Los Angeles,87.816666666607,1.7563333333321403,-118.242766,34.0536909,4,NSF|CA|LAKE BALBOA;NSF|CA|LOS ANGELES;NSF|CA|NORTHRIDGE;NSF|CA|PACIFIC PALISADES,source representative city location; not exact institution address,True,False
+NSF,place_0644112,Los Gatos,1.25,0.025,-121.9746797,37.226611,1,NSF|CA|LOS GATOS,source representative city location; not exact institution address,False,False
+NSF,place_0646898,Merced,7.5,0.15,-120.4843269,37.3029568,1,NSF|CA|MERCED,source representative city location; not exact institution address,False,False
+NSF,place_0648256,Mission Viejo,1.0,0.02,-117.659405,33.5965685,1,NSF|CA|MISSION VIEJO,source representative city location; not exact institution address,False,False
+NSF,place_0648914,Monterey Park,1.0,0.02,-118.129807,34.051522,1,NSF|CA|MONTEREY PARK,source representative city location; not exact institution address,False,False
+NSF,place_0649187,Moraga,1.0,0.02,-122.12883,37.834897,1,NSF|CA|MORAGA,source representative city location; not exact institution address,False,False
+NSF,place_0649488,Moss Landing,3.2,0.064,-121.786581,36.7988827,1,NSF|CA|MOSS LANDING,source representative city location; not exact institution address,False,False
+NSF,place_0649670,Mountain View,1.999999999999,0.039999999999979996,-122.0832101,37.3893889,1,NSF|CA|MOUNTAIN VIEW,source representative city location; not exact institution address,False,False
+NSF,place_0652582,Novato,1.0,0.02,-122.5681191,38.1061979,1,NSF|CA|NOVATO,source representative city location; not exact institution address,False,False
+NSF,place_0653000,Oakland,9.499999999993,0.18999999999985998,-122.271356,37.8044557,1,NSF|CA|OAKLAND,source representative city location; not exact institution address,False,False
+NSF,place_0653980,Orange,1.0,0.02,-117.850308,33.7872568,1,NSF|CA|ORANGE,source representative city location; not exact institution address,False,False
+NSF,place_0654232,Orinda,1.0,0.02,-122.1796888,37.8771476,1,NSF|CA|ORINDA,source representative city location; not exact institution address,False,False
+NSF,place_0654848,Pacific Grove,2.0,0.04,-121.917794,36.6211149,1,NSF|CA|PACIFIC GROVE,source representative city location; not exact institution address,False,False
+NSF,place_0655058,Pala,1.0,0.02,-117.076696,33.3653102,1,NSF|CA|PALA,source representative city location; not exact institution address,False,False
+NSF,place_0655282,Palo Alto,3.0,0.06,-122.1598465,37.4443293,1,NSF|CA|PALO ALTO,source representative city location; not exact institution address,False,False
+NSF,place_0656000,Pasadena,22.83333333333,0.4566666666666,-118.144155,34.1476507,1,NSF|CA|PASADENA,source representative city location; not exact institution address,False,False
+NSF,place_0656784,Petaluma,2.5,0.05,-122.636465,38.2325829,1,NSF|CA|PETALUMA,source representative city location; not exact institution address,False,False
+NSF,place_0657792,Pleasanton,1.0,0.02,-121.8746789,37.6624312,1,NSF|CA|PLEASANTON,source representative city location; not exact institution address,False,False
+NSF,place_0658072,Pomona,1.0,0.02,-117.7517496,34.0553813,1,NSF|CA|POMONA,source representative city location; not exact institution address,False,False
+NSF,place_0659514,Rancho Palos Verdes,1.0,0.02,-118.3707683,33.7483311,1,NSF|CA|RANCHO PALOS VERDES,source representative city location; not exact institution address,False,False
+NSF,place_0660018,Redondo Beach,1.0,0.02,-118.3845942,33.8398289,1,NSF|CA|REDONDO BEACH,source representative city location; not exact institution address,False,False
+NSF,place_0660102,Redwood City,1.0,0.02,-122.232523,37.4863239,1,NSF|CA|REDWOOD CITY,source representative city location; not exact institution address,False,False
+NSF,place_0660620,Richmond,1.0,0.02,-122.347748,37.9357576,1,NSF|CA|RICHMOND,source representative city location; not exact institution address,False,False
+NSF,place_0662000,Riverside,18.666666666659,0.37333333333318003,-117.374238,33.9824949,1,NSF|CA|RIVERSIDE,source representative city location; not exact institution address,False,False
+NSF,place_0664000,Sacramento,3.0,0.06,-121.493895,38.5810606,1,NSF|CA|SACRAMENTO,source representative city location; not exact institution address,False,False
+NSF,place_0664140,St. Helena,1.0,0.02,-122.470042,38.5052288,1,NSF|CA|SAINT HELENA,source representative city location; not exact institution address,False,False
+NSF,place_0665084,San Clemente,1.0,0.02,-117.6124179,33.4270275,1,NSF|CA|SAN CLEMENTE,source representative city location; not exact institution address,False,False
+NSF,place_0666000,San Diego,73.037301587356,1.46074603174712,-117.162772,32.7174202,2,NSF|CA|LA JOLLA;NSF|CA|SAN DIEGO,source representative city location; not exact institution address,True,False
+NSF,place_0667000,San Francisco,12.5,0.25,-122.4075201,37.7879363,1,NSF|CA|SAN FRANCISCO,source representative city location; not exact institution address,False,False
+NSF,place_0668000,San Jose,9.45,0.18899999999999997,-121.890591,37.3361663,1,NSF|CA|SAN JOSE,source representative city location; not exact institution address,False,False
+NSF,place_0668154,San Luis Obispo,3.9,0.078,-120.659615,35.2827525,1,NSF|CA|SAN LUIS OBISPO,source representative city location; not exact institution address,False,False
+NSF,place_0668196,San Marcos,1.0,0.02,-117.1743395,33.1352995,1,NSF|CA|SAN MARCOS,source representative city location; not exact institution address,False,False
+NSF,place_0669000,Santa Ana,1.0,0.02,-117.873221,33.7494951,1,NSF|CA|SANTA ANA,source representative city location; not exact institution address,False,False
+NSF,place_0669070,Santa Barbara,31.199999999973,0.62399999999946,-119.702667,34.4221319,1,NSF|CA|SANTA BARBARA,source representative city location; not exact institution address,False,False
+NSF,place_0669084,Santa Clara,1.5,0.03,-121.955174,37.3541132,1,NSF|CA|SANTA CLARA,source representative city location; not exact institution address,False,False
+NSF,place_0669112,Santa Cruz,28.249999999987,0.56499999999974,-122.0294673,36.9743626,1,NSF|CA|SANTA CRUZ,source representative city location; not exact institution address,False,False
+NSF,place_0670000,Santa Monica,4.699999999996,0.09399999999992,-118.491227,34.0194704,1,NSF|CA|SANTA MONICA,source representative city location; not exact institution address,False,False
+NSF,place_0670364,Sausalito,1.0,0.02,-122.485469,37.8590272,1,NSF|CA|SAUSALITO,source representative city location; not exact institution address,False,False
+NSF,place_0670770,Sebastopol,1.999999999996,0.03999999999992,-122.824222,38.4021038,1,NSF|CA|SEBASTOPOL,source representative city location; not exact institution address,False,False
+NSF,place_0671876,Signal Hill,1.0,0.02,-118.168259,33.804826,1,NSF|CA|SIGNAL HILL,source representative city location; not exact institution address,False,False
+NSF,place_0673262,South San Francisco,2.0,0.04,-122.4168664,37.6535403,1,NSF|CA|SOUTH SAN FRANCISCO,source representative city location; not exact institution address,False,False
+NSF,place_0673906,Stanford,43.33333333334,0.8666666666668,-122.1702445,37.427467,1,NSF|CA|STANFORD,source representative city location; not exact institution address,False,False
+NSF,place_0675000,Stockton,0.5,0.01,-121.290779,37.9577016,1,NSF|CA|STOCKTON,source representative city location; not exact institution address,False,False
+NSF,place_0678148,Temple City,1.0,0.02,-118.0577568,34.1082994,1,NSF|CA|TEMPLE CITY,source representative city location; not exact institution address,False,False
+NSF,place_0678666,Tiburon,1.0,0.02,-122.460808,37.8775332,1,NSF|CA|TIBURON,source representative city location; not exact institution address,False,False
+NSF,place_0680588,Truckee,1.0,0.02,-120.1835765,39.3279454,1,NSF|CA|TRUCKEE,source representative city location; not exact institution address,False,False
+NSF,place_0681666,Vallejo,1.0,0.02,-122.2566367,38.1040864,1,NSF|CA|VALLEJO,source representative city location; not exact institution address,False,False
+NSF,place_0803455,Arvada,1.0,0.02,-105.0811573,39.8005505,1,NSF|CO|ARVADA,source representative city location; not exact institution address,False,False
+NSF,place_0804000,Aurora,2.142857142857,0.04285714285714,-104.8733376,39.7401441,1,NSF|CO|AURORA,source representative city location; not exact institution address,False,False
+NSF,place_0804935,Basalt,2.5,0.05,-107.032824,39.3688731,1,NSF|CO|BASALT,source representative city location; not exact institution address,False,False
+NSF,place_0807850,Boulder,127.26666666674,2.5453333333348,-105.270545,40.0149856,1,NSF|CO|BOULDER,source representative city location; not exact institution address,True,False
+NSF,place_0809280,Broomfield,1.999999999999,0.039999999999979996,-105.05208,39.9403995,1,NSF|CO|BROOMFIELD,source representative city location; not exact institution address,False,False
+NSF,place_0812815,Centennial,1.0,0.02,-104.8769227,39.579155,1,NSF|CO|CENTENNIAL,source representative city location; not exact institution address,False,False
+NSF,place_0816000,Colorado Springs,1.0,0.02,-104.825348,38.8339578,1,NSF|CO|COLORADO SPRINGS,source representative city location; not exact institution address,False,False
+NSF,place_0820000,Denver,15.33333333334,0.30666666666680004,-104.984862,39.7392364,1,NSF|CO|DENVER,source representative city location; not exact institution address,False,False
+NSF,place_0823135,Edgewater,1.0,0.02,-105.0621833,39.7457238,1,NSF|CO|EDGEWATER,source representative city location; not exact institution address,False,False
+NSF,place_0825390,Evergreen,1.0,0.02,-105.323299,39.632845,1,NSF|CO|EVERGREEN,source representative city location; not exact institution address,False,False
+NSF,place_0827425,Fort Collins,58.41666666671,1.1683333333342,-105.0770113,40.5871782,1,NSF|CO|FORT COLLINS,source representative city location; not exact institution address,False,False
+NSF,place_0830835,Golden,21.30952380952,0.4261904761904,-105.22058,39.7546349,1,NSF|CO|GOLDEN,source representative city location; not exact institution address,False,False
+NSF,place_0831660,Grand Junction,1.0,0.02,-108.56448,39.0672568,1,NSF|CO|GRAND JUNCTION,source representative city location; not exact institution address,False,False
+NSF,place_0833640,Gunnison,1.0,0.02,-106.9269276,38.5443548,1,NSF|CO|GUNNISON,source representative city location; not exact institution address,False,False
+NSF,place_0846355,Louisville,1.0,0.02,-105.1319296,39.977763,1,NSF|CO|LOUISVILLE,source representative city location; not exact institution address,False,False
+NSF,place_0846465,Loveland,1.0,0.02,-105.07498,40.3977612,1,NSF|CO|LOVELAND,source representative city location; not exact institution address,False,False
+NSF,place_0918430,Danbury,2.0,0.04,-73.4540111,41.394817,1,NSF|CT|DANBURY,source representative city location; not exact institution address,False,False
+NSF,place_0947290,Middletown,1.0,0.02,-72.6509061,41.5623178,1,NSF|CT|MIDDLETOWN,source representative city location; not exact institution address,False,False
+NSF,place_0952000,New Haven,30.499999999997,0.60999999999994,-72.9250518,41.3082138,1,NSF|CT|NEW HAVEN,source representative city location; not exact institution address,False,False
+NSF,place_0973980,Storrs,25.16666666666,0.5033333333332,-72.2495231,41.8084314,1,NSF|CT|STORRS,source representative city location; not exact institution address,False,False
+NSF,place_0982800,West Haven,1.0,0.02,-72.9470471,41.2706527,1,NSF|CT|WEST HAVEN,source representative city location; not exact institution address,False,False
+NSF,place_1021200,Dover,2.0,0.04,-75.5243682,39.158168,1,NSF|DE|DOVER,source representative city location; not exact institution address,False,False
+NSF,place_1041830,Lewes,1.0,0.02,-75.1379574,38.7733961,1,NSF|DE|LEWES,source representative city location; not exact institution address,False,False
+NSF,place_1050670,Newark,31.500000000003,0.63000000000006,-75.7515682,39.6828358,1,NSF|DE|NEWARK,source representative city location; not exact institution address,False,False
+NSF,place_1150000,Washington,61.30952380954,1.2261904761908,-77.0363849,38.8950982,1,NSF|DC|WASHINGTON,source representative city location; not exact institution address,False,False
+NSF,place_1207300,Boca Raton,9.833333333333,0.19666666666666002,-80.0830984,26.3586885,1,NSF|FL|BOCA RATON,source representative city location; not exact institution address,False,False
+NSF,place_1214250,Coral Gables,11.0,0.22,-80.2585107,25.7331105,1,NSF|FL|CORAL GABLES,source representative city location; not exact institution address,False,False
+NSF,place_1216525,Daytona Beach,1.999999999999,0.039999999999979996,-81.0228331,29.2108147,1,NSF|FL|DAYTONA BEACH,source representative city location; not exact institution address,False,False
+NSF,place_1216875,DeLand,2.000000000001,0.04000000000002,-81.3034183,29.0281051,1,NSF|FL|DELAND,source representative city location; not exact institution address,False,False
+NSF,place_1224000,Fort Lauderdale,0.5,0.01,-80.1433786,26.1223084,1,NSF|FL|FT LAUDERDALE,source representative city location; not exact institution address,False,False
+NSF,place_1224125,Fort Myers,4.333333333333,0.08666666666666,-81.8723084,26.640628,1,NSF|FL|FORT MYERS,source representative city location; not exact institution address,False,False
+NSF,place_1225175,Gainesville,41.30952380949,0.8261904761898,-82.3249846,29.6519684,1,NSF|FL|GAINESVILLE,source representative city location; not exact institution address,False,False
+NSF,place_1235875,Jupiter,1.0,0.02,-80.0942087,26.9342246,1,NSF|FL|JUPITER,source representative city location; not exact institution address,False,False
+NSF,place_1238600,Lake Park,1.0,0.02,-80.0661631,26.8002153,1,NSF|FL|LAKE PARK,source representative city location; not exact institution address,False,False
+NSF,place_1243975,Melbourne,3.0,0.06,-80.6077908,28.0785034,1,NSF|FL|MELBOURNE,source representative city location; not exact institution address,False,False
+NSF,place_1245000,Miami,23.309523809533,0.46619047619066,-80.1935973,25.7741566,1,NSF|FL|MIAMI,source representative city location; not exact institution address,False,False
+NSF,place_1247625,Naples,3.0,0.06,-81.7942944,26.1421976,1,NSF|FL|NAPLES,source representative city location; not exact institution address,False,False
+NSF,place_1249450,North Miami,1.0,0.02,-80.1867138,25.8900949,1,NSF|FL|NORTH MIAMI,source representative city location; not exact institution address,False,False
+NSF,place_1253000,Orlando,24.092857142854,0.48185714285708003,-81.379045,28.5421218,1,NSF|FL|ORLANDO,source representative city location; not exact institution address,False,False
+NSF,place_1253150,Ormond Beach,1.0,0.02,-81.0557921,29.2854132,1,NSF|FL|ORMOND BEACH,source representative city location; not exact institution address,False,False
+NSF,place_1264175,Sarasota,2.1666666666700003,0.043333333333400004,-82.5308545,27.3365805,1,NSF|FL|SARASOTA,source representative city location; not exact institution address,False,False
+NSF,place_1268875,Stuart,1.0,0.02,-80.2519175,27.197983,1,NSF|FL|STUART,source representative city location; not exact institution address,False,False
+NSF,place_1270600,Tallahassee,27.44999999996,0.5489999999991999,-84.2809332,30.4380832,1,NSF|FL|TALLAHASSEE,source representative city location; not exact institution address,False,False
+NSF,place_1271000,Tampa,29.283333333333,0.58566666666666,-82.4583107,27.9449854,1,NSF|FL|TAMPA,source representative city location; not exact institution address,False,False
+NSF,place_1271725,Thonotosassa,1.0,0.02,-82.2946444,28.058051,1,NSF|FL|THONOTOSASSA,source representative city location; not exact institution address,False,False
+NSF,place_1274150,Vero Beach,1.0,0.02,-80.3975399,27.6387163,1,NSF|FL|VERO BEACH,source representative city location; not exact institution address,False,False
+NSF,place_1278050,Windermere,1.0,0.02,-81.5345547,28.4944695,1,NSF|FL|WINDERMERE,source representative city location; not exact institution address,False,False
+NSF,place_1303440,Athens-Clarke County unified government (balance),28.91666666666,0.5783333333332,-83.376398,33.9597677,1,NSF|GA|ATHENS,source representative city location; not exact institution address,False,False
+NSF,place_1304000,Atlanta,72.616666666687,1.4523333333337398,-84.3898151,33.7544657,1,NSF|GA|ATLANTA,source representative city location; not exact institution address,True,False
+NSF,place_1343192,Kennesaw,2.0,0.04,-84.6154897,34.0234337,1,NSF|GA|KENNESAW,source representative city location; not exact institution address,False,False
+NSF,place_1355776,Norcross,1.0,0.02,-84.2135309,33.9412127,1,NSF|GA|NORCROSS,source representative city location; not exact institution address,False,False
+NSF,place_1373256,Statesboro,1.833333333334,0.03666666666668,-81.7832912,32.4490141,1,NSF|GA|STATESBORO,source representative city location; not exact institution address,False,False
+NSF,place_1510750,Haleiwa,1.0,0.02,-158.1050395,21.5818045,1,NSF|HI|HALEIWA,source representative city location; not exact institution address,False,False
+NSF,place_1529000,Kapaau,2.0,0.04,-155.798784,20.2307269,1,NSF|HI|KAPAAU,source representative city location; not exact institution address,False,False
+NSF,place_1571550,Urban Honolulu,30.4166666667,0.608333333334,-157.855676,21.304547,1,NSF|HI|HONOLULU,source representative city location; not exact institution address,False,False
+NSF,place_1608830,Boise City,13.142857142843,0.26285714285686,-116.200886,43.6166163,1,NSF|ID|BOISE,source representative city location; not exact institution address,False,False
+NSF,place_1654550,Moscow,10.2261904761963,0.20452380952392596,-117.000165,46.7323875,1,NSF|ID|MOSCOW,source representative city location; not exact institution address,False,False
+NSF,place_1664090,Pocatello,1.0,0.02,-112.450627,42.8620287,1,NSF|ID|POCATELLO,source representative city location; not exact institution address,False,False
+NSF,place_1702154,Arlington Heights,1.0,0.02,-87.9802164,42.0811563,1,NSF|IL|ARLINGTON HEIGHTS,source representative city location; not exact institution address,False,False
+NSF,place_1704078,Batavia,1.0,0.02,-88.3125738,41.8500284,1,NSF|IL|BATAVIA,source representative city location; not exact institution address,False,False
+NSF,place_1711163,Carbondale,4.0,0.08,-89.216655,37.7274692,1,NSF|IL|CARBONDALE,source representative city location; not exact institution address,False,False
+NSF,place_1712385,Champaign,2.0,0.04,-88.2430932,40.1164841,1,NSF|IL|CHAMPAIGN,source representative city location; not exact institution address,False,False
+NSF,place_1714000,Chicago,47.20000000002,0.9440000000003999,-87.6244212,41.8755616,1,NSF|IL|CHICAGO,source representative city location; not exact institution address,False,False
+NSF,place_1717887,Crystal Lake,2.0,0.04,-88.3161965,42.2411344,1,NSF|IL|CRYSTAL LAKE,source representative city location; not exact institution address,False,False
+NSF,place_1719161,DeKalb,5.0,0.1,-88.7501925,41.9298644,1,NSF|IL|DEKALB,source representative city location; not exact institution address,False,False
+NSF,place_1722697,Edwardsville,0.5,0.01,-89.953157,38.8114364,1,NSF|IL|EDWARDSVILLE,source representative city location; not exact institution address,False,False
+NSF,place_1724582,Evanston,19.166666666663,0.38333333333326003,-87.6846053,42.0470043,1,NSF|IL|EVANSTON,source representative city location; not exact institution address,False,False
+NSF,place_1728872,Geneva,0.999999999999,0.01999999999998,-88.3053525,41.8875281,1,NSF|IL|GENEVA,source representative city location; not exact institution address,False,False
+NSF,place_1742795,Lemont,1.0,0.02,-88.0016263,41.6737149,1,NSF|IL|LEMONT,source representative city location; not exact institution address,False,False
+NSF,place_1743666,Lincolnshire,1.0,0.02,-87.9084039,42.1900249,1,NSF|IL|LINCOLNSHIRE,source representative city location; not exact institution address,False,False
+NSF,place_1770122,Skokie,0.999999999999,0.01999999999998,-87.7521069,42.0262972,1,NSF|IL|SKOKIE,source representative city location; not exact institution address,False,False
+NSF,place_1777005,Urbana,70.750000000027,1.41500000000054,-88.207301,40.1117174,1,NSF|IL|URBANA,source representative city location; not exact institution address,False,False
+NSF,place_1781048,Wheaton,0.333333333334,0.00666666666668,-88.1101709,41.8646959,1,NSF|IL|WHEATON,source representative city location; not exact institution address,False,False
+NSF,place_1805860,Bloomington,20.166666666674,0.40333333333348,-86.5342881,39.1670396,1,NSF|IN|BLOOMINGTON,source representative city location; not exact institution address,False,False
+NSF,place_1836003,Indianapolis city (balance),2.0,0.04,-86.1583502,39.7683331,1,NSF|IN|INDIANAPOLIS,source representative city location; not exact institution address,False,False
+NSF,place_1840788,Lafayette,1.0,0.02,-86.8919011,40.4191229,1,NSF|IN|LAFAYETTE,source representative city location; not exact institution address,False,False
+NSF,place_1851876,Muncie,1.0,0.02,-85.3865271,40.1936892,1,NSF|IN|MUNCIE,source representative city location; not exact institution address,False,False
+NSF,place_1855386,Notre Dame,29.783333333344,0.5956666666668801,-86.2373691,41.6992003,1,NSF|IN|NOTRE DAME,source representative city location; not exact institution address,False,False
+NSF,place_1860534,Pleasant Lake,1.0,0.02,-85.0160765,41.5753282,1,NSF|IN|PLEASANT LAKE,source representative city location; not exact institution address,False,False
+NSF,place_1875428,Terre Haute,1.333333333333,0.02666666666666,-87.4139119,39.4667025,1,NSF|IN|TERRE HAUTE,source representative city location; not exact institution address,False,False
+NSF,place_1878326,Valparaiso,1.0,0.02,-87.0604487,41.4672552,1,NSF|IN|VALPARAISO,source representative city location; not exact institution address,False,False
+NSF,place_1882862,West Lafayette,49.533333333324,0.9906666666664801,-86.9080655,40.4258686,1,NSF|IN|WEST LAFAYETTE,source representative city location; not exact institution address,False,False
+NSF,place_1901855,Ames,47.666666666663,0.9533333333332599,-93.6170448,42.0267567,1,NSF|IA|AMES,source representative city location; not exact institution address,False,False
+NSF,place_1911755,Cedar Falls,2.25,0.045,-92.447758,42.5361805,1,NSF|IA|CEDAR FALLS,source representative city location; not exact institution address,False,False
+NSF,place_1938595,Iowa City,16.58333333333,0.3316666666666,-91.5299106,41.6612561,1,NSF|IA|IOWA CITY,source representative city location; not exact institution address,False,False
+NSF,place_1954840,Mount Vernon,0.25,0.005,-91.4171209,41.9222443,1,NSF|IA|MOUNT VERNON,source representative city location; not exact institution address,False,False
+NSF,place_2038900,Lawrence,21.49999999999,0.4299999999998,-95.2359403,38.9719137,1,NSF|KS|LAWRENCE,source representative city location; not exact institution address,False,False
+NSF,place_2044250,Manhattan,18.7000000000067,0.374000000000134,-96.5716694,39.1836082,1,NSF|KS|MANHATTAN,source representative city location; not exact institution address,False,False
+NSF,place_2079000,Wichita,2.5,0.05,-97.3375448,37.6922361,1,NSF|KS|WICHITA,source representative city location; not exact institution address,False,False
+NSF,place_2108902,Bowling Green,0.25,0.005,-86.4428677,36.9929203,1,NSF|KY|BOWLING GREEN,source representative city location; not exact institution address,False,False
+NSF,place_2146027,Lexington-Fayette urban county,14.333333333319,0.28666666666638,-84.4970393,38.0464066,1,NSF|KY|LEXINGTON,source representative city location; not exact institution address,False,False
+NSF,place_2148000,Louisville,8.0,0.16,-85.759407,38.2542376,1,NSF|KY|LOUISVILLE,source representative city location; not exact institution address,False,False
+NSF,place_2205000,Baton Rouge,35.333333333326,0.70666666666652,-91.1869659,30.4494155,1,NSF|LA|BATON ROUGE,source representative city location; not exact institution address,False,False
+NSF,place_2214520,Chauvin,3.0,0.06,-90.5953651,29.4385529,1,NSF|LA|CHAUVIN,source representative city location; not exact institution address,False,False
+NSF,place_2240735,Lafayette,7.916666666662,0.15833333333324,-92.0178202,30.2262187,1,NSF|LA|LAFAYETTE,source representative city location; not exact institution address,False,False
+NSF,place_2255000,New Orleans,13.499999999999,0.26999999999998,-90.0733934,29.9561422,1,NSF|LA|NEW ORLEANS,source representative city location; not exact institution address,False,False
+NSF,place_2283335,Youngsville,1.0,0.02,-91.9901206,30.0996471,1,NSF|LA|YOUNGSVILLE,source representative city location; not exact institution address,False,False
+NSF,place_2309690,Camden,1.0,0.02,-69.0851729,44.2154945,1,NSF|ME|CAMDEN,source representative city location; not exact institution address,False,False
+NSF,place_2338740,Lewiston,1.0,0.02,-70.2177099,44.0990717,1,NSF|ME|LEWISTON,source representative city location; not exact institution address,False,False
+NSF,place_2355575,Orono,9.0,0.18,-68.672791,44.883607,1,NSF|ME|ORONO,source representative city location; not exact institution address,False,False
+NSF,place_2360545,Portland,5.333333333333,0.10666666666666,-70.2586618,43.6573605,1,NSF|ME|PORTLAND,source representative city location; not exact institution address,False,False
+NSF,place_2380740,Waterville,2.0,0.04,-69.6303174,44.5505773,1,NSF|ME|WATERVILLE,source representative city location; not exact institution address,False,False
+NSF,place_2401600,Annapolis,1.0,0.02,-76.492786,38.9786401,1,NSF|MD|ANNAPOLIS,source representative city location; not exact institution address,False,False
+NSF,place_2401975,Arbutus,1.0,0.02,-76.6802471,39.2398292,1,NSF|MD|HALETHORPE,source representative city location; not exact institution address,False,False
+NSF,place_2404000,Baltimore,28.5833333333233,0.5716666666664659,-76.610759,39.2908816,1,NSF|MD|BALTIMORE,source representative city location; not exact institution address,False,False
+NSF,place_2406400,Beltsville,1.0,0.02,-76.9149547,39.0299081,1,NSF|MD|BELTSVILLE,source representative city location; not exact institution address,False,False
+NSF,place_2412400,Cambridge,13.583333333331,0.27166666666662,-76.077268,38.5700533,1,NSF|MD|CAMBRIDGE,source representative city location; not exact institution address,False,False
+NSF,place_2418750,College Park,39.583333333343,0.79166666666686,-76.9369189,38.980666,1,NSF|MD|COLLEGE PARK,source representative city location; not exact institution address,False,False
+NSF,place_2425050,Edgewater,1.0,0.02,-76.5575862,38.9344805,1,NSF|MD|EDGEWATER,source representative city location; not exact institution address,False,False
+NSF,place_2431175,Gaithersburg,1.0,0.02,-77.1929215,39.1399187,1,NSF|MD|GAITHERSBURG,source representative city location; not exact institution address,False,False
+NSF,place_2456875,North Potomac,1.0,0.02,-77.2368904,39.0980055,1,NSF|MD|NORTH POTOMAC,source representative city location; not exact institution address,False,False
+NSF,place_2464000,Princess Anne,1.0,0.02,-75.6920008,38.2028428,1,NSF|MD|PRINCESS ANNE,source representative city location; not exact institution address,False,False
+NSF,place_2467675,Rockville,1.0,0.02,-77.1516844,39.0817985,1,NSF|MD|ROCKVILLE,source representative city location; not exact institution address,False,False
+NSF,place_2472450,Silver Spring,1.0,0.02,-77.0276231,38.9959461,1,NSF|MD|SILVER SPRING,source representative city location; not exact institution address,False,False
+NSF,place_2478425,Towson,1.5,0.03,-76.6023803,39.4018513,1,NSF|MD|TOWSON,source representative city location; not exact institution address,False,False
+NSF,place_2501185,Amesbury,1.0,0.02,-70.9300921,42.8579536,1,NSF|MA|AMESBURY,source representative city location; not exact institution address,False,False
+NSF,place_2501370,Amherst Town,29.333333333326,0.58666666666652,-72.5198761,42.3731948,1,NSF|MA|AMHERST,source representative city location; not exact institution address,False,False
+NSF,place_2501640,Arlington,0.8095238095242,0.016190476190484,-71.1564428,42.4153739,1,NSF|MA|ARLINGTON,source representative city location; not exact institution address,False,False
+NSF,place_2507000,Boston,64.583333333306,1.29166666666612,-71.0578303,42.3588336,4,NSF|MA|BOSTON;NSF|MA|BRIGHTON;NSF|MA|CHARLESTOWN;NSF|MA|DORCHESTER,source representative city location; not exact institution address,False,False
+NSF,place_2509210,Brookline,4.0,0.08,-71.1187829,42.332918,2,NSF|MA|BROOKLINE;NSF|MA|CHESTNUT HILL,source representative city location; not exact institution address,False,False
+NSF,place_2509875,Burlington,1.0,0.02,-71.1956111,42.5048167,1,NSF|MA|BURLINGTON,source representative city location; not exact institution address,False,False
+NSF,place_2511000,Cambridge,82.99999999997,1.6599999999994002,-71.1040018,42.3656347,1,NSF|MA|CAMBRIDGE,source representative city location; not exact institution address,True,False
+NSF,place_2523070,Falmouth,10.0833333333233,0.201666666666466,-70.6147519,41.5514979,1,NSF|MA|FALMOUTH,source representative city location; not exact institution address,False,False
+NSF,place_2530175,Hingham,0.999999999999,0.01999999999998,-70.8897676,42.2417669,1,NSF|MA|HINGHAM,source representative city location; not exact institution address,False,False
+NSF,place_2535250,Lexington,4.0,0.08,-71.2245003,42.4473175,1,NSF|MA|LEXINGTON,source representative city location; not exact institution address,False,False
+NSF,place_2537000,Lowell,12.833333333333,0.25666666666666,-71.3085329,42.6414437,1,NSF|MA|LOWELL,source representative city location; not exact institution address,False,False
+NSF,place_2537875,Malden,2.0,0.04,-71.0683741,42.4268484,1,NSF|MA|MALDEN,source representative city location; not exact institution address,False,False
+NSF,place_2538715,Marlborough,2.0,0.04,-71.5525188,42.3468589,1,NSF|MA|MARLBOROUGH,source representative city location; not exact institution address,False,False
+NSF,place_2539835,Medford,8.199999999993,0.16399999999986,-71.1061639,42.4184296,1,NSF|MA|MEDFORD,source representative city location; not exact institution address,False,False
+NSF,place_2541725,Milton,1.0,0.02,-71.065573,42.2501425,1,NSF|MA|MILTON,source representative city location; not exact institution address,False,False
+NSF,place_2546330,Northampton,1.0,0.02,-72.6311006,42.3178989,1,NSF|MA|NORTHAMPTON,source representative city location; not exact institution address,False,False
+NSF,place_2547730,North Falmouth,1.0,0.02,-70.6168547,41.6489409,1,NSF|MA|NORTH FALMOUTH,source representative city location; not exact institution address,False,False
+NSF,place_2560820,Sharon,1.0,0.02,-71.1787282,42.1237328,1,NSF|MA|SHARON,source representative city location; not exact institution address,False,False
+NSF,place_2562300,Smith Mills,2.5,0.05,-70.9703171,41.6389926,1,NSF|MA|NORTH DARTMOUTH,source representative city location; not exact institution address,False,False
+NSF,place_2562535,Somerville,9.0,0.18,-71.0994968,42.3875968,1,NSF|MA|SOMERVILLE,source representative city location; not exact institution address,False,False
+NSF,place_2567000,Springfield,1.0,0.02,-72.5886727,42.1018764,1,NSF|MA|SPRINGFIELD,source representative city location; not exact institution address,False,False
+NSF,place_2574210,Wellesley,0.2,0.004,-71.2738201,42.3130588,1,NSF|MA|WELLESLEY HILLS,source representative city location; not exact institution address,False,False
+NSF,place_2579950,Williamstown,1.5,0.03,-73.2094566,42.7135472,1,NSF|MA|WILLIAMSTOWN,source representative city location; not exact institution address,False,False
+NSF,place_2580545,Winchester,1.0,0.02,-71.1369982,42.4523178,1,NSF|MA|WINCHESTER,source representative city location; not exact institution address,False,False
+NSF,place_2581035,Woburn,1.999999999999,0.039999999999979996,-71.1522766,42.4792618,1,NSF|MA|WOBURN,source representative city location; not exact institution address,False,False
+NSF,place_2581245,Woods Hole,64.0,1.28,-70.6694015,41.5238752,1,NSF|MA|WOODS HOLE,source representative city location; not exact institution address,False,False
+NSF,place_2582000,Worcester,21.5,0.43,-71.8018877,42.2625621,1,NSF|MA|WORCESTER,source representative city location; not exact institution address,False,False
+NSF,place_2601340,Allendale,0.666666666667,0.013333333333340002,-85.9536535,42.9722455,1,NSF|MI|ALLENDALE,source representative city location; not exact institution address,False,False
+NSF,place_2603000,Ann Arbor,103.98333333333,2.0796666666665997,-83.7484616,42.2813722,1,NSF|MI|ANN ARBOR,source representative city location; not exact institution address,True,False
+NSF,place_2621000,Dearborn,1.0,0.02,-83.1763145,42.3222599,1,NSF|MI|DEARBORN,source representative city location; not exact institution address,False,False
+NSF,place_2622000,Detroit,13.333333333323,0.26666666666646,-83.0466403,42.3315509,1,NSF|MI|DETROIT,source representative city location; not exact institution address,False,False
+NSF,place_2624120,East Lansing,29.33333333334,0.5866666666668,-84.4721678,42.7320307,1,NSF|MI|EAST LANSING,source representative city location; not exact institution address,False,False
+NSF,place_2627760,Fenton,1.0,0.02,-83.7049498,42.7978061,1,NSF|MI|FENTON,source representative city location; not exact institution address,False,False
+NSF,place_2636300,Hancock,1.0,0.02,-88.580956,47.126871,1,NSF|MI|HANCOCK,source representative city location; not exact institution address,False,False
+NSF,place_2638640,Holland,1.0,0.02,-86.1090828,42.7876022,1,NSF|MI|HOLLAND,source representative city location; not exact institution address,False,False
+NSF,place_2639360,Houghton,16.9444444444373,0.33888888888874596,-88.569012,47.121872,1,NSF|MI|HOUGHTON,source representative city location; not exact institution address,False,False
+NSF,place_2642160,Kalamazoo,1.0,0.02,-85.5872286,42.291707,1,NSF|MI|KALAMAZOO,source representative city location; not exact institution address,False,False
+NSF,place_2651900,Marquette,3.5,0.06999999999999999,-87.396433,46.5434914,1,NSF|MI|MARQUETTE,source representative city location; not exact institution address,False,False
+NSF,place_2656020,Mount Pleasant,2.75,0.055,-84.7668495,43.597646,1,NSF|MI|MOUNT PLEASANT,source representative city location; not exact institution address,False,False
+NSF,place_2665060,Plymouth,1.0,0.02,-83.4675021,42.3712,1,NSF|MI|PLYMOUTH,source representative city location; not exact institution address,False,False
+NSF,place_2669020,Rochester,0.999999999999,0.01999999999998,-83.1338214,42.680588,1,NSF|MI|ROCHESTER,source representative city location; not exact institution address,False,False
+NSF,place_2669035,Rochester Hills,1.0,0.02,-83.1499322,42.6583661,1,NSF|MI|ROCHESTER HILLS,source representative city location; not exact institution address,False,False
+NSF,place_2671140,Saline,1.0,0.02,-83.7816075,42.1667072,1,NSF|MI|SALINE,source representative city location; not exact institution address,False,False
+NSF,place_2674900,Southfield,1.0,0.02,-83.2218731,42.4733689,1,NSF|MI|SOUTHFIELD,source representative city location; not exact institution address,False,False
+NSF,place_2688140,Wixom,1.0,0.02,-83.5363637,42.5246873,1,NSF|MI|WIXOM,source representative city location; not exact institution address,False,False
+NSF,place_2705068,Bemidji,0.25,0.005,-94.8832791,47.4723148,1,NSF|MN|BEMIDJI,source representative city location; not exact institution address,False,False
+NSF,place_2717000,Duluth,6.366666666667,0.12733333333334002,-92.1052679,46.7838287,1,NSF|MN|DULUTH,source representative city location; not exact institution address,False,False
+NSF,place_2743000,Minneapolis,39.950000000003,0.7990000000000601,-93.2654692,44.9772995,1,NSF|MN|MINNEAPOLIS,source representative city location; not exact institution address,False,False
+NSF,place_2746924,Northfield,1.0,0.02,-93.161159,44.4582041,1,NSF|MN|NORTHFIELD,source representative city location; not exact institution address,False,False
+NSF,place_2758000,St. Paul,4.0,0.08,-93.0931028,44.9497487,1,NSF|MN|SAINT PAUL,source representative city location; not exact institution address,False,False
+NSF,place_2758036,St. Peter,0.333333333334,0.00666666666668,-93.9585295,44.3238384,1,NSF|MN|SAINT PETER,source representative city location; not exact institution address,False,False
+NSF,place_2831020,Hattiesburg,3.5,0.06999999999999999,-89.2903392,31.3271189,1,NSF|MS|HATTIESBURG,source representative city location; not exact institution address,False,False
+NSF,place_2848030,Mississippi State,4.500000000004,0.09000000000008002,-88.7943232,33.4386876,1,NSF|MS|MISSISSIPPI STATE,source representative city location; not exact institution address,False,False
+NSF,place_2875520,University,3.333333333333,0.06666666666665999,-89.5350279,34.3653692,1,NSF|MS|UNIVERSITY,source representative city location; not exact institution address,False,False
+NSF,place_2915670,Columbia,9.0,0.18,-92.3337366,38.951883,1,NSF|MO|COLUMBIA,source representative city location; not exact institution address,False,False
+NSF,place_2938000,Kansas City,1.0,0.02,-94.5781416,39.100105,1,NSF|MO|KANSAS CITY,source representative city location; not exact institution address,False,False
+NSF,place_2940340,Lake Winnebago,1.0,0.02,-94.3585603,38.8313975,1,NSF|MO|LAKE WINNEBAGO,source representative city location; not exact institution address,False,False
+NSF,place_2962894,Rogersville,1.0,0.02,-93.0569237,37.1173669,1,NSF|MO|ROGERSVILLE,source representative city location; not exact institution address,False,False
+NSF,place_2962912,Rolla,15.333333333331,0.30666666666662,-91.7708076,37.9509324,1,NSF|MO|ROLLA,source representative city location; not exact institution address,False,False
+NSF,place_2964424,St. James,1.0,0.02,-91.6139952,37.9970626,1,NSF|MO|SAINT JAMES,source representative city location; not exact institution address,False,False
+NSF,place_2965000,St. Louis,15.83333333332,0.31666666666640003,-90.190009,38.6254063,1,NSF|MO|SAINT LOUIS,source representative city location; not exact institution address,False,False
+NSF,place_2970000,Springfield,1.0,0.02,-93.2922715,37.2081729,1,NSF|MO|SPRINGFIELD,source representative city location; not exact institution address,False,False
+NSF,place_3008950,Bozeman,9.5,0.19,-111.044047,45.6794293,1,NSF|MT|BOZEMAN,source representative city location; not exact institution address,False,False
+NSF,place_3050200,Missoula,9.5,0.19,-113.995267,46.8701049,1,NSF|MT|MISSOULA,source representative city location; not exact institution address,False,False
+NSF,place_3128000,Lincoln,9.666666666666,0.19333333333332,-96.7077751,40.8088861,1,NSF|NE|LINCOLN,source representative city location; not exact institution address,False,False
+NSF,place_3137000,Omaha,5.0,0.1,-95.9383758,41.2587459,1,NSF|NE|OMAHA,source representative city location; not exact institution address,False,False
+NSF,place_3240000,Las Vegas,4.999999999992999,0.09999999999985999,-115.1484131,36.1674263,1,NSF|NV|LAS VEGAS,source representative city location; not exact institution address,False,False
+NSF,place_3260600,Reno,29.583333333336,0.59166666666672,-119.812658,39.5261788,1,NSF|NV|RENO,source representative city location; not exact institution address,False,False
+NSF,place_3268400,Sparks,1.0,0.02,-119.7487235,39.5404679,1,NSF|NV|SPARKS,source representative city location; not exact institution address,False,False
+NSF,place_3314200,Concord,2.0,0.04,-71.537476,43.207178,1,NSF|NH|CONCORD,source representative city location; not exact institution address,False,False
+NSF,place_3319620,Durham,16.0666666666606,0.32133333333321196,-70.9177186,43.1214141,1,NSF|NH|DURHAM,source representative city location; not exact institution address,False,False
+NSF,place_3333780,Hanover,12.61666666667,0.25233333333339997,-72.2892164,43.7023545,1,NSF|NH|HANOVER,source representative city location; not exact institution address,False,False
+NSF,place_3339300,Keene,0.333333333333,0.0066666666666600006,-72.2784264,42.933597,1,NSF|NH|KEENE,source representative city location; not exact institution address,False,False
+NSF,place_3410000,Camden,2.25,0.045,-75.1198911,39.9448402,1,NSF|NJ|CAMDEN,source representative city location; not exact institution address,False,False
+NSF,place_3425350,Frenchtown,1.0,0.02,-75.0616084,40.5264167,1,NSF|NJ|FRENCHTOWN,source representative city location; not exact institution address,False,False
+NSF,place_3426340,Glassboro,3.0,0.06,-75.1119434,39.7027677,1,NSF|NJ|GLASSBORO,source representative city location; not exact institution address,False,False
+NSF,place_3432250,Hoboken,6.033333333337,0.12066666666674,-74.0323752,40.7433066,1,NSF|NJ|HOBOKEN,source representative city location; not exact institution address,False,False
+NSF,place_3439570,Lawrenceville,0.333333333334,0.00666666666668,-74.7296049,40.2973299,1,NSF|NJ|LAWRENCEVILLE,source representative city location; not exact institution address,False,False
+NSF,place_3451000,Newark,19.916666666663,0.39833333333326004,-74.1723667,40.735657,1,NSF|NJ|NEWARK,source representative city location; not exact institution address,False,False
+NSF,place_3451210,New Brunswick,31.08333333329,0.6216666666658,-74.4436416,40.4936119,1,NSF|NJ|NEW BRUNSWICK,source representative city location; not exact institution address,False,False
+NSF,place_3460900,Princeton,32.726190476193,0.6545238095238599,-74.6597376,40.3496953,1,NSF|NJ|PRINCETON,source representative city location; not exact institution address,False,False
+NSF,place_3474478,Union,1.0,0.02,-74.2698106,40.6964878,1,NSF|NJ|UNION,source representative city location; not exact institution address,False,False
+NSF,place_3502000,Albuquerque,11.0,0.22,-106.650985,35.0841034,1,NSF|NM|ALBUQUERQUE,source representative city location; not exact institution address,False,False
+NSF,place_3539380,Las Cruces,9.833333333336,0.19666666666672,-106.779807,32.3140354,1,NSF|NM|LAS CRUCES,source representative city location; not exact institution address,False,False
+NSF,place_3542320,Los Alamos,3.0,0.06,-106.298959,35.88137,1,NSF|NM|LOS ALAMOS,source representative city location; not exact institution address,False,False
+NSF,place_3573540,Socorro,5.666666666667,0.11333333333334,-106.8930799,34.0572858,1,NSF|NM|SOCORRO,source representative city location; not exact institution address,False,False
+NSF,place_3601000,Albany,8.699999999993,0.17399999999986002,-73.754968,42.6511674,1,NSF|NY|ALBANY,source representative city location; not exact institution address,False,False
+NSF,place_3606607,Binghamton,7.833333333333,0.15666666666666,-75.9125187,42.098698,1,NSF|NY|BINGHAMTON,source representative city location; not exact institution address,False,False
+NSF,place_3606849,Blasdell,1.0,0.02,-78.823366,42.797281,1,NSF|NY|BLASDELL,source representative city location; not exact institution address,False,False
+NSF,place_3608466,Brockport,1.0,0.02,-77.93918,43.213671,1,NSF|NY|BROCKPORT,source representative city location; not exact institution address,False,False
+NSF,place_3611000,Buffalo,4.0,0.08,-78.8781493,42.8864163,1,NSF|NY|BUFFALO,source representative city location; not exact institution address,False,False
+NSF,place_3612331,Canton,2.5,0.05,-75.1690942,44.5956163,1,NSF|NY|CANTON,source representative city location; not exact institution address,False,False
+NSF,place_3631709,Hamilton,0.666666666667,0.013333333333340002,-75.5444159,42.8268798,1,NSF|NY|HAMILTON,source representative city location; not exact institution address,False,False
+NSF,place_3631746,Hamilton College,1.0,0.02,-75.40655308607873,43.052298,1,NSF|NY|CLINTON,source representative city location; not exact institution address,False,False
+NSF,place_3635694,Horseheads,1.0,0.02,-76.8202973,42.1669832,1,NSF|NY|HORSEHEADS,source representative city location; not exact institution address,False,False
+NSF,place_3638077,Ithaca,57.25000000003,1.1450000000006,-76.4968019,42.4396039,1,NSF|NY|ITHACA,source representative city location; not exact institution address,False,False
+NSF,place_3646536,Menands,0.333333333334,0.00666666666668,-73.7245639,42.6920233,1,NSF|NY|MENANDS,source representative city location; not exact institution address,False,False
+NSF,place_3647273,Millbrook,2.0,0.04,-73.6921867,41.7865038,1,NSF|NY|MILLBROOK,source representative city location; not exact institution address,False,False
+NSF,place_3650551,New Paltz,1.5,0.03,-74.0844894,41.7464972,1,NSF|NY|NEW PALTZ,source representative city location; not exact institution address,False,False
+NSF,place_3651000,New York,147.19999999993,2.9439999999985997,-74.0060152,40.7127281,5,NSF|NY|BROOKLYN;NSF|NY|FLUSHING;NSF|NY|JAMAICA;NSF|NY|NEW YORK;NSF|NY|STATEN ISLAND,source representative city location; not exact institution address,True,False
+NSF,place_3659564,Potsdam,5.833333333334,0.11666666666668002,-74.9813349,44.6697996,1,NSF|NY|POTSDAM,source representative city location; not exact institution address,False,False
+NSF,place_3663000,Rochester,13.250000000007,0.26500000000014,-77.615214,43.157285,1,NSF|NY|ROCHESTER,source representative city location; not exact institution address,False,False
+NSF,place_3663264,Rockville Centre,1.0,0.02,-73.6450664,40.6574186,1,NSF|NY|ROCKVILLE CENTRE,source representative city location; not exact institution address,False,False
+NSF,place_3665255,Saratoga Springs,0.333333333333,0.0066666666666600006,-73.785373,43.0822315,1,NSF|NY|SARATOGA SPRINGS,source representative city location; not exact institution address,False,False
+NSF,place_3665508,Schenectady,2.25,0.045,-73.9395687,42.8142432,1,NSF|NY|SCHENECTADY,source representative city location; not exact institution address,False,False
+NSF,place_3671608,Stony Brook,24.444444444436,0.48888888888872,-73.140943,40.9256538,1,NSF|NY|STONY BROOK,source representative city location; not exact institution address,False,False
+NSF,place_3672554,Syosset,1.0,0.02,-73.502068,40.8262101,1,NSF|NY|SYOSSET,source representative city location; not exact institution address,False,False
+NSF,place_3673000,Syracuse,21.41666666666,0.4283333333332,-76.1474244,43.0481221,1,NSF|NY|SYRACUSE,source representative city location; not exact institution address,False,False
+NSF,place_3674166,Tonawanda,1.0,0.02,-78.878383,43.020679,1,NSF|NY|TONAWANDA,source representative city location; not exact institution address,False,False
+NSF,place_3675484,Troy,19.16666666667,0.38333333333340003,-73.6917878,42.7284117,1,NSF|NY|TROY,source representative city location; not exact institution address,False,False
+NSF,place_3684088,Yorktown Heights,2.0,0.04,-73.7776336,41.2709274,1,NSF|NY|YORKTOWN HEIGHTS,source representative city location; not exact institution address,False,False
+NSF,place_3702140,Asheville,0.25,0.005,-82.5508407,35.595363,1,NSF|NC|ASHEVILLE,source representative city location; not exact institution address,False,False
+NSF,place_3702500,Atlantic Beach,1.0,0.02,-76.7402108,34.6990505,1,NSF|NC|ATLANTIC BEACH,source representative city location; not exact institution address,False,False
+NSF,place_3704260,Beaufort,1.0,0.02,-76.6645903,34.7163146,1,NSF|NC|BEAUFORT,source representative city location; not exact institution address,False,False
+NSF,place_3707080,Boone,3.83333333333,0.0766666666666,-81.684004,36.2187873,1,NSF|NC|BOONE,source representative city location; not exact institution address,False,False
+NSF,place_3710740,Cary,3.0,0.06,-78.7812081,35.7882893,1,NSF|NC|CARY,source representative city location; not exact institution address,False,False
+NSF,place_3711800,Chapel Hill,31.283333333324,0.62566666666648,-79.05578,35.9131542,1,NSF|NC|CHAPEL HILL,source representative city location; not exact institution address,False,False
+NSF,place_3712000,Charlotte,16.0,0.32,-80.8430827,35.2272086,1,NSF|NC|CHARLOTTE,source representative city location; not exact institution address,False,False
+NSF,place_3716400,Davidson,1.0,0.02,-80.8485218,35.4992614,1,NSF|NC|DAVIDSON,source representative city location; not exact institution address,False,False
+NSF,place_3719000,Durham,22.583333333333,0.45166666666666005,-78.9018053,35.996653,1,NSF|NC|DURHAM,source representative city location; not exact institution address,False,False
+NSF,place_3728000,Greensboro,15.666666666667,0.31333333333333996,-79.7919754,36.0726355,1,NSF|NC|GREENSBORO,source representative city location; not exact institution address,False,False
+NSF,place_3728080,Greenville,13.2499999999966,0.264999999999932,-77.3724593,35.613224,1,NSF|NC|GREENVILLE,source representative city location; not exact institution address,False,False
+NSF,place_3731400,High Point,0.5,0.01,-80.0053176,35.9556924,1,NSF|NC|HIGH POINT,source representative city location; not exact institution address,False,False
+NSF,place_3744520,Morrisville,1.0,0.02,-78.8300321,35.824341,1,NSF|NC|MORRISVILLE,source representative city location; not exact institution address,False,False
+NSF,place_3745100,Mount Olive,1.0,0.02,-78.0663788,35.1965532,1,NSF|NC|MOUNT OLIVE,source representative city location; not exact institution address,False,False
+NSF,place_3755000,Raleigh,35.416666666666,0.70833333333332,-78.6390989,35.7803977,1,NSF|NC|RALEIGH,source representative city location; not exact institution address,False,False
+NSF,place_3770540,Wake Forest,1.0,0.02,-78.5103731,35.9803138,1,NSF|NC|WAKE FOREST,source representative city location; not exact institution address,False,False
+NSF,place_3774440,Wilmington,8.833333333337,0.17666666666674002,-77.9487284,34.2352853,1,NSF|NC|WILMINGTON,source representative city location; not exact institution address,False,False
+NSF,place_3775000,Winston-Salem,2.0,0.04,-80.2440518,36.0998131,1,NSF|NC|WINSTON SALEM,source representative city location; not exact institution address,False,False
+NSF,place_3825700,Fargo,2.0,0.04,-96.789821,46.877229,1,NSF|ND|FARGO,source representative city location; not exact institution address,False,False
+NSF,place_3832060,Grand Forks,2.5,0.05,-97.0306325,47.9252104,1,NSF|ND|GRAND FORKS,source representative city location; not exact institution address,False,False
+NSF,place_3901000,Akron,5.0,0.1,-81.518485,41.083064,1,NSF|OH|AKRON,source representative city location; not exact institution address,False,False
+NSF,place_3902736,Athens,1.000000000001,0.020000000000020002,-82.1012479,39.3289242,1,NSF|OH|ATHENS,source representative city location; not exact institution address,False,False
+NSF,place_3905690,Berea,0.5,0.01,-81.8543026,41.3661614,1,NSF|OH|BEREA,source representative city location; not exact institution address,False,False
+NSF,place_3907972,Bowling Green,1.0,0.02,-83.6513229,41.3747744,1,NSF|OH|BOWLING GREEN,source representative city location; not exact institution address,False,False
+NSF,place_3915000,Cincinnati,12.33333333333,0.2466666666666,-84.5127405,39.1012809,1,NSF|OH|CINCINNATI,source representative city location; not exact institution address,False,False
+NSF,place_3916000,Cleveland,14.16666666666,0.2833333333332,-81.6936772,41.4996574,1,NSF|OH|CLEVELAND,source representative city location; not exact institution address,False,False
+NSF,place_3918000,Columbus,41.03333333335,0.820666666667,-83.0007065,39.9622601,1,NSF|OH|COLUMBUS,source representative city location; not exact institution address,False,False
+NSF,place_3921000,Dayton,3.866666666667,0.07733333333334,-84.1916069,39.7589478,1,NSF|OH|DAYTON,source representative city location; not exact institution address,False,False
+NSF,place_3931402,Granville,1.0,0.02,-82.5196037,40.0681192,1,NSF|OH|GRANVILLE,source representative city location; not exact institution address,False,False
+NSF,place_3939872,Kent,4.0,0.08,-81.3578047,41.1513108,1,NSF|OH|KENT,source representative city location; not exact institution address,False,False
+NSF,place_3957834,Oberlin,5.4999999999960005,0.10999999999992001,-82.2173786,41.2939386,1,NSF|OH|OBERLIN,source representative city location; not exact institution address,False,False
+NSF,place_3959234,Oxford,1.0,0.02,-84.7420519,39.5103048,1,NSF|OH|OXFORD,source representative city location; not exact institution address,False,False
+NSF,place_3977000,Toledo,3.0,0.06,-83.5378173,41.6529143,1,NSF|OH|TOLEDO,source representative city location; not exact institution address,False,False
+NSF,place_4023200,Edmond,1.0,0.02,-97.4649038,35.6571367,1,NSF|OK|EDMOND,source representative city location; not exact institution address,False,False
+NSF,place_4052500,Norman,21.638888888934,0.43277777777868,-97.4394816,35.2225717,1,NSF|OK|NORMAN,source representative city location; not exact institution address,False,False
+NSF,place_4055000,Oklahoma City,0.999999999999,0.01999999999998,-97.5170536,35.4729886,1,NSF|OK|OKLAHOMA CITY,source representative city location; not exact institution address,False,False
+NSF,place_4070300,Stillwater,10.666666666667,0.21333333333334004,-97.0585717,36.1156306,1,NSF|OK|STILLWATER,source representative city location; not exact institution address,False,False
+NSF,place_4075000,Tulsa,0.5,0.01,-95.9927516,36.1563122,1,NSF|OK|TULSA,source representative city location; not exact institution address,False,False
+NSF,place_4103050,Ashland,1.0,0.02,-122.7153995,42.1972487,1,NSF|OR|ASHLAND,source representative city location; not exact institution address,False,False
+NSF,place_4105800,Bend,1.0,0.02,-121.3153096,44.0581728,1,NSF|OR|BEND,source representative city location; not exact institution address,False,False
+NSF,place_4115800,Corvallis,63.999999999923,1.27999999999846,-123.2620435,44.5645659,1,NSF|OR|CORVALLIS,source representative city location; not exact institution address,False,False
+NSF,place_4123850,Eugene,21.142857142853,0.42285714285705994,-123.0950506,44.0505054,1,NSF|OR|EUGENE,source representative city location; not exact institution address,False,False
+NSF,place_4157450,Philomath,1.0,0.02,-123.367613,44.5400013,1,NSF|OR|PHILOMATH,source representative city location; not exact institution address,False,False
+NSF,place_4159000,Portland,31.009523809537,0.6201904761907401,-122.674194,45.5202471,1,NSF|OR|PORTLAND,source representative city location; not exact institution address,False,False
+NSF,place_4164900,Salem,1.0,0.02,-123.033121,44.9391565,1,NSF|OR|SALEM,source representative city location; not exact institution address,False,False
+NSF,place_4167650,Silverton,1.0,0.02,-122.7832947,45.0049305,1,NSF|OR|SILVERTON,source representative city location; not exact institution address,False,False
+NSF,place_4169600,Springfield,0.333333333334,0.00666666666668,-123.0220289,44.0462362,1,NSF|OR|SPRINGFIELD,source representative city location; not exact institution address,False,False
+NSF,place_4202264,Ambler,1.0,0.02,-75.2221643,40.1544727,1,NSF|PA|AMBLER,source representative city location; not exact institution address,False,False
+NSF,place_4203656,Avondale,1.333333333333,0.02666666666666,-75.783273,39.823443,1,NSF|PA|AVONDALE,source representative city location; not exact institution address,False,False
+NSF,place_4206088,Bethlehem,8.5,0.16999999999999998,-75.3786521,40.6178915,1,NSF|PA|BETHLEHEM,source representative city location; not exact institution address,False,False
+NSF,place_4221648,Easton,2.333333333334,0.04666666666668,-75.2099866,40.6916081,1,NSF|PA|EASTON,source representative city location; not exact institution address,False,False
+NSF,place_4224248,Evans City,1.0,0.02,-80.0594986,40.7695583,1,NSF|PA|EVANS CITY,source representative city location; not exact institution address,False,False
+NSF,place_4236368,Huntingdon,0.333333333334,0.00666666666668,-78.0102813,40.4847959,1,NSF|PA|HUNTINGDON,source representative city location; not exact institution address,False,False
+NSF,place_4236816,Indiana,0.5,0.01,-79.1546786,40.6229748,1,NSF|PA|INDIANA,source representative city location; not exact institution address,False,False
+NSF,place_4241216,Lancaster,1.333333333334,0.026666666666680005,-76.3056707,40.0379958,1,NSF|PA|LANCASTER,source representative city location; not exact institution address,False,False
+NSF,place_4254656,Norristown,1.0,0.02,-75.3446458,40.1146022,1,NSF|PA|NORRISTOWN,source representative city location; not exact institution address,False,False
+NSF,place_4260000,Philadelphia,44.33333333338,0.8866666666676,-75.1635262,39.9527237,1,NSF|PA|PHILADELPHIA,source representative city location; not exact institution address,False,False
+NSF,place_4261000,Pittsburgh,59.44999999996,1.1889999999992,-80.0025666,40.4406968,1,NSF|PA|PITTSBURGH,source representative city location; not exact institution address,False,False
+NSF,place_4273808,State College,2.0,0.04,-77.8616386,40.7944504,1,NSF|PA|STATE COLLEGE,source representative city location; not exact institution address,False,False
+NSF,place_4280248,Villanova,6.499999999996,0.12999999999992,-75.3290464,40.0385961,1,NSF|PA|VILLANOVA,source representative city location; not exact institution address,False,False
+NSF,place_4282704,West Chester,1.0,0.02,-75.6044609,39.9597389,1,NSF|PA|WEST CHESTER,source representative city location; not exact institution address,False,False
+NSF,place_4438980,Kingston,16.25,0.325,-71.5227103,41.4801166,1,NSF|RI|KINGSTON,source representative city location; not exact institution address,False,False
+NSF,place_4459000,Providence,17.366666666663,0.34733333333326,-71.4128343,41.8239891,1,NSF|RI|PROVIDENCE,source representative city location; not exact institution address,False,False
+NSF,place_4513330,Charleston,2.33333333333,0.04666666666660001,-79.9399309,32.7884363,1,NSF|SC|CHARLESTON,source representative city location; not exact institution address,False,False
+NSF,place_4514950,Clemson,22.16666666666,0.4433333333332,-82.8364111,34.6850749,1,NSF|SC|CLEMSON,source representative city location; not exact institution address,False,False
+NSF,place_4516000,Columbia,18.083333333333,0.36166666666666003,-81.0352313,34.000754,1,NSF|SC|COLUMBIA,source representative city location; not exact institution address,False,False
+NSF,place_4516405,Conway,2.8333333333370003,0.05666666666674001,-79.0478143,33.8360035,1,NSF|SC|CONWAY,source representative city location; not exact institution address,False,False
+NSF,place_4535890,Irmo,1.0,0.02,-81.1802101,34.0884689,1,NSF|SC|IRMO,source representative city location; not exact institution address,False,False
+NSF,place_4607580,Brookings,5.250000000004,0.10500000000008,-96.79844,44.311461,1,NSF|SD|BROOKINGS,source representative city location; not exact institution address,False,False
+NSF,place_4652980,Rapid City,6.999999999996,0.13999999999992,-103.228023,44.0806041,1,NSF|SD|RAPID CITY,source representative city location; not exact institution address,False,False
+NSF,place_4714000,Chattanooga,2.0,0.04,-85.3094883,35.0457219,1,NSF|TN|CHATTANOOGA,source representative city location; not exact institution address,False,False
+NSF,place_4716420,Collierville,1.0,0.02,-89.6645266,35.042036,1,NSF|TN|COLLIERVILLE,source representative city location; not exact institution address,False,False
+NSF,place_4716920,Cookeville,3.0,0.06,-85.4997057,36.1623886,1,NSF|TN|COOKEVILLE,source representative city location; not exact institution address,False,False
+NSF,place_4740000,Knoxville,30.66666666667,0.6133333333334,-83.9210261,35.9603948,1,NSF|TN|KNOXVILLE,source representative city location; not exact institution address,False,False
+NSF,place_4741760,Lenoir City,1.0,0.02,-84.2560299,35.7972998,1,NSF|TN|LENOIR CITY,source representative city location; not exact institution address,False,False
+NSF,place_4748000,Memphis,4.33333333333,0.0866666666666,-90.0517786,35.146026,1,NSF|TN|MEMPHIS,source representative city location; not exact institution address,False,False
+NSF,place_4752006,Nashville-Davidson metropolitan government (balance),22.83333333334,0.4566666666668,-86.7742984,36.1622767,1,NSF|TN|NASHVILLE,source representative city location; not exact institution address,False,False
+NSF,place_4755120,Oak Ridge,0.25,0.005,-84.2696449,36.0103562,1,NSF|TN|OAK RIDGE,source representative city location; not exact institution address,False,False
+NSF,place_4804000,Arlington,10.416666666667,0.20833333333334,-97.1071186,32.7355816,1,NSF|TX|ARLINGTON,source representative city location; not exact institution address,False,False
+NSF,place_4805000,Austin,65.083333333293,1.3016666666658598,-97.7436995,30.2711286,1,NSF|TX|AUSTIN,source representative city location; not exact institution address,False,False
+NSF,place_4807000,Beaumont,0.5,0.01,-94.0984277,30.0829344,1,NSF|TX|BEAUMONT,source representative city location; not exact institution address,False,False
+NSF,place_4812532,Canyon,1.833333333337,0.036666666666740004,-101.9281915,34.9789849,1,NSF|TX|CANYON,source representative city location; not exact institution address,False,False
+NSF,place_4815976,College Station,86.36111111103,1.7272222222206,-96.3455991,30.6183939,1,NSF|TX|COLLEGE STATION,source representative city location; not exact institution address,True,True
+NSF,place_4817000,Corpus Christi,9.333333333344,0.18666666666688,-97.4033191,27.7635302,1,NSF|TX|CORPUS CHRISTI,source representative city location; not exact institution address,False,False
+NSF,place_4819000,Dallas,8.533333333337,0.17066666666674,-96.7968559,32.7762719,1,NSF|TX|DALLAS,source representative city location; not exact institution address,False,False
+NSF,place_4819972,Denton,10.666666666667,0.21333333333334004,-97.1330431,33.215038,1,NSF|TX|DENTON,source representative city location; not exact institution address,False,False
+NSF,place_4822660,Edinburg,0.333333333333,0.0066666666666600006,-98.1624501,26.3013982,1,NSF|TX|EDINBURG,source representative city location; not exact institution address,False,False
+NSF,place_4824000,El Paso,12.58333333333,0.2516666666666,-106.4870476,31.7601001,1,NSF|TX|EL PASO,source representative city location; not exact institution address,False,False
+NSF,place_4825452,Farmers Branch,2.0,0.04,-96.8960916,32.9265668,1,NSF|TX|FARMERS BRANCH,source representative city location; not exact institution address,False,False
+NSF,place_4827000,Fort Worth,1.0,0.02,-97.3327459,32.753177,1,NSF|TX|FORT WORTH,source representative city location; not exact institution address,False,False
+NSF,place_4828068,Galveston,1.0,0.02,-94.7933252,29.3056996,1,NSF|TX|GALVESTON,source representative city location; not exact institution address,False,False
+NSF,place_4835000,Houston,55.699999999921005,1.11399999999842,-95.3676974,29.7589382,1,NSF|TX|HOUSTON,source representative city location; not exact institution address,False,True
+NSF,place_4835528,Huntsville,0.999999999999,0.01999999999998,-95.5507771,30.7235263,1,NSF|TX|HUNTSVILLE,source representative city location; not exact institution address,False,False
+NSF,place_4839352,Kingsville,1.0,0.02,-97.856109,27.5158689,1,NSF|TX|KINGSVILLE,source representative city location; not exact institution address,False,False
+NSF,place_4845000,Lubbock,21.027777777777,0.42055555555554003,-101.8470215,33.5855677,1,NSF|TX|LUBBOCK,source representative city location; not exact institution address,False,False
+NSF,place_4859336,Prairie View,2.0,0.04,-95.9907058,30.0857916,1,NSF|TX|PRAIRIE VIEW,source representative city location; not exact institution address,False,False
+NSF,place_4861796,Richardson,5.33333333333,0.10666666666659999,-96.7297206,32.9481789,1,NSF|TX|RICHARDSON,source representative city location; not exact institution address,False,False
+NSF,place_4864472,San Angelo,1.0,0.02,-100.4405094,31.4649685,1,NSF|TX|SAN ANGELO,source representative city location; not exact institution address,False,False
+NSF,place_4865000,San Antonio,14.416666666683,0.28833333333365996,-98.4951405,29.4246002,1,NSF|TX|SAN ANTONIO,source representative city location; not exact institution address,False,False
+NSF,place_4865600,San Marcos,10.0,0.2,-97.9405828,29.8826436,1,NSF|TX|SAN MARCOS,source representative city location; not exact institution address,False,False
+NSF,place_4869596,Spring,1.0,0.02,-95.4187924,30.0795707,1,NSF|TX|SPRING,source representative city location; not exact institution address,False,False
+NSF,place_4870208,Stephenville,1.0,0.02,-98.2045388,32.2201387,1,NSF|TX|STEPHENVILLE,source representative city location; not exact institution address,False,False
+NSF,place_4874144,Tyler,1.5,0.03,-95.3010624,32.3512601,1,NSF|TX|TYLER,source representative city location; not exact institution address,False,False
+NSF,place_4876000,Waco,5.333333333325999,0.10666666666651999,-97.1474628,31.5491899,1,NSF|TX|WACO,source representative city location; not exact institution address,False,False
+NSF,place_4907690,Bountiful,1.0,0.02,-111.8804817,40.8894611,1,NSF|UT|BOUNTIFUL,source representative city location; not exact institution address,False,False
+NSF,place_4945860,Logan,13.392857142876,0.26785714285752,-111.834914,41.7313063,1,NSF|UT|LOGAN,source representative city location; not exact institution address,False,False
+NSF,place_4955980,Ogden,1.0,0.02,-111.9738429,41.2230048,1,NSF|UT|OGDEN,source representative city location; not exact institution address,False,False
+NSF,place_4962470,Provo,4.416666666663,0.08833333333325999,-111.6587085,40.2337289,1,NSF|UT|PROVO,source representative city location; not exact institution address,False,False
+NSF,place_4967000,Salt Lake City,37.166666666699,0.74333333333398,-111.886797,40.7596198,1,NSF|UT|SALT LAKE CITY,source representative city location; not exact institution address,False,False
+NSF,place_5004750,Bennington,1.333333333334,0.026666666666680005,-73.1968205,42.8788667,1,NSF|VT|BENNINGTON,source representative city location; not exact institution address,False,False
+NSF,place_5007975,Brattleboro,1.0,0.02,-72.5572913,42.8507588,1,NSF|VT|BRATTLEBORO,source representative city location; not exact institution address,False,False
+NSF,place_5010675,Burlington,10.4999999999963,0.209999999999926,-73.212906,44.4761601,1,NSF|VT|BURLINGTON,source representative city location; not exact institution address,False,False
+NSF,place_5011050,Cabot,0.5,0.01,-72.3104466,44.4028778,1,NSF|VT|CABOT,source representative city location; not exact institution address,False,False
+NSF,place_5024400,Essex Junction,1.0,0.02,-73.11136,44.4906817,1,NSF|VT|ESSEX JUNCTION,source representative city location; not exact institution address,False,False
+NSF,place_5036625,Jericho,1.0,0.02,-72.9979302,44.5043797,1,NSF|VT|JERICHO,source representative city location; not exact institution address,False,False
+NSF,place_5044275,Middlebury,2.5,0.05,-73.167229,44.014299,1,NSF|VT|MIDDLEBURY,source representative city location; not exact institution address,False,False
+NSF,place_5101000,Alexandria,0.999999999999,0.01999999999998,-77.0470229,38.8051095,1,NSF|VA|ALEXANDRIA,source representative city location; not exact institution address,False,False
+NSF,place_5103000,Arlington,1.0,0.02,-77.0841585,38.8903961,1,NSF|VA|ARLINGTON,source representative city location; not exact institution address,False,False
+NSF,place_5103368,Ashland,1.0,0.02,-77.4806603,37.7594012,1,NSF|VA|ASHLAND,source representative city location; not exact institution address,False,False
+NSF,place_5107784,Blacksburg,53.86904761909,1.0773809523818,-80.4136767,37.2296566,1,NSF|VA|BLACKSBURG,source representative city location; not exact institution address,False,False
+NSF,place_5114744,Chantilly,1.0,0.02,-77.4311513,38.8941543,1,NSF|VA|CHANTILLY,source representative city location; not exact institution address,False,False
+NSF,place_5114968,Charlottesville,22.426190476207,0.44852380952414006,-78.4766781,38.029306,1,NSF|VA|CHARLOTTESVILLE,source representative city location; not exact institution address,False,False
+NSF,place_5119592,Courthouse Square,2.0,0.04,-77.4084067,38.4222681,1,NSF|VA|STAFFORD,source representative city location; not exact institution address,False,False
+NSF,place_5126416,Exmore,1.0,0.02,-75.8229914,37.5318069,1,NSF|VA|EXMORE,source representative city location; not exact institution address,False,False
+NSF,place_5126496,Fairfax,23.33333333333,0.4666666666666,-77.3063733,38.8462236,1,NSF|VA|FAIRFAX,source representative city location; not exact institution address,False,False
+NSF,place_5126592,Fairfax Station,1.0,0.02,-77.3256803,38.800859,1,NSF|VA|FAIRFAX STATION,source representative city location; not exact institution address,False,False
+NSF,place_5127440,Farmville,1.0,0.02,-78.3923813,37.3024713,1,NSF|VA|FARMVILLE,source representative city location; not exact institution address,False,False
+NSF,place_5131616,Gloucester Point,7.499999999999,0.14999999999997998,-76.496899,37.2540351,1,NSF|VA|GLOUCESTER POINT,source representative city location; not exact institution address,False,False
+NSF,place_5135624,Harrisonburg,1.0,0.02,-78.8688833,38.4493315,1,NSF|VA|HARRISONBURG,source representative city location; not exact institution address,False,False
+NSF,place_5136648,Herndon,1.0,0.02,-77.3859479,38.9695316,1,NSF|VA|HERNDON,source representative city location; not exact institution address,False,False
+NSF,place_5148952,Manassas,0.25,0.005,-77.4752667,38.7509488,1,NSF|VA|MANASSAS,source representative city location; not exact institution address,False,False
+NSF,place_5157000,Norfolk,8.249999999994,0.16499999999988,-76.2899539,36.8493695,1,NSF|VA|NORFOLK,source representative city location; not exact institution address,False,False
+NSF,place_5167000,Richmond,3.5,0.06999999999999999,-77.43428,37.5385087,1,NSF|VA|RICHMOND,source representative city location; not exact institution address,False,False
+NSF,place_5186160,Williamsburg,3.333333333331,0.06666666666662,-76.700035,37.2712497,1,NSF|VA|WILLIAMSBURG,source representative city location; not exact institution address,False,False
+NSF,place_5303736,Bainbridge Island,1.0,0.02,-122.5246791,47.6515096,1,NSF|WA|BAINBRIDGE ISLAND,source representative city location; not exact institution address,False,False
+NSF,place_5305210,Bellevue,1.0,0.02,-122.192337,47.6144219,1,NSF|WA|BELLEVUE,source representative city location; not exact institution address,False,False
+NSF,place_5305280,Bellingham,2.5,0.05,-122.478836,48.7544012,1,NSF|WA|BELLINGHAM,source representative city location; not exact institution address,False,False
+NSF,place_5321240,Ellensburg,2.666666666663,0.05333333333326,-120.545122,46.9970635,1,NSF|WA|ELLENSBURG,source representative city location; not exact institution address,False,False
+NSF,place_5333805,Issaquah,1.0,0.02,-122.043297,47.5348778,1,NSF|WA|ISSAQUAH,source representative city location; not exact institution address,False,False
+NSF,place_5336780,La Conner,1.0,0.02,-122.494248,48.3918865,1,NSF|WA|LA CONNER,source representative city location; not exact institution address,False,False
+NSF,place_5351300,Olympia,1.5,0.03,-122.8950075,47.0451022,1,NSF|WA|OLYMPIA,source representative city location; not exact institution address,False,False
+NSF,place_5356625,Pullman,18.75,0.375,-117.1799363,46.7295818,1,NSF|WA|PULLMAN,source representative city location; not exact institution address,False,False
+NSF,place_5357535,Redmond,2.0,0.04,-122.1238767,47.6694141,1,NSF|WA|REDMOND,source representative city location; not exact institution address,False,False
+NSF,place_5363000,Seattle,116.61666666665,2.332333333333,-122.330062,47.6038321,1,NSF|WA|SEATTLE,source representative city location; not exact institution address,True,False
+NSF,place_5367000,Spokane,2.0,0.04,-117.42351,47.6571934,1,NSF|WA|SPOKANE,source representative city location; not exact institution address,False,False
+NSF,place_5368330,Sumas,1.0,0.02,-122.2648972,49.0000479,1,NSF|WA|SUMAS,source representative city location; not exact institution address,False,False
+NSF,place_5374060,Vancouver,1.0,0.02,-122.6744557,45.6306954,1,NSF|WA|VANCOUVER,source representative city location; not exact institution address,False,False
+NSF,place_5375775,Walla Walla,0.5,0.01,-118.339345,46.0667277,1,NSF|WA|WALLA WALLA,source representative city location; not exact institution address,False,False
+NSF,place_5455756,Morgantown,11.892857142855998,0.23785714285711998,-79.9559437,39.6296809,1,NSF|WV|MORGANTOWN,source representative city location; not exact institution address,False,False
+NSF,place_5464708,Point Pleasant,0.999999999999,0.01999999999998,-82.1370889,38.8445251,1,NSF|WV|POINT PLEASANT,source representative city location; not exact institution address,False,False
+NSF,place_5522300,Eau Claire,0.5,0.01,-91.4984941,44.811349,1,NSF|WI|EAU CLAIRE,source representative city location; not exact institution address,False,False
+NSF,place_5527300,Franklin,1.0,0.02,-88.0384183,42.888627,1,NSF|WI|FRANKLIN,source representative city location; not exact institution address,False,False
+NSF,place_5548000,Madison,47.033333333323,0.9406666666664599,-89.3841663,43.07469,1,NSF|WI|MADISON,source representative city location; not exact institution address,False,False
+NSF,place_5551025,Menomonie,2.0,0.04,-91.9278716,44.8765289,1,NSF|WI|MENOMONIE,source representative city location; not exact institution address,False,False
+NSF,place_5553000,Milwaukee,22.16666666667,0.4433333333334,-87.9090751,43.0386475,1,NSF|WI|MILWAUKEE,source representative city location; not exact institution address,False,False
+NSF,place_5562240,Pewaukee,1.0,0.02,-88.2139452,43.0846017,1,NSF|WI|PEWAUKEE,source representative city location; not exact institution address,False,False
+NSF,place_5563250,Platteville,1.5,0.03,-90.4784451,42.7342942,1,NSF|WI|PLATTEVILLE,source representative city location; not exact institution address,False,False
+NSF,place_5568325,River Hills,1.0,0.02,-87.9356638,43.1678887,1,NSF|WI|RIVER HILLS,source representative city location; not exact institution address,False,False
+NSF,place_5584675,Wauwatosa,2.0,0.04,-88.0079271,43.0494122,1,NSF|WI|WAUWATOSA,source representative city location; not exact institution address,False,False
+NSF,place_5645050,Laramie,6.77777777778,0.13555555555559998,-105.5917876,41.3116442,1,NSF|WY|LARAMIE,source representative city location; not exact institution address,False,False
+NSF,place_5669845,Sheridan,1.0,0.02,-106.956179,44.797194,1,NSF|WY|SHERIDAN,source representative city location; not exact institution address,False,False
+NSF,place_7252431,Mayagüez zona urbana,5.333333333332,0.10666666666664,-67.1391124,18.2011161,1,NSF|PR|MAYAGUEZ,source representative city location; not exact institution address,False,False
+NSF,place_7263820,Ponce zona urbana,1.0,0.02,-66.613958,18.011564,1,NSF|PR|PONCE,source representative city location; not exact institution address,False,False
+NSF,place_7276770,San Juan zona urbana,2.5,0.05,-66.116666,18.465299,1,NSF|PR|SAN JUAN,source representative city location; not exact institution address,False,False
+NSF,place_7816300,Charlotte Amalie,1.25,0.025,-64.9335173,18.3414575,1,NSF|VI|CHARLOTTE AMALIE,source representative city location; not exact institution address,False,False
+NSF,town_0911002060,Avon,1.0,0.02,-72.8306541,41.8098209,1,NSF|CT|AVON,source representative city location; not exact institution address,False,False
+NSF,town_0911076290,Tolland,1.0,0.02,-72.3677153,41.8700166,1,NSF|CT|TOLLAND,source representative city location; not exact institution address,False,False
+NSF,town_0912026620,Fairfield,1.0,0.02,-73.2637258,41.1412078,1,NSF|CT|FAIRFIELD,source representative city location; not exact institution address,False,False
+NSF,town_0917078740,Wallingford,1.0,0.02,-72.8239356,41.4564233,1,NSF|CT|WALLINGFORD,source representative city location; not exact institution address,False,False
+NSF,town_2301506050,Boothbay,5.533333333333,0.11066666666666,-69.5849926,43.8639881,1,NSF|ME|EAST BOOTHBAY,source representative city location; not exact institution address,False,False
+NSF,town_2501564145,South Hadley,1.0,0.02,-72.5751341,42.2591392,1,NSF|MA|SOUTH HADLEY,source representative city location; not exact institution address,False,False
+NSF,town_2501705805,Billerica,2.5,0.05,-71.268947,42.5584264,1,NSF|MA|BILLERICA,source representative city location; not exact institution address,False,False
+NSF,town_2501768260,Sudbury,1.0,0.02,-71.4161725,42.3834278,1,NSF|MA|SUDBURY,source representative city location; not exact institution address,False,False
+NSF,town_2502139975,Medway,1.0,0.02,-71.3967256,42.1417641,1,NSF|MA|MEDWAY,source representative city location; not exact institution address,False,False
+NSF,town_3301703460,Barrington,2.0,0.04,-71.047211,43.223191,1,NSF|NH|BARRINGTON,source representative city location; not exact institution address,False,False
+NSF,town_3400125560,Galloway,0.999999999999,0.01999999999998,-74.4986142,39.4646097,1,NSF|NJ|GALLOWAY,source representative city location; not exact institution address,False,False
+NSF,town_3401347500,Montclair,4.5,0.09,-74.2210643,40.8164458,1,NSF|NJ|MONTCLAIR,source representative city location; not exact institution address,False,False
+NSF,town_3402319000,East Brunswick,0.999999999999,0.01999999999998,-74.415984,40.4278841,1,NSF|NJ|EAST BRUNSWICK,source representative city location; not exact institution address,False,False
+NSF,town_3403507720,Bridgewater,1.0,0.02,-74.604954,40.5931225,1,NSF|NJ|BRIDGEWATER,source representative city location; not exact institution address,False,False
+NSF,town_3600777255,Vestal,1.0,0.02,-76.053813,42.0850703,1,NSF|NY|VESTAL,source representative city location; not exact institution address,False,False
+NSF,town_3602902000,Amherst,33.53333333334,0.6706666666668001,-78.7997616,42.9783924,1,NSF|NY|AMHERST,source representative city location; not exact institution address,False,False
+NSF,town_3602915825,Clarence,1.0,0.02,-78.696697,43.0183913,1,NSF|NY|EAST AMHERST,source representative city location; not exact institution address,False,False
+NSF,town_3717590344,Boyd,1.0,0.02,-82.6390121,35.2723372,1,NSF|NC|PENROSE,source representative city location; not exact institution address,False,False
+NSF,town_4202715136,College,69.11111111105,1.3822222222209999,-77.8710571,40.8128971,1,NSF|PA|UNIVERSITY PARK,source representative city location; not exact institution address,False,False
+NSF,town_4207784528,Whitehall,1.0,0.02,-75.5074517,40.6574088,1,NSF|PA|WHITEHALL,source representative city location; not exact institution address,False,False
+NSF,town_4400109280,Bristol,0.999999999999,0.01999999999998,-71.2661597,41.6770463,1,NSF|RI|BRISTOL,source representative city location; not exact institution address,False,False
+NSF,town_4400322240,East Greenwich,18.0,0.36,-71.4558911,41.6603788,1,NSF|RI|EAST GREENWICH,source representative city location; not exact institution address,False,False
+NSF,unresolved_NSF|CA|MOFFETT FIELD,Moffett Field,1.0,0.02,-122.0607265,37.4107264,1,NSF|CA|MOFFETT FIELD,source representative city location; not exact institution address,False,False
+NSF,unresolved_NSF|FL|PONTE VEDRA BEACH,Ponte Vedra Beach,1.0,0.02,-81.3800824,30.2274645,1,NSF|FL|PONTE VEDRA BEACH,source representative city location; not exact institution address,False,False
+NSF,unresolved_NSF|VA|FABER,Faber,1.0,0.02,-78.7371019,37.8315231,1,NSF|VA|FABER,source representative city location; not exact institution address,False,False
+NSFC,CN_110000,Beijing,1218.99999999963,21.979805265049226,116.371784142,39.9985982198,1,NSFC|北京|北京,source representative city location; not exact institution address,True,True
+NSFC,CN_120000,Tianjin,112.999999999963,2.0375045077526686,117.25816218,39.0394249191,1,NSFC|天津|天津,source representative city location; not exact institution address,True,False
+NSFC,CN_130100,Shijiazhuang,19.99999999999,0.36062026685881715,114.487879733,38.0523218105,1,NSFC|河北|石家庄,source representative city location; not exact institution address,False,False
+NSFC,CN_130200,,5.0,0.09015506671474938,118.50062192,39.284213226,1,NSFC|河北|唐山,source representative city location; not exact institution address,False,False
+NSFC,CN_130300,,4.0,0.0721240533717995,119.527884863,39.908442645,1,NSFC|河北|秦皇岛,source representative city location; not exact institution address,False,False
+NSFC,CN_130400,,5.0,0.09015506671474938,114.495900556,36.5761826,1,NSFC|河北|邯郸,source representative city location; not exact institution address,False,False
+NSFC,CN_130600,Baoding,8.999999999996,0.1622791200864767,115.492678269,38.8604376033,1,NSFC|河北|保定,source representative city location; not exact institution address,False,False
+NSFC,CN_130800,,1.0,0.018031013342949875,117.94576694,41.02732554,1,NSFC|河北|承德,source representative city location; not exact institution address,False,False
+NSFC,CN_131000,,3.0,0.054093040028849626,116.79314177,39.94978542,1,NSFC|河北|廊坊,source representative city location; not exact institution address,False,False
+NSFC,CN_140100,Taiyuan,23.99999999999,0.4327443202306167,112.551250279,37.8272200967,1,NSFC|山西|太原,source representative city location; not exact institution address,False,False
+NSFC,CN_140700,,4.999999999996,0.09015506671467724,112.65340074,37.618791606,1,NSFC|山西|晋中,source representative city location; not exact institution address,False,False
+NSFC,CN_150100,Hohhot,60.00000000004,1.0818608005777137,111.691283235,40.8119388685,1,NSFC|内蒙古|呼和浩特,source representative city location; not exact institution address,False,False
+NSFC,CN_150200,,2.0,0.03606202668589975,109.8272563,40.61940874,1,NSFC|内蒙古|包头,source representative city location; not exact institution address,False,False
+NSFC,CN_150400,,1.0,0.018031013342949875,118.880374,42.29399951,1,NSFC|内蒙古|赤峰,source representative city location; not exact institution address,False,False
+NSFC,CN_150500,,1.0,0.018031013342949875,122.24833727,43.62663862,1,NSFC|内蒙古|通辽,source representative city location; not exact institution address,False,False
+NSFC,CN_210100,Shenyang,66.0,1.1900468806346918,123.454085094,41.7481178073,1,NSFC|辽宁|沈阳,source representative city location; not exact institution address,False,False
+NSFC,CN_210200,Dalian,64.99999999996,1.1720158672910204,121.538794258,38.892024614,1,NSFC|辽宁|大连,source representative city location; not exact institution address,False,False
+NSFC,CN_210700,,2.0,0.03606202668589975,121.11737513,41.14221592,1,NSFC|辽宁|锦州,source representative city location; not exact institution address,False,False
+NSFC,CN_220100,Changchun,83.0,1.4965741074648395,125.364815466,43.913402802,1,NSFC|吉林|长春,source representative city location; not exact institution address,False,False
+NSFC,CN_220200,,2.0,0.03606202668589975,126.50056069,43.8195849,1,NSFC|吉林|吉林,source representative city location; not exact institution address,False,False
+NSFC,CN_220300,,3.0,0.054093040028849626,124.34008076,43.15505772,1,NSFC|吉林|四平,source representative city location; not exact institution address,False,False
+NSFC,CN_222400,,7.999999999996,0.14424810674352687,129.48410616,42.90536444,1,NSFC|吉林|延吉,source representative city location; not exact institution address,False,False
+NSFC,CN_230100,Harbin,97.0,1.7490082942661376,126.636867659,45.7412627838,1,NSFC|黑龙江|哈尔滨,source representative city location; not exact institution address,False,False
+NSFC,CN_230600,,1.0,0.018031013342949875,125.13617295,46.58477031,1,NSFC|黑龙江|大庆,source representative city location; not exact institution address,False,False
+NSFC,CN_310000,Shanghai,335.99999999996,6.058420483230436,121.475691616,31.2161867542,1,NSFC|上海|上海,source representative city location; not exact institution address,True,False
+NSFC,CN_320100,Nanjing,545.9999999997,9.844933285245222,118.796099248,32.058213063,1,NSFC|江苏|南京,source representative city location; not exact institution address,True,True
+NSFC,CN_320200,Wuxi,1.0,0.018031013342949875,120.26822001,31.47656792,1,NSFC|江苏|无锡,source representative city location; not exact institution address,False,False
+NSFC,CN_320300,,50.0,0.9015506671474938,117.188225196,34.2173581392,1,NSFC|江苏|徐州,source representative city location; not exact institution address,False,False
+NSFC,CN_320400,,1.0,0.018031013342949875,119.96934173,31.81335379,1,NSFC|江苏|常州,source representative city location; not exact institution address,False,False
+NSFC,CN_320500,Suzhou,37.0,0.6671474936891454,120.627565127,31.3244596583,2,NSFC|江苏|昆山;NSFC|江苏|苏州,source representative city location; not exact institution address,False,False
+NSFC,CN_320600,,8.0,0.144248106743599,120.90224821,31.97804153,1,NSFC|江苏|南通,source representative city location; not exact institution address,False,False
+NSFC,CN_320800,,5.0,0.09015506671474938,119.015806835125,33.59890370879438,1,NSFC|江苏|淮阴,source representative city location; not exact institution address,False,False
+NSFC,CN_320900,,2.0,0.03606202668589975,120.19979785,33.38576502,1,NSFC|江苏|盐城,source representative city location; not exact institution address,False,False
+NSFC,CN_321000,,7.0,0.12621709340064913,119.42121883,32.38615294,1,NSFC|江苏|扬州,source representative city location; not exact institution address,False,False
+NSFC,CN_321100,,13.0,0.23440317345834838,119.506139584,32.2015027046,1,NSFC|江苏|镇江,source representative city location; not exact institution address,False,False
+NSFC,CN_330100,Hangzhou,154.00000000004002,2.7767760548150022,120.141527233,30.2632349447,1,NSFC|浙江|杭州,source representative city location; not exact institution address,True,False
+NSFC,CN_330200,,20.0,0.3606202668589975,121.593302584,29.952484226,1,NSFC|浙江|宁波,source representative city location; not exact institution address,False,False
+NSFC,CN_330300,,2.0,0.03606202668589975,120.664186165,27.955807655,1,NSFC|浙江|温州,source representative city location; not exact institution address,False,False
+NSFC,CN_330500,,0.999999999999,0.018031013342931845,120.1273945,30.87741133,1,NSFC|浙江|湖州,source representative city location; not exact institution address,False,False
+NSFC,CN_330600,,1.0,0.018031013342949875,120.57175381,29.99199812,1,NSFC|浙江|绍兴,source representative city location; not exact institution address,False,False
+NSFC,CN_330700,,8.0,0.144248106743599,119.63717833,29.13663657,1,NSFC|浙江|金华,source representative city location; not exact institution address,False,False
+NSFC,CN_330900,,4.0,0.0721240533717995,122.10958263,30.03642247,1,NSFC|浙江|舟山,source representative city location; not exact institution address,False,False
+NSFC,CN_331000,,1.0,0.018031013342949875,121.16528158,28.87922897,1,NSFC|浙江|台州,source representative city location; not exact institution address,False,False
+NSFC,CN_340100,Hefei,56.99999999999,1.0277677605479625,117.254262948,31.8346388498,1,NSFC|安徽|合肥,source representative city location; not exact institution address,False,False
+NSFC,CN_340200,,13.0,0.23440317345834838,118.373129835,31.288773,1,NSFC|安徽|芜湖,source representative city location; not exact institution address,False,False
+NSFC,CN_340300,,2.0,0.03606202668589975,117.41891634,32.906894805,1,NSFC|安徽|蚌埠,source representative city location; not exact institution address,False,False
+NSFC,CN_340400,,4.0,0.0721240533717995,117.01640045,32.55501945,1,NSFC|安徽|淮南,source representative city location; not exact institution address,False,False
+NSFC,CN_340500,,5.0,0.09015506671474938,118.55114415,31.67554988,1,NSFC|安徽|马鞍山,source representative city location; not exact institution address,False,False
+NSFC,CN_340600,,2.0,0.03606202668589975,116.80539746,33.98528596,1,NSFC|安徽|淮北,source representative city location; not exact institution address,False,False
+NSFC,CN_341000,,1.0,0.018031013342949875,118.28890531,29.71697166,1,NSFC|安徽|黄山,source representative city location; not exact institution address,False,False
+NSFC,CN_341100,,2.0,0.03606202668589975,118.31148109,32.2780478,1,NSFC|安徽|滁州,source representative city location; not exact institution address,False,False
+NSFC,CN_341300,,1.0,0.018031013342949875,117.07417948,33.63188844,1,NSFC|安徽|宿州,source representative city location; not exact institution address,False,False
+NSFC,CN_350100,Fuzhou,40.0,0.721240533717995,119.263364309,26.0674254753,1,NSFC|福建|福州,source representative city location; not exact institution address,False,False
+NSFC,CN_350200,Xiamen,67.99999999996,1.22610890731987,118.077585011,24.5075509904,1,NSFC|福建|厦门,source representative city location; not exact institution address,False,False
+NSFC,CN_350500,,11.0,0.1983411467724486,118.65215796,24.9120471155,1,NSFC|福建|泉州,source representative city location; not exact institution address,False,False
+NSFC,CN_360100,Nanchang,75.00000000003,1.3523260007217814,115.886971866,28.7051261503,1,NSFC|江西|南昌,source representative city location; not exact institution address,False,False
+NSFC,CN_360700,,7.0,0.12621709340064913,114.90775538,25.82994827,1,NSFC|江西|赣州,source representative city location; not exact institution address,False,False
+NSFC,CN_360900,,1.0,0.018031013342949875,114.35123217,27.79492401,1,NSFC|江西|宜春,source representative city location; not exact institution address,False,False
+NSFC,CN_361100,,1.0,0.018031013342949875,117.96283356,28.42397833,1,NSFC|江西|上饶,source representative city location; not exact institution address,False,False
+NSFC,CN_370100,Jinan,59.99999999997,1.0818608005764516,117.025565185,36.6313811817,1,NSFC|山东|济南,source representative city location; not exact institution address,False,False
+NSFC,CN_370200,Qingdao,68.99999999993,1.244139920662279,120.387569218,36.0978932026,1,NSFC|山东|青岛,source representative city location; not exact institution address,False,False
+NSFC,CN_370300,,8.0,0.144248106743599,117.98734067,36.81109674,1,NSFC|山东|淄博,source representative city location; not exact institution address,False,False
+NSFC,CN_370600,,21.0,0.3786512802019473,121.414078112,37.4900087848,1,NSFC|山东|烟台,source representative city location; not exact institution address,False,False
+NSFC,CN_370800,,6.0,0.10818608005769925,116.96204206,35.60118186,1,NSFC|山东|曲阜,source representative city location; not exact institution address,False,False
+NSFC,CN_370900,,3.0,0.054093040028849626,117.11124077,36.19542843,1,NSFC|山东|泰安,source representative city location; not exact institution address,False,False
+NSFC,CN_371300,,4.0,0.0721240533717995,118.28312711,35.12038777,1,NSFC|山东|临沂,source representative city location; not exact institution address,False,False
+NSFC,CN_410100,Zhengzhou,61.000000000063,1.0998918139210783,113.647462302,34.7994199059,1,NSFC|河南|郑州,source representative city location; not exact institution address,False,False
+NSFC,CN_410200,,21.0,0.3786512802019473,114.36358456,34.81225658,1,NSFC|河南|开封,source representative city location; not exact institution address,False,False
+NSFC,CN_410400,,1.0,0.018031013342949875,113.20354626,33.74818376,1,NSFC|河南|平顶山,source representative city location; not exact institution address,False,False
+NSFC,CN_410700,,5.999999999996,0.10818608005762712,113.913640007,35.3162058433,1,NSFC|河南|新乡,source representative city location; not exact institution address,False,False
+NSFC,CN_410800,,6.0,0.10818608005769925,113.25020392,35.18861179,1,NSFC|河南|焦作,source representative city location; not exact institution address,False,False
+NSFC,CN_411000,,1.0,0.018031013342949875,113.86331521,34.04514275,1,NSFC|河南|许昌,source representative city location; not exact institution address,False,False
+NSFC,CN_411300,,1.0,0.018031013342949875,111.4570779,33.1122462,1,NSFC|河南|南阳,source representative city location; not exact institution address,False,False
+NSFC,CN_411500,,6.0,0.10818608005769925,115.04451945,32.10292265,1,NSFC|河南|信阳,source representative city location; not exact institution address,False,False
+NSFC,CN_420100,Wuhan,337.99999999960005,6.094482509909846,114.368721407,30.5272361886,1,NSFC|湖北|武汉,source representative city location; not exact institution address,True,False
+NSFC,CN_420500,,5.0,0.09015506671474938,111.31028629,30.7248275,1,NSFC|湖北|宜昌,source representative city location; not exact institution address,False,False
+NSFC,CN_420600,,1.999999999999,0.036062026685881717,112.03645573,32.00244673,1,NSFC|湖北|襄阳,source representative city location; not exact institution address,False,False
+NSFC,CN_421000,,2.0,0.03606202668589975,113.03233386,29.73567018,1,NSFC|湖北|荆州,source representative city location; not exact institution address,False,False
+NSFC,CN_422800,,1.0,0.018031013342949875,109.49979313,30.30059889,1,NSFC|湖北|恩施,source representative city location; not exact institution address,False,False
+NSFC,CN_430100,Changsha,91.99999999996,1.6588532275506669,112.962244754,28.174632746,1,NSFC|湖南|长沙,source representative city location; not exact institution address,False,False
+NSFC,CN_430300,,11.0,0.1983411467724486,112.897790151,27.90201041,1,NSFC|湖南|湘潭,source representative city location; not exact institution address,False,False
+NSFC,CN_430400,,1.0,0.018031013342949875,112.62142554,26.86616141,1,NSFC|湖南|衡阳,source representative city location; not exact institution address,False,False
+NSFC,CN_430600,,1.0,0.018031013342949875,113.14076822,29.34497287,1,NSFC|湖南|岳阳,source representative city location; not exact institution address,False,False
+NSFC,CN_430700,,2.0,0.03606202668589975,111.66583601,29.05187635,1,NSFC|湖南|常德,source representative city location; not exact institution address,False,False
+NSFC,CN_433100,,4.0,0.0721240533717995,109.72034284,28.29077769,1,NSFC|湖南|吉首,source representative city location; not exact institution address,False,False
+NSFC,CN_440100,Guangzhou,333.9999999997,6.022358456539848,113.329829574,23.1034241027,1,NSFC|广东|广州,source representative city location; not exact institution address,True,False
+NSFC,CN_440300,Shenzhen,93.999999999963,1.694915254236621,113.952358153,22.5541091932,1,NSFC|广东|深圳,source representative city location; not exact institution address,False,False
+NSFC,CN_440400,,0.999999999999,0.018031013342931845,113.53642837,22.13493652,1,NSFC|广东|珠海,source representative city location; not exact institution address,False,False
+NSFC,CN_440500,,3.999999999999,0.07212405337178146,116.63249934,23.41111542,1,NSFC|广东|汕头,source representative city location; not exact institution address,False,False
+NSFC,CN_440600,,2.0,0.03606202668589975,113.04972984,23.14824083,2,NSFC|广东|佛山;NSFC|广东|顺德,source representative city location; not exact institution address,False,False
+NSFC,CN_440800,,2.0,0.03606202668589975,110.41048007,21.22393725,1,NSFC|广东|湛江,source representative city location; not exact institution address,False,False
+NSFC,CN_441900,,4.999999999992999,0.09015506671462313,113.76803546,23.05370237,1,NSFC|广东|东莞,source representative city location; not exact institution address,False,False
+NSFC,CN_450100,Nanning,39.99999999996,0.7212405337172737,108.289259926,22.9624885047,1,NSFC|广西|南宁,source representative city location; not exact institution address,False,False
+NSFC,CN_450300,,26.0,0.46880634691669676,110.308831431,25.2461634273,1,NSFC|广西|桂林,source representative city location; not exact institution address,False,False
+NSFC,CN_450700,,2.0,0.03606202668589975,108.61252083,21.90096028,1,NSFC|广西|钦州,source representative city location; not exact institution address,False,False
+NSFC,CN_450900,,1.0,0.018031013342949875,110.17650258,22.65680338,1,NSFC|广西|玉林,source representative city location; not exact institution address,False,False
+NSFC,CN_460100,,24.999999999993,0.4507753335736207,110.318423918,20.0433424464,1,NSFC|海南|海口,source representative city location; not exact institution address,False,False
+NSFC,CN_460200,,2.0,0.03606202668589975,109.50343438,18.26049974,1,NSFC|海南|三亚,source representative city location; not exact institution address,False,False
+NSFC,CN_460400,,2.0,0.03606202668589975,109.49224796,19.50999099,1,NSFC|海南|儋州,source representative city location; not exact institution address,False,False
+NSFC,CN_500000,Chongqing,105.99999999992,1.9112874143512444,106.464283377,29.6131874207,1,NSFC|重庆|重庆,source representative city location; not exact institution address,False,False
+NSFC,CN_510100,Chengdu,139.99999999993,2.52434186801172,104.049648949,30.5860547475,1,NSFC|四川|成都,source representative city location; not exact institution address,True,False
+NSFC,CN_510700,,6.0,0.10818608005769925,104.693251287,31.4736225617,1,NSFC|四川|绵阳,source representative city location; not exact institution address,False,False
+NSFC,CN_511300,,4.0,0.0721240533717995,106.06483288,30.82053409,1,NSFC|四川|南充,source representative city location; not exact institution address,False,False
+NSFC,CN_511800,,6.0,0.10818608005769925,102.99380504,29.98021343,1,NSFC|四川|雅安,source representative city location; not exact institution address,False,False
+NSFC,CN_520100,Guiyang,38.999999999993,0.7032095203749189,106.677340291,26.5108980118,1,NSFC|贵州|贵阳,source representative city location; not exact institution address,False,False
+NSFC,CN_520300,,1.0,0.018031013342949875,107.04734335,27.71444503,1,NSFC|贵州|遵义,source representative city location; not exact institution address,False,False
+NSFC,CN_520600,,1.0,0.018031013342949875,109.19661324,27.73480154,1,NSFC|贵州|铜仁,source representative city location; not exact institution address,False,False
+NSFC,CN_530100,Kunming,85.99999999993,1.550667147492427,102.840457055,25.0230411224,1,NSFC|云南|昆明,source representative city location; not exact institution address,False,False
+NSFC,CN_530300,,2.0,0.03606202668589975,103.74825694,25.52578983,1,NSFC|云南|曲靖,source representative city location; not exact institution address,False,False
+NSFC,CN_530400,,3.0,0.054093040028849626,102.56220642,24.34238911,1,NSFC|云南|玉溪,source representative city location; not exact institution address,False,False
+NSFC,CN_532800,,12.0,0.2163721601153985,101.27246082,21.91998724,1,NSFC|云南|西双版纳,source representative city location; not exact institution address,False,False
+NSFC,CN_532900,,3.0,0.054093040028849626,100.15699544,25.67577278,1,NSFC|云南|大理,source representative city location; not exact institution address,False,False
+NSFC,CN_540100,,5.0,0.09015506671474938,91.090475202,29.647528568,1,NSFC|西藏|拉萨,source representative city location; not exact institution address,False,False
+NSFC,CN_540400,,4.0,0.0721240533717995,94.36027067,29.65144004,1,NSFC|西藏|林芝,source representative city location; not exact institution address,False,False
+NSFC,CN_610100,Xi'an,203.99999999996,3.6783267219610534,108.898275433,34.2779985647,1,NSFC|陕西|西安,source representative city location; not exact institution address,True,False
+NSFC,CN_610300,,4.0,0.0721240533717995,107.20637057,34.3481823,1,NSFC|陕西|宝鸡,source representative city location; not exact institution address,False,False
+NSFC,CN_610400,Yangling,36.000000000040004,0.6491164803469168,108.0816543,34.2738236311,1,NSFC|陕西|杨凌,source representative city location; not exact institution address,False,False
+NSFC,CN_610600,,2.0,0.03606202668589975,109.45643057,36.61913595,1,NSFC|陕西|延安,source representative city location; not exact institution address,False,False
+NSFC,CN_620100,Lanzhou,183.0,3.299675441759827,103.821140545,36.0616337232,1,NSFC|甘肃|兰州,source representative city location; not exact institution address,True,False
+NSFC,CN_623000,,1.0,0.018031013342949875,102.89241013,34.96262104,1,NSFC|甘肃|合作,source representative city location; not exact institution address,False,False
+NSFC,CN_630100,,17.999999999993,0.3245582401729715,101.747187226,36.6815855694,1,NSFC|青海|西宁,source representative city location; not exact institution address,False,False
+NSFC,CN_640100,,24.0,0.432744320230797,106.210727092,38.48847994,1,NSFC|宁夏|银川,source representative city location; not exact institution address,False,False
+NSFC,CN_650100,,85.99999999996,1.5506671474929679,87.5944993898,43.8147096063,1,NSFC|新疆|乌鲁木齐,source representative city location; not exact institution address,False,False
+NSFC,CN_659001,,9.0,0.16227912008654888,86.0545063,44.3058311,1,NSFC|新疆|石河子,source representative city location; not exact institution address,False,False
+NSFC,CN_659002,,1.0,0.018031013342949875,81.30207343,40.54553474,1,NSFC|新疆|阿拉尔,source representative city location; not exact institution address,False,False
+NSFC,CN_810000,,1.0,0.018031013342949875,114.13773334,22.28279435,1,NSFC|香港|香港,source representative city location; not exact institution address,False,False

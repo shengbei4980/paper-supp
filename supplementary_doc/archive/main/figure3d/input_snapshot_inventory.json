@@ -1,0 +1,22 @@
+[
+  {
+    "file": "figure1a_sdg_target_ring.py",
+    "bytes": 32460,
+    "sha256": "31402a5c3ac7128b445bf69af382e237ce95cc4d49ae86d909d8868b983aeebc"
+  },
+  {
+    "file": "us_county_mapping.csv",
+    "bytes": 926261,
+    "sha256": "f62cc8b3056328c6a93d5f6af62db587ebe5c090858f20019d318672a8f41571"
+  },
+  {
+    "file": "知识任务标签.csv",
+    "bytes": 501,
+    "sha256": "ecb6147727123488564fa9499ca6ce9689c90f9549a38608116f1983012564d6"
+  },
+  {
+    "file": "项目级目标任务分配.csv",
+    "bytes": 1740364,
+    "sha256": "bc7cdf6ef4fc6f4e360040781f273892d92476a5bb2fd29c3fae8aef9458387a"
+  }
+]

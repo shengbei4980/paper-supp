@@ -1,0 +1,23 @@
+{
+  "original_request": "使用modelviz-skill全流程完全重构Figure4d，全量展示85个Target的供给份额和六类知识任务组合，对比NSF与NSFC；简洁直观，正文版面183×110 mm。",
+  "goal": "全量类别的双国组成比较：85个Target供给份额与六类任务组合，紧凑矩阵布局",
+  "functional_keywords": [
+    "比较",
+    "多变量",
+    "双变量编码"
+  ],
+  "chart_types": [],
+  "style_keywords": [
+    "科研风",
+    "简洁"
+  ],
+  "use_case": "论文正文：双变量逐单元比较，183×110 mm",
+  "negative_requirements": [
+    "不删除观测Target",
+    "不将未观测当作零",
+    "不使用长达85行的竖向排版"
+  ],
+  "explicit_template": false,
+  "is_ambiguous": false,
+  "clarification_question": ""
+}

@@ -1,0 +1,33 @@
+{
+  "artifact_validation": {
+    "success": true,
+    "valid_files": [
+      "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure2\\figure2e\\最终新\\出图\\figure2e_preview.png",
+      "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure2\\figure2e\\最终新\\出图\\Figure2e_知识任务干预残差与行动到达曲线.pdf",
+      "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure2\\figure2e\\最终新\\出图\\Figure2e_知识任务干预残差与行动到达曲线.png",
+      "E:\\可持续发展目标基金\\定稿撰写\\成图\\figure2\\figure2e\\最终新\\出图\\Figure2e_知识任务干预残差与行动到达曲线.svg"
+    ],
+    "generated_formats": [
+      "pdf",
+      "png",
+      "svg"
+    ],
+    "issues": []
+  },
+  "image_inspection": {
+    "success": true,
+    "image_readable": true,
+    "image_width": 3300,
+    "image_height": 2250,
+    "file_size": 544386,
+    "pixel_variance": 1203.9587,
+    "possible_blank_image": false,
+    "issues": []
+  },
+  "warning_collection": {
+    "success": true,
+    "warnings": [],
+    "issues": []
+  },
+  "tiff_exists": true
+}

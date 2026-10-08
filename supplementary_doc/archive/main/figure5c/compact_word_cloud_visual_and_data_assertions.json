@@ -1,0 +1,59 @@
+{
+  "size_mm": [
+    183,
+    153.79
+  ],
+  "archetype": "quantitative grid with compact phrase clouds",
+  "source_sha256": {
+    "实际研究主题估计_108项.csv": "c3b04c84b14991df7c7e9dad503391c5ccdb38a0b36fa0c5bc1627daeeb15c7d",
+    "研究主题_SDG贡献_1296项.csv": "0ce951cb6e0feb4efdc87fdb50442e5686f3888a002a2afca6abeabe2564483c"
+  },
+  "unchanged_estimates": true,
+  "unchanged_point_coordinates": true,
+  "all_scatter_points": 108,
+  "complete_theme_labels": 16,
+  "red_selected_points": 16,
+  "black_context_points": 92,
+  "selection": "four largest absolute point-estimate shifts per direction per agency; no significance filtering",
+  "sdg_contributions_sum_to_theme_shifts": true,
+  "shared_theme_label_color_and_font_mapping": true,
+  "font_size_min_pt": 6.8489619345562485,
+  "font_size_max_pt": 10.5,
+  "no_upper_scatter": true,
+  "no_leaders": true,
+  "word_positions_are_editorial": true,
+  "background_free_phrase_clouds": true,
+  "editorial_layout": "two independently packed columns, four complete names per direction",
+  "inter_theme_gap_mm": 0.6,
+  "central_gutter_mm": 1.5189,
+  "cloud_content_height_mm": {
+    "NSF": 29.01853840000001,
+    "NSFC": 33.013551999999976
+  },
+  "font_sizes_unchanged_from_previous_version": true,
+  "upper_cloud_count": 2,
+  "names_per_agency_cloud": 8,
+  "lower_circle_count": 2,
+  "lower_circles_contain_all_named_points": true,
+  "circles_are_selection_highlights_not_semantic_neighborhoods": true,
+  "circle_regions": [
+    {
+      "agency": "NSF",
+      "theme_count": 8,
+      "circle_center_x": 4.972928571428572,
+      "circle_center_y": 5.539713513636003,
+      "circle_radius": 4.918212248178928
+    },
+    {
+      "agency": "NSFC",
+      "theme_count": 8,
+      "circle_center_x": 6.760427936050009,
+      "circle_center_y": 5.815364885442714,
+      "circle_radius": 7.525675853398886
+    }
+  ],
+  "no_numeric_word_labels": true,
+  "no_task_codes": true,
+  "no_overlap": true,
+  "no_clipping": true
+}

@@ -1,0 +1,9 @@
+# Reconstructed working directories and local execution artifacts
+.reproduction_workspace/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store
+Thumbs.db

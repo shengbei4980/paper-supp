@@ -1,0 +1,88 @@
+{
+  "panels": [
+    {
+      "title": "NSF_main",
+      "frame": false,
+      "rectangle": [
+        0.025,
+        0.543,
+        0.465,
+        0.35
+      ]
+    },
+    {
+      "title": "NSFC_main",
+      "frame": false,
+      "rectangle": [
+        0.52,
+        0.543,
+        0.465,
+        0.35
+      ]
+    },
+    {
+      "title": "Alaska",
+      "frame": true,
+      "rectangle": [
+        0.22,
+        0.399,
+        0.095,
+        0.115
+      ]
+    },
+    {
+      "title": "Hawaii",
+      "frame": true,
+      "rectangle": [
+        0.327,
+        0.399,
+        0.067,
+        0.115
+      ]
+    },
+    {
+      "title": "Puerto Rico and the\nU.S. Virgin Islands",
+      "frame": true,
+      "rectangle": [
+        0.406,
+        0.399,
+        0.084,
+        0.115
+      ]
+    },
+    {
+      "title": "Northeast detail",
+      "frame": true,
+      "rectangle": [
+        0.025,
+        0.399,
+        0.183,
+        0.115
+      ]
+    },
+    {
+      "title": "Yangtze River Delta detail",
+      "frame": true,
+      "rectangle": [
+        0.545,
+        0.399,
+        0.25,
+        0.115
+      ]
+    },
+    {
+      "title": "South China Sea",
+      "frame": true,
+      "rectangle": [
+        0.817,
+        0.399,
+        0.153,
+        0.115
+      ]
+    }
+  ],
+  "out_of_canvas": [],
+  "gis_sha256_before": "53067ab9a0e422f9278718ed54144c965410efe069064e15a904b1e3cb54f268",
+  "gis_sha256_after": "53067ab9a0e422f9278718ed54144c965410efe069064e15a904b1e3cb54f268",
+  "reference_note": "North direction is referenced to each main map-frame centre, independent of symbol placement."
+}

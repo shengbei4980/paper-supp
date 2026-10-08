@@ -1,0 +1,44 @@
+{
+  "canvas_inches": [
+    7.2,
+    8.1
+  ],
+  "frame_fraction": [
+    0.235,
+    0.165,
+    0.72,
+    0.7
+  ],
+  "matches_figure4c_geometry": true,
+  "lower_xlim": [
+    -4.5,
+    4.5
+  ],
+  "upper_xlim": [
+    0,
+    40
+  ],
+  "single_outer_frame": true,
+  "country_points": 24,
+  "country_CI": 24,
+  "delta_bars": 12,
+  "delta_CI": 12,
+  "overall_bars": 2,
+  "overall_CI": 2,
+  "derived_total_replicates": 4000,
+  "all_artist_values_match_tables": true,
+  "numeric_labels_inside_frame": true,
+  "numeric_labels_do_not_overlap": true,
+  "palette": {
+    "NSF": "#3775BA",
+    "NSFC": "#B64342"
+  },
+  "overall_bar_alpha": 1.0,
+  "gray_background": "#D2D6DA",
+  "interval_color": "#26323D",
+  "source_sha256": {
+    "Figure4b_B_country_estimates.csv": "2eb3b4ef9d6a0e1d518979e9f98d3e404cd17db7d733f6d4fc5c4c7247b745d8",
+    "Figure4b_B_delta_bootstrap_draws.csv": "24620d950d13d5d9bf580569985aacd2d0c2535ed8fbc29b8977bca00472f011",
+    "Figure4b_B_delta_summary.csv": "64c85a6198244a188e93f6eb5c8c82b2b8d4f1ea59589659c5f035e731227bbf"
+  }
+}
