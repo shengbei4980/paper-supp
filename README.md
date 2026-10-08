@@ -73,6 +73,6 @@ Scientific data and existing figures were not recomputed or recolored during pac
 
 ## Publication metadata and reuse
 
-Author names, final article title, citation, repository URL, and DOI were not supplied for this package and have not been invented. No new software or data license is assigned by this packaging step. Existing source notices remain in place. Add author-approved metadata and applicable licenses before publishing a release; third-party reference images and map resources retain their original rights.
+Author names, final article title, citation, and DOI were not supplied for this package and have not been invented. No new software or data license is assigned by this packaging step. Existing source notices remain in place. Add author-approved metadata and applicable licenses before publishing a release; third-party reference images and map resources retain their original rights.
 
-This is a local repository-ready package. No remote repository was created and no files were uploaded by the packaging process.
+Repository: [shengbei4980/paper-supp](https://github.com/shengbei4980/paper-supp). The repository was created as **private** at the author's request. The provenance validation report records the earlier local packaging checks; its upload-status field describes that packaging stage, not the subsequent GitHub publication.
