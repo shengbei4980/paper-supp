@@ -63,8 +63,8 @@ cd paper-supp
 git lfs pull
 ```
 
-Use an account with access to this private repository. A downloaded LFS pointer is not the actual CSV or TIFF file. The `.gitattributes` file also preserves original line endings.
+This public repository can be cloned without a GitHub account. A downloaded LFS pointer is not the actual CSV or TIFF file. The `.gitattributes` file also preserves original line endings.
 
 ## Access and citation
 
-Repository: [shengbei4980/paper-supp](https://github.com/shengbei4980/paper-supp), maintained as **private** at the author's request. No new license is assigned by this restructuring step. Original notices and third-party rights remain applicable. Final article citation and author-approved licensing can be added when available.
+Repository: [shengbei4980/paper-supp](https://github.com/shengbei4980/paper-supp), made **public** at the author's request. No new license is assigned by this restructuring step. Original notices and third-party rights remain applicable. Final article citation and author-approved licensing can be added when available.
