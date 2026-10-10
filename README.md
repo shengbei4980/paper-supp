@@ -17,6 +17,7 @@ Urban-SDG-Research-China-US/
 │   ├── figure4/
 │   └── figure5/
 ├── supplementary_figures/
+│   ├── figure_s1/          # LLM screening and coding workflow PNG
 │   ├── figure_s2/
 │   ├── figure_s3/
 │   ├── figure_s4/
@@ -32,7 +33,7 @@ Urban-SDG-Research-China-US/
 
 Each figure folder follows the author's original folder hierarchy. Its code, datasets, exported figures, notes, reviews, and historical versions remain together. A figure without subpanels remains a single folder. Existing flat layouts and intermediate subdirectories are retained. English directory names include `code`, `data`, `outputs`, `figures`, `notes`, `review`, and `checks`; no common internal layout is imposed on every figure. Empty source directories are retained locally but are not tracked by Git.
 
-The containing folder gives the **current manuscript figure number**. Some archived filenames refer to an earlier figure number. For example, current Figure 1b uses original Figure 1e materials; current Figures 4b, 4c, and 4d use original Figures 4d, 4b, and 4c. Figure S1 was listed in the author's catalog, but its source files were not supplied.
+Figure folders retain the source archive's numbering. Some archived filenames refer to an earlier figure number. For example, current Figure 1b uses original Figure 1e materials; current Figures 4b, 4c, and 4d use original Figures 4d, 4b, and 4c. The LLM screening and coding workflow diagram is provided as a PNG in [`supplementary_figures/figure_s1/LLM_workflow.png`](supplementary_figures/figure_s1/LLM_workflow.png).
 
 ## Coding and raw retrieval data
 
