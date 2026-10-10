@@ -1,11 +1,11 @@
-# Supplementary materials
+# Distinct research responses to shared urban sustainability goals in China and the US
 
-Data, code, and figures for the comparison of NSF and NSFC urban sustainability research and its alignment with national Sustainable Development Goal (SDG) challenges.
+This repository provides the analysis code, research data, and figure-generation scripts accompanying the study “Distinct research responses to shared urban sustainability goals in China and the US”.
 
 ## Folder structure
 
 ```text
-paper-supp/
+Urban-SDG-Research-China-US/
 ├── README.md
 ├── main_figures/
 │   ├── figure1/
@@ -58,8 +58,8 @@ The detailed filename mapping, restructuring tools, and upload-verification repo
 This repository uses Git Large File Storage for five files larger than 50 MiB. With Git LFS installed:
 
 ```bash
-git clone https://github.com/shengbei4980/paper-supp.git
-cd paper-supp
+git clone https://github.com/shengbei4980/Urban-SDG-Research-China-US.git
+cd Urban-SDG-Research-China-US
 git lfs pull
 ```
 
@@ -67,4 +67,4 @@ This public repository can be cloned without a GitHub account. A downloaded LFS 
 
 ## Access and citation
 
-Repository: [shengbei4980/paper-supp](https://github.com/shengbei4980/paper-supp), made **public** at the author's request. No new license is assigned by this restructuring step. Original notices and third-party rights remain applicable. Final article citation and author-approved licensing can be added when available.
+Repository: [shengbei4980/Urban-SDG-Research-China-US](https://github.com/shengbei4980/Urban-SDG-Research-China-US), made **public** at the author's request. No new license is assigned by this restructuring step. Original notices and third-party rights remain applicable. Final article citation and author-approved licensing can be added when available.
